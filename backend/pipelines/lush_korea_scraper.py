@@ -11,7 +11,7 @@ import requests
 from bs4 import BeautifulSoup
 
 
-DEFAULT_URL = "https://www.lush.co.kr/"
+DEFAULT_URL = "https://www.lush.co.kr/m/categories/index/56"
 BASE_URL = "https://www.lush.co.kr"
 SEARCH_URL = "https://www.lush.co.kr/m/elasticsearch/autolist"
 PRODUCT_TYPES = {"보디 스프레이", "바디 스프레이", "퍼퓸", "솔리드 퍼퓸", "워시 카드", "캔들"}
@@ -38,6 +38,9 @@ def build_headers() -> dict[str, str]:
 
 def extract_homepage_fragrance_products(html: str) -> list[dict[str, str]]:
     soup = BeautifulSoup(html, "html.parser")
+    if products := _extract_category_products(soup):
+        return products
+
     fragrance_heading = soup.find("h2", class_="tit", string=lambda value: _normalize_text(value or "") == "프래그런스")
     if fragrance_heading is None:
         return []
@@ -156,6 +159,30 @@ def _select_search_result(
     if not scored:
         return None
     return max(scored, key=lambda pair: pair[0])[1]
+
+
+def _extract_category_products(soup: BeautifulSoup) -> list[dict[str, str]]:
+    products: list[dict[str, str]] = []
+    seen: set[tuple[str, str]] = set()
+
+    for item in soup.select("li.prdlist__item"):
+        name_node = item.select_one(".prdlist__item__tit")
+        type_node = item.select_one(".prdlist__item__category")
+        if name_node is None or type_node is None:
+            continue
+
+        korean_name = _normalize_text(name_node.get_text(" ", strip=True))
+        product_type = _normalize_text(type_node.get_text(" ", strip=True))
+        if product_type not in PRODUCT_TYPES:
+            continue
+
+        key = (korean_name, product_type)
+        if key in seen:
+            continue
+        products.append({"korean_name": korean_name, "product_type": product_type})
+        seen.add(key)
+
+    return products
 
 
 def _strip_tags(value: str) -> str:
