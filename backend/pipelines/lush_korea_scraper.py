@@ -2,15 +2,21 @@ from __future__ import annotations
 
 import json
 import os
-import re
-import sys
-import time
-from html import unescape
 from pathlib import Path
 from typing import Any
 
 import requests
 from bs4 import BeautifulSoup
+
+from pipelines.lush_common import (
+    build_request_headers,
+    extract_product_remote_id as _extract_product_remote_id,
+    get_with_retries as _get_with_retries,
+    normalize_review as _normalize_review,
+    normalize_text as _normalize_text,
+    print_json_rows,
+    strip_tags as _strip_tags,
+)
 
 
 DEFAULT_URL = "https://www.lush.co.kr/m/categories/index/56"
@@ -25,22 +31,7 @@ PRODUCT_TYPES = {"보디 스프레이", "바디 스프레이", "퍼퓸", "솔리
 
 
 def build_headers() -> dict[str, str]:
-    headers: dict[str, str] = {}
-    raw_headers = os.getenv("LUSH_KR_REQUEST_HEADERS")
-
-    if raw_headers:
-        parsed = json.loads(raw_headers)
-        if not isinstance(parsed, dict):
-            raise ValueError("LUSH_KR_REQUEST_HEADERS must be a JSON object.")
-        headers.update({str(key): str(value) for key, value in parsed.items()})
-
-    if user_agent := os.getenv("LUSH_KR_USER_AGENT"):
-        headers["User-Agent"] = user_agent
-
-    if accept_language := os.getenv("LUSH_KR_ACCEPT_LANGUAGE"):
-        headers["Accept-Language"] = accept_language
-
-    return headers
+    return build_request_headers("LUSH_KR")
 
 
 def extract_homepage_fragrance_products(html: str) -> list[dict[str, str]]:
@@ -212,15 +203,6 @@ def main() -> None:
     print_json_rows(rows)
 
 
-def print_json_rows(rows: list[dict[str, Any]]) -> None:
-    if hasattr(sys.stdout, "reconfigure"):
-        try:
-            sys.stdout.reconfigure(encoding="utf-8")
-        except ValueError:
-            pass
-    print(json.dumps(rows, ensure_ascii=False, indent=2))
-
-
 def _select_search_result(
     items: list[dict[str, Any]],
     korean_name: str,
@@ -290,70 +272,10 @@ def _find_ingredient_section(soup: BeautifulSoup) -> Any | None:
     return heading_node.find_parent("div", class_="primary__article")
 
 
-def _strip_tags(value: str) -> str:
-    return _normalize_text(re.sub(r"<[^>]+>", "", unescape(value)))
-
-
 def _format_korean_product_name(korean_name: str, product_type: str) -> str:
     if korean_name.endswith(product_type):
         return korean_name
     return _normalize_text(f"{korean_name} {product_type}")
-
-
-def _extract_product_remote_id(product_url: str) -> str:
-    match = re.search(r"/products/view/([^/?#]+)", product_url)
-    return match.group(1) if match else ""
-
-
-def _normalize_review(review: dict[str, Any]) -> dict[str, Any]:
-    return {
-        "id": review.get("id"),
-        "title": _normalize_text(str(review.get("title") or "")),
-        "text": _normalize_text(str(review.get("text") or "")),
-        "rating": review.get("rating"),
-        "created_at": str(review.get("created_at") or ""),
-        "user_nickname": str(review.get("user_nickname") or ""),
-        "helpful_count": review.get("helpful_count") or 0,
-        "selected_options": review.get("selected_options") or [],
-        "media_count": review.get("media_count") or 0,
-    }
-
-
-def _get_with_retries(
-    session_or_url: requests.Session | str,
-    url: str | None = None,
-    *,
-    retries: int = 3,
-    backoff_seconds: float = 0.5,
-    **kwargs: Any,
-) -> requests.Response:
-    if isinstance(session_or_url, requests.Session):
-        session = session_or_url
-        request_url = url
-    else:
-        session = requests
-        request_url = session_or_url
-
-    if request_url is None:
-        raise ValueError("request URL is required.")
-
-    last_error: requests.RequestException | None = None
-    for attempt in range(retries):
-        try:
-            return session.get(request_url, **kwargs)
-        except requests.RequestException as error:
-            last_error = error
-            if attempt == retries - 1:
-                break
-            time.sleep(backoff_seconds * (attempt + 1))
-
-    if last_error is None:
-        raise RuntimeError("request failed without an exception.")
-    raise last_error
-
-
-def _normalize_text(value: str) -> str:
-    return re.sub(r"\s+", " ", value).strip()
 
 
 if __name__ == "__main__":

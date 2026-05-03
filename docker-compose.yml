@@ -15,4 +15,8 @@ services:
     env_file:
       - path: .env
         required: false
+    volumes:
+      - ./backend/pipelines:/app/pipelines
+      - ./backend/tests:/app/tests
+      - ./pytest.ini:/app/pytest.ini:ro
     command: ["python", "-m", "pytest", "tests"]

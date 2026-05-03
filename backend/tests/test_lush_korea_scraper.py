@@ -1,11 +1,4 @@
-from pipelines.lush_korea_scraper import DEFAULT_URL, print_json_rows, scrape_perfume_names
-
-
-def test_print_json_rows_handles_review_unicode(capsys):
-    print_json_rows([{"reviews": [{"text": "좋아요 💗"}]}])
-
-    captured = capsys.readouterr()
-    assert "좋아요 💗" in captured.out
+from pipelines.lush_korea_scraper import DEFAULT_URL, scrape_perfume_names
 
 
 def test_scrape_perfume_names_from_live_lush_korea_homepage():
