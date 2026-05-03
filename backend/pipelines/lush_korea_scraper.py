@@ -84,6 +84,7 @@ def scrape_perfume_names(url: str = DEFAULT_URL) -> list[dict[str, str]]:
     for product in extract_homepage_fragrance_products(html):
         matched = find_product_metadata(session, product["korean_name"], product["product_type"])
         full_korean_name = _format_korean_product_name(product["korean_name"], product["product_type"])
+        detail = fetch_product_detail(session, matched.get("product_url", ""))
         rows.append(
             {
                 "country": "KR",
@@ -91,6 +92,8 @@ def scrape_perfume_names(url: str = DEFAULT_URL) -> list[dict[str, str]]:
                 "english_name": matched.get("english_name", ""),
                 "product_type": product["product_type"],
                 "product_url": matched.get("product_url", ""),
+                "ingredients": detail["ingredients"],
+                "key_ingredients": detail["key_ingredients"],
             }
         )
     return rows
@@ -115,6 +118,44 @@ def find_product_metadata(
             }
 
     return {"english_name": "", "product_url": ""}
+
+
+def fetch_product_detail(session: requests.Session, product_url: str) -> dict[str, Any]:
+    if not product_url:
+        return {"ingredients": "", "key_ingredients": []}
+
+    response = session.get(product_url, timeout=20)
+    response.raise_for_status()
+    response.encoding = "utf-8"
+    return extract_product_detail(response.text)
+
+
+def extract_product_detail(html: str) -> dict[str, Any]:
+    soup = BeautifulSoup(html, "html.parser")
+    ingredient_section = _find_ingredient_section(soup)
+    if ingredient_section is None:
+        return {"ingredients": "", "key_ingredients": []}
+
+    ingredients = ""
+    for text_block in ingredient_section.select("p.text__main"):
+        label = text_block.select_one(".theme__gray900")
+        if label is None or "전 성분" not in _normalize_text(label.get_text(" ", strip=True)):
+            continue
+
+        value = text_block.select_one(".theme__gray800")
+        if value is not None:
+            ingredients = _normalize_text(value.get_text(" ", strip=True))
+            break
+
+    key_ingredients: list[str] = []
+    seen: set[str] = set()
+    for node in ingredient_section.select(".ingredient .ingredient__name"):
+        name = _normalize_text(node.get_text(" ", strip=True))
+        if name and name not in seen:
+            key_ingredients.append(name)
+            seen.add(name)
+
+    return {"ingredients": ingredients, "key_ingredients": key_ingredients}
 
 
 def main() -> None:
@@ -183,6 +224,17 @@ def _extract_category_products(soup: BeautifulSoup) -> list[dict[str, str]]:
         seen.add(key)
 
     return products
+
+
+def _find_ingredient_section(soup: BeautifulSoup) -> Any | None:
+    heading = soup.find(string=lambda value: _normalize_text(value or "") == "INGREDIENT")
+    if heading is None:
+        return None
+
+    heading_node = heading.parent
+    if heading_node is None:
+        return None
+    return heading_node.find_parent("div", class_="primary__article")
 
 
 def _strip_tags(value: str) -> str:

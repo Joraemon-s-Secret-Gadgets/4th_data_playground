@@ -14,3 +14,5 @@ def test_scrape_perfume_names_from_live_lush_korea_homepage():
     dirty = rows_by_korean_name["더티 퍼퓸"]
     assert dirty["english_name"] == "Dirty"
     assert dirty["product_url"] == "https://www.lush.co.kr/products/view/300"
+    assert "변성알코올" in dirty["ingredients"]
+    assert "스피어민트" in dirty["key_ingredients"]

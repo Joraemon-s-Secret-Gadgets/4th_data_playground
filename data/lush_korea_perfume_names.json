@@ -4,69 +4,122 @@
     "korean_name": "슬리피 보디 스프레이",
     "english_name": "Sleepy",
     "product_type": "보디 스프레이",
-    "product_url": "https://www.lush.co.kr/products/view/248"
+    "product_url": "https://www.lush.co.kr/products/view/248",
+    "ingredients": "변성알코올,정제수,향료,라벤더오일,안식향나무수지추출물,통가콩씨추출물,일랑일랑꽃오일,리날룰,벤질벤조에이트,벤질신나메이트,벤질살리실레이트,신남알,쿠마린,유제놀,파네솔,제라니올,아이소유제놀,리모넨,글리세린",
+    "key_ingredients": [
+      "통카",
+      "라벤더",
+      "일랑일랑 오일"
+    ]
   },
   {
     "country": "KR",
     "korean_name": "섹스 밤 보디 스프레이",
     "english_name": "Sex Bomb",
     "product_type": "보디 스프레이",
-    "product_url": "https://www.lush.co.kr/products/view/1000001190"
+    "product_url": "https://www.lush.co.kr/products/view/1000001190",
+    "ingredients": "변성알코올,정제수,향료,스페인자스민꽃추출물,클레리오일,일랑일랑꽃오일,알파-아이소메틸아이오논,벤질벤조에이트,시트랄,유제놀,파네솔,제라니올,리모넨,리날룰,글리세린,벤질알코올",
+    "key_ingredients": [
+      "자스민",
+      "일랑일랑"
+    ]
   },
   {
     "country": "KR",
     "korean_name": "로즈 잼 보디 스프레이",
     "english_name": "Rose Jam",
     "product_type": "보디 스프레이",
-    "product_url": "https://www.lush.co.kr/products/view/247"
+    "product_url": "https://www.lush.co.kr/products/view/247",
+    "ingredients": "변성알코올,정제수,향료,다마스크장미꽃추출물,다마스크장미꽃오일,센티드제라늄꽃오일,레몬오일,시트랄,시트로넬올,쿠마린,파네솔,유제놀,제라니올,리모넨,리날룰,글리세린,벤질알코올",
+    "key_ingredients": [
+      "제라늄",
+      "장미",
+      "레몬"
+    ]
   },
   {
     "country": "KR",
     "korean_name": "제스티 보디 스프레이",
     "english_name": "Zesty",
     "product_type": "보디 스프레이",
-    "product_url": "https://www.lush.co.kr/products/view/1000001180"
+    "product_url": "https://www.lush.co.kr/products/view/1000001180",
+    "ingredients": "변성알코올,정제수,향료,라임전초오일,유향나무오일,비터오렌지꽃오일,리모넨,알파-아이소메틸아이오논,벤질살리실레이트,시트랄,파네솔,제라니올,하이드록시시트로넬알,아이소유제놀,리날룰,글리세린",
+    "key_ingredients": [
+      "올리바넘",
+      "네롤리"
+    ]
   },
   {
     "country": "KR",
     "korean_name": "더티 솔리드 퍼퓸",
     "english_name": "Dirty Solid Perfume",
     "product_type": "솔리드 퍼퓸",
-    "product_url": "https://www.lush.co.kr/products/view/302"
+    "product_url": "https://www.lush.co.kr/products/view/302",
+    "ingredients": "호호바씨오일,피마자오일,칸데릴라왁스,향료,스피어민트잎오일,타라곤오일,샌들우드오일,라벤더오일,비터오렌지꽃오일,타임추출물,알파-아이소메틸아이오논,벤질신나메이트,신남알,신나밀알코올,쿠마린,유제놀,파네솔,제라니올,리모넨,리날룰,참나무이끼추출물,하이드록시시트로넬알,청색1호레이크",
+    "key_ingredients": [
+      "스피어민트",
+      "샌달우드",
+      "네롤리"
+    ]
   },
   {
     "country": "KR",
     "korean_name": "더티 퍼퓸",
     "english_name": "Dirty",
     "product_type": "퍼퓸",
-    "product_url": "https://www.lush.co.kr/products/view/300"
+    "product_url": "https://www.lush.co.kr/products/view/300",
+    "ingredients": "변성알코올,향료,스피어민트추출물,타라곤오일,샌들우드오일,라벤더추출물,비터오렌지꽃오일,타임꽃/잎추출물,벤질벤조에이트,알파-아이소메틸아이오논,리날룰,쿠마린,신나밀알코올,유제놀,참나무이끼추출물,제라니올,하이드록시시트로넬알,리모넨,벤질신나메이트,신남알,시트랄,시트로넬올,파네솔,정제수,글리세린",
+    "key_ingredients": [
+      "스피어민트",
+      "샌들우드",
+      "네롤리"
+    ]
   },
   {
     "country": "KR",
     "korean_name": "팬지 퍼퓸",
     "english_name": "Pansy",
     "product_type": "퍼퓸",
-    "product_url": "https://www.lush.co.kr/products/view/1000000878"
+    "product_url": "https://www.lush.co.kr/products/view/1000000878",
+    "ingredients": "변성알코올,정제수,향료,베르가모트오일,비터오렌지꽃추출물,로즈마리잎오일,갈바눔수지오일,라다넘수지,리모넨,알파-아이소메틸아이오논,벤질벤조에이트,시트랄,쿠마린,참나무이끼추출물,파네솔,제라니올,헥실신나몰,하이드록시시트로넬알,리날룰,글리세린",
+    "key_ingredients": [
+      "로즈마리",
+      "베르가못"
+    ]
   },
   {
     "country": "KR",
     "korean_name": "더 컴포터 보디 스프레이",
     "english_name": "The Comforter",
     "product_type": "보디 스프레이",
-    "product_url": "https://www.lush.co.kr/products/view/1000001185"
+    "product_url": "https://www.lush.co.kr/products/view/1000001185",
+    "ingredients": "",
+    "key_ingredients": []
   },
   {
     "country": "KR",
     "korean_name": "카마 퍼퓸",
     "english_name": "Karma",
     "product_type": "퍼퓸",
-    "product_url": "https://www.lush.co.kr/products/view/272"
+    "product_url": "https://www.lush.co.kr/products/view/272",
+    "ingredients": "변성알코올,향료,광곽향오일,오렌지오일,라반딘오일,구주소나무오일,동인도레몬그라스잎오일,갈립검오일,스위트아카시아꽃오일,리모넨,신남알,시트랄,제라니올,시트로넬올,리날룰,벤질벤조에이트,벤질신나메이트,신나밀알코올,하이드록시시트로넬알,아이소유제놀,쿠마린,유제놀,파네솔,정제수,글리세린,벤질알코올",
+    "key_ingredients": [
+      "파촐리",
+      "레몬그라스",
+      "오렌지"
+    ]
   },
   {
     "country": "KR",
     "korean_name": "카마 솔리드 퍼퓸",
     "english_name": "Karma Solid Perfume",
     "product_type": "솔리드 퍼퓸",
-    "product_url": "https://www.lush.co.kr/products/view/273"
+    "product_url": "https://www.lush.co.kr/products/view/273",
+    "ingredients": "호호바씨오일,피마자오일,칸데릴라왁스,향료,광곽향오일,오렌지오일,라반딘오일,구주소나무오일,동인도레몬그라스잎오일,갈립검오일,리모넨,신남알,시트랄,제라니올,시트로넬올,파네솔,벤질벤조에이트,유제놀,하이드록시시트로넬알,쿠마린,벤질신나메이트,신나밀알코올,아이소유제놀,리날룰,적색226호,황색4호,벤질알코올",
+    "key_ingredients": [
+      "파촐리",
+      "레몬그라스",
+      "오렌지"
+    ]
   }
 ]
