@@ -1,0 +1,18 @@
+services:
+  lush-korea-scraper:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    env_file:
+      - path: .env
+        required: false
+    volumes:
+      - ./data:/app/data
+  backend-tests:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    env_file:
+      - path: .env
+        required: false
+    command: ["python", "-m", "pytest", "tests"]

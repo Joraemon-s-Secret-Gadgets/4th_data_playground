@@ -1,0 +1,12 @@
+FROM python:3.12-slim
+
+WORKDIR /app
+
+COPY backend/requirements.txt backend/requirements-dev.txt ./
+RUN pip install --no-cache-dir -r requirements-dev.txt
+
+COPY backend/pipelines ./pipelines
+COPY backend/tests ./tests
+COPY pytest.ini .
+
+CMD ["python", "-m", "pipelines.lush_korea_scraper"]
