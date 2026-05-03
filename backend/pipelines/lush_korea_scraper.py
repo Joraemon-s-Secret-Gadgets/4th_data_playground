@@ -3,6 +3,8 @@ from __future__ import annotations
 import json
 import os
 import re
+import sys
+import time
 from html import unescape
 from pathlib import Path
 from typing import Any
@@ -14,6 +16,11 @@ from bs4 import BeautifulSoup
 DEFAULT_URL = "https://www.lush.co.kr/m/categories/index/56"
 BASE_URL = "https://www.lush.co.kr"
 SEARCH_URL = "https://www.lush.co.kr/m/elasticsearch/autolist"
+VREVIEW_REVIEWS_URL = "https://one.vreview.tv/api/embed/v2/417377ee-f4a0-4d0d-8e48-0dc58f216fb9/reviews"
+VREVIEW_REVIEW_EXPAND = (
+    "rating,created_at,helpful_count,user_nickname,product,upload_from,"
+    "spray_username,title,text,media_contents,comments"
+)
 PRODUCT_TYPES = {"보디 스프레이", "바디 스프레이", "퍼퓸", "솔리드 퍼퓸", "워시 카드", "캔들"}
 
 
@@ -69,7 +76,7 @@ def extract_homepage_fragrance_products(html: str) -> list[dict[str, str]]:
 
 
 def fetch_homepage(url: str = DEFAULT_URL) -> str:
-    response = requests.get(url, headers=build_headers(), timeout=20)
+    response = _get_with_retries(url, headers=build_headers(), timeout=20)
     response.raise_for_status()
     response.encoding = "utf-8"
     return response.text
@@ -85,6 +92,7 @@ def scrape_perfume_names(url: str = DEFAULT_URL) -> list[dict[str, str]]:
         matched = find_product_metadata(session, product["korean_name"], product["product_type"])
         full_korean_name = _format_korean_product_name(product["korean_name"], product["product_type"])
         detail = fetch_product_detail(session, matched.get("product_url", ""))
+        review_detail = fetch_product_reviews(session, matched.get("product_url", ""))
         rows.append(
             {
                 "country": "KR",
@@ -94,6 +102,8 @@ def scrape_perfume_names(url: str = DEFAULT_URL) -> list[dict[str, str]]:
                 "product_url": matched.get("product_url", ""),
                 "ingredients": detail["ingredients"],
                 "key_ingredients": detail["key_ingredients"],
+                "review_count": review_detail["review_count"],
+                "reviews": review_detail["reviews"],
             }
         )
     return rows
@@ -105,7 +115,7 @@ def find_product_metadata(
     product_type: str,
 ) -> dict[str, str]:
     for query in (f"{korean_name} {product_type}", korean_name):
-        response = session.get(SEARCH_URL, params={"query": query}, timeout=20)
+        response = _get_with_retries(session, SEARCH_URL, params={"query": query}, timeout=20)
         response.raise_for_status()
         response.encoding = "utf-8"
 
@@ -124,10 +134,44 @@ def fetch_product_detail(session: requests.Session, product_url: str) -> dict[st
     if not product_url:
         return {"ingredients": "", "key_ingredients": []}
 
-    response = session.get(product_url, timeout=20)
+    response = _get_with_retries(session, product_url, timeout=20)
     response.raise_for_status()
     response.encoding = "utf-8"
     return extract_product_detail(response.text)
+
+
+def fetch_product_reviews(session: requests.Session, product_url: str, limit: int = 100) -> dict[str, Any]:
+    product_remote_id = _extract_product_remote_id(product_url)
+    if not product_remote_id:
+        return {"review_count": 0, "reviews": []}
+
+    reviews: list[dict[str, Any]] = []
+    review_count = 0
+    offset = 0
+
+    while True:
+        response = _get_with_retries(
+            session,
+            VREVIEW_REVIEWS_URL,
+            params={
+                "product_remote_id": product_remote_id,
+                "limit": limit,
+                "offset": offset,
+                "expand": VREVIEW_REVIEW_EXPAND,
+            },
+            timeout=20,
+        )
+        response.raise_for_status()
+        payload = response.json()
+        review_count = int(payload.get("count") or 0)
+        batch = payload.get("results") or []
+        reviews.extend(_normalize_review(review) for review in batch)
+
+        offset += len(batch)
+        if not batch or offset >= review_count:
+            break
+
+    return {"review_count": review_count, "reviews": reviews}
 
 
 def extract_product_detail(html: str) -> dict[str, Any]:
@@ -165,6 +209,15 @@ def main() -> None:
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text(json.dumps(rows, ensure_ascii=False, indent=2), encoding="utf-8")
+    print_json_rows(rows)
+
+
+def print_json_rows(rows: list[dict[str, Any]]) -> None:
+    if hasattr(sys.stdout, "reconfigure"):
+        try:
+            sys.stdout.reconfigure(encoding="utf-8")
+        except ValueError:
+            pass
     print(json.dumps(rows, ensure_ascii=False, indent=2))
 
 
@@ -245,6 +298,58 @@ def _format_korean_product_name(korean_name: str, product_type: str) -> str:
     if korean_name.endswith(product_type):
         return korean_name
     return _normalize_text(f"{korean_name} {product_type}")
+
+
+def _extract_product_remote_id(product_url: str) -> str:
+    match = re.search(r"/products/view/([^/?#]+)", product_url)
+    return match.group(1) if match else ""
+
+
+def _normalize_review(review: dict[str, Any]) -> dict[str, Any]:
+    return {
+        "id": review.get("id"),
+        "title": _normalize_text(str(review.get("title") or "")),
+        "text": _normalize_text(str(review.get("text") or "")),
+        "rating": review.get("rating"),
+        "created_at": str(review.get("created_at") or ""),
+        "user_nickname": str(review.get("user_nickname") or ""),
+        "helpful_count": review.get("helpful_count") or 0,
+        "selected_options": review.get("selected_options") or [],
+        "media_count": review.get("media_count") or 0,
+    }
+
+
+def _get_with_retries(
+    session_or_url: requests.Session | str,
+    url: str | None = None,
+    *,
+    retries: int = 3,
+    backoff_seconds: float = 0.5,
+    **kwargs: Any,
+) -> requests.Response:
+    if isinstance(session_or_url, requests.Session):
+        session = session_or_url
+        request_url = url
+    else:
+        session = requests
+        request_url = session_or_url
+
+    if request_url is None:
+        raise ValueError("request URL is required.")
+
+    last_error: requests.RequestException | None = None
+    for attempt in range(retries):
+        try:
+            return session.get(request_url, **kwargs)
+        except requests.RequestException as error:
+            last_error = error
+            if attempt == retries - 1:
+                break
+            time.sleep(backoff_seconds * (attempt + 1))
+
+    if last_error is None:
+        raise RuntimeError("request failed without an exception.")
+    raise last_error
 
 
 def _normalize_text(value: str) -> str:

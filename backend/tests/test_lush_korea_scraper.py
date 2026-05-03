@@ -1,4 +1,11 @@
-from pipelines.lush_korea_scraper import DEFAULT_URL, scrape_perfume_names
+from pipelines.lush_korea_scraper import DEFAULT_URL, print_json_rows, scrape_perfume_names
+
+
+def test_print_json_rows_handles_review_unicode(capsys):
+    print_json_rows([{"reviews": [{"text": "좋아요 💗"}]}])
+
+    captured = capsys.readouterr()
+    assert "좋아요 💗" in captured.out
 
 
 def test_scrape_perfume_names_from_live_lush_korea_homepage():
@@ -16,3 +23,6 @@ def test_scrape_perfume_names_from_live_lush_korea_homepage():
     assert dirty["product_url"] == "https://www.lush.co.kr/products/view/300"
     assert "변성알코올" in dirty["ingredients"]
     assert "스피어민트" in dirty["key_ingredients"]
+    assert dirty["review_count"] == len(dirty["reviews"])
+    assert dirty["review_count"] > 0
+    assert {"id", "title", "text", "rating", "created_at", "user_nickname"} <= set(dirty["reviews"][0])
