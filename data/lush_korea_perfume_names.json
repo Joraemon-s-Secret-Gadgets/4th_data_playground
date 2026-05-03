@@ -1,42 +1,72 @@
 [
   {
     "country": "KR",
-    "name": "더티"
+    "korean_name": "더티 보디 스프레이",
+    "english_name": "Dirty",
+    "product_type": "보디 스프레이",
+    "product_url": "https://www.lush.co.kr/products/view/246"
   },
   {
     "country": "KR",
-    "name": "트와일라잇"
+    "korean_name": "트와일라잇 보디 스프레이",
+    "english_name": "",
+    "product_type": "보디 스프레이",
+    "product_url": ""
   },
   {
     "country": "KR",
-    "name": "데쓰 앤 디 케이"
+    "korean_name": "데쓰 앤 디 케이 퍼퓸",
+    "english_name": "",
+    "product_type": "퍼퓸",
+    "product_url": ""
   },
   {
     "country": "KR",
-    "name": "팬지"
+    "korean_name": "팬지 퍼퓸",
+    "english_name": "Pansy",
+    "product_type": "퍼퓸",
+    "product_url": "https://www.lush.co.kr/products/view/1000000878"
   },
   {
     "country": "KR",
-    "name": "정크"
+    "korean_name": "정크 퍼퓸",
+    "english_name": "Junk",
+    "product_type": "퍼퓸",
+    "product_url": "https://www.lush.co.kr/products/view/1000001133"
   },
   {
     "country": "KR",
-    "name": "로즈 잼"
+    "korean_name": "로즈 잼 솔리드 퍼퓸",
+    "english_name": "Rose Jam Solid Perfume",
+    "product_type": "솔리드 퍼퓸",
+    "product_url": "https://www.lush.co.kr/products/view/1000000894"
   },
   {
     "country": "KR",
-    "name": "바닐라리"
+    "korean_name": "바닐라리 솔리드 퍼퓸",
+    "english_name": "Vanillary Solid Perfume",
+    "product_type": "솔리드 퍼퓸",
+    "product_url": "https://www.lush.co.kr/products/view/325"
   },
   {
     "country": "KR",
-    "name": "카마"
+    "korean_name": "카마 워시 카드",
+    "english_name": "",
+    "product_type": "워시 카드",
+    "product_url": ""
   },
   {
     "country": "KR",
-    "name": "쉐이드"
+    "korean_name": "쉐이드 워시 카드",
+    "english_name": "",
+    "product_type": "워시 카드",
+    "product_url": ""
   },
   {
     "country": "KR",
-    "name": "슬리피"
+    "korean_name": "슬리피 캔들",
+    "english_name": "",
+    "product_type": "캔들",
+    "product_url": ""
   }
 ]
