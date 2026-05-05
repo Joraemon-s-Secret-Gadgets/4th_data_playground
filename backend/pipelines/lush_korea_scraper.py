@@ -2,8 +2,13 @@ from __future__ import annotations
 
 import json
 import os
+import re
+import tempfile
+import time
+from collections.abc import Callable
 from pathlib import Path
 from typing import Any
+from urllib.parse import urljoin, urlsplit, urlunsplit
 
 import requests
 from bs4 import BeautifulSoup
@@ -19,7 +24,7 @@ from pipelines.lush_common import (
 )
 
 
-DEFAULT_URL = "https://www.lush.co.kr/m/categories/index/56"
+DEFAULT_URL = "https://www.lush.co.kr/m/categories/index/56?sort=popularity"
 BASE_URL = "https://www.lush.co.kr"
 SEARCH_URL = "https://www.lush.co.kr/m/elasticsearch/autolist"
 VREVIEW_REVIEWS_URL = "https://one.vreview.tv/api/embed/v2/417377ee-f4a0-4d0d-8e48-0dc58f216fb9/reviews"
@@ -66,11 +71,61 @@ def extract_homepage_fragrance_products(html: str) -> list[dict[str, str]]:
     return products
 
 
-def fetch_homepage(url: str = DEFAULT_URL) -> str:
-    response = _get_with_retries(url, headers=build_headers(), timeout=20)
-    response.raise_for_status()
-    response.encoding = "utf-8"
-    return response.text
+def fetch_homepage(
+    url: str = DEFAULT_URL,
+    *,
+    driver_factory: Callable[[], Any] | None = None,
+    sleep: Callable[[float], None] = time.sleep,
+    stable_iterations: int = 5,
+    scroll_pause_seconds: float = 1.5,
+) -> str:
+    driver = (driver_factory or _create_chrome_driver)()
+
+    try:
+        driver.get(url)
+
+        last_count = 0
+        same_count = 0
+
+        while same_count < stable_iterations:
+            driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+            sleep(scroll_pause_seconds)
+
+            items = driver.find_elements("css selector", "li.prdlist__item")
+            current_count = len(items)
+
+            if current_count == last_count:
+                same_count += 1
+            else:
+                same_count = 0
+                last_count = current_count
+
+        return driver.page_source
+
+    finally:
+        driver.quit()
+
+
+def _create_chrome_driver() -> Any:
+    from selenium import webdriver
+    from selenium.webdriver.chrome.options import Options
+
+    cache_path = os.getenv("SELENIUM_MANAGER_CACHE") or os.path.join(os.getcwd(), ".selenium-cache")
+    os.environ.setdefault("SE_CACHE_PATH", cache_path)
+
+    chrome_options = Options()
+    if Path("/usr/bin/chromium").exists():
+        chrome_options.binary_location = "/usr/bin/chromium"
+    chrome_options.add_argument("--headless=new")
+    chrome_options.add_argument("--disable-gpu")
+    chrome_options.add_argument("--no-sandbox")
+    chrome_options.add_argument("--disable-dev-shm-usage")
+    chrome_options.add_argument("--disable-extensions")
+    chrome_options.add_argument("--remote-debugging-pipe")
+    chrome_options.add_argument(f"--user-data-dir={tempfile.mkdtemp(prefix='lush-kr-chrome-')}")
+    chrome_options.add_argument("--window-size=1920,1080")
+
+    return webdriver.Chrome(options=chrome_options)
 
 
 def scrape_perfume_names(url: str = DEFAULT_URL) -> list[dict[str, str]]:
@@ -82,19 +137,21 @@ def scrape_perfume_names(url: str = DEFAULT_URL) -> list[dict[str, str]]:
     for product in extract_homepage_fragrance_products(html):
         matched = find_product_metadata(session, product["korean_name"], product["product_type"])
         full_korean_name = _format_korean_product_name(product["korean_name"], product["product_type"])
-        detail = fetch_product_detail(session, matched.get("product_url", ""))
-        review_detail = fetch_product_reviews(session, matched.get("product_url", ""))
+        product_url = product.get("product_url") or matched.get("product_url", "")
+        detail = fetch_product_detail(session, product_url)
+        # Reviews are temporarily disabled.
+        # review_detail = fetch_product_reviews(session, matched.get("product_url", ""))
         rows.append(
             {
                 "country": "KR",
                 "korean_name": full_korean_name,
                 "english_name": matched.get("english_name", ""),
                 "product_type": product["product_type"],
-                "product_url": matched.get("product_url", ""),
+                "product_url": product_url,
                 "ingredients": detail["ingredients"],
                 "key_ingredients": detail["key_ingredients"],
-                "review_count": review_detail["review_count"],
-                "reviews": review_detail["reviews"],
+                # "review_count": review_detail["review_count"],
+                # "reviews": review_detail["reviews"],
             }
         )
     return rows
@@ -106,8 +163,11 @@ def find_product_metadata(
     product_type: str,
 ) -> dict[str, str]:
     for query in (f"{korean_name} {product_type}", korean_name):
-        response = _get_with_retries(session, SEARCH_URL, params={"query": query}, timeout=20)
-        response.raise_for_status()
+        try:
+            response = _get_with_retries(session, SEARCH_URL, params={"query": query}, timeout=20)
+            response.raise_for_status()
+        except requests.RequestException:
+            continue
         response.encoding = "utf-8"
 
         items = response.json().get("info", {}).get("item", [])
@@ -169,7 +229,7 @@ def extract_product_detail(html: str) -> dict[str, Any]:
     soup = BeautifulSoup(html, "html.parser")
     ingredient_section = _find_ingredient_section(soup)
     if ingredient_section is None:
-        return {"ingredients": "", "key_ingredients": []}
+        return _extract_product_detail_from_all_ingredient_block(soup)
 
     ingredients = ""
     for text_block in ingredient_section.select("p.text__main"):
@@ -189,6 +249,11 @@ def extract_product_detail(html: str) -> dict[str, Any]:
         if name and name not in seen:
             key_ingredients.append(name)
             seen.add(name)
+
+    if not ingredients:
+        fallback = _extract_product_detail_from_all_ingredient_block(soup)
+        ingredients = fallback["ingredients"]
+        key_ingredients = key_ingredients or fallback["key_ingredients"]
 
     return {"ingredients": ingredients, "key_ingredients": key_ingredients}
 
@@ -252,13 +317,56 @@ def _extract_category_products(soup: BeautifulSoup) -> list[dict[str, str]]:
         if product_type not in PRODUCT_TYPES:
             continue
 
+        product_url = ""
+        if link := item.select_one("a[href*='/products/view/']"):
+            product_url = _normalize_product_url(str(link.get("href") or ""))
+
         key = (korean_name, product_type)
         if key in seen:
             continue
-        products.append({"korean_name": korean_name, "product_type": product_type})
+        product = {"korean_name": korean_name, "product_type": product_type}
+        if product_url:
+            product["product_url"] = product_url
+        products.append(product)
         seen.add(key)
 
     return products
+
+
+def _extract_product_detail_from_all_ingredient_block(soup: BeautifulSoup) -> dict[str, Any]:
+    ingredients = ""
+    key_ingredients: list[str] = []
+
+    for text_block in soup.select(".all-ingre p"):
+        label = text_block.find("strong")
+        if label is None:
+            continue
+
+        label_text = _normalize_text(label.get_text(" ", strip=True))
+        value = _remove_leading_label(text_block.get_text(" ", strip=True), label_text)
+        if "전 성분" in label_text and value:
+            ingredients = value
+        elif "대표성분" in label_text and value:
+            key_ingredients = [name for name in (_normalize_text(part) for part in value.split(",")) if name]
+
+    return {"ingredients": ingredients, "key_ingredients": key_ingredients}
+
+
+def _remove_leading_label(text: str, label: str) -> str:
+    normalized_text = _normalize_text(text)
+    normalized_label = _normalize_text(label)
+    if normalized_text.startswith(normalized_label):
+        return _normalize_text(normalized_text[len(normalized_label) :])
+    return normalized_text
+
+
+def _normalize_product_url(href: str) -> str:
+    if match := re.search(r"moveProductView\('([^']+)'", href):
+        href = match.group(1)
+
+    product_url = urljoin(BASE_URL, href).replace("/m/products/view/", "/products/view/")
+    split_url = urlsplit(product_url)
+    return urlunsplit((split_url.scheme, split_url.netloc, split_url.path, "", ""))
 
 
 def _find_ingredient_section(soup: BeautifulSoup) -> Any | None:
