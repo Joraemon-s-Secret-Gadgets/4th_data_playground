@@ -126,6 +126,7 @@ def extract_search_products(payload: dict[str, Any]) -> list[dict[str, str]]:
                 "product_type": product_type,
                 "product_url": f"{BASE_URL}/uk/en/p/{slug.strip('/')}",
                 "regular_price": format_gbp_price(content.get("minPrice"), str(content.get("currency") or "")),
+                "image_url": extract_image_url(content),
             }
         )
 
@@ -154,6 +155,31 @@ def format_gbp_price(value: Any, currency: str) -> str:
     except (TypeError, ValueError):
         return normalize_text(str(value))
     return f"£{amount:,.2f}"
+
+
+def extract_image_url(content: dict[str, Any]) -> str:
+    """Extract a product image URL from a Lush UK search payload item."""
+    for key in ("thumbnail", "imageUrl", "image"):
+        if image_url := normalize_image_url(content.get(key)):
+            return image_url
+
+    media = content.get("media")
+    if isinstance(media, list):
+        for item in media:
+            if isinstance(item, dict) and (image_url := normalize_image_url(item.get("url") or item.get("src"))):
+                return image_url
+    return ""
+
+
+def normalize_image_url(value: Any) -> str:
+    """Normalize a Lush UK image URL value."""
+    if not isinstance(value, str) or not value:
+        return ""
+    if value.startswith("//"):
+        return f"https:{value}"
+    if value.startswith("/"):
+        return f"{BASE_URL}{value}"
+    return value
 
 
 def _fetch_search_page(

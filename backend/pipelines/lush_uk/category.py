@@ -48,14 +48,16 @@ def extract_fragrance_products(html: str) -> list[dict[str, str]]:
         english_name = infer_product_name(card_text, product_type, product_url)
         if not english_name:
             continue
+        image_url = extract_image_url(link)
 
-        products.append(
-            {
-                "english_name": english_name,
-                "product_type": product_type,
-                "product_url": product_url,
-            }
-        )
+        product = {
+            "english_name": english_name,
+            "product_type": product_type,
+            "product_url": product_url,
+        }
+        if image_url:
+            product["image_url"] = image_url
+        products.append(product)
         seen.add(product_url)
 
     return products or extract_referenced_products(html)
@@ -122,6 +124,30 @@ def normalize_product_url(raw_url: str) -> str:
     url_without_fragment = urldefrag(absolute_url).url
     parts = urlsplit(url_without_fragment)
     return urlunsplit((parts.scheme, parts.netloc, parts.path.rstrip("/"), "", ""))
+
+
+def extract_image_url(link: Any) -> str:
+    """Extract product image URL near a Lush UK product link."""
+    card = link.find_parent(["article", "li"]) or link
+    image = card.select_one("img") if hasattr(card, "select_one") else None
+    if image is None:
+        return ""
+
+    for attribute in ("src", "data-src", "data-original", "data-lazy", "data-srcset", "srcset"):
+        raw_value = str(image.get(attribute) or "")
+        if not raw_value:
+            continue
+        candidate = raw_value.split(",", 1)[0].strip().split(" ", 1)[0]
+        if candidate:
+            return normalize_image_url(candidate)
+    return ""
+
+
+def normalize_image_url(raw_url: str) -> str:
+    """Normalize Lush UK image URLs."""
+    if raw_url.startswith("//"):
+        raw_url = f"https:{raw_url}"
+    return urljoin(BASE_URL, raw_url)
 
 
 def build_product_url(english_name: str, product_type: str) -> str:

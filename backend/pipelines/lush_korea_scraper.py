@@ -134,6 +134,7 @@ def scrape_perfume_names(url: str = DEFAULT_URL) -> list[dict[str, str]]:
                 "product_type": product["product_type"],
                 "product_url": product_url,
                 "regular_price": regular_price,
+                "image_url": product.get("image_url", ""),
                 "ingredients": detail["ingredients"],
                 "key_ingredients": detail["key_ingredients"],
                 # "review_count": review_detail["review_count"],

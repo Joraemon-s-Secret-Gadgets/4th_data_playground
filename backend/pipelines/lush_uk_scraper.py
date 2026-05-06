@@ -179,6 +179,7 @@ def _add_product_details(rows: list[dict[str, str]]) -> list[dict[str, str]]:
         detailed_rows.append(
             {
                 **row,
+                "image_url": row.get("image_url", "") or str(detail.get("image_url") or ""),
                 "ingredients": str(detail.get("ingredients") or ""),
                 "key_ingredients": detail.get("key_ingredients") or [],
             }

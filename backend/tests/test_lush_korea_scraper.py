@@ -142,6 +142,7 @@ def test_extract_homepage_fragrance_products_keeps_product_url_from_category_car
     html = """
     <li class="prdlist__item">
       <a href="/products/view/G21000004883">
+        <img src="/upload/item/G21000004883.png">
         <span class="prdlist__item__tit">비틀 100ml</span>
         <span class="prdlist__item__category">퍼퓸</span>
         <span class="prdlist__item__price">70,000원</span>
@@ -155,6 +156,7 @@ def test_extract_homepage_fragrance_products_keeps_product_url_from_category_car
             "product_type": "퍼퓸",
             "product_url": "https://www.lush.co.kr/products/view/G21000004883",
             "regular_price": "70,000원",
+            "image_url": "https://www.lush.co.kr/upload/item/G21000004883.png",
         }
     ]
 
@@ -302,6 +304,7 @@ def test_scrape_perfume_names_does_not_fetch_reviews_while_reviews_are_disabled(
             "product_type": "퍼퓸",
             "product_url": "https://www.lush.co.kr/products/view/300",
             "regular_price": "70,000원",
+            "image_url": "",
             "ingredients": "변성알코올",
             "key_ingredients": ["스피어민트"],
         }

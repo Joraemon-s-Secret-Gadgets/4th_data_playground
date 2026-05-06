@@ -25,6 +25,7 @@ def test_extract_fragrance_products_from_lush_uk_category_html() -> None:
     <main>
       <article>
         <a href="/uk/en/p/dirty-perfume">
+          <img src="/cdn/dirty.jpg">
           <h2>Dirty</h2>
           <p>Perfume</p>
         </a>
@@ -51,6 +52,7 @@ def test_extract_fragrance_products_from_lush_uk_category_html() -> None:
             "english_name": "Dirty",
             "product_type": "Perfume",
             "product_url": "https://www.lush.com/uk/en/p/dirty-perfume",
+            "image_url": "https://www.lush.com/cdn/dirty.jpg",
         },
         {
             "english_name": "Dirty",
@@ -153,6 +155,7 @@ def test_scrape_perfume_names_from_non_default_url_adds_regular_price_from_produ
             "product_type": "Perfume",
             "product_url": "https://www.lush.com/uk/en/p/dirty-perfume",
             "regular_price": "£30.00",
+            "image_url": "",
             "ingredients": "Alcohol Denat.",
             "key_ingredients": ["Mint"],
         }
@@ -170,6 +173,7 @@ def test_extract_search_products_reads_paginated_search_payload() -> None:
                             "slug": "sleepy-bodyspray",
                             "minPrice": 29,
                             "currency": "GBP",
+                            "thumbnail": "https://images.lush.com/sleepy.jpg",
                             "attributes": {"type": "Body Spray"},
                         }
                     }
@@ -186,6 +190,7 @@ def test_extract_search_products_reads_paginated_search_payload() -> None:
             "product_type": "Body Spray",
             "product_url": "https://www.lush.com/uk/en/p/sleepy-bodyspray",
             "regular_price": "£29.00",
+            "image_url": "https://images.lush.com/sleepy.jpg",
         }
     ]
 
@@ -201,6 +206,7 @@ def test_uk_search_module_exposes_search_product_extraction() -> None:
                             "slug": "dirty-perfume",
                             "minPrice": 30,
                             "currency": "GBP",
+                            "thumbnail": "https://images.lush.com/dirty.jpg",
                             "attributes": {"type": "Perfume"},
                         }
                     }
@@ -277,6 +283,7 @@ def test_extract_product_detail_reads_next_data_ingredients() -> None:
           "__APOLLO_STATE__": {
             "Product:1": {
               "__typename": "Product",
+              "thumbnail": {"url": "https://images.lush.com/dirty.jpg"},
               "attributes": [
                 {
                   "attribute": {"slug": "ingredients"},
@@ -304,7 +311,34 @@ def test_extract_product_detail_reads_next_data_ingredients() -> None:
     assert extract_product_detail(html) == {
         "ingredients": "Alcohol Denat., Mentha Spicata Herb Oil (Spearmint Oil)",
         "key_ingredients": ["Mint", "Neroli"],
+        "image_url": "https://images.lush.com/dirty.jpg",
     }
+
+
+def test_extract_product_detail_reads_referenced_product_image() -> None:
+    html = """
+    <script id="__NEXT_DATA__" type="application/json">
+    {
+      "props": {
+        "pageProps": {
+          "__APOLLO_STATE__": {
+            "ProductImage:1": {
+              "__typename": "ProductImage",
+              "url": "https://images.lush.com/dirty-large.jpg"
+            },
+            "Product:1": {
+              "__typename": "Product",
+              "images": [{"__ref": "ProductImage:1"}],
+              "attributes": []
+            }
+          }
+        }
+      }
+    }
+    </script>
+    """
+
+    assert extract_product_detail(html)["image_url"] == "https://images.lush.com/dirty-large.jpg"
 
 
 def test_uk_detail_module_exposes_product_detail_extraction() -> None:
@@ -345,6 +379,7 @@ def test_scrape_perfume_names_adds_product_detail_fields(monkeypatch: pytest.Mon
             "product_type": "Perfume",
             "product_url": "https://www.lush.com/uk/en/p/dirty-perfume",
             "regular_price": "£30.00",
+            "image_url": "",
             "ingredients": "Alcohol Denat., Parfum",
             "key_ingredients": ["Mint"],
         }

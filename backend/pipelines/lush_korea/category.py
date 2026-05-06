@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import re
+from typing import Any
 from urllib.parse import urljoin, urlsplit, urlunsplit
 
 from bs4 import BeautifulSoup
@@ -69,6 +70,7 @@ def extract_category_products(soup: BeautifulSoup) -> list[dict[str, str]]:
         regular_price = ""
         if price_node := item.select_one(".prdlist__item__price"):
             regular_price = normalize_text(price_node.get_text(" ", strip=True))
+        image_url = extract_image_url(item)
 
         key = (korean_name, product_type)
         if key in seen:
@@ -78,6 +80,8 @@ def extract_category_products(soup: BeautifulSoup) -> list[dict[str, str]]:
             product["product_url"] = product_url
         if regular_price:
             product["regular_price"] = regular_price
+        if image_url:
+            product["image_url"] = image_url
         products.append(product)
         seen.add(key)
 
@@ -92,6 +96,29 @@ def normalize_product_url(href: str) -> str:
     product_url = urljoin(BASE_URL, href).replace("/m/products/view/", "/products/view/")
     split_url = urlsplit(product_url)
     return urlunsplit((split_url.scheme, split_url.netloc, split_url.path, "", ""))
+
+
+def extract_image_url(item: Any) -> str:
+    """Extract the canonical product image URL from a product card."""
+    image = item.select_one("img")
+    if image is None:
+        return ""
+
+    for attribute in ("src", "data-src", "data-original", "data-lazy", "data-srcset", "srcset"):
+        raw_value = str(image.get(attribute) or "")
+        if not raw_value:
+            continue
+        candidate = raw_value.split(",", 1)[0].strip().split(" ", 1)[0]
+        if candidate:
+            return normalize_image_url(candidate)
+    return ""
+
+
+def normalize_image_url(src: str) -> str:
+    """Normalize Lush Korea image URLs."""
+    if src.startswith("//"):
+        src = f"https:{src}"
+    return urljoin(BASE_URL, src)
 
 
 def format_korean_product_name(korean_name: str, product_type: str) -> str:
