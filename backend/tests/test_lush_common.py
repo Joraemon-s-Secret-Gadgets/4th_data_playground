@@ -1,4 +1,8 @@
-from pipelines.lush_common import (
+"""Tests for shared scraper utilities."""
+
+import pytest
+
+from pipelines.common import (
     extract_product_remote_id,
     fetch_rendered_html,
     normalize_review,
@@ -7,19 +11,19 @@ from pipelines.lush_common import (
 
 
 class FakeDriver:
-    def __init__(self):
+    def __init__(self) -> None:
         self.page_source = "<html><body>rendered</body></html>"
         self.closed = False
-        self.urls = []
+        self.urls: list[str] = []
 
-    def get(self, url):
+    def get(self, url: str) -> None:
         self.urls.append(url)
 
-    def quit(self):
+    def quit(self) -> None:
         self.closed = True
 
 
-def test_fetch_rendered_html_uses_driver_factory_and_closes_driver():
+def test_fetch_rendered_html_uses_driver_factory_and_closes_driver() -> None:
     driver = FakeDriver()
 
     html = fetch_rendered_html("https://example.test", driver_factory=lambda: driver)
@@ -29,12 +33,12 @@ def test_fetch_rendered_html_uses_driver_factory_and_closes_driver():
     assert driver.closed
 
 
-def test_extract_product_remote_id_from_lush_product_url():
+def test_extract_product_remote_id_from_lush_product_url() -> None:
     assert extract_product_remote_id("https://www.lush.co.kr/products/view/300?foo=bar") == "300"
     assert extract_product_remote_id("https://www.lush.com/uk/en/p/dirty-perfume/300") == "300"
 
 
-def test_normalize_review_keeps_shared_review_fields():
+def test_normalize_review_keeps_shared_review_fields() -> None:
     review = normalize_review(
         {
             "id": 1,
@@ -62,8 +66,10 @@ def test_normalize_review_keeps_shared_review_fields():
     }
 
 
-def test_print_json_rows_handles_review_unicode(capsys):
+def test_print_json_rows_handles_review_unicode(capsys: pytest.CaptureFixture[str]) -> None:
     print_json_rows([{"reviews": [{"text": "좋아요 💗"}]}])
 
     captured = capsys.readouterr()
     assert "좋아요 💗" in captured.out
+
+# End of file.

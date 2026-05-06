@@ -1,6 +1,13 @@
+"""Tests for the Lush Korea scraper facade and modules."""
+
+from typing import Any
+
+import pytest
 import requests
 
 from pipelines import lush_korea_scraper
+from pipelines.lush_korea.detail import extract_product_detail as extract_kr_detail
+from pipelines.lush_korea.fetch import with_page as kr_with_page
 from pipelines.lush_korea_scraper import (
     DEFAULT_URL,
     extract_homepage_fragrance_products,
@@ -18,7 +25,7 @@ class FakeElement:
 class FakeDriver:
     page_source = "<html>loaded</html>"
 
-    def __init__(self):
+    def __init__(self) -> None:
         self.loaded_url = ""
         self.scripts: list[str] = []
         self.quit_called = False
@@ -37,7 +44,7 @@ class FakeDriver:
         self.quit_called = True
 
 
-def test_fetch_homepage_scrolls_until_product_count_is_stable():
+def test_fetch_homepage_scrolls_until_product_count_is_stable() -> None:
     driver = FakeDriver()
 
     html = fetch_homepage(
@@ -58,12 +65,12 @@ def test_fetch_homepage_scrolls_until_product_count_is_stable():
     assert driver.quit_called
 
 
-def test_fetch_homepage_uses_static_request_by_default(monkeypatch):
+def test_fetch_homepage_uses_static_request_by_default(monkeypatch: pytest.MonkeyPatch) -> None:
     class FakeResponse:
         text = "<html>static</html>"
         encoding = ""
 
-        def raise_for_status(self):
+        def raise_for_status(self) -> None:
             return None
 
     monkeypatch.delenv("LUSH_KR_USE_SELENIUM", raising=False)
@@ -76,8 +83,14 @@ def test_fetch_homepage_uses_static_request_by_default(monkeypatch):
     assert fetch_homepage("https://example.test/category") == "<html>static</html>"
 
 
+def test_korea_fetch_module_exposes_page_url_builder() -> None:
+    assert kr_with_page("https://www.lush.co.kr/m/categories/index/56?sort=popularity", 3) == (
+        "https://www.lush.co.kr/m/categories/index/56?sort=popularity&page=3"
+    )
+
+
 class FakeSearchResponse:
-    def __init__(self, status_code: int, payload: dict):
+    def __init__(self, status_code: int, payload: dict[str, Any]) -> None:
         self.status_code = status_code
         self._payload = payload
         self.encoding = ""
@@ -86,14 +99,14 @@ class FakeSearchResponse:
         if self.status_code >= 400:
             raise requests.HTTPError(f"{self.status_code} Server Error")
 
-    def json(self) -> dict:
+    def json(self) -> dict[str, Any]:
         return self._payload
 
 
-def test_find_product_metadata_tries_next_query_after_search_server_error(monkeypatch):
+def test_find_product_metadata_tries_next_query_after_search_server_error(monkeypatch: pytest.MonkeyPatch) -> None:
     calls: list[str] = []
 
-    def fake_get_with_retries(_session, _url, *, params, timeout):
+    def fake_get_with_retries(_session: Any, _url: str, *, params: dict[str, str], timeout: int) -> FakeSearchResponse:
         calls.append(params["query"])
         if params["query"] == "솔티 보디 스프레이":
             return FakeSearchResponse(500, {})
@@ -125,7 +138,7 @@ def test_find_product_metadata_tries_next_query_after_search_server_error(monkey
     }
 
 
-def test_extract_homepage_fragrance_products_keeps_product_url_from_category_card():
+def test_extract_homepage_fragrance_products_keeps_product_url_from_category_card() -> None:
     html = """
     <li class="prdlist__item">
       <a href="/products/view/G21000004883">
@@ -146,7 +159,7 @@ def test_extract_homepage_fragrance_products_keeps_product_url_from_category_car
     ]
 
 
-def test_extract_homepage_fragrance_products_normalizes_javascript_product_url():
+def test_extract_homepage_fragrance_products_normalizes_javascript_product_url() -> None:
     html = """
     <li class="prdlist__item">
       <a href="javascript:moveProductView('/m/products/view/G21000006023?giftYn=Y&dc=standard')">
@@ -161,7 +174,7 @@ def test_extract_homepage_fragrance_products_normalizes_javascript_product_url()
     )
 
 
-def test_extract_product_detail_reads_renewal_all_ingredient_block():
+def test_extract_product_detail_reads_renewal_all_ingredient_block() -> None:
     html = """
     <div class="all-ingre">
       <p><strong>대표성분</strong> 시더우드 오일, 장미</p>
@@ -177,7 +190,17 @@ def test_extract_product_detail_reads_renewal_all_ingredient_block():
     }
 
 
-def test_scrape_perfume_names_uses_category_product_url_when_search_has_no_match(monkeypatch):
+def test_korea_detail_module_exposes_product_detail_extraction() -> None:
+    html = """
+    <div class="all-ingre">
+      <p><strong>대표성분</strong> 시더우드 오일</p>
+    </div>
+    """
+
+    assert extract_kr_detail(html)["key_ingredients"] == ["시더우드 오일"]
+
+
+def test_scrape_perfume_names_uses_category_product_url_when_search_has_no_match(monkeypatch: pytest.MonkeyPatch) -> None:
     captured_detail_urls: list[str] = []
 
     monkeypatch.setattr(
@@ -199,7 +222,7 @@ def test_scrape_perfume_names_uses_category_product_url_when_search_has_no_match
         lambda _session, _korean_name, _product_type: {"english_name": "", "product_url": ""},
     )
 
-    def fake_fetch_product_detail(_session, product_url):
+    def fake_fetch_product_detail(_session: Any, product_url: str) -> dict[str, Any]:
         captured_detail_urls.append(product_url)
         return {"ingredients": "변성알코올", "key_ingredients": []}
 
@@ -212,8 +235,8 @@ def test_scrape_perfume_names_uses_category_product_url_when_search_has_no_match
     assert rows[0]["regular_price"] == "70,000원"
 
 
-def test_find_product_metadata_formats_regular_price_from_search_sale_price(monkeypatch):
-    def fake_get_with_retries(_session, _url, *, params, timeout):
+def test_find_product_metadata_formats_regular_price_from_search_sale_price(monkeypatch: pytest.MonkeyPatch) -> None:
+    def fake_get_with_retries(_session: Any, _url: str, *, params: dict[str, str], timeout: int) -> FakeSearchResponse:
         return FakeSearchResponse(
             200,
             {
@@ -238,7 +261,7 @@ def test_find_product_metadata_formats_regular_price_from_search_sale_price(monk
     assert metadata["regular_price"] == "70,000원"
 
 
-def test_scrape_perfume_names_does_not_fetch_reviews_while_reviews_are_disabled(monkeypatch):
+def test_scrape_perfume_names_does_not_fetch_reviews_while_reviews_are_disabled(monkeypatch: pytest.MonkeyPatch) -> None:
     monkeypatch.setattr(
         lush_korea_scraper,
         "fetch_homepage",
@@ -264,7 +287,7 @@ def test_scrape_perfume_names_does_not_fetch_reviews_while_reviews_are_disabled(
         lambda _session, _product_url: {"ingredients": "변성알코올", "key_ingredients": ["스피어민트"]},
     )
 
-    def fail_if_reviews_are_fetched(*_args, **_kwargs):
+    def fail_if_reviews_are_fetched(*_args: Any, **_kwargs: Any) -> None:
         raise AssertionError("reviews should be disabled")
 
     monkeypatch.setattr(lush_korea_scraper, "fetch_product_reviews", fail_if_reviews_are_fetched)
@@ -285,7 +308,7 @@ def test_scrape_perfume_names_does_not_fetch_reviews_while_reviews_are_disabled(
     ]
 
 
-def test_scrape_perfume_names_from_live_lush_korea_homepage():
+def test_scrape_perfume_names_from_live_lush_korea_homepage() -> None:
     assert DEFAULT_URL == "https://www.lush.co.kr/m/categories/index/56?sort=popularity"
 
     rows = scrape_perfume_names()
@@ -302,3 +325,5 @@ def test_scrape_perfume_names_from_live_lush_korea_homepage():
     assert "스피어민트" in dirty["key_ingredients"]
     assert "review_count" not in dirty
     assert "reviews" not in dirty
+
+# End of file.
