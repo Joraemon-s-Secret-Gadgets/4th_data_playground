@@ -58,6 +58,24 @@ def test_fetch_homepage_scrolls_until_product_count_is_stable():
     assert driver.quit_called
 
 
+def test_fetch_homepage_uses_static_request_by_default(monkeypatch):
+    class FakeResponse:
+        text = "<html>static</html>"
+        encoding = ""
+
+        def raise_for_status(self):
+            return None
+
+    monkeypatch.delenv("LUSH_KR_USE_SELENIUM", raising=False)
+    monkeypatch.setattr(
+        lush_korea_scraper,
+        "_get_with_retries",
+        lambda url, **kwargs: FakeResponse(),
+    )
+
+    assert fetch_homepage("https://example.test/category") == "<html>static</html>"
+
+
 class FakeSearchResponse:
     def __init__(self, status_code: int, payload: dict):
         self.status_code = status_code
@@ -103,6 +121,7 @@ def test_find_product_metadata_tries_next_query_after_search_server_error(monkey
     assert metadata == {
         "english_name": "Salty",
         "product_url": "https://www.lush.co.kr/products/view/999",
+        "regular_price": "",
     }
 
 
@@ -112,6 +131,7 @@ def test_extract_homepage_fragrance_products_keeps_product_url_from_category_car
       <a href="/products/view/G21000004883">
         <span class="prdlist__item__tit">비틀 100ml</span>
         <span class="prdlist__item__category">퍼퓸</span>
+        <span class="prdlist__item__price">70,000원</span>
       </a>
     </li>
     """
@@ -121,6 +141,7 @@ def test_extract_homepage_fragrance_products_keeps_product_url_from_category_car
             "korean_name": "비틀 100ml",
             "product_type": "퍼퓸",
             "product_url": "https://www.lush.co.kr/products/view/G21000004883",
+            "regular_price": "70,000원",
         }
     ]
 
@@ -164,11 +185,12 @@ def test_scrape_perfume_names_uses_category_product_url_when_search_has_no_match
         "fetch_homepage",
         lambda _url: """
         <li class="prdlist__item">
-          <a href="/products/view/G21000004883">
-            <span class="prdlist__item__tit">비틀 100ml</span>
-            <span class="prdlist__item__category">퍼퓸</span>
-          </a>
-        </li>
+            <a href="/products/view/G21000004883">
+              <span class="prdlist__item__tit">비틀 100ml</span>
+              <span class="prdlist__item__category">퍼퓸</span>
+              <span class="prdlist__item__price">70,000원</span>
+            </a>
+          </li>
         """,
     )
     monkeypatch.setattr(
@@ -187,6 +209,33 @@ def test_scrape_perfume_names_uses_category_product_url_when_search_has_no_match
 
     assert captured_detail_urls == ["https://www.lush.co.kr/products/view/G21000004883"]
     assert rows[0]["product_url"] == "https://www.lush.co.kr/products/view/G21000004883"
+    assert rows[0]["regular_price"] == "70,000원"
+
+
+def test_find_product_metadata_formats_regular_price_from_search_sale_price(monkeypatch):
+    def fake_get_with_retries(_session, _url, *, params, timeout):
+        return FakeSearchResponse(
+            200,
+            {
+                "info": {
+                    "item": [
+                        {
+                            "itemName": "더티",
+                            "itemRange": "퍼퓸",
+                            "itemEName": "Dirty",
+                            "itemUserCode": "300",
+                            "salePrice": 70000,
+                        }
+                    ]
+                }
+            },
+        )
+
+    monkeypatch.setattr(lush_korea_scraper, "_get_with_retries", fake_get_with_retries)
+
+    metadata = find_product_metadata(requests.Session(), "더티", "퍼퓸")
+
+    assert metadata["regular_price"] == "70,000원"
 
 
 def test_scrape_perfume_names_does_not_fetch_reviews_while_reviews_are_disabled(monkeypatch):
@@ -206,6 +255,7 @@ def test_scrape_perfume_names_does_not_fetch_reviews_while_reviews_are_disabled(
         lambda _session, _korean_name, _product_type: {
             "english_name": "Dirty",
             "product_url": "https://www.lush.co.kr/products/view/300",
+            "regular_price": "70,000원",
         },
     )
     monkeypatch.setattr(
@@ -228,6 +278,7 @@ def test_scrape_perfume_names_does_not_fetch_reviews_while_reviews_are_disabled(
             "english_name": "Dirty",
             "product_type": "퍼퓸",
             "product_url": "https://www.lush.co.kr/products/view/300",
+            "regular_price": "70,000원",
             "ingredients": "변성알코올",
             "key_ingredients": ["스피어민트"],
         }

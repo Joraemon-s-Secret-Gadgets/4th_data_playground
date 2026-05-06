@@ -8,7 +8,7 @@ import time
 from collections.abc import Callable
 from pathlib import Path
 from typing import Any
-from urllib.parse import urljoin, urlsplit, urlunsplit
+from urllib.parse import parse_qsl, urlencode, urljoin, urlsplit, urlunsplit
 
 import requests
 from bs4 import BeautifulSoup
@@ -78,7 +78,13 @@ def fetch_homepage(
     sleep: Callable[[float], None] = time.sleep,
     stable_iterations: int = 5,
     scroll_pause_seconds: float = 1.5,
+    use_selenium: bool | None = None,
 ) -> str:
+    if use_selenium is None:
+        use_selenium = driver_factory is not None or _env_flag("LUSH_KR_USE_SELENIUM")
+    if not use_selenium:
+        return _fetch_paginated_homepage(url)
+
     driver = (driver_factory or _create_chrome_driver)()
 
     try:
@@ -138,6 +144,7 @@ def scrape_perfume_names(url: str = DEFAULT_URL) -> list[dict[str, str]]:
         matched = find_product_metadata(session, product["korean_name"], product["product_type"])
         full_korean_name = _format_korean_product_name(product["korean_name"], product["product_type"])
         product_url = product.get("product_url") or matched.get("product_url", "")
+        regular_price = product.get("regular_price") or matched.get("regular_price", "")
         detail = fetch_product_detail(session, product_url)
         # Reviews are temporarily disabled.
         # review_detail = fetch_product_reviews(session, matched.get("product_url", ""))
@@ -148,6 +155,7 @@ def scrape_perfume_names(url: str = DEFAULT_URL) -> list[dict[str, str]]:
                 "english_name": matched.get("english_name", ""),
                 "product_type": product["product_type"],
                 "product_url": product_url,
+                "regular_price": regular_price,
                 "ingredients": detail["ingredients"],
                 "key_ingredients": detail["key_ingredients"],
                 # "review_count": review_detail["review_count"],
@@ -176,9 +184,10 @@ def find_product_metadata(
             return {
                 "english_name": _normalize_text(str(match.get("itemEName") or "")),
                 "product_url": f"{BASE_URL}/products/view/{item_code}" if item_code else "",
+                "regular_price": _format_krw_price(match.get("salePrice")),
             }
 
-    return {"english_name": "", "product_url": ""}
+    return {"english_name": "", "product_url": "", "regular_price": ""}
 
 
 def fetch_product_detail(session: requests.Session, product_url: str) -> dict[str, Any]:
@@ -260,7 +269,7 @@ def extract_product_detail(html: str) -> dict[str, Any]:
 
 def main() -> None:
     url = os.getenv("LUSH_KR_HOME_URL", DEFAULT_URL)
-    output_path = Path(os.getenv("LUSH_KR_OUTPUT_PATH", "data/lush_korea_perfume_names.json"))
+    output_path = Path(os.getenv("LUSH_KR_OUTPUT_PATH", "data/lush_korea_fragrance_data.json"))
     rows = scrape_perfume_names(url)
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
@@ -320,6 +329,9 @@ def _extract_category_products(soup: BeautifulSoup) -> list[dict[str, str]]:
         product_url = ""
         if link := item.select_one("a[href*='/products/view/']"):
             product_url = _normalize_product_url(str(link.get("href") or ""))
+        regular_price = ""
+        if price_node := item.select_one(".prdlist__item__price"):
+            regular_price = _normalize_text(price_node.get_text(" ", strip=True))
 
         key = (korean_name, product_type)
         if key in seen:
@@ -327,6 +339,8 @@ def _extract_category_products(soup: BeautifulSoup) -> list[dict[str, str]]:
         product = {"korean_name": korean_name, "product_type": product_type}
         if product_url:
             product["product_url"] = product_url
+        if regular_price:
+            product["regular_price"] = regular_price
         products.append(product)
         seen.add(key)
 
@@ -369,6 +383,34 @@ def _normalize_product_url(href: str) -> str:
     return urlunsplit((split_url.scheme, split_url.netloc, split_url.path, "", ""))
 
 
+def _fetch_paginated_homepage(url: str) -> str:
+    pages: list[str] = []
+    max_pages = int(os.getenv("LUSH_KR_MAX_PAGES", "20"))
+
+    for page in range(1, max_pages + 1):
+        page_url = _with_page(url, page)
+        response = _get_with_retries(page_url, headers=build_headers(), timeout=20)
+        response.raise_for_status()
+        response.encoding = "utf-8"
+
+        html = response.text
+        if page > 1 and not BeautifulSoup(html, "html.parser").select("li.prdlist__item"):
+            break
+
+        pages.append(html)
+        if f"page={page + 1}" not in html:
+            break
+
+    return "\n".join(pages)
+
+
+def _with_page(url: str, page: int) -> str:
+    parts = urlsplit(url)
+    query = dict(parse_qsl(parts.query, keep_blank_values=True))
+    query["page"] = str(page)
+    return urlunsplit((parts.scheme, parts.netloc, parts.path, urlencode(query), parts.fragment))
+
+
 def _find_ingredient_section(soup: BeautifulSoup) -> Any | None:
     heading = soup.find(string=lambda value: _normalize_text(value or "") == "INGREDIENT")
     if heading is None:
@@ -384,6 +426,19 @@ def _format_korean_product_name(korean_name: str, product_type: str) -> str:
     if korean_name.endswith(product_type):
         return korean_name
     return _normalize_text(f"{korean_name} {product_type}")
+
+
+def _format_krw_price(value: Any) -> str:
+    if value in (None, ""):
+        return ""
+    try:
+        return f"{int(value):,}원"
+    except (TypeError, ValueError):
+        return _normalize_text(str(value))
+
+
+def _env_flag(name: str) -> bool:
+    return os.getenv(name, "").strip().lower() in {"1", "true", "yes", "on"}
 
 
 if __name__ == "__main__":
