@@ -23,7 +23,7 @@ jobs:
       - name: PR Agent
         uses: qodo-ai/pr-agent@main
         env:
-          OPENAI_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_KEY: ${{ secrets.OPENAI_KEY }}
           GITHUB_TOKEN: ${{ github.token }}
           github_action_config.auto_review: "true"
           github_action_config.auto_describe: "true"
