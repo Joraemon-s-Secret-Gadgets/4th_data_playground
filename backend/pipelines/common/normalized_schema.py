@@ -1,4 +1,9 @@
-"""Normalize scraper rows into the public fragrance data contract."""
+"""브랜드별 크롤러 row를 공통 향수 데이터 계약으로 정규화합니다.
+
+이 모듈은 사이트별 파서가 만든 서로 다른 필드 이름을 최종 `data/*.json`
+스키마로 맞추는 마지막 관문입니다. 가격, 제품 subtype, 노트, 향조, 키워드,
+메타데이터 정책은 이 파일을 기준으로 맞춥니다.
+"""
 
 from __future__ import annotations
 
@@ -52,7 +57,19 @@ def normalize_product_rows(
     translator: Translator | None = None,
     generate_description: bool = True,
 ) -> list[dict[str, Any]]:
-    """Normalize multiple scraper rows to the public fragrance schema."""
+    """여러 원천 row를 공통 향수 스키마 row 목록으로 변환합니다.
+
+    Args:
+        rows: 크롤러나 외부 export에서 읽은 원천 row 목록입니다.
+        source: `official`, `fragrantica`, `fraganty`, `retail` 같은 데이터 출처입니다.
+        source_country: 수집 사이트나 브랜드 기준 국가 코드/표기입니다.
+        brand: 출력에 사용할 브랜드명입니다.
+        translator: 영어 이름만 있는 경우 사용할 번역기입니다. 없으면 `.env`에서 DeepL 설정을 읽습니다.
+        generate_description: 원천 설명이 없을 때 짧은 fallback 설명을 만들지 여부입니다.
+
+    Returns:
+        공통 데이터 계약을 따르는 dict 목록입니다.
+    """
     selected_translator = translator if translator is not None else DeepLTranslator.from_env()
     return [
         normalize_product_row(
@@ -76,7 +93,23 @@ def normalize_product_row(
     translator: Translator | None = None,
     generate_description: bool = True,
 ) -> dict[str, Any]:
-    """Normalize one legacy scraper row to the public fragrance schema."""
+    """원천 row 하나를 공통 향수 데이터 계약으로 변환합니다.
+
+    원천별 크롤러는 가격, 이름, 노트 필드명이 서로 다르기 때문에 이 함수가
+    마지막 단계에서 안정적인 필드명과 타입으로 맞춥니다. `accords`와
+    `keywords`는 추론하지 않고 원천 row가 명시적으로 제공한 값만 사용합니다.
+
+    Args:
+        row: 크롤러 또는 외부 export에서 온 원천 row입니다.
+        source: 데이터 출처입니다.
+        source_country: 데이터 출처 국가입니다.
+        brand: 기본 브랜드명입니다.
+        translator: 누락된 한국어 이름을 보강할 번역기입니다.
+        generate_description: 원천 설명이 없을 때 설명을 생성할지 결정합니다.
+
+    Returns:
+        `data/*.json`에 저장 가능한 정규화 row입니다.
+    """
     original_country = str(row.get("country") or source_country or "")
     original_product_type = str(row.get("product_type") or "")
     english_name = str(row.get("english_name") or row.get("name") or "").strip()
@@ -130,7 +163,14 @@ def normalize_product_row(
 
 
 def parse_price(raw_value: object) -> dict[str, Any]:
-    """Parse display price text into raw, numeric amount, and currency."""
+    """표시 가격을 `raw`, `amount`, `currency` 구조로 파싱합니다.
+
+    Args:
+        raw_value: 문자열, 숫자, 또는 이미 분리된 가격 dict입니다.
+
+    Returns:
+        `raw`에는 원문 가격, `amount`에는 숫자 가격, `currency`에는 통화 코드를 담습니다.
+    """
     if isinstance(raw_value, dict):
         raw = str(raw_value.get("raw") or raw_value.get("display") or raw_value.get("regular_price") or "").strip()
         amount = raw_value.get("amount")
@@ -175,7 +215,7 @@ def parse_price(raw_value: object) -> dict[str, Any]:
 
 
 def normalize_name(value: str) -> str:
-    """Normalize product names for matching across sources."""
+    """소스 간 상품명 매칭에 사용할 정규화 이름을 만듭니다."""
     ascii_value = unicodedata.normalize("NFKD", value).encode("ascii", "ignore").decode("ascii")
     lowered = ascii_value.lower()
     lowered = re.sub(r"[^a-z0-9]+", " ", lowered)
@@ -183,7 +223,7 @@ def normalize_name(value: str) -> str:
 
 
 def normalize_product_subtype(value: str) -> str:
-    """Map source-specific product type labels to stable subtype values."""
+    """원천 상품 타입 표기를 안정적인 subtype 값으로 매핑합니다."""
     lowered = value.strip().lower()
     compact = lowered.replace("-", " ").replace("_", " ")
     mappings = [
@@ -215,6 +255,7 @@ def _description(
     ko_keywords: list[str],
     generate_description: bool,
 ) -> str:
+    """원천 설명을 우선 사용하고, 없을 때만 fallback 설명을 만듭니다."""
     value = str(row.get("description") or "")
     ingredients = str(row.get("ingredients") or "")
     if value:
@@ -242,7 +283,11 @@ def generate_fallback_description(
     ko_keywords: list[str],
     release_year: int | None = None,
 ) -> str:
-    """Build a concise description from normalized fields when source prose is absent."""
+    """원천 설명이 없을 때 정규화 필드로 짧은 한국어 설명을 만듭니다.
+
+    이 설명은 검색/미리보기용 보조 텍스트입니다. 원천 사이트의 실제 설명이
+    있으면 `_description`에서 이 함수까지 내려오지 않습니다.
+    """
     display_name = korean_name or english_name
     if not display_name:
         return ""
@@ -271,6 +316,7 @@ def generate_fallback_description(
 
 
 def _notes(row: dict[str, Any]) -> list[str]:
+    """원천의 notes 또는 key_ingredients를 중복 없는 평탄 배열로 변환합니다."""
     raw_notes = row.get("notes")
     if isinstance(raw_notes, dict):
         values: list[str] = []
@@ -285,6 +331,7 @@ def _notes(row: dict[str, Any]) -> list[str]:
 
 
 def _accords(row: dict[str, Any]) -> list[str]:
+    """원천이 명시한 accords/main_accords만 읽습니다."""
     raw = row.get("accords", row.get("main_accords", []))
     if isinstance(raw, list):
         values = []
@@ -298,6 +345,7 @@ def _accords(row: dict[str, Any]) -> list[str]:
 
 
 def _keywords(row: dict[str, Any]) -> tuple[list[str], list[str]]:
+    """원천 키워드를 한국어/영어 배열로 분리합니다."""
     keywords = row.get("keywords")
     if isinstance(keywords, dict):
         return _unique(str(value) for value in keywords.get("ko", [])), _unique(str(value) for value in keywords.get("en", []))
@@ -311,6 +359,7 @@ def _keywords(row: dict[str, Any]) -> tuple[list[str], list[str]]:
 
 
 def _price_value(row: dict[str, Any]) -> object:
+    """크롤러별 가격 후보 필드 중 실제 값이 있는 첫 번째 값을 고릅니다."""
     for key in ("regular_price", "price", "price_text", "price_raw", "sale_price", "salePrice", "list_price"):
         value = row.get(key)
         if value not in (None, "", 0, "0"):
@@ -319,7 +368,11 @@ def _price_value(row: dict[str, Any]) -> object:
 
 
 def infer_accords(row: dict[str, Any], notes: list[str]) -> list[str]:
-    """Infer accords from notes, description, ingredients, and existing Korean keywords."""
+    """레거시 보조 함수: 노트/설명 기반 향조 추론을 수행합니다.
+
+    현재 최종 정규화 경로에서는 데이터 신뢰도 정책 때문에 호출하지 않습니다.
+    과거 테스트나 실험 코드가 직접 사용할 수 있어 함수는 유지합니다.
+    """
     keyword_values: list[str] = []
     keywords = row.get("keywords")
     if isinstance(keywords, dict):
@@ -351,7 +404,10 @@ def infer_accords(row: dict[str, Any], notes: list[str]) -> list[str]:
 
 
 def infer_ko_keywords(accords: list[str], row: dict[str, Any], notes: list[str]) -> list[str]:
-    """Infer Korean mood keywords from accords, then fall back to source keywords."""
+    """레거시 보조 함수: accords를 한국어 분위기 키워드로 변환합니다.
+
+    현재 최종 정규화 경로에서는 자동 키워드 생성을 하지 않습니다.
+    """
     values = [KEYWORDS_BY_ACCORD[accord] for accord in accords if accord in KEYWORDS_BY_ACCORD]
     if values:
         return _unique(values)
@@ -363,6 +419,7 @@ def infer_ko_keywords(accords: list[str], row: dict[str, Any], notes: list[str])
 
 
 def _release_year(row: dict[str, Any]) -> int | None:
+    """명시 release_year 또는 설명 문자열에서 출시 연도를 읽습니다."""
     value = row.get("release_year")
     if value is None:
         meta = row.get("meta")
@@ -378,6 +435,7 @@ def _release_year(row: dict[str, Any]) -> int | None:
 
 
 def _unique(values: Any) -> list[str]:
+    """순서를 보존하면서 빈 값과 중복을 제거합니다."""
     result: list[str] = []
     for value in values:
         text = str(value or "").strip()

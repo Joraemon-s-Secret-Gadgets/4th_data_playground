@@ -1,4 +1,4 @@
-"""Shared facade for retail-site fragrance crawlers such as Tom Ford and Diptyque."""
+"""Tom Ford, Diptyque 같은 retail crawler 문서를 공통 스키마로 변환합니다."""
 
 from __future__ import annotations
 
@@ -11,7 +11,7 @@ from pipelines.retail_exports import format_price
 
 @dataclass(frozen=True)
 class BrandConfig:
-    """Configuration for one retail fragrance source."""
+    """retail fragrance source 하나의 크롤링 설정입니다."""
 
     key: str
     brand_name: str
@@ -45,7 +45,11 @@ BRAND_CONFIGS: dict[str, BrandConfig] = {
 
 
 def product_to_local_row(product: dict[str, Any]) -> dict[str, Any]:
-    """Convert a retail crawler product document to the local fragrance row schema."""
+    """retail crawler product 문서를 최종 향수 JSON row로 변환합니다.
+
+    retail export에는 원천 사이트가 명시한 accords/keywords가 없을 수 있으므로,
+    노트 이름만 최종 `notes`로 넘기고 향조/키워드는 자동 생성하지 않습니다.
+    """
     source_country = str(product.get("country") or "")
     brand = str(product.get("brand_name") or "")
     return normalize_product_row(
@@ -68,6 +72,7 @@ def product_to_local_row(product: dict[str, Any]) -> dict[str, Any]:
 
 
 def _primary_image_url(images: object) -> str:
+    """이미지 배열에서 대표 원본 URL 하나를 고릅니다."""
     if not isinstance(images, list) or not images:
         return ""
     first = images[0]
@@ -77,6 +82,7 @@ def _primary_image_url(images: object) -> str:
 
 
 def _key_ingredients(notes: object) -> list[str]:
+    """retail notes 중 top/heart/base/key 우선순위로 대표 노트를 고릅니다."""
     if not isinstance(notes, list):
         return []
 
@@ -94,6 +100,7 @@ def _key_ingredients(notes: object) -> list[str]:
 
 
 def _number_or_none(value: object) -> float | None:
+    """숫자로 바꿀 수 없는 가격 값은 None으로 정리합니다."""
     if value is None:
         return None
     try:

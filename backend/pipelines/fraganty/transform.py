@@ -1,4 +1,4 @@
-"""Transform Fraganty raw and enriched records into local output rows."""
+"""Fraganty raw/enriched records를 공통 향수 데이터 계약으로 변환합니다."""
 
 from __future__ import annotations
 
@@ -17,7 +17,7 @@ COUNTRY_BY_BRAND = {
 
 
 def refine_raw_details(records: list[dict[str, Any]], *, require_review: bool = True) -> list[dict[str, Any]]:
-    """Filter and normalize raw Fraganty detail records."""
+    """Fraganty 상세 raw record에서 성공/검토 완료 데이터만 추립니다."""
     refined: list[dict[str, Any]] = []
     for item in records:
         if str(item.get("status") or "").lower() != "success":
@@ -42,7 +42,11 @@ def format_final_rows(
     english_rows: list[dict[str, Any]] | None = None,
     brand: str,
 ) -> list[dict[str, Any]]:
-    """Convert enriched Fraganty rows to the schema used by local JSON outputs."""
+    """한국어/영어 Fraganty enriched row를 병합해 최종 JSON row로 변환합니다.
+
+    Fraganty는 main accords와 AI 분석 키워드를 원천 export에 포함하므로,
+    이 값들은 추론값이 아니라 소스 제공값으로 보고 보존합니다.
+    """
     english_by_url = {
         str(item.get("url") or ""): item for item in (english_rows or []) if isinstance(item, dict)
     }
@@ -78,7 +82,7 @@ def format_final_rows(
 
 
 def normalize_accords(value: object) -> list[str]:
-    """Normalize accords from raw dictionaries or already formatted strings."""
+    """dict 또는 문자열 배열로 들어온 Fraganty accords를 중복 없는 문자열 배열로 정리합니다."""
     if not isinstance(value, list):
         return []
 
@@ -94,7 +98,7 @@ def normalize_accords(value: object) -> list[str]:
 
 
 def normalize_usage_stats(value: object) -> dict[str, object]:
-    """Reduce Fraganty percentage maps to high-signal season and time labels."""
+    """Fraganty 사용 통계 중 신뢰도가 높은 계절/시간대 값만 축약합니다."""
     if not isinstance(value, dict):
         return {}
 
@@ -110,7 +114,7 @@ def normalize_usage_stats(value: object) -> dict[str, object]:
 
 
 def flatten_notes(value: object) -> list[str]:
-    """Flatten Top/Heart/Base notes while preserving order and uniqueness."""
+    """Top/Heart/Base 노트를 순서 보존 배열로 평탄화합니다."""
     if isinstance(value, list):
         return _unique_strings(value)
     if not isinstance(value, dict):
@@ -125,7 +129,7 @@ def flatten_notes(value: object) -> list[str]:
 
 
 def extract_regular_price(value: object) -> str:
-    """Extract a display price from Fraganty price fields."""
+    """Fraganty 가격 payload에서 표시 가격 하나를 추출합니다."""
     if isinstance(value, dict):
         retail = value.get("retail", "")
         if isinstance(retail, list):
@@ -135,7 +139,7 @@ def extract_regular_price(value: object) -> str:
 
 
 def extract_keywords(analysis: object, *, language: str) -> list[str]:
-    """Extract mood and occasion keywords from an AI analysis payload."""
+    """Fraganty AI 분석 payload에서 mood/occasion 키워드를 추출합니다."""
     if not isinstance(analysis, dict):
         return []
 
@@ -155,6 +159,7 @@ def extract_keywords(analysis: object, *, language: str) -> list[str]:
 
 
 def _percent_map(value: object) -> dict[str, int]:
+    """`80%` 같은 문자열 퍼센트를 정수 dict로 변환합니다."""
     if not isinstance(value, dict):
         return {}
 
@@ -168,6 +173,7 @@ def _percent_map(value: object) -> dict[str, int]:
 
 
 def _unique_strings(values: list[object]) -> list[str]:
+    """문자열 배열의 빈 값과 중복을 제거합니다."""
     result: list[str] = []
     for value in values:
         text = str(value or "")
