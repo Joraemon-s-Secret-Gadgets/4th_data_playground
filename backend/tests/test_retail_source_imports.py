@@ -56,6 +56,7 @@ def test_product_to_local_row_prefers_translated_note_names() -> None:
     row = product_to_local_row(
         {
             "country": "US",
+            "brand_name": "Tom Ford",
             "product_name_original": "Oud Wood Eau de Parfum",
             "product_name_ko": "오드 우드 오 드 퍼퓸",
             "product_type": "Eau de Parfum",
@@ -72,13 +73,25 @@ def test_product_to_local_row_prefers_translated_note_names() -> None:
     )
 
     assert row == {
-        "country": "US",
+        "source": "official",
+        "source_country": "US",
+        "brand": "TOM FORD",
         "korean_name": "오드 우드 오 드 퍼퓸",
         "english_name": "Oud Wood Eau de Parfum",
-        "product_type": "Eau de Parfum",
+        "normalized_name": "oud wood eau de parfum",
+        "product_type": "perfume",
+        "product_subtype": "eau_de_parfum",
         "product_url": "https://www.tomfordbeauty.com/products/oud-wood",
-        "regular_price": "$250.00",
         "image_url": "https://example.test/oud.jpg",
-        "ingredients": "알코올, 향료",
-        "key_ingredients": ["로즈우드"],
+        "price": {"raw": "$250.00", "amount": 250, "currency": "USD"},
+        "description": "오드 우드 오 드 퍼퓸은 로즈우드 노트가 중심인 향수입니다.",
+        "ingredients_raw": "알코올, 향료",
+        "notes": ["로즈우드"],
+        "accords": [],
+        "keywords": {"ko": [], "en": []},
+        "meta": {
+            "release_year": None,
+            "original_product_type": "Eau de Parfum",
+            "original_country": "US",
+        },
     }

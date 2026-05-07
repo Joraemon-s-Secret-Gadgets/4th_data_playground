@@ -12,7 +12,7 @@ from typing import Any
 from pipelines.chanel_korea.category import extract_fragrance_products
 from pipelines.chanel_korea.detail import extract_product_detail
 from pipelines.chanel_korea.fetch import fetch_paginated_category as _fetch_paginated_category
-from pipelines.common import build_request_headers, fetch_rendered_html, get_with_retries, print_json_rows
+from pipelines.common import build_request_headers, fetch_rendered_html, get_with_retries, normalize_product_rows, print_json_rows
 
 
 DEFAULT_URL = "https://www.chanel.com/kr/fragrance/women/c/7x1x1/"
@@ -151,8 +151,15 @@ def main() -> None:
         raise RuntimeError("Chanel Korea scraper returned no fragrance rows; output was not written.")
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
-    output_path.write_text(json.dumps(rows, ensure_ascii=False, indent=2), encoding="utf-8")
-    print_json_rows(rows)
+    normalized_rows = normalize_product_rows(
+        rows,
+        source="official",
+        source_country="KR",
+        brand="CHANEL",
+        generate_description=False,
+    )
+    output_path.write_text(json.dumps(normalized_rows, ensure_ascii=False, indent=2), encoding="utf-8")
+    print_json_rows(normalized_rows)
 
 
 def _add_product_details(rows: list[dict[str, str]]) -> list[dict[str, str]]:

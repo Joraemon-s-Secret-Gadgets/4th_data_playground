@@ -7,7 +7,7 @@ import os
 from pathlib import Path
 from typing import Any
 
-from pipelines.common import fetch_rendered_html, print_json_rows
+from pipelines.common import fetch_rendered_html, normalize_product_rows, print_json_rows
 from pipelines.fraganty.category import BASE_URL, extract_perfume_links
 from pipelines.fraganty.detail import extract_perfume_detail, extract_review_detail
 
@@ -43,8 +43,9 @@ def main() -> None:
 
     rows = [scrape_perfume_detail(brand, url) for url in scrape_perfume_links(brand_slug)]
     output_path.parent.mkdir(parents=True, exist_ok=True)
-    output_path.write_text(json.dumps(rows, ensure_ascii=False, indent=2), encoding="utf-8")
-    print_json_rows(rows)
+    normalized_rows = normalize_product_rows(rows, source="fraganty", source_country="", brand=brand)
+    output_path.write_text(json.dumps(normalized_rows, ensure_ascii=False, indent=2), encoding="utf-8")
+    print_json_rows(normalized_rows)
 
 
 if __name__ == "__main__":

@@ -1,55 +1,125 @@
 [
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "고정 날짜",
     "english_name": "Sticky Dates",
-    "product_type": "Body Spray",
+    "normalized_name": "sticky dates",
+    "product_type": "perfume",
+    "product_subtype": "body_spray",
     "product_url": "https://www.lush.com/uk/en/p/sticky-dates-body-spray-",
-    "regular_price": "£29.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/Sticky_Dates_Body_Spray_200ml_562397f9_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Aqua (Water), Parfum, Glycerin, Ceratonia Siliqua Gum (Carob Resinoid), Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract), Balsam Fir Resin, Santalum Album Oil (Sandalwood Oil), *Benzyl Benzoate, *Benzyl Cinnamate, *Cinnamal, Coumarin, *Eugenol, *Farnesol",
-    "key_ingredients": [
+    "price": {
+      "raw": "£29.00",
+      "amount": 29,
+      "currency": "GBP"
+    },
+    "description": "고정 날짜은 Benzoin, Sandalwood, Carob 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Aqua (Water), Parfum, Glycerin, Ceratonia Siliqua Gum (Carob Resinoid), Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract), Balsam Fir Resin, Santalum Album Oil (Sandalwood Oil), *Benzyl Benzoate, *Benzyl Cinnamate, *Cinnamal, Coumarin, *Eugenol, *Farnesol",
+    "notes": [
       "Benzoin",
       "Sandalwood",
       "Carob"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Body Spray",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "잘못된 통치의 군주",
     "english_name": "Lord Of Misrule",
-    "product_type": "Perfume",
+    "normalized_name": "lord of misrule",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/lord-of-misrule-perfume",
-    "regular_price": "£30.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/lord_of_misrule_perfume_100ml_2021_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Parfum, Benzyl Benzoate, Aqua (Water), Dark Sumatran Patchouli Oil, Glycerin, *Limonene, Piper Nigrum Fruit Oil (Black Pepper Oil), Vanilla Planifolia Fruit Extract (Vanilla Extract), *Anise Alcohol, *Benzyl Alcohol, *Citral, *Coumarin, *Eugenol, *Farnesol, *Geraniol, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£30.00",
+      "amount": 30,
+      "currency": "GBP"
+    },
+    "description": "잘못된 통치의 군주은 Vanilla, Pepper, Patchouli 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Parfum, Benzyl Benzoate, Aqua (Water), Dark Sumatran Patchouli Oil, Glycerin, *Limonene, Piper Nigrum Fruit Oil (Black Pepper Oil), Vanilla Planifolia Fruit Extract (Vanilla Extract), *Anise Alcohol, *Benzyl Alcohol, *Citral, *Coumarin, *Eugenol, *Farnesol, *Geraniol, *Linalool",
+    "notes": [
       "Vanilla",
       "Pepper",
       "Patchouli"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "아보카도 코워시",
     "english_name": "Avocado Co-wash",
-    "product_type": "Body Spray",
+    "normalized_name": "avocado co wash",
+    "product_type": "perfume",
+    "product_subtype": "body_spray",
     "product_url": "https://www.lush.com/uk/en/p/avocado-co-wash-body-spray",
-    "regular_price": "£25.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/Avocado_Co-Wash_Body_Spray_200ml_12cf418b_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Aqua (Water), Parfum, Glycerin, Litsea Cubeba Fruit Oil (Litsea Cubeba Oil), Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil), Olibanum Oil, Amyl Cinnamal, *Benzyl Cinnamate, *Cinnamal, *Cinnamyl Alcohol, *Citral, *Citronellol, *Geraniol, *Limonene, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£25.00",
+      "amount": 25,
+      "currency": "GBP"
+    },
+    "description": "아보카도 코워시은 Citrus, Litsea Cubeba, Bergamot 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Aqua (Water), Parfum, Glycerin, Litsea Cubeba Fruit Oil (Litsea Cubeba Oil), Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil), Olibanum Oil, Amyl Cinnamal, *Benzyl Cinnamate, *Cinnamal, *Cinnamyl Alcohol, *Citral, *Citronellol, *Geraniol, *Limonene, *Linalool",
+    "notes": [
       "Citrus",
       "Litsea Cubeba",
       "Bergamot"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Body Spray",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "고정 날짜",
     "english_name": "Sticky Dates",
-    "product_type": "Lush Melt",
+    "normalized_name": "sticky dates",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/sticky-dates-lush-melt",
-    "regular_price": "£8.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/sticky_dates_lush_melt_2023_a921b07e_thumbnail_256.png",
-    "ingredients": "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter), Shorea Stenoptera Seed Butter (Illipe Butter), Cetearyl Olivate & Sorbitan Olivate, PEG-7 Glyceryl Cocoate, Polysorbate 20, Silica, Glyceryl Stearate, Parfum, Garcinia Indica Seed Butter (Kokum Butter), Butyrospermum Parkii Butter (Organic Shea Butter), Cetearyl Alcohol, Prunus Amygdalus Dulcis Oil (Almond Oil), Ceratonia Siliqua Gum (Carob Resinoid), Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract), Santalum Album Oil (Sandalwood Oil), Argania Spinosa Kernel Oil (Organic Argan Oil), Titanium Dioxide, Aqua (Water), Synthetic Fluorphlogopite, Tin Oxide, Benzyl Alcohol, Colour 77492, Colour 77491, Colour 47005, Colour 15985:1",
-    "key_ingredients": [
+    "price": {
+      "raw": "£8.00",
+      "amount": 8,
+      "currency": "GBP"
+    },
+    "description": "고정 날짜은 Almond, Argan, Vanilla, Cocoa, Syrup 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter), Shorea Stenoptera Seed Butter (Illipe Butter), Cetearyl Olivate & Sorbitan Olivate, PEG-7 Glyceryl Cocoate, Polysorbate 20, Silica, Glyceryl Stearate, Parfum, Garcinia Indica Seed Butter (Kokum Butter), Butyrospermum Parkii Butter (Organic Shea Butter), Cetearyl Alcohol, Prunus Amygdalus Dulcis Oil (Almond Oil), Ceratonia Siliqua Gum (Carob Resinoid), Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract), Santalum Album Oil (Sandalwood Oil), Argania Spinosa Kernel Oil (Organic Argan Oil), Titanium Dioxide, Aqua (Water), Synthetic Fluorphlogopite, Tin Oxide, Benzyl Alcohol, Colour 77492, Colour 77491, Colour 47005, Colour 15985:1",
+    "notes": [
       "Almond",
       "Argan",
       "Vanilla",
@@ -59,454 +129,1134 @@
       "Benzoin",
       "Sandalwood",
       "Carob"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Lush Melt",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "Sleepy",
     "english_name": "Sleepy",
-    "product_type": "Body Spray",
+    "normalized_name": "sleepy",
+    "product_type": "perfume",
+    "product_subtype": "body_spray",
     "product_url": "https://www.lush.com/uk/en/p/sleepy-bodyspray",
-    "regular_price": "£29.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/Sleepy_Body_Spray_200ml_fbccddbf_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Aqua (Water), Parfum, Glycerin, Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract), Lavandula Angustifolia Oil (Lavender Oil), *Linalool, Dipteryx Odorata Seed Extract (Tonka Seed Extract), Cananga Odorata Flower Oil (Ylang Ylang Oil), *Benzyl Benzoate, *Benzyl Cinnamate, *Benzyl Salicylate, *Cinnamal, Coumarin, *Eugenol, *Farnesol, *Geraniol, *Isoeugenol, *Limonene",
-    "key_ingredients": [
+    "price": {
+      "raw": "£29.00",
+      "amount": 29,
+      "currency": "GBP"
+    },
+    "description": "Sleepy은 Lavender, Benzoin, Tonka, Ylang Ylang 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Aqua (Water), Parfum, Glycerin, Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract), Lavandula Angustifolia Oil (Lavender Oil), *Linalool, Dipteryx Odorata Seed Extract (Tonka Seed Extract), Cananga Odorata Flower Oil (Ylang Ylang Oil), *Benzyl Benzoate, *Benzyl Cinnamate, *Benzyl Salicylate, *Cinnamal, Coumarin, *Eugenol, *Farnesol, *Geraniol, *Isoeugenol, *Limonene",
+    "notes": [
       "Lavender",
       "Benzoin",
       "Tonka",
       "Ylang Ylang"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Body Spray",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "섹스 폭탄",
     "english_name": "Sex Bomb",
-    "product_type": "Body Spray",
+    "normalized_name": "sex bomb",
+    "product_type": "perfume",
+    "product_subtype": "body_spray",
     "product_url": "https://www.lush.com/uk/en/p/sex-bomb-body-spray",
-    "regular_price": "£29.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/Sex_Bomb_Body_Spray_200ml_93c6e28e_thumbnail_256.png",
-    "ingredients": "Alcohol Denat., Aqua (Water), Parfum, Glycerin, Jasminum Grandiflorum Flower Extract (Jasmine Extract), Salvia Sclarea Oil (Clary Sage Oil), Cananga Odorata Flower Oil (Ylang Ylang Oil), Alpha-Isomethyl Ionone, *Benzyl Alcohol, *Benzyl Benzoate, *Citral, *Eugenol, *Farnesol, *Geraniol, *Limonene, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£29.00",
+      "amount": 29,
+      "currency": "GBP"
+    },
+    "description": "섹스 폭탄은 Jasmine, Ylang Ylang 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat., Aqua (Water), Parfum, Glycerin, Jasminum Grandiflorum Flower Extract (Jasmine Extract), Salvia Sclarea Oil (Clary Sage Oil), Cananga Odorata Flower Oil (Ylang Ylang Oil), Alpha-Isomethyl Ionone, *Benzyl Alcohol, *Benzyl Benzoate, *Citral, *Eugenol, *Farnesol, *Geraniol, *Limonene, *Linalool",
+    "notes": [
       "Jasmine",
       "Ylang Ylang"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Body Spray",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "로즈 잼",
     "english_name": "Rose Jam",
-    "product_type": "Body Spray",
+    "normalized_name": "rose jam",
+    "product_type": "perfume",
+    "product_subtype": "body_spray",
     "product_url": "https://www.lush.com/uk/en/p/rose-jam-body-spray",
-    "regular_price": "£33.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/Rose_Jam_Body_Spray_200ml_fdc24be0_thumbnail_256.png",
-    "ingredients": "Alcohol Denat., Aqua (Water), Parfum, Glycerin, Pakistani Rose Absolute, Rosa Damascena Flower Oil (Rose Oil), Pelargonium Graveolens Flower Oil (Geranium Oil), Citrus Limon Peel Oil (Lemon Oil), *Benzyl Alcohol, *Citral, Citronellol, Coumarin, *Eugenol, *Farnesol, Geraniol, *Limonene, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£33.00",
+      "amount": 33,
+      "currency": "GBP"
+    },
+    "description": "로즈 잼은 Rose, Citrus, Lemon, Geranium 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat., Aqua (Water), Parfum, Glycerin, Pakistani Rose Absolute, Rosa Damascena Flower Oil (Rose Oil), Pelargonium Graveolens Flower Oil (Geranium Oil), Citrus Limon Peel Oil (Lemon Oil), *Benzyl Alcohol, *Citral, Citronellol, Coumarin, *Eugenol, *Farnesol, Geraniol, *Limonene, *Linalool",
+    "notes": [
       "Rose",
       "Citrus",
       "Lemon",
       "Geranium"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Body Spray",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "오만의 군주",
     "english_name": "Lord of Misrule",
-    "product_type": "Solid Perfume",
+    "normalized_name": "lord of misrule",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/lord-of-misrule-solidperfume",
-    "regular_price": "£12.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/lord_of_misrule_solid_perfume_pack_11g_2024_fe0310ae_thumbnail_256.png",
-    "ingredients": "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil), Ricinus Communis Seed Oil (Organic Castor Oil), Euphorbia Cerifera Cera (Organic Candelilla Wax), Parfum, Dark Sumatran Patchouli Oil, Piper Nigrum Fruit Oil (Black Pepper Oil), Vanilla Planifolia Fruit Extract (Vanilla Extract), *Benzyl Benzoate, *Citral, *Coumarin, *Limonene, *Linalool, Colour 19140:1, Colour 42090:2, Colour 77499",
-    "key_ingredients": [
+    "price": {
+      "raw": "£12.00",
+      "amount": 12,
+      "currency": "GBP"
+    },
+    "description": "오만의 군주은 Jojoba, Vanilla, Pepper, Patchouli 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil), Ricinus Communis Seed Oil (Organic Castor Oil), Euphorbia Cerifera Cera (Organic Candelilla Wax), Parfum, Dark Sumatran Patchouli Oil, Piper Nigrum Fruit Oil (Black Pepper Oil), Vanilla Planifolia Fruit Extract (Vanilla Extract), *Benzyl Benzoate, *Citral, *Coumarin, *Limonene, *Linalool, Colour 19140:1, Colour 42090:2, Colour 77499",
+    "notes": [
       "Jojoba",
       "Vanilla",
       "Pepper",
       "Patchouli"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Solid Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "좋은 시간을 보내세요",
     "english_name": "Let The Good Times Roll",
-    "product_type": "Gift",
+    "normalized_name": "let the good times roll",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/let-the-good-times-roll-gift",
-    "regular_price": "£37.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/Gift-2025-Let-The-Good-Times-Roll-Gift-Contents-EN-PDP__d0b9c941_thumbnail_2.png",
-    "ingredients": "",
-    "key_ingredients": []
+    "price": {
+      "raw": "£37.00",
+      "amount": 37,
+      "currency": "GBP"
+    },
+    "description": "좋은 시간을 보내세요 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Gift",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "좋은 시간을 보내세요",
     "english_name": "Let The Good Times Roll",
-    "product_type": "Body Spray",
+    "normalized_name": "let the good times roll",
+    "product_type": "perfume",
+    "product_subtype": "body_spray",
     "product_url": "https://www.lush.com/uk/en/p/let-the-good-times-roll-body-spray",
-    "regular_price": "£25.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/Let_The_Good_Times_Roll_Body_Spray_200ml_a579ba8f_thumbnail_256.png",
-    "ingredients": "Alcohol Denat., Aqua (Water), Parfum, Glycerin",
-    "key_ingredients": []
+    "price": {
+      "raw": "£25.00",
+      "amount": 25,
+      "currency": "GBP"
+    },
+    "description": "좋은 시간을 보내세요 향수입니다.",
+    "ingredients_raw": "Alcohol Denat., Aqua (Water), Parfum, Glycerin",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Body Spray",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "Karma",
     "english_name": "Karma",
-    "product_type": "Perfume",
+    "normalized_name": "karma",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/karma-perfume",
-    "regular_price": "£35.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/karma_perfume_30ml_2022_cdce5e4c_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Parfum, Aqua (Water), *Limonene, Pogostemon Cablin Oil (Patchouli Oil), Glycerin, Brazilian Orange Oil, Lavandula Hybrida Oil (Lavandin Oil), Pinus Sylvestris Oil (Pine Oil), Cymbopogon Flexuosus Leaf Oil (Lemongrass Oil), Canarium Commune Gum Oil (Elemi Oil), Cassie Absolute, *Cinnamal, *Citral, *Geraniol, *Citronellol, *Linalool, *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Cinnamyl Alcohol, *Hydroxycitronellal, *Isoeugenol, *Coumarin, *Eugenol, *Farnesol",
-    "key_ingredients": [
+    "price": {
+      "raw": "£35.00",
+      "amount": 35,
+      "currency": "GBP"
+    },
+    "description": "Karma은 Citrus, Patchouli, Pine/Fir, Lemongrass, Orange 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Parfum, Aqua (Water), *Limonene, Pogostemon Cablin Oil (Patchouli Oil), Glycerin, Brazilian Orange Oil, Lavandula Hybrida Oil (Lavandin Oil), Pinus Sylvestris Oil (Pine Oil), Cymbopogon Flexuosus Leaf Oil (Lemongrass Oil), Canarium Commune Gum Oil (Elemi Oil), Cassie Absolute, *Cinnamal, *Citral, *Geraniol, *Citronellol, *Linalool, *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Cinnamyl Alcohol, *Hydroxycitronellal, *Isoeugenol, *Coumarin, *Eugenol, *Farnesol",
+    "notes": [
       "Citrus",
       "Patchouli",
       "Pine/Fir",
       "Lemongrass",
       "Orange"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "여보, 애들 씻겼어",
     "english_name": "Honey I Washed The Kids",
-    "product_type": "Body Spray",
+    "normalized_name": "honey i washed the kids",
+    "product_type": "perfume",
+    "product_subtype": "body_spray",
     "product_url": "https://www.lush.com/uk/en/p/honey-i-washed-the-kids-body-spray",
-    "regular_price": "£25.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/Honey_I_Washed_The_Kids_Body_Spray_200ml_35c3c4fe_thumbnail_256.png",
-    "ingredients": "Alcohol Denat., Aqua (Water), Parfum, Glycerin, Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil), Brazilian Orange Oil, Amyl Cinnamal, *Citral, *Citronellol, *Geraniol, *Hydroxycitronellal, *Limonene, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£25.00",
+      "amount": 25,
+      "currency": "GBP"
+    },
+    "description": "여보, 애들 씻겼어은 Citrus 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat., Aqua (Water), Parfum, Glycerin, Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil), Brazilian Orange Oil, Amyl Cinnamal, *Citral, *Citronellol, *Geraniol, *Hydroxycitronellal, *Limonene, *Linalool",
+    "notes": [
       "Citrus"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Body Spray",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "Dirty",
     "english_name": "Dirty",
-    "product_type": "Body Spray",
+    "normalized_name": "dirty",
+    "product_type": "perfume",
+    "product_subtype": "body_spray",
     "product_url": "https://www.lush.com/uk/en/p/dirty-body-spray",
-    "regular_price": "£29.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/Dirty_Body_Spray_200ml_207a3ea4_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Aqua (Water), Parfum, Glycerin, Mentha Spicata Herb Oil (Spearmint Oil), Artemisia Dracunculus Oil (Tarragon Oil), Sandalwood Oil, Lavandula Angustifolia Extract (Lavender Extract), Citrus Aurantium Amara Flower Oil (Neroli Oil), Thymus Vulgaris Leaf Extract (Thyme Extract), *Benzyl Benzoate, *Benzyl Cinnamate, *Cinnamyl Alcohol, *Citral, *Citronellol, *Coumarin, *Eugenol, *Farnesol, *Geraniol, *Limonene, *Linalool, Alpha-Isomethyl Ionone, Hydroxycitronellal, Evernia Prunastri Extract (Oakmoss Extract)",
-    "key_ingredients": [
+    "price": {
+      "raw": "£29.00",
+      "amount": 29,
+      "currency": "GBP"
+    },
+    "description": "Dirty은 Mint, Lavender, Sandalwood 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Aqua (Water), Parfum, Glycerin, Mentha Spicata Herb Oil (Spearmint Oil), Artemisia Dracunculus Oil (Tarragon Oil), Sandalwood Oil, Lavandula Angustifolia Extract (Lavender Extract), Citrus Aurantium Amara Flower Oil (Neroli Oil), Thymus Vulgaris Leaf Extract (Thyme Extract), *Benzyl Benzoate, *Benzyl Cinnamate, *Cinnamyl Alcohol, *Citral, *Citronellol, *Coumarin, *Eugenol, *Farnesol, *Geraniol, *Limonene, *Linalool, Alpha-Isomethyl Ionone, Hydroxycitronellal, Evernia Prunastri Extract (Oakmoss Extract)",
+    "notes": [
       "Mint",
       "Lavender",
       "Sandalwood"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Body Spray",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "첼시 모닝",
     "english_name": "Chelsea Morning",
-    "product_type": "Solid Perfume",
+    "normalized_name": "chelsea morning",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/chelsea-morning-solid-perfume",
-    "regular_price": "£12.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/chelsea_morning_solid_perfume_pack_11g_2024_c7598ed4_thumbnail_256.png",
-    "ingredients": "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil), Ricinus Communis Seed Oil (Organic Castor Oil), Euphorbia Cerifera Cera (Organic Candelilla Wax), Parfum, Dipteryx Odorata Seed Extract (Tonka Seed Extract), Backhousia Citriodora Leaf Oil (Lemon Myrtle Oil), Fenugreek Absolute, Vanilla Planifolia Fruit Extract (Vanilla Extract), Titanium Dioxide, Synthetic Fluorphlogopite, Tin Oxide, Silica, *Anise Alcohol, *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Cinnamal, *Citral, *Coumarin, *Eugenol, *Geraniol, *Isoeugenol, *Linalool, Colour 15985:1, Colour 77491",
-    "key_ingredients": [
+    "price": {
+      "raw": "£12.00",
+      "amount": 12,
+      "currency": "GBP"
+    },
+    "description": "첼시 모닝은 Vanilla, Jojoba, Tonka, Castor 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil), Ricinus Communis Seed Oil (Organic Castor Oil), Euphorbia Cerifera Cera (Organic Candelilla Wax), Parfum, Dipteryx Odorata Seed Extract (Tonka Seed Extract), Backhousia Citriodora Leaf Oil (Lemon Myrtle Oil), Fenugreek Absolute, Vanilla Planifolia Fruit Extract (Vanilla Extract), Titanium Dioxide, Synthetic Fluorphlogopite, Tin Oxide, Silica, *Anise Alcohol, *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Cinnamal, *Citral, *Coumarin, *Eugenol, *Geraniol, *Isoeugenol, *Linalool, Colour 15985:1, Colour 77491",
+    "notes": [
       "Vanilla",
       "Jojoba",
       "Tonka",
       "Castor"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Solid Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "첼시 모닝",
     "english_name": "Chelsea Morning",
-    "product_type": "Perfume",
+    "normalized_name": "chelsea morning",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/chelsea-morning-perfume",
-    "regular_price": "£25.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/chelsea_morning_100ml_perfume_ecom_2024_2bd43b53_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Parfum, Aqua (Water), Glycerin, Dipteryx Odorata Seed Extract (Tonka Seed Extract), Backhousia Citriodora Leaf Oil (Lemon Myrtle Oil), Fenugreek Absolute, Vanilla Planifolia Fruit Extract (Vanilla Extract), *Anise Alcohol, *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Cinnamal, *Citral, *Coumarin, *Eugenol, *Geraniol, *Isoeugenol, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£25.00",
+      "amount": 25,
+      "currency": "GBP"
+    },
+    "description": "첼시 모닝은 Vanilla, Tonka 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Parfum, Aqua (Water), Glycerin, Dipteryx Odorata Seed Extract (Tonka Seed Extract), Backhousia Citriodora Leaf Oil (Lemon Myrtle Oil), Fenugreek Absolute, Vanilla Planifolia Fruit Extract (Vanilla Extract), *Anise Alcohol, *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Cinnamal, *Citral, *Coumarin, *Eugenol, *Geraniol, *Isoeugenol, *Linalool",
+    "notes": [
       "Vanilla",
       "Tonka"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "바닐라",
     "english_name": "Vanillary",
-    "product_type": "Solid Perfume",
+    "normalized_name": "vanillary",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/vanillary-solidperfume",
-    "regular_price": "£12.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/vanillary_solid_perfume_pack_11g_2024_2bad8c13_thumbnail_256.png",
-    "ingredients": "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil), Ricinus Communis Seed Oil (Organic Castor Oil), Euphorbia Cerifera Cera (Organic Candelilla Wax), Parfum, Titanium Dioxide, Vanilla Planifolia Fruit Extract (Vanilla Extract), Jasminum Grandiflorum Flower Extract (Jasmine Extract), Brazilian Tonka Absolute, *Anise Alcohol, *Benzyl Alcohol, *Eugenol, *Isoeugenol, Hydroxycitronellal, *Cinnamal, *Coumarin, *Linalool, *Farnesol, *Geraniol, *Benzyl Cinnamate, *Benzyl Benzoate, Colour 77492",
-    "key_ingredients": [
+    "price": {
+      "raw": "£12.00",
+      "amount": 12,
+      "currency": "GBP"
+    },
+    "description": "바닐라은 Jojoba, Vanilla, Jasmine 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil), Ricinus Communis Seed Oil (Organic Castor Oil), Euphorbia Cerifera Cera (Organic Candelilla Wax), Parfum, Titanium Dioxide, Vanilla Planifolia Fruit Extract (Vanilla Extract), Jasminum Grandiflorum Flower Extract (Jasmine Extract), Brazilian Tonka Absolute, *Anise Alcohol, *Benzyl Alcohol, *Eugenol, *Isoeugenol, Hydroxycitronellal, *Cinnamal, *Coumarin, *Linalool, *Farnesol, *Geraniol, *Benzyl Cinnamate, *Benzyl Benzoate, Colour 77492",
+    "notes": [
       "Jojoba",
       "Vanilla",
       "Jasmine"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Solid Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "컴포터",
     "english_name": "The Comforter",
-    "product_type": "Body Spray",
+    "normalized_name": "the comforter",
+    "product_type": "perfume",
+    "product_subtype": "body_spray",
     "product_url": "https://www.lush.com/uk/en/p/the-comforter-body-spray",
-    "regular_price": "£25.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/The_Comforter_Body_Spray_200ml_b8040f4c_thumbnail_256.png",
-    "ingredients": "Aqua (Water), Parfum, Glycerin, Ribes Nigrum Fruit Extract (Blackcurrant Extract), Cupressus Sempervirens Oil (Cypress Oil), *Citral, *Limonene, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£25.00",
+      "amount": 25,
+      "currency": "GBP"
+    },
+    "description": "컴포터은 Citrus, Blackcurrant 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Aqua (Water), Parfum, Glycerin, Ribes Nigrum Fruit Extract (Blackcurrant Extract), Cupressus Sempervirens Oil (Cypress Oil), *Citral, *Limonene, *Linalool",
+    "notes": [
       "Citrus",
       "Blackcurrant"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Body Spray",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "슈퍼 밀크",
     "english_name": "Super Milk",
-    "product_type": "Body Spray",
+    "normalized_name": "super milk",
+    "product_type": "perfume",
+    "product_subtype": "body_spray",
     "product_url": "https://www.lush.com/uk/en/p/super-milk-body-spray",
-    "regular_price": "£33.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/super_milk_body_spray_200ml_2025_de57752e_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Aqua (Water), Parfum, Glycerin, Litsea Cubeba Fruit Oil (Litsea Cubeba Oil), Dipteryx Odorata Seed Extract (Tonka Seed Extract), Vanilla Planifolia Fruit Extract (Vanilla Extract), Prunus Amygdalus Amara Kernel Oil (Almond Essential Oil), *Benzyl Benzoate, *Citral, Coumarin, *Limonene, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£33.00",
+      "amount": 33,
+      "currency": "GBP"
+    },
+    "description": "슈퍼 밀크은 Litsea cubeba, Tonka, Vanilla, Litsea Cubeba 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Aqua (Water), Parfum, Glycerin, Litsea Cubeba Fruit Oil (Litsea Cubeba Oil), Dipteryx Odorata Seed Extract (Tonka Seed Extract), Vanilla Planifolia Fruit Extract (Vanilla Extract), Prunus Amygdalus Amara Kernel Oil (Almond Essential Oil), *Benzyl Benzoate, *Citral, Coumarin, *Limonene, *Linalool",
+    "notes": [
       "Litsea cubeba",
       "Tonka",
       "Vanilla",
       "Litsea Cubeba"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Body Spray",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "고정 날짜",
     "english_name": "Sticky Dates",
-    "product_type": "Gift",
+    "normalized_name": "sticky dates",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/sticky-dates-gift",
-    "regular_price": "£39.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/Gift-2024-Sticky-Dates-Gift-Contents-PDP_02_bc1d757c_thumbnail_256.png",
-    "ingredients": "",
-    "key_ingredients": []
+    "price": {
+      "raw": "£39.00",
+      "amount": 39,
+      "currency": "GBP"
+    },
+    "description": "고정 날짜 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Gift",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "Karma",
     "english_name": "Karma",
-    "product_type": "Solid Perfume",
+    "normalized_name": "karma",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/karma-solidperfume",
-    "regular_price": "£12.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/karma_solid_perfume_pack_11g_2024_f3a1c8e6_thumbnail_256.png",
-    "ingredients": "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil), Ricinus Communis Seed Oil (Organic Castor Oil), Euphorbia Cerifera Cera (Organic Candelilla Wax), Parfum, *Limonene, Pogostemon Cablin Oil (Patchouli Oil), Brazilian Orange Oil, Lavandula Hybrida Oil (Lavandin Oil), Pinus Sylvestris Oil (Pine Oil), Cymbopogon Flexuosus Leaf Oil (Lemongrass Oil), Canarium Commune Gum Oil (Elemi Oil), *Cinnamal, *Citral, *Geraniol, *Citronellol, *Farnesol, *Benzyl Alcohol, *Benzyl Benzoate, *Eugenol, *Hydroxycitronellal, *Coumarin, *Benzyl Cinnamate, *Cinnamyl Alcohol, *Isoeugenol, *Linalool, Colour 73360, Colour 19140",
-    "key_ingredients": [
+    "price": {
+      "raw": "£12.00",
+      "amount": 12,
+      "currency": "GBP"
+    },
+    "description": "Karma은 Jojoba, Citrus, Patchouli, Pine/Fir, Lemongrass 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil), Ricinus Communis Seed Oil (Organic Castor Oil), Euphorbia Cerifera Cera (Organic Candelilla Wax), Parfum, *Limonene, Pogostemon Cablin Oil (Patchouli Oil), Brazilian Orange Oil, Lavandula Hybrida Oil (Lavandin Oil), Pinus Sylvestris Oil (Pine Oil), Cymbopogon Flexuosus Leaf Oil (Lemongrass Oil), Canarium Commune Gum Oil (Elemi Oil), *Cinnamal, *Citral, *Geraniol, *Citronellol, *Farnesol, *Benzyl Alcohol, *Benzyl Benzoate, *Eugenol, *Hydroxycitronellal, *Coumarin, *Benzyl Cinnamate, *Cinnamyl Alcohol, *Isoeugenol, *Linalool, Colour 73360, Colour 19140",
+    "notes": [
       "Jojoba",
       "Citrus",
       "Patchouli",
       "Pine/Fir",
       "Lemongrass",
       "Orange"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Solid Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "Zesty",
     "english_name": "Zesty",
-    "product_type": "Body Spray",
+    "normalized_name": "zesty",
+    "product_type": "perfume",
+    "product_subtype": "body_spray",
     "product_url": "https://www.lush.com/uk/en/p/zesty-body-spray",
-    "regular_price": "£29.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/Zesty_Body_Spray_200ml_4dfc72fd_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Aqua (Water), Parfum, Glycerin, *Limonene, Citrus Aurantifolia Peel Oil (Lime Oil), Olibanum Oil, Citrus Aurantium Amara Flower Oil (Neroli Oil), Alpha-Isomethyl Ionone, Benzyl Salicylate, *Citral, *Farnesol, *Geraniol, Hydroxycitronellal, *Isoeugenol, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£29.00",
+      "amount": 29,
+      "currency": "GBP"
+    },
+    "description": "Zesty은 Citrus, Neroli, Lime, Frankincense 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Aqua (Water), Parfum, Glycerin, *Limonene, Citrus Aurantifolia Peel Oil (Lime Oil), Olibanum Oil, Citrus Aurantium Amara Flower Oil (Neroli Oil), Alpha-Isomethyl Ionone, Benzyl Salicylate, *Citral, *Farnesol, *Geraniol, Hydroxycitronellal, *Isoeugenol, *Linalool",
+    "notes": [
       "Citrus",
       "Neroli",
       "Lime",
       "Frankincense"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Body Spray",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "탱크 전투",
     "english_name": "Tank Battle",
-    "product_type": "Perfume",
+    "normalized_name": "tank battle",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/tank-battle-perfume",
-    "regular_price": "£85.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/tank_battle_the_perfume_library_100ml_perfume_2021_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Parfum, Aqua (Water), Cistus Ladaniferus Resin (Labdanum Resinoid), Glycerin, Pogostemon Cablin Oil (Patchouli Oil), Eugenia Caryophyllus Oil (Clove Bud Oil), Cinnamyl Alcohol, *Citral, *Citronellol, *Eugenol, *Farnesol, *Geraniol, Isoeugenol, *Limonene, *Linalool",
-    "key_ingredients": []
+    "price": {
+      "raw": "£85.00",
+      "amount": 85,
+      "currency": "GBP"
+    },
+    "description": "탱크 전투 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Parfum, Aqua (Water), Cistus Ladaniferus Resin (Labdanum Resinoid), Glycerin, Pogostemon Cablin Oil (Patchouli Oil), Eugenia Caryophyllus Oil (Clove Bud Oil), Cinnamyl Alcohol, *Citral, *Citronellol, *Eugenol, *Farnesol, *Geraniol, Isoeugenol, *Limonene, *Linalool",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "슈퍼 밀크",
     "english_name": "Super Milk",
-    "product_type": "Gift",
+    "normalized_name": "super milk",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/super-milk-body-spray-gift",
-    "regular_price": "£34.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/Gifts-2026-Super-Milk-Body-Spray-Gift_ecom_523a0b14_thumbnail_256.png",
-    "ingredients": "",
-    "key_ingredients": []
+    "price": {
+      "raw": "£34.00",
+      "amount": 34,
+      "currency": "GBP"
+    },
+    "description": "슈퍼 밀크 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Gift",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "Sappho",
     "english_name": "Sappho",
-    "product_type": "Perfume",
+    "normalized_name": "sappho",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/sappho-perfume",
-    "regular_price": "£150.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/sappho_the_perfume_library_100ml_perfume_2021_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Parfum, Aqua (Water), Glycerin, Benzyl Salicylate, Jasminum Grandiflorum Flower Extract (Jasmine Extract), Benzyl Alcohol, Dipteryx Odorata Seed Extract (Tonka Seed Extract), Orris Oil, Sandalwood Oil, Vanilla Planifolia Fruit Extract (Vanilla Extract), Nicotiana Tabacum Leaf Extract (Tobacco Extract), *Anise Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Cinnamal, *Citronellol, *Citral, *Coumarin, *Eugenol, *Farnesol, Geraniol, *Isoeugenol, *Limonene, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£150.00",
+      "amount": 150,
+      "currency": "GBP"
+    },
+    "description": "Sappho은 Vanilla 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Parfum, Aqua (Water), Glycerin, Benzyl Salicylate, Jasminum Grandiflorum Flower Extract (Jasmine Extract), Benzyl Alcohol, Dipteryx Odorata Seed Extract (Tonka Seed Extract), Orris Oil, Sandalwood Oil, Vanilla Planifolia Fruit Extract (Vanilla Extract), Nicotiana Tabacum Leaf Extract (Tobacco Extract), *Anise Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Cinnamal, *Citronellol, *Citral, *Coumarin, *Eugenol, *Farnesol, Geraniol, *Isoeugenol, *Limonene, *Linalool",
+    "notes": [
       "Vanilla"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "팬지",
     "english_name": "Pansy",
-    "product_type": "Perfume",
+    "normalized_name": "pansy",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/pansy-perfume",
-    "regular_price": "£25.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/pansy_perfume_100ml_2021_thumbnail_256.png",
-    "ingredients": "Organic DRF Alcohol, Parfum, Aqua (Water), Glycerin, *Limonene, Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil), Citrus Aurantium Amara Flower Extract (Orange Flower Extract), Rosmarinus Officinalis Leaf Oil (Rosemary Oil), Galbanum Oil, Cistus Ladaniferus Resin (Labdanum Resinoid), Alpha-Isomethyl Ionone, *Benzyl Benzoate, *Citral, Coumarin, Evernia Prunastri Extract (Oakmoss Extract), *Farnesol, *Geraniol, Hexyl Cinnamal, Hydroxycitronellal, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£25.00",
+      "amount": 25,
+      "currency": "GBP"
+    },
+    "description": "팬지은 Citrus, Bergamot, Orange Flower, Rosemary 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Organic DRF Alcohol, Parfum, Aqua (Water), Glycerin, *Limonene, Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil), Citrus Aurantium Amara Flower Extract (Orange Flower Extract), Rosmarinus Officinalis Leaf Oil (Rosemary Oil), Galbanum Oil, Cistus Ladaniferus Resin (Labdanum Resinoid), Alpha-Isomethyl Ionone, *Benzyl Benzoate, *Citral, Coumarin, Evernia Prunastri Extract (Oakmoss Extract), *Farnesol, *Geraniol, Hexyl Cinnamal, Hydroxycitronellal, *Linalool",
+    "notes": [
       "Citrus",
       "Bergamot",
       "Orange Flower",
       "Rosemary"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "옛날 옛적에",
     "english_name": "Once Upon A Time",
-    "product_type": "Body Spray",
+    "normalized_name": "once upon a time",
+    "product_type": "perfume",
+    "product_subtype": "body_spray",
     "product_url": "https://www.lush.com/uk/en/p/once-upon-a-time-body-spray",
-    "regular_price": "£35.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/Once_Upon_A_Time_Body_Spray_200ml_882cfa2d_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Aqua (Water), Parfum, Glycerin, Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil), Brazilian Orange Oil, Rosa Damascena Extract (Rose Extract), Citrus Aurantium Amara Flower Oil (Neroli Oil), Citrus Aurantium Amara Flower Extract (Orange Flower Extract), *Citral, *Citronellol, Geraniol, *Hydroxycitronellal, *Limonene, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£35.00",
+      "amount": 35,
+      "currency": "GBP"
+    },
+    "description": "옛날 옛적에은 Citrus, Rose, Neroli, Orange Flower, Bergamot 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Aqua (Water), Parfum, Glycerin, Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil), Brazilian Orange Oil, Rosa Damascena Extract (Rose Extract), Citrus Aurantium Amara Flower Oil (Neroli Oil), Citrus Aurantium Amara Flower Extract (Orange Flower Extract), *Citral, *Citronellol, Geraniol, *Hydroxycitronellal, *Limonene, *Linalool",
+    "notes": [
       "Citrus",
       "Rose",
       "Neroli",
       "Orange Flower",
       "Bergamot"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Body Spray",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "미스터 월렛",
     "english_name": "Mr Wallet",
-    "product_type": "Body Spray",
+    "normalized_name": "mr wallet",
+    "product_type": "perfume",
+    "product_subtype": "body_spray",
     "product_url": "https://www.lush.com/uk/en/p/mr-wallet-body-spray",
-    "regular_price": "£33.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/Mr_Wallet_Body_Spray_200ml_005dd532_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Aqua (Water), Parfum, Glycerin, Sandalwood Oil, Vanilla Planifolia Fruit Extract (Vanilla Extract), Sesame Seed Absolute, Mentha Piperita Oil (Peppermint Oil), *Anise Alcohol, Benzyl Alcohol, *Farnesol, *Limonene",
-    "key_ingredients": [
+    "price": {
+      "raw": "£33.00",
+      "amount": 33,
+      "currency": "GBP"
+    },
+    "description": "미스터 월렛은 Mint, Vanilla, Sesame, Sandalwood 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Aqua (Water), Parfum, Glycerin, Sandalwood Oil, Vanilla Planifolia Fruit Extract (Vanilla Extract), Sesame Seed Absolute, Mentha Piperita Oil (Peppermint Oil), *Anise Alcohol, Benzyl Alcohol, *Farnesol, *Limonene",
+    "notes": [
       "Mint",
       "Vanilla",
       "Sesame",
       "Sandalwood"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Body Spray",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "허니 아이 워시드 더 키즈 싱글 위크 캔들",
     "english_name": "Honey I Washed The Kids Single Wick Candle",
-    "product_type": "Scented Candle",
+    "normalized_name": "honey i washed the kids single wick candle",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/honey-i-washed-the-kids-one-wick-candle",
-    "regular_price": "£14.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/honey_i_washed_the_kids_scented_1_wick_candle_ecom_2025_e1b667da_thumbnail_2.png",
-    "ingredients": "",
-    "key_ingredients": []
+    "price": {
+      "raw": "£14.00",
+      "amount": 14,
+      "currency": "GBP"
+    },
+    "description": "허니 아이 워시드 더 키즈 싱글 위크 캔들 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Scented Candle",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "잔디",
     "english_name": "Grass",
-    "product_type": "Perfume",
+    "normalized_name": "grass",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/grass-perfume",
-    "regular_price": "£95.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/grass_the_perfume_library_100ml_perfume_2021_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Aqua (Water), Parfum, Glycerin, *Linalool, Sandalwood Oil, Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil), Citrus Aurantium Amara Flower Oil (Neroli Oil), Alpha-Isomethyl Ionone, *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Salicylate, *Citral, *Citronellol, *Coumarin, *Eugenol, *Farnesol, *Geraniol, *Isoeugenol, *Limonene",
-    "key_ingredients": [
+    "price": {
+      "raw": "£95.00",
+      "amount": 95,
+      "currency": "GBP"
+    },
+    "description": "잔디은 Citrus, Sandalwood, Neroli, Bergamot 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Aqua (Water), Parfum, Glycerin, *Linalool, Sandalwood Oil, Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil), Citrus Aurantium Amara Flower Oil (Neroli Oil), Alpha-Isomethyl Ionone, *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Salicylate, *Citral, *Citronellol, *Coumarin, *Eugenol, *Farnesol, *Geraniol, *Isoeugenol, *Limonene",
+    "notes": [
       "Citrus",
       "Sandalwood",
       "Neroli",
       "Bergamot"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "여신",
     "english_name": "Goddess",
-    "product_type": "Perfume",
+    "normalized_name": "goddess",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/goddess-perfume-library",
-    "regular_price": "£125.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/goddess_perfume_100ml_ecom_2022_e4d71dce_thumbnail_256.png",
-    "ingredients": "Organic DRF Alcohol, Parfum, *Linalool, *Limonene, Jasminum Grandiflorum Flower Extract (Jasmine Extract), Osmanthus Fragrans Flower Extract (Osmanthus Extract), Rosa Damascena Flower Oil (Rose Oil), Sandalwood Oil, Oudh Oil, *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Salicylate, *Citral, *Citronellol, *Eugenol, *Farnesol, *Geraniol",
-    "key_ingredients": [
+    "price": {
+      "raw": "£125.00",
+      "amount": 125,
+      "currency": "GBP"
+    },
+    "description": "여신은 Rose 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Organic DRF Alcohol, Parfum, *Linalool, *Limonene, Jasminum Grandiflorum Flower Extract (Jasmine Extract), Osmanthus Fragrans Flower Extract (Osmanthus Extract), Rosa Damascena Flower Oil (Rose Oil), Sandalwood Oil, Oudh Oil, *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Salicylate, *Citral, *Citronellol, *Eugenol, *Farnesol, *Geraniol",
+    "notes": [
       "Rose"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "신선한 상태",
     "english_name": "Fresh As",
-    "product_type": "Perfume",
+    "normalized_name": "fresh as",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/fresh-as-perfume",
-    "regular_price": "£30.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/fresh_as_100ml_perfume_ecom_2024_14015755_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Parfum, *Linalool, Pinus Sylvestris Oil (Pine Oil), Aqua (Water), Glycerin, *Limonene, Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract), Orris Oil, Abies Balsamea Extract (Fir Needle Extract), Tagetes Minuta Flower Oil (Tagetes Oil), *Benzyl Benzoate, *Benzyl Cinnamate, *Cinnamal, *Citral, *Citronellol, *Eugenol, *Geraniol, *Isoeugenol",
-    "key_ingredients": [
+    "price": {
+      "raw": "£30.00",
+      "amount": 30,
+      "currency": "GBP"
+    },
+    "description": "신선한 상태은 Pine/Fir, Benzoin 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Parfum, *Linalool, Pinus Sylvestris Oil (Pine Oil), Aqua (Water), Glycerin, *Limonene, Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract), Orris Oil, Abies Balsamea Extract (Fir Needle Extract), Tagetes Minuta Flower Oil (Tagetes Oil), *Benzyl Benzoate, *Benzyl Cinnamate, *Cinnamal, *Citral, *Citronellol, *Eugenol, *Geraniol, *Isoeugenol",
+    "notes": [
       "Pine/Fir",
       "Benzoin"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "존에게",
     "english_name": "Dear John",
-    "product_type": "Perfume",
+    "normalized_name": "dear john",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/dear-john-perfume",
-    "regular_price": "£85.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/dear_john_the_perfume_library_100ml_perfume_2021_thumbnail_256.png",
-    "ingredients": "Organic DRF Alcohol, Parfum, *Limonene, Aqua (Water), Glycerin, Cedarwood Oil, Vetiveria Zizanoides Root Oil (Vetivert Oil), Coriandrum Sativum Seed Oil (Coriander Seed Oil), Eugenia Caryophyllus Oil (Clove Bud Oil), *Benzyl Benzoate, *Benzyl Salicylate, *Citral, *Coumarin, *Eugenol, *Farnesol, *Geraniol, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£85.00",
+      "amount": 85,
+      "currency": "GBP"
+    },
+    "description": "존에게은 Cedar, Clove 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Organic DRF Alcohol, Parfum, *Limonene, Aqua (Water), Glycerin, Cedarwood Oil, Vetiveria Zizanoides Root Oil (Vetivert Oil), Coriandrum Sativum Seed Oil (Coriander Seed Oil), Eugenia Caryophyllus Oil (Clove Bud Oil), *Benzyl Benzoate, *Benzyl Salicylate, *Citral, *Coumarin, *Eugenol, *Farnesol, *Geraniol, *Linalool",
+    "notes": [
       "Cedar",
       "Clove"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "칵테일",
     "english_name": "Cocktail",
-    "product_type": "Perfume",
+    "normalized_name": "cocktail",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/cocktail-perfume",
-    "regular_price": "£95.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/cocktail_the_perfume_library_100ml_perfume_2021_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Parfum, *Linalool, Cinnamomum Camphora Oil (Ho Wood Oil), Coumarin, Ghanaian Ylang Ylang Oil, Jasminum Grandiflorum Flower Extract (Jasmine Extract), Rosa Damascena Extract (Rose Extract), *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Salicylate, *Cinnamal, *Cinnamyl Alcohol, *Citral, *Citronellol, *Eugenol, Evernia Prunastri Extract (Oakmoss Extract), *Farnesol, *Geraniol, *Isoeugenol, *Limonene",
-    "key_ingredients": [
+    "price": {
+      "raw": "£95.00",
+      "amount": 95,
+      "currency": "GBP"
+    },
+    "description": "칵테일은 Rose, Ylang Ylang, Jasmine 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Parfum, *Linalool, Cinnamomum Camphora Oil (Ho Wood Oil), Coumarin, Ghanaian Ylang Ylang Oil, Jasminum Grandiflorum Flower Extract (Jasmine Extract), Rosa Damascena Extract (Rose Extract), *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Salicylate, *Cinnamal, *Cinnamyl Alcohol, *Citral, *Citronellol, *Eugenol, Evernia Prunastri Extract (Oakmoss Extract), *Farnesol, *Geraniol, *Isoeugenol, *Limonene",
+    "notes": [
       "Rose",
       "Ylang Ylang",
       "Jasmine"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "본드 스트리트 1972",
     "english_name": "Bond Street 1972",
-    "product_type": "Perfume",
+    "normalized_name": "bond street 1972",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/bond-street-1972-perfume",
-    "regular_price": "£85.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/bond_street_1992_100ml_perfume_ecom_2024_ab5c4841_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Parfum, Olibanum (Olibanum Resinoid), Aqua (Water), Glycerin, Galbanum Oil, *Isoeugenol, *Limonene",
-    "key_ingredients": [
+    "price": {
+      "raw": "£85.00",
+      "amount": 85,
+      "currency": "GBP"
+    },
+    "description": "본드 스트리트 1972은 Frankincense 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Parfum, Olibanum (Olibanum Resinoid), Aqua (Water), Glycerin, Galbanum Oil, *Isoeugenol, *Limonene",
+    "notes": [
       "Frankincense"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "29 하이 스트리트 싱글 위크 캔들",
     "english_name": "29 High Street Single Wick Candle",
-    "product_type": "Scented Candle",
+    "normalized_name": "29 high street single wick candle",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/29-high-street-scented-candle",
-    "regular_price": "£14.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/29_high_street_scented_1_wick_candle_ecom_2025_ee67bbdf_thumbnail_256.png",
-    "ingredients": "",
-    "key_ingredients": []
+    "price": {
+      "raw": "£14.00",
+      "amount": 14,
+      "currency": "GBP"
+    },
+    "description": "29 하이 스트리트 싱글 위크 캔들 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Scented Candle",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "V",
     "english_name": "V",
-    "product_type": "Perfume",
+    "normalized_name": "v",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/v-perfume",
-    "regular_price": "£85.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/v_the_perfume_library_100ml_perfume_2021_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Parfum, Aqua (Water), Alpha-Isomethyl Ionone, Glycerin, *Limonene, Cedarwood Oil, Ghanaian Ylang Ylang Oil, Eugenia Caryophyllus Oil (Clove Bud Oil), Violet Leaf Absolute, *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Benzyl Salicylate, *Cinnamyl Alcohol, *Citral, *Eugenol, *Farnesol, *Geraniol, *Isoeugenol, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£85.00",
+      "amount": 85,
+      "currency": "GBP"
+    },
+    "description": "V은 Ylang Ylang, Cedar, Clove, Violet 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Parfum, Aqua (Water), Alpha-Isomethyl Ionone, Glycerin, *Limonene, Cedarwood Oil, Ghanaian Ylang Ylang Oil, Eugenia Caryophyllus Oil (Clove Bud Oil), Violet Leaf Absolute, *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Benzyl Salicylate, *Cinnamyl Alcohol, *Citral, *Eugenol, *Farnesol, *Geraniol, *Isoeugenol, *Linalool",
+    "notes": [
       "Ylang Ylang",
       "Cedar",
       "Clove",
       "Violet"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "비건 가죽 재킷",
     "english_name": "Vegan Leather Jacket",
-    "product_type": "Perfume",
+    "normalized_name": "vegan leather jacket",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/vegan-leather-jacket-perfume",
-    "regular_price": "£35.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/vegan_leather_jacket_100ml_perfume_ecom_2024_7f3886fc_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Parfum, *Eugenol, Eugenia Caryophyllus Oil (Clove Bud Oil), Vetiveria Zizanoides Root Oil (Vetivert Oil), Dipteryx Odorata Seed Extract (Tonka Seed Extract), Nicotiana Tabacum Leaf Extract (Tobacco Extract), *Anise Alcohol, *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Benzyl Salicylate, *Cinnamal, *Cinnamyl Alcohol, *Citral, *Citronellol, *Coumarin, Evernia Prunastri Extract (Oakmoss Extract), *Farnesol, *Geraniol, *Isoeugenol, *Limonene, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£35.00",
+      "amount": 35,
+      "currency": "GBP"
+    },
+    "description": "비건 가죽 재킷은 Clove, Tonka 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Parfum, *Eugenol, Eugenia Caryophyllus Oil (Clove Bud Oil), Vetiveria Zizanoides Root Oil (Vetivert Oil), Dipteryx Odorata Seed Extract (Tonka Seed Extract), Nicotiana Tabacum Leaf Extract (Tobacco Extract), *Anise Alcohol, *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Benzyl Salicylate, *Cinnamal, *Cinnamyl Alcohol, *Citral, *Citronellol, *Coumarin, Evernia Prunastri Extract (Oakmoss Extract), *Farnesol, *Geraniol, *Isoeugenol, *Limonene, *Linalool",
+    "notes": [
       "Clove",
       "Tonka"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "바바붐",
     "english_name": "Va Va Voom",
-    "product_type": "Lush Melt",
+    "normalized_name": "va va voom",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/va-va-voom-lush-melt",
-    "regular_price": "£8.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/va_va_voom_lush_melt_2023_714b018a_thumbnail_256.png",
-    "ingredients": "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter), Cetearyl Olivate & Sorbitan Olivate, PEG-7 Glyceryl Cocoate, Polysorbate 20, Silica, Glyceryl Stearate, Parfum, Shorea Stenoptera Seed Butter (Illipe Butter), Prunus Amygdalus Dulcis Oil (Almond Oil), Citrus Aurantifolia Peel Oil (Lime Oil), Jasminum Grandiflorum Flower Extract (Jasmine Extract), Cananga Oil, Prunus Amygdalus Amara Kernel Oil (Almond Essential Oil), Rosa Canina Fruit Oil (Organic Rose Hip Oil), Fragaria Ananassa Seed Oil (Cold Pressed Strawberry Seed Oil), Dipropylene Glycol, Alpha-Isomethyl Ionone, Amyl Cinnamal, *Benzyl Benzoate, Hexyl Cinnamal, *Limonene, *Linalool, Colour 14700, Colour 26100, Colour 73360, Colour 17200, Colour 45410:1",
-    "key_ingredients": [
+    "price": {
+      "raw": "£8.00",
+      "amount": 8,
+      "currency": "GBP"
+    },
+    "description": "바바붐은 Almond, Citrus, Cocoa, Jasmine, Strawberry 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter), Cetearyl Olivate & Sorbitan Olivate, PEG-7 Glyceryl Cocoate, Polysorbate 20, Silica, Glyceryl Stearate, Parfum, Shorea Stenoptera Seed Butter (Illipe Butter), Prunus Amygdalus Dulcis Oil (Almond Oil), Citrus Aurantifolia Peel Oil (Lime Oil), Jasminum Grandiflorum Flower Extract (Jasmine Extract), Cananga Oil, Prunus Amygdalus Amara Kernel Oil (Almond Essential Oil), Rosa Canina Fruit Oil (Organic Rose Hip Oil), Fragaria Ananassa Seed Oil (Cold Pressed Strawberry Seed Oil), Dipropylene Glycol, Alpha-Isomethyl Ionone, Amyl Cinnamal, *Benzyl Benzoate, Hexyl Cinnamal, *Limonene, *Linalool, Colour 14700, Colour 26100, Colour 73360, Colour 17200, Colour 45410:1",
+    "notes": [
       "Almond",
       "Citrus",
       "Cocoa",
@@ -514,423 +1264,983 @@
       "Strawberry",
       "Plant butters",
       "Lime"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Lush Melt",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "바닐라",
     "english_name": "Vanillary",
-    "product_type": "Perfume",
+    "normalized_name": "vanillary",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/vanillary-perfume",
-    "regular_price": "£30.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/vanillary_perfume_100ml_2021_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Parfum, Aqua (Water), Glycerin, Vanilla Planifolia Fruit Extract (Vanilla Extract), Jasminum Grandiflorum Flower Extract (Jasmine Extract), Brazilian Tonka Absolute, *Coumarin, *Benzyl Cinnamate, *Anise Alcohol, *Benzyl Alcohol, *Benzyl Benzoate, *Cinnamal, *Eugenol, *Isoeugenol, *Farnesol, *Linalool, Hydroxycitronellal",
-    "key_ingredients": [
+    "price": {
+      "raw": "£30.00",
+      "amount": 30,
+      "currency": "GBP"
+    },
+    "description": "바닐라은 Vanilla, Jasmine, Tonka 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Parfum, Aqua (Water), Glycerin, Vanilla Planifolia Fruit Extract (Vanilla Extract), Jasminum Grandiflorum Flower Extract (Jasmine Extract), Brazilian Tonka Absolute, *Coumarin, *Benzyl Cinnamate, *Anise Alcohol, *Benzyl Alcohol, *Benzyl Benzoate, *Cinnamal, *Eugenol, *Isoeugenol, *Farnesol, *Linalool, Hydroxycitronellal",
+    "notes": [
       "Vanilla",
       "Jasmine",
       "Tonka"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "슈퍼 밀크",
     "english_name": "Super Milk",
-    "product_type": "Glitter Mist Spray",
+    "normalized_name": "super milk",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/super-milk-glitter-mist-spray",
-    "regular_price": "£20.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/super_milk_glitter_mist_260g_pack_ecom_2025_20c85627_thumbnail_256.png",
-    "ingredients": "Aqua (Water), Parfum, Maris Sal (Fine Sea Salt), Litsea Cubeba Fruit Oil (Litsea Cubeba Oil), Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract), Vanilla Planifolia Fruit Extract (Vanilla Extract), Chondrus Crispus Extract (Carrageenan Extract), Titanium Dioxide, Synthetic Fluorphlogopite, Tin Oxide, *Anise Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Cinnamal, *Citral, Coumarin, *Eugenol, *Farnesol, *Geraniol, *Linalool, Methylparaben",
-    "key_ingredients": [
+    "price": {
+      "raw": "£20.00",
+      "amount": 20,
+      "currency": "GBP"
+    },
+    "description": "슈퍼 밀크은 Salt, Litsea cubeba, Benzoin, Vanilla, Seaweed 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Aqua (Water), Parfum, Maris Sal (Fine Sea Salt), Litsea Cubeba Fruit Oil (Litsea Cubeba Oil), Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract), Vanilla Planifolia Fruit Extract (Vanilla Extract), Chondrus Crispus Extract (Carrageenan Extract), Titanium Dioxide, Synthetic Fluorphlogopite, Tin Oxide, *Anise Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Cinnamal, *Citral, Coumarin, *Eugenol, *Farnesol, *Geraniol, *Linalool, Methylparaben",
+    "notes": [
       "Salt",
       "Litsea cubeba",
       "Benzoin",
       "Vanilla",
       "Seaweed",
       "Litsea Cubeba"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Glitter Mist Spray",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "슈퍼 요정",
     "english_name": "Super Fairy",
-    "product_type": "Perfume",
+    "normalized_name": "super fairy",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/super-fairy-perfume",
-    "regular_price": "£30.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/super_fairy_perfume_30_ml_ecom_2025_a3f8067c_thumbnail_256.png",
-    "ingredients": "Alcohol Denat., Parfum, Aqua (Water), Glycerin, Persian Lime Oil, Litsea Cubeba Fruit Oil (Litsea Cubeba Oil), Vanilla Planifolia Fruit Extract (Vanilla Extract), Synthetic Musk, Alpha-Isomethyl Ionone, *Anise Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Cinnamal, *Citral, Coumarin, *Eugenol, *Geraniol, *Limonene, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£30.00",
+      "amount": 30,
+      "currency": "GBP"
+    },
+    "description": "슈퍼 요정은 Vanilla, Lime, Litsea cubeba, Citrus, Litsea Cubeba 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat., Parfum, Aqua (Water), Glycerin, Persian Lime Oil, Litsea Cubeba Fruit Oil (Litsea Cubeba Oil), Vanilla Planifolia Fruit Extract (Vanilla Extract), Synthetic Musk, Alpha-Isomethyl Ionone, *Anise Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Cinnamal, *Citral, Coumarin, *Eugenol, *Geraniol, *Limonene, *Linalool",
+    "notes": [
       "Vanilla",
       "Lime",
       "Litsea cubeba",
       "Citrus",
       "Litsea Cubeba"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "폭풍우 날씨",
     "english_name": "Stormy Weather",
-    "product_type": "Body Spray",
+    "normalized_name": "stormy weather",
+    "product_type": "perfume",
+    "product_subtype": "body_spray",
     "product_url": "https://www.lush.com/uk/en/p/stormy-weather-body-spray",
-    "regular_price": "£29.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/stormy_weather_body_spray_200ml_2025_63b20d9d_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Aqua (Water), Parfum, Glycerin, Citrus Aurantium Amara Flower Oil (Neroli Oil), Ocimum Basilicum Herb Oil (Basil Oil), Styrax Oil, Aniba Rosaeodora Wood Oil (Rosewood Oil), Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil), Synthetic Musk, Alpha-Isomethyl Ionone, Coumarin, Geraniol, *Limonene, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£29.00",
+      "amount": 29,
+      "currency": "GBP"
+    },
+    "description": "폭풍우 날씨은 Neroli, Bergamot, basil, rosewood 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Aqua (Water), Parfum, Glycerin, Citrus Aurantium Amara Flower Oil (Neroli Oil), Ocimum Basilicum Herb Oil (Basil Oil), Styrax Oil, Aniba Rosaeodora Wood Oil (Rosewood Oil), Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil), Synthetic Musk, Alpha-Isomethyl Ionone, Coumarin, Geraniol, *Limonene, *Linalool",
+    "notes": [
       "Neroli",
       "Bergamot",
       "basil",
       "rosewood"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Body Spray",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "그늘",
     "english_name": "Shade",
-    "product_type": "Solid Perfume",
+    "normalized_name": "shade",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/shade-solidperfume",
-    "regular_price": "£12.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/shade_solid_perfume_pack_11g_2024_4ad59b30_thumbnail_256.png",
-    "ingredients": "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil), Ricinus Communis Seed Oil (Organic Castor Oil), Euphorbia Cerifera Cera (Organic Candelilla Wax), Parfum, *Linalool, Santalum Album Oil (Sandalwood Oil), Titanium Dioxide, Olibanum Oil, *Limonene, Guaiacwood Oil, Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Cinnamal, *Cinnamyl Alcohol, *Citral, Coumarin, *Farnesol, *Geraniol, Hydroxycitronellal",
-    "key_ingredients": [
+    "price": {
+      "raw": "£12.00",
+      "amount": 12,
+      "currency": "GBP"
+    },
+    "description": "그늘은 Sandalwood, Frankincense 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil), Ricinus Communis Seed Oil (Organic Castor Oil), Euphorbia Cerifera Cera (Organic Candelilla Wax), Parfum, *Linalool, Santalum Album Oil (Sandalwood Oil), Titanium Dioxide, Olibanum Oil, *Limonene, Guaiacwood Oil, Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Cinnamal, *Cinnamyl Alcohol, *Citral, Coumarin, *Farnesol, *Geraniol, Hydroxycitronellal",
+    "notes": [
       "Sandalwood",
       "Frankincense"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Solid Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "그늘",
     "english_name": "Shade",
-    "product_type": "Perfume",
+    "normalized_name": "shade",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/shade-perfume",
-    "regular_price": "£30.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/shade_100ml_perfume_2021_990831c1_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Parfum, Aqua (Water), Glycerin, *Linalool, Santalum Album Oil (Sandalwood Oil), Olibanum Oil, Guaiacwood Oil, Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Cinnamal, *Cinnamyl Alcohol, *Citral, Coumarin, *Farnesol, *Geraniol, Hydroxycitronellal, *Isoeugenol, *Limonene",
-    "key_ingredients": [
+    "price": {
+      "raw": "£30.00",
+      "amount": 30,
+      "currency": "GBP"
+    },
+    "description": "그늘은 Sandalwood, Frankincense 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Parfum, Aqua (Water), Glycerin, *Linalool, Santalum Album Oil (Sandalwood Oil), Olibanum Oil, Guaiacwood Oil, Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Cinnamal, *Cinnamyl Alcohol, *Citral, Coumarin, *Farnesol, *Geraniol, Hydroxycitronellal, *Isoeugenol, *Limonene",
+    "notes": [
       "Sandalwood",
       "Frankincense"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "스쿠비 스낵™",
     "english_name": "Scooby Snacks™",
-    "product_type": "Body Spray",
+    "normalized_name": "scooby snackstm",
+    "product_type": "perfume",
+    "product_subtype": "body_spray",
     "product_url": "https://www.lush.com/uk/en/p/scooby-snacks-body-spray",
-    "regular_price": "£35.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/Lush_x_scooby_doo_scooby_snacks_body_spray_7aab252b_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Aqua (Water), Parfum, Glycerin, Vanilla Planifolia Fruit Extract (Vanilla Extract), Cinnamomum Zeylanicum Bark Oil (Cinnamon Bark Oil), Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract), Backhousia Citriodora Leaf Oil (Lemon Myrtle Oil), Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil), *Benzyl Benzoate, *Cinnamal, *Citral, *Coumarin, *Eugenol, Hydroxycitronellal, *Limonene, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£35.00",
+      "amount": 35,
+      "currency": "GBP"
+    },
+    "description": "스쿠비 스낵™은 Vanilla, Cinnamon, Benzoin, Bergamot, Citrus 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Aqua (Water), Parfum, Glycerin, Vanilla Planifolia Fruit Extract (Vanilla Extract), Cinnamomum Zeylanicum Bark Oil (Cinnamon Bark Oil), Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract), Backhousia Citriodora Leaf Oil (Lemon Myrtle Oil), Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil), *Benzyl Benzoate, *Cinnamal, *Citral, *Coumarin, *Eugenol, Hydroxycitronellal, *Limonene, *Linalool",
+    "notes": [
       "Vanilla",
       "Cinnamon",
       "Benzoin",
       "Bergamot",
       "Citrus"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Body Spray",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "Salty",
     "english_name": "Salty",
-    "product_type": "Body Spray",
+    "normalized_name": "salty",
+    "product_type": "perfume",
+    "product_subtype": "body_spray",
     "product_url": "https://www.lush.com/uk/en/p/salty-body-spray",
-    "regular_price": "£35.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/Salty_Body_Spray_200ml_42a58a13_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Aqua (Water), Parfum, Glycerin, Lebanese Neroli Oil, Rosa Damascena Flower Oil (Rose Oil), Oudh Oil, Oakmoss Absolute, Santalum Album Oil (Sandalwood Oil), *Amyl Cinnamal, *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, Benzyl Salicylate, *Cinnamal, Citral, Citronellol, *Coumarin, Eugenol, Evernia Prunastri Extract (Oakmoss Extract), *Farnesol, Geraniol, *Limonene, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£35.00",
+      "amount": 35,
+      "currency": "GBP"
+    },
+    "description": "Salty은 Rose, Neroli, Sandalwood 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Aqua (Water), Parfum, Glycerin, Lebanese Neroli Oil, Rosa Damascena Flower Oil (Rose Oil), Oudh Oil, Oakmoss Absolute, Santalum Album Oil (Sandalwood Oil), *Amyl Cinnamal, *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, Benzyl Salicylate, *Cinnamal, Citral, Citronellol, *Coumarin, Eugenol, Evernia Prunastri Extract (Oakmoss Extract), *Farnesol, Geraniol, *Limonene, *Linalool",
+    "notes": [
       "Rose",
       "Neroli",
       "Sandalwood"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Body Spray",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "사쿠라",
     "english_name": "Sakura",
-    "product_type": "Body Spray",
+    "normalized_name": "sakura",
+    "product_type": "perfume",
+    "product_subtype": "body_spray",
     "product_url": "https://www.lush.com/uk/en/p/sakura-body-spray",
-    "regular_price": "£33.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/Sakura_Body_Spray_200ml_e32c63da_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Aqua (Water), Parfum, Citrus Limon Peel Oil (Lemon Oil), *Limonene, Glycerin, Mimosa Absolute, Citrus Aurantium Amara Flower Extract (Orange Flower Extract), Jasminum Grandiflorum Flower Extract (Jasmine Extract), *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Salicylate, *Citral, *Eugenol, *Farnesol, Geraniol, Hydroxycitronellal, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£33.00",
+      "amount": 33,
+      "currency": "GBP"
+    },
+    "description": "사쿠라은 Citrus, Lemon, Jasmine, Orange Flower 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Aqua (Water), Parfum, Citrus Limon Peel Oil (Lemon Oil), *Limonene, Glycerin, Mimosa Absolute, Citrus Aurantium Amara Flower Extract (Orange Flower Extract), Jasminum Grandiflorum Flower Extract (Jasmine Extract), *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Salicylate, *Citral, *Eugenol, *Farnesol, Geraniol, Hydroxycitronellal, *Linalool",
+    "notes": [
       "Citrus",
       "Lemon",
       "Jasmine",
       "Orange Flower"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Body Spray",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "로즈 잼",
     "english_name": "Rose Jam",
-    "product_type": "Solid Perfume",
+    "normalized_name": "rose jam",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/rose-jam-solidperfume",
-    "regular_price": "£12.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/rose_jam_solid_perfume_pack_11g_2024_7f2fdb42_thumbnail_256.png",
-    "ingredients": "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil), Ricinus Communis Seed Oil (Organic Castor Oil), Euphorbia Cerifera Cera (Organic Candelilla Wax), Parfum, Citronellol, Geraniol, Pakistani Rose Absolute, Rosa Damascena Flower Oil (Rose Oil), Pelargonium Graveolens Flower Oil (Geranium Oil), Citrus Limon Peel Oil (Lemon Oil), *Citral, Coumarin, *Eugenol, *Farnesol, *Limonene, *Linalool, Colour 15850:1, Colour 73360",
-    "key_ingredients": [
+    "price": {
+      "raw": "£12.00",
+      "amount": 12,
+      "currency": "GBP"
+    },
+    "description": "로즈 잼은 Rose, Citrus, Jojoba, Lemon, Geranium 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil), Ricinus Communis Seed Oil (Organic Castor Oil), Euphorbia Cerifera Cera (Organic Candelilla Wax), Parfum, Citronellol, Geraniol, Pakistani Rose Absolute, Rosa Damascena Flower Oil (Rose Oil), Pelargonium Graveolens Flower Oil (Geranium Oil), Citrus Limon Peel Oil (Lemon Oil), *Citral, Coumarin, *Eugenol, *Farnesol, *Limonene, *Linalool, Colour 15850:1, Colour 73360",
+    "notes": [
       "Rose",
       "Citrus",
       "Jojoba",
       "Lemon",
       "Geranium"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Solid Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "로즈 잼",
     "english_name": "Rose Jam",
-    "product_type": "Perfume",
+    "normalized_name": "rose jam",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/rose-jam-perfume",
-    "regular_price": "£35.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/rose_jam_perfume_100ml_2021_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Aqua (Water), Parfum, Glycerin, Citronellol, Geraniol, Pakistani Rose Absolute, Rosa Damascena Flower Oil (Rose Oil), Pelargonium Graveolens Flower Oil (Geranium Oil), Citrus Limon Peel Oil (Lemon Oil), *Citral, Coumarin, *Eugenol, *Limonene, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£35.00",
+      "amount": 35,
+      "currency": "GBP"
+    },
+    "description": "로즈 잼은 Rose, Citrus, Lemon, Geranium 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Aqua (Water), Parfum, Glycerin, Citronellol, Geraniol, Pakistani Rose Absolute, Rosa Damascena Flower Oil (Rose Oil), Pelargonium Graveolens Flower Oil (Geranium Oil), Citrus Limon Peel Oil (Lemon Oil), *Citral, Coumarin, *Eugenol, *Limonene, *Linalool",
+    "notes": [
       "Rose",
       "Citrus",
       "Lemon",
       "Geranium"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "팬지",
     "english_name": "Pansy",
-    "product_type": "Solid Perfume",
+    "normalized_name": "pansy",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/pansy-solidperfume",
-    "regular_price": "£12.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/pansy_solid_perfume_pack_11g_2024_27eb57a3_thumbnail_256.png",
-    "ingredients": "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil), Ricinus Communis Seed Oil (Organic Castor Oil), Euphorbia Cerifera Cera (Organic Candelilla Wax), Parfum, Titanium Dioxide, *Limonene, Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil), Citrus Aurantium Amara Flower Extract (Orange Flower Extract), Rosmarinus Officinalis Leaf Oil (Rosemary Oil), Galbanum Oil, Cistus Ladaniferus Resin (Labdanum Resinoid), Alpha-Isomethyl Ionone, *Benzyl Alcohol, *Benzyl Benzoate, *Citral, Coumarin, *Eugenol, Evernia Prunastri Extract (Oakmoss Extract), *Farnesol, *Geraniol, Hexyl Cinnamal, Hydroxycitronellal, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£12.00",
+      "amount": 12,
+      "currency": "GBP"
+    },
+    "description": "팬지은 Jojoba, Citrus, Bergamot, Orange Flower, Rosemary 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil), Ricinus Communis Seed Oil (Organic Castor Oil), Euphorbia Cerifera Cera (Organic Candelilla Wax), Parfum, Titanium Dioxide, *Limonene, Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil), Citrus Aurantium Amara Flower Extract (Orange Flower Extract), Rosmarinus Officinalis Leaf Oil (Rosemary Oil), Galbanum Oil, Cistus Ladaniferus Resin (Labdanum Resinoid), Alpha-Isomethyl Ionone, *Benzyl Alcohol, *Benzyl Benzoate, *Citral, Coumarin, *Eugenol, Evernia Prunastri Extract (Oakmoss Extract), *Farnesol, *Geraniol, Hexyl Cinnamal, Hydroxycitronellal, *Linalool",
+    "notes": [
       "Jojoba",
       "Citrus",
       "Bergamot",
       "Orange Flower",
       "Rosemary"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Solid Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "작별 인사할 방법 없음",
     "english_name": "No Way to Say Goodbye",
-    "product_type": "Perfume",
+    "normalized_name": "no way to say goodbye",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/no-way-to-say-goodbye-perfume",
-    "regular_price": "£25.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/no_way_to_say_goodbye_100ml_perfume_ecom_2024_63ba1efe_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Parfum, Aqua (Water), Glycerin, Geraniol, Ribes Nigrum Fruit Extract (Blackcurrant Extract), Litsea Cubeba Fruit Oil (Litsea Cubeba Oil), Rosa Damascena Extract (Rose Extract), Rosa Damascena Flower Oil (Rose Oil), Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract), *Anise Alcohol, Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Cinnamal, *Citral, Citronellol, Eugenol, *Limonene, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£25.00",
+      "amount": 25,
+      "currency": "GBP"
+    },
+    "description": "작별 인사할 방법 없음은 Rose, Blackcurrant, Litsea Cubeba, Benzoin 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Parfum, Aqua (Water), Glycerin, Geraniol, Ribes Nigrum Fruit Extract (Blackcurrant Extract), Litsea Cubeba Fruit Oil (Litsea Cubeba Oil), Rosa Damascena Extract (Rose Extract), Rosa Damascena Flower Oil (Rose Oil), Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract), *Anise Alcohol, Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Cinnamal, *Citral, Citronellol, Eugenol, *Limonene, *Linalool",
+    "notes": [
       "Rose",
       "Blackcurrant",
       "Litsea Cubeba",
       "Benzoin"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "Lust",
     "english_name": "Lust",
-    "product_type": "Solid Perfume",
+    "normalized_name": "lust",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/lust-solidperfume",
-    "regular_price": "£12.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/lust_solid_perfume_pack_11g_2024_90f7b5e8_thumbnail_256.png",
-    "ingredients": "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil), Ricinus Communis Seed Oil (Organic Castor Oil), Euphorbia Cerifera Cera (Organic Candelilla Wax), Parfum, Rosa Damascena Extract (Rose Extract), Pakistani Jasmine Absolute, Cananga Odorata Flower Oil (Ylang Ylang Oil), Vanilla Planifolia Fruit Extract (Vanilla Extract), Sandalwood Oil, Benzyl Alcohol, *Benzyl Salicylate, *Citral, *Anise Alcohol, *Eugenol, *Geraniol, *Isoeugenol, *Benzyl Benzoate, *Citronellol, *Farnesol, *Limonene, *Linalool, Colour 15850:1",
-    "key_ingredients": [
+    "price": {
+      "raw": "£12.00",
+      "amount": 12,
+      "currency": "GBP"
+    },
+    "description": "Lust은 Rose, Jojoba, Jasmine, Ylang Ylang, Sandalwood 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil), Ricinus Communis Seed Oil (Organic Castor Oil), Euphorbia Cerifera Cera (Organic Candelilla Wax), Parfum, Rosa Damascena Extract (Rose Extract), Pakistani Jasmine Absolute, Cananga Odorata Flower Oil (Ylang Ylang Oil), Vanilla Planifolia Fruit Extract (Vanilla Extract), Sandalwood Oil, Benzyl Alcohol, *Benzyl Salicylate, *Citral, *Anise Alcohol, *Eugenol, *Geraniol, *Isoeugenol, *Benzyl Benzoate, *Citronellol, *Farnesol, *Limonene, *Linalool, Colour 15850:1",
+    "notes": [
       "Rose",
       "Jojoba",
       "Jasmine",
       "Ylang Ylang",
       "Sandalwood"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Solid Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "Lust",
     "english_name": "Lust",
-    "product_type": "Perfume",
+    "normalized_name": "lust",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/lust-perfume",
-    "regular_price": "£35.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/lust_perfume_100ml_2021_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Parfum, Aqua (Water), Glycerin, *Linalool, Rosa Damascena Extract (Rose Extract), *Limonene, Pakistani Jasmine Absolute, Cananga Odorata Flower Oil (Ylang Ylang Oil), Vanilla Planifolia Fruit Extract (Vanilla Extract), Sandalwood Oil, *Anise Alcohol, *Benzyl Salicylate, *Citral, *Eugenol, *Geraniol, *Benzyl Benzoate, *Citronellol, *Isoeugenol, *Farnesol, Benzyl Alcohol",
-    "key_ingredients": [
+    "price": {
+      "raw": "£35.00",
+      "amount": 35,
+      "currency": "GBP"
+    },
+    "description": "Lust은 Rose, Jasmine, Ylang Ylang, Sandalwood 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Parfum, Aqua (Water), Glycerin, *Linalool, Rosa Damascena Extract (Rose Extract), *Limonene, Pakistani Jasmine Absolute, Cananga Odorata Flower Oil (Ylang Ylang Oil), Vanilla Planifolia Fruit Extract (Vanilla Extract), Sandalwood Oil, *Anise Alcohol, *Benzyl Salicylate, *Citral, *Eugenol, *Geraniol, *Benzyl Benzoate, *Citronellol, *Isoeugenol, *Farnesol, Benzyl Alcohol",
+    "notes": [
       "Rose",
       "Jasmine",
       "Ylang Ylang",
       "Sandalwood"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "사랑",
     "english_name": "Love",
-    "product_type": "Perfume",
+    "normalized_name": "love",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/love-perfume",
-    "regular_price": "£95.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/love_the_perfume_library_100ml_perfume_2021_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Parfum, *Linalool, Aqua (Water), Glycerin, Coumarin, *Limonene, Cymbopogon Flexuosus Leaf Oil (Lemongrass Oil), Benzyl Benzoate, *Citral, Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil), Jasminum Grandiflorum Flower Extract (Jasmine Extract), Rosa Damascena Extract (Rose Extract), Cananga Odorata Flower Oil (Ylang Ylang Oil), Ylang Ylang Absolute, *Benzyl Alcohol, *Benzyl Salicylate, *Cinnamal, *Cinnamyl Alcohol, *Citronellol, *Eugenol, Evernia Prunastri Extract (Oakmoss Extract), *Farnesol, *Geraniol, *Isoeugenol",
-    "key_ingredients": [
+    "price": {
+      "raw": "£95.00",
+      "amount": 95,
+      "currency": "GBP"
+    },
+    "description": "사랑은 Citrus, Rose, Lemongrass, Bergamot, Jasmine 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Parfum, *Linalool, Aqua (Water), Glycerin, Coumarin, *Limonene, Cymbopogon Flexuosus Leaf Oil (Lemongrass Oil), Benzyl Benzoate, *Citral, Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil), Jasminum Grandiflorum Flower Extract (Jasmine Extract), Rosa Damascena Extract (Rose Extract), Cananga Odorata Flower Oil (Ylang Ylang Oil), Ylang Ylang Absolute, *Benzyl Alcohol, *Benzyl Salicylate, *Cinnamal, *Cinnamyl Alcohol, *Citronellol, *Eugenol, Evernia Prunastri Extract (Oakmoss Extract), *Farnesol, *Geraniol, *Isoeugenol",
+    "notes": [
       "Citrus",
       "Rose",
       "Lemongrass",
       "Bergamot",
       "Jasmine",
       "Ylang Ylang"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "푹신하게 유지",
     "english_name": "Keep It Fluffy",
-    "product_type": "Perfume",
+    "normalized_name": "keep it fluffy",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/keep-it-fluffy-perfume",
-    "regular_price": "£95.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/keep_it_fluffy_the_perfume_library_100ml_perfume_2021_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Parfum, *Citronellol, Aqua (Water), Glycerin, Alpha-Isomethyl Ionone, Hydroxycitronellal, Pakistani Rose Absolute, Jasminum Grandiflorum Flower Extract (Jasmine Extract), Cymbopogon Flexuosus Leaf Oil (Lemongrass Oil), Cananga Odorata Flower Oil (Ylang Ylang Oil), Vanilla Planifolia Fruit Extract (Vanilla Extract), *Anise Alcohol, *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Salicylate, *Citral, *Eugenol, *Farnesol, *Geraniol, *Isoeugenol, *Limonene, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£95.00",
+      "amount": 95,
+      "currency": "GBP"
+    },
+    "description": "푹신하게 유지은 Lemongrass, Vanilla, Rose, Jasmine 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Parfum, *Citronellol, Aqua (Water), Glycerin, Alpha-Isomethyl Ionone, Hydroxycitronellal, Pakistani Rose Absolute, Jasminum Grandiflorum Flower Extract (Jasmine Extract), Cymbopogon Flexuosus Leaf Oil (Lemongrass Oil), Cananga Odorata Flower Oil (Ylang Ylang Oil), Vanilla Planifolia Fruit Extract (Vanilla Extract), *Anise Alcohol, *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Salicylate, *Citral, *Eugenol, *Farnesol, *Geraniol, *Isoeugenol, *Limonene, *Linalool",
+    "notes": [
       "Lemongrass",
       "Vanilla",
       "Rose",
       "Jasmine"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "정크",
     "english_name": "Junk",
-    "product_type": "Perfume",
+    "normalized_name": "junk",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/junk-perfume",
-    "regular_price": "£20.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/junk_100ml_perfume_ecom_2024_86f37e8f_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Parfum, *Limonene, Aqua (Water), Citrus Limon Peel Oil (Lemon Oil), Glycerin, Alpha-Isomethyl Ionone, Green Mandarin Oil, Rosmarinus Officinalis Leaf Oil (Rosemary Oil), Salvia Officinalis Oil (Sage Oil), *Citral, *Geraniol, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£20.00",
+      "amount": 20,
+      "currency": "GBP"
+    },
+    "description": "정크은 Citrus, Lemon, Mandarin, Rosemary, Sage 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Parfum, *Limonene, Aqua (Water), Citrus Limon Peel Oil (Lemon Oil), Glycerin, Alpha-Isomethyl Ionone, Green Mandarin Oil, Rosmarinus Officinalis Leaf Oil (Rosemary Oil), Salvia Officinalis Oil (Sage Oil), *Citral, *Geraniol, *Linalool",
+    "notes": [
       "Citrus",
       "Lemon",
       "Mandarin",
       "Rosemary",
       "Sage"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "헬로키티와 친구들",
     "english_name": "Hello Kitty And Friends",
-    "product_type": "Perfume",
+    "normalized_name": "hello kitty and friends",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/hello-kitty-and-friends-perfume",
-    "regular_price": "£35.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/hello_kitty_and_friends_shower_gel_pack_ecom_2_2025_ea05b027_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Parfum, Aqua (Water), Glycerin, Alpha-Isomethyl Ionone, Brazilian Orange Oil, *Limonene, Pogostemon Cablin Oil (Patchouli Oil), Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract), Vanilla Planifolia Fruit Extract (Vanilla Extract), Amyl Cinnamal, *Anise Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, Benzyl Salicylate, *Cinnamal, *Citral, Citronellol, *Eugenol, Geraniol, Hexyl Cinnamal, Hydroxycitronellal, *Isoeugenol, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£35.00",
+      "amount": 35,
+      "currency": "GBP"
+    },
+    "description": "헬로키티와 친구들은 Orange, Patchouli, Vanilla, Benzoin 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Parfum, Aqua (Water), Glycerin, Alpha-Isomethyl Ionone, Brazilian Orange Oil, *Limonene, Pogostemon Cablin Oil (Patchouli Oil), Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract), Vanilla Planifolia Fruit Extract (Vanilla Extract), Amyl Cinnamal, *Anise Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, Benzyl Salicylate, *Cinnamal, *Citral, Citronellol, *Eugenol, Geraniol, Hexyl Cinnamal, Hydroxycitronellal, *Isoeugenol, *Linalool",
+    "notes": [
       "Orange",
       "Patchouli",
       "Vanilla",
       "Benzoin"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "미용사의 남편",
     "english_name": "Hairdresser's Husband",
-    "product_type": "Perfume",
+    "normalized_name": "hairdresser s husband",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/hairdressers-husband-perfume",
-    "regular_price": "£125.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/hairdressers_husband_the_perfume_library_100ml_perfume_2021_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), *Limonene, Brazilian Orange Oil, Citrus Limon Peel Oil (Lemon Oil), Parfum, Citrus Paradisi Peel Oil (Grapefruit Oil), *Citral, Backhousia Citriodora Leaf Oil (Lemon Myrtle Oil), Vanilla Planifolia Fruit Extract (Vanilla Extract), Dipteryx Odorata Seed Extract (Tonka Seed Extract), *Anise Alcohol, *Coumarin, Evernia Prunastri Extract (Oakmoss Extract), *Farnesol, *Geraniol, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£125.00",
+      "amount": 125,
+      "currency": "GBP"
+    },
+    "description": "미용사의 남편은 Citrus, Vanilla, Orange, Lemon, Grapefruit 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), *Limonene, Brazilian Orange Oil, Citrus Limon Peel Oil (Lemon Oil), Parfum, Citrus Paradisi Peel Oil (Grapefruit Oil), *Citral, Backhousia Citriodora Leaf Oil (Lemon Myrtle Oil), Vanilla Planifolia Fruit Extract (Vanilla Extract), Dipteryx Odorata Seed Extract (Tonka Seed Extract), *Anise Alcohol, *Coumarin, Evernia Prunastri Extract (Oakmoss Extract), *Farnesol, *Geraniol, *Linalool",
+    "notes": [
       "Citrus",
       "Vanilla",
       "Orange",
       "Lemon",
       "Grapefruit"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "생강",
     "english_name": "Ginger",
-    "product_type": "Perfume",
+    "normalized_name": "ginger",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/ginger-perfume",
-    "regular_price": "£85.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/ginger_the_perfume_library_100ml_perfume_2021_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Aqua (Water), Parfum, Glycerin, Mimosa Absolute, Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil), Zingiber Officinale Root Oil (Ginger Oil), Citrus Nobilis Peel Oil (Mandarin Oil), Kenyan Geranium Oil, Sandalwood Oil, Alpha-Isomethyl Ionone, *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Salicylate, *Citral, Citronellol, *Eugenol, Evernia Prunastri Extract (Oakmoss Extract), *Farnesol, *Geraniol, *Isoeugenol, *Limonene, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£85.00",
+      "amount": 85,
+      "currency": "GBP"
+    },
+    "description": "생강은 Citrus, Ginger, Bergamot, Geranium 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Aqua (Water), Parfum, Glycerin, Mimosa Absolute, Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil), Zingiber Officinale Root Oil (Ginger Oil), Citrus Nobilis Peel Oil (Mandarin Oil), Kenyan Geranium Oil, Sandalwood Oil, Alpha-Isomethyl Ionone, *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Salicylate, *Citral, Citronellol, *Eugenol, Evernia Prunastri Extract (Oakmoss Extract), *Farnesol, *Geraniol, *Isoeugenol, *Limonene, *Linalool",
+    "notes": [
       "Citrus",
       "Ginger",
       "Bergamot",
       "Geranium"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "Furze",
     "english_name": "Furze",
-    "product_type": "Perfume",
+    "normalized_name": "furze",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/furze-perfume",
-    "regular_price": "£85.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/furze_the_perfume_library_100ml_perfume_2021_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Parfum, Aqua (Water), Glycerin, Amyl Cinnamal, Hydroxycitronellal, Citrus Aurantium Amara Flower Oil (Neroli Oil), Mimosa Absolute, *Citral, *Farnesol, *Geraniol, *Limonene, *Linalool",
-    "key_ingredients": []
+    "price": {
+      "raw": "£85.00",
+      "amount": 85,
+      "currency": "GBP"
+    },
+    "description": "Furze 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Parfum, Aqua (Water), Glycerin, Amyl Cinnamal, Hydroxycitronellal, Citrus Aurantium Amara Flower Oil (Neroli Oil), Mimosa Absolute, *Citral, *Farnesol, *Geraniol, *Limonene, *Linalool",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "Dirty",
     "english_name": "Dirty",
-    "product_type": "Solid Perfume",
+    "normalized_name": "dirty",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/dirty-solidperfume",
-    "regular_price": "£12.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/dirty_solid_perfume_pack_11g_2024_64c6f295_thumbnail_256.png",
-    "ingredients": "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil), Ricinus Communis Seed Oil (Organic Castor Oil), Euphorbia Cerifera Cera (Organic Candelilla Wax), Parfum, Mentha Spicata Herb Oil (Spearmint Oil), Artemisia Dracunculus Oil (Tarragon Oil), Sandalwood Oil, Lavandula Angustifolia Extract (Lavender Extract), Citrus Aurantium Amara Flower Oil (Neroli Oil), Thymus Vulgaris Leaf Extract (Thyme Extract), Alpha-Isomethyl Ionone, *Benzyl Cinnamate, *Cinnamal, *Cinnamyl Alcohol, *Coumarin, *Eugenol, *Farnesol, *Geraniol, *Limonene, *Linalool, Evernia Prunastri Extract (Oakmoss Extract), Hydroxycitronellal, Colour 42090:2",
-    "key_ingredients": [
+    "price": {
+      "raw": "£12.00",
+      "amount": 12,
+      "currency": "GBP"
+    },
+    "description": "Dirty은 Jojoba, Lavender, Mint, Neroli, Sandalwood 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil), Ricinus Communis Seed Oil (Organic Castor Oil), Euphorbia Cerifera Cera (Organic Candelilla Wax), Parfum, Mentha Spicata Herb Oil (Spearmint Oil), Artemisia Dracunculus Oil (Tarragon Oil), Sandalwood Oil, Lavandula Angustifolia Extract (Lavender Extract), Citrus Aurantium Amara Flower Oil (Neroli Oil), Thymus Vulgaris Leaf Extract (Thyme Extract), Alpha-Isomethyl Ionone, *Benzyl Cinnamate, *Cinnamal, *Cinnamyl Alcohol, *Coumarin, *Eugenol, *Farnesol, *Geraniol, *Limonene, *Linalool, Evernia Prunastri Extract (Oakmoss Extract), Hydroxycitronellal, Colour 42090:2",
+    "notes": [
       "Jojoba",
       "Lavender",
       "Mint",
       "Neroli",
       "Sandalwood"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Solid Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "Dirty",
     "english_name": "Dirty",
-    "product_type": "Perfume",
+    "normalized_name": "dirty",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/dirty-perfume",
-    "regular_price": "£30.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/dirty_kisses_deep_perfume_100ml_2021_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Parfum, Aqua (Water), Glycerin, Benzyl Benzoate, Mentha Spicata Herb Oil (Spearmint Oil), Alpha-Isomethyl Ionone, *Linalool, Artemisia Dracunculus Oil (Tarragon Oil), Sandalwood Oil, Lavandula Angustifolia Extract (Lavender Extract), Citrus Aurantium Amara Flower Oil (Neroli Oil), Thymus Vulgaris Leaf Extract (Thyme Extract), *Coumarin, *Cinnamyl Alcohol, *Eugenol, Evernia Prunastri Extract (Oakmoss Extract), *Geraniol, Hydroxycitronellal, *Limonene, *Benzyl Cinnamate, *Cinnamal, *Citral, *Citronellol, *Farnesol",
-    "key_ingredients": [
+    "price": {
+      "raw": "£30.00",
+      "amount": 30,
+      "currency": "GBP"
+    },
+    "description": "Dirty은 Mint, Lavender, Neroli, Sandalwood 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Parfum, Aqua (Water), Glycerin, Benzyl Benzoate, Mentha Spicata Herb Oil (Spearmint Oil), Alpha-Isomethyl Ionone, *Linalool, Artemisia Dracunculus Oil (Tarragon Oil), Sandalwood Oil, Lavandula Angustifolia Extract (Lavender Extract), Citrus Aurantium Amara Flower Oil (Neroli Oil), Thymus Vulgaris Leaf Extract (Thyme Extract), *Coumarin, *Cinnamyl Alcohol, *Eugenol, Evernia Prunastri Extract (Oakmoss Extract), *Geraniol, Hydroxycitronellal, *Limonene, *Benzyl Cinnamate, *Cinnamal, *Citral, *Citronellol, *Farnesol",
+    "notes": [
       "Mint",
       "Lavender",
       "Neroli",
       "Sandalwood"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "죽음과 부패",
     "english_name": "Death and Decay",
-    "product_type": "Perfume",
+    "normalized_name": "death and decay",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/death-and-decay-perfume",
-    "regular_price": "£110.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/death_and_decay_the_perfume_library_100ml_perfume_2021_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Parfum, Aqua (Water), Coumarin, Glycerin, *Linalool, Cananga Odorata Flower Oil (Ylang Ylang Oil), Dipteryx Odorata Seed Extract (Tonka Seed Extract), Rosa Damascena Flower Oil (Rose Oil), Jasminum Grandiflorum Flower Extract (Jasmine Extract), Alpha-Isomethyl Ionone, Amyl Cinnamal, Benzyl Alcohol, Benzyl Benzoate, *Benzyl Cinnamate, Benzyl Salicylate, *Cinnamal, Cinnamyl Alcohol, *Citral, Citronellol, *Eugenol, *Farnesol, *Geraniol, Hydroxycitronellal, *Isoeugenol, *Limonene",
-    "key_ingredients": [
+    "price": {
+      "raw": "£110.00",
+      "amount": 110,
+      "currency": "GBP"
+    },
+    "description": "죽음과 부패은 Rose, Ylang Ylang, Tonka, Jasmine 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Parfum, Aqua (Water), Coumarin, Glycerin, *Linalool, Cananga Odorata Flower Oil (Ylang Ylang Oil), Dipteryx Odorata Seed Extract (Tonka Seed Extract), Rosa Damascena Flower Oil (Rose Oil), Jasminum Grandiflorum Flower Extract (Jasmine Extract), Alpha-Isomethyl Ionone, Amyl Cinnamal, Benzyl Alcohol, Benzyl Benzoate, *Benzyl Cinnamate, Benzyl Salicylate, *Cinnamal, Cinnamyl Alcohol, *Citral, Citronellol, *Eugenol, *Farnesol, *Geraniol, Hydroxycitronellal, *Isoeugenol, *Limonene",
+    "notes": [
       "Rose",
       "Ylang Ylang",
       "Tonka",
       "Jasmine"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "아빠의 정원 레몬 트리",
     "english_name": "Dad's Garden Lemon Tree",
-    "product_type": "Body Spray",
+    "normalized_name": "dad s garden lemon tree",
+    "product_type": "perfume",
+    "product_subtype": "body_spray",
     "product_url": "https://www.lush.com/uk/en/p/dads-garden-lemon-tree-body-spray",
-    "regular_price": "£25.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/Dads_Garden_Lemon_Tree_Body_Spray_200ml_3739e692_thumbnail_256.png",
-    "ingredients": "Alcohol Denat., Aqua (Water), Parfum, Glycerin, Citrus Limon Peel Oil (Lemon Oil), Citrus Aurantifolia Peel Oil (Lime Oil), Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil), Lavandula Angustifolia Oil (Lavender Oil), *Citral, *Limonene, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£25.00",
+      "amount": 25,
+      "currency": "GBP"
+    },
+    "description": "아빠의 정원 레몬 트리은 Lavender, Citrus, Glycerine, Lemon, Lime 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat., Aqua (Water), Parfum, Glycerin, Citrus Limon Peel Oil (Lemon Oil), Citrus Aurantifolia Peel Oil (Lime Oil), Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil), Lavandula Angustifolia Oil (Lavender Oil), *Citral, *Limonene, *Linalool",
+    "notes": [
       "Lavender",
       "Citrus",
       "Glycerine",
       "Lemon",
       "Lime",
       "Bergamot"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Body Spray",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "색종이",
     "english_name": "Confetti",
-    "product_type": "Perfume",
+    "normalized_name": "confetti",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/confetti-perfume",
-    "regular_price": "£110.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/confetti_the_perfume_library_100ml_perfume_2021_thumbnail_256.png",
-    "ingredients": "Organic DRF Alcohol, Parfum, Alpha-Isomethyl Ionone, Aqua (Water), Glycerin, Geraniol, Rosa Damascena Flower Oil (Rose Oil), Violet Leaf Absolute, Sandalwood Oil, *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Cinnamal, *Citral, *Citronellol, *Eugenol, *Farnesol, *Limonene, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£110.00",
+      "amount": 110,
+      "currency": "GBP"
+    },
+    "description": "색종이은 Rose, Sandalwood 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Organic DRF Alcohol, Parfum, Alpha-Isomethyl Ionone, Aqua (Water), Glycerin, Geraniol, Rosa Damascena Flower Oil (Rose Oil), Violet Leaf Absolute, Sandalwood Oil, *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Cinnamal, *Citral, *Citronellol, *Eugenol, *Farnesol, *Limonene, *Linalool",
+    "notes": [
       "Rose",
       "Sandalwood"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "공기 정화",
     "english_name": "Clear the Air",
-    "product_type": "Lush Melt",
+    "normalized_name": "clear the air",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/clear-the-air-lush-melt",
-    "regular_price": "£8.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/clean_the_air_lush_melt_2023_0d1d6220_thumbnail_256.png",
-    "ingredients": "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter), Cetearyl Olivate & Sorbitan Olivate, PEG-7 Glyceryl Cocoate, Polysorbate 20, Glyceryl Stearate, Silica, Shorea Stenoptera Seed Butter (Illipe Butter), Parfum, Prunus Amygdalus Dulcis Oil (Almond Oil), Eucalyptus Globulus Oil (Eucalyptus Oil), Cymbopogon Flexuosus Leaf Oil (Lemongrass Oil), Mentha Piperita Oil (Peppermint Oil), Rosmarinus Officinalis Leaf Oil (Rosemary Oil), Moringa Oil, Titanium Dioxide, Aqua (Water), Propylene Glycol, *Citral, *Geraniol, Hydroxycitronellal, *Limonene, *Linalool, Colour 42090:2, Colour 42090",
-    "key_ingredients": [
+    "price": {
+      "raw": "£8.00",
+      "amount": 8,
+      "currency": "GBP"
+    },
+    "description": "공기 정화은 Almond, Mint, Cocoa, Plant butters, Eucalyptus 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter), Cetearyl Olivate & Sorbitan Olivate, PEG-7 Glyceryl Cocoate, Polysorbate 20, Glyceryl Stearate, Silica, Shorea Stenoptera Seed Butter (Illipe Butter), Parfum, Prunus Amygdalus Dulcis Oil (Almond Oil), Eucalyptus Globulus Oil (Eucalyptus Oil), Cymbopogon Flexuosus Leaf Oil (Lemongrass Oil), Mentha Piperita Oil (Peppermint Oil), Rosmarinus Officinalis Leaf Oil (Rosemary Oil), Moringa Oil, Titanium Dioxide, Aqua (Water), Propylene Glycol, *Citral, *Geraniol, Hydroxycitronellal, *Limonene, *Linalool, Colour 42090:2, Colour 42090",
+    "notes": [
       "Almond",
       "Mint",
       "Cocoa",
@@ -938,189 +2248,449 @@
       "Eucalyptus",
       "Lemongrass",
       "Rosemary"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Lush Melt",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "카다멈 커피",
     "english_name": "Cardamom Coffee",
-    "product_type": "Perfume",
+    "normalized_name": "cardamom coffee",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/cardamom-coffee-perfume",
-    "regular_price": "£150.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/cardamom_coffee_the_perfume_library_100ml_perfume_2021_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Parfum, Aqua (Water), Glycerin, Elettaria Cardamomum Seed Oil (Cardamom Oil), Olive Leaf Absolute, Rosa Damascena Flower Oil (Rose Oil), Colombian Cocoa Absolute, Oudh Oil, *Anise Alcohol, *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Salicylate, *Cinnamal, *Citral, *Coumarin, *Eugenol, *Citronellol, *Farnesol, *Geraniol, *Limonene, *Linalool",
-    "key_ingredients": []
+    "price": {
+      "raw": "£150.00",
+      "amount": 150,
+      "currency": "GBP"
+    },
+    "description": "카다멈 커피 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Parfum, Aqua (Water), Glycerin, Elettaria Cardamomum Seed Oil (Cardamom Oil), Olive Leaf Absolute, Rosa Damascena Flower Oil (Rose Oil), Colombian Cocoa Absolute, Oudh Oil, *Anise Alcohol, *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Salicylate, *Cinnamal, *Citral, *Coumarin, *Eugenol, *Citronellol, *Farnesol, *Geraniol, *Limonene, *Linalool",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "신의 숨결",
     "english_name": "Breath Of God",
-    "product_type": "Perfume",
+    "normalized_name": "breath of god",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/breath-of-god-perfume",
-    "regular_price": "£95.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/breath_of_god_100ml_perfume_ecom_2024_1d1ffb1e_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Parfum, Citrus Limon Peel Oil (Lemon Oil), *Limonene, Aqua (Water), Glycerin, Cedarwood Oil, Vetiveria Zizanoides Root Oil (Vetivert Oil), Rosa Damascena Flower Oil (Rose Oil), Cananga Odorata Flower Oil (Ylang Ylang Oil), Citrus Paradisi Peel Oil (Grapefruit Oil), Citrus Aurantium Amara Flower Oil (Neroli Oil), Piper Nigrum Fruit Oil (Black Pepper Oil), Sandalwood Oil, Juniperus Oxycedrus Wood Oil (Cade Oil), *Benzyl Alcohol, *Benzyl Cinnamate, *Benzyl Salicylate, *Cinnamal, *Citral, *Geraniol, *Benzyl Benzoate, *Citronellol, *Farnesol, *Isoeugenol, *Linalool, Alpha-Isomethyl Ionone, Coumarin, Eugenol",
-    "key_ingredients": [
+    "price": {
+      "raw": "£95.00",
+      "amount": 95,
+      "currency": "GBP"
+    },
+    "description": "신의 숨결은 Citrus, Rose, Neroli, Cedar, Grapefruit 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Parfum, Citrus Limon Peel Oil (Lemon Oil), *Limonene, Aqua (Water), Glycerin, Cedarwood Oil, Vetiveria Zizanoides Root Oil (Vetivert Oil), Rosa Damascena Flower Oil (Rose Oil), Cananga Odorata Flower Oil (Ylang Ylang Oil), Citrus Paradisi Peel Oil (Grapefruit Oil), Citrus Aurantium Amara Flower Oil (Neroli Oil), Piper Nigrum Fruit Oil (Black Pepper Oil), Sandalwood Oil, Juniperus Oxycedrus Wood Oil (Cade Oil), *Benzyl Alcohol, *Benzyl Cinnamate, *Benzyl Salicylate, *Cinnamal, *Citral, *Geraniol, *Benzyl Benzoate, *Citronellol, *Farnesol, *Isoeugenol, *Linalool, Alpha-Isomethyl Ionone, Coumarin, Eugenol",
+    "notes": [
       "Citrus",
       "Rose",
       "Neroli",
       "Cedar",
       "Grapefruit",
       "Sandalwood"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "Big",
     "english_name": "Big",
-    "product_type": "Body Spray",
+    "normalized_name": "big",
+    "product_type": "perfume",
+    "product_subtype": "body_spray",
     "product_url": "https://www.lush.com/uk/en/p/big-body-spray",
-    "regular_price": "£33.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/Big_Body_Spray_200ml_9c1f6be4_thumbnail_256.png",
-    "ingredients": "Alcohol Denat., Aqua (Water), Parfum, Glycerin, Alpha-Isomethyl Ionone, Citrus Aurantium Amara Flower Oil (Neroli Oil), Citrus Nobilis Peel Oil (Mandarin Oil), Vanilla Planifolia Fruit Extract (Vanilla Extract), Citrus Aurantium Amara Flower Extract (Orange Flower Extract), *Anise Alcohol, *Citral, *Coumarin, *Farnesol, Geraniol, *Hydroxycitronellal, *Limonene, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£33.00",
+      "amount": 33,
+      "currency": "GBP"
+    },
+    "description": "Big은 Citrus, Vanilla, Neroli, Mandarin, Orange Flower 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat., Aqua (Water), Parfum, Glycerin, Alpha-Isomethyl Ionone, Citrus Aurantium Amara Flower Oil (Neroli Oil), Citrus Nobilis Peel Oil (Mandarin Oil), Vanilla Planifolia Fruit Extract (Vanilla Extract), Citrus Aurantium Amara Flower Extract (Orange Flower Extract), *Anise Alcohol, *Citral, *Coumarin, *Farnesol, Geraniol, *Hydroxycitronellal, *Limonene, *Linalool",
+    "notes": [
       "Citrus",
       "Vanilla",
       "Neroli",
       "Mandarin",
       "Orange Flower"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Body Spray",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "아메리칸 크림",
     "english_name": "American Cream",
-    "product_type": "Perfume",
+    "normalized_name": "american cream",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/american-cream-perfume",
-    "regular_price": "£30.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/american_cream_perfume_100ml_2021_thumbnail_256.png",
-    "ingredients": "Organic DRF Alcohol, Parfum, Aqua (Water), Glycerin, Alpha-Isomethyl Ionone, Vanilla Planifolia Fruit Extract (Vanilla Extract), Salvia Sclarea Oil (Clary Sage Oil), Lavandula Angustifolia Oil (Lavender Oil), Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract), *Anise Alcohol, *Benzyl Benzoate, Coumarin, *Geraniol, *Limonene, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£30.00",
+      "amount": 30,
+      "currency": "GBP"
+    },
+    "description": "아메리칸 크림은 Vanilla, Lavender, Benzoin 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Organic DRF Alcohol, Parfum, Aqua (Water), Glycerin, Alpha-Isomethyl Ionone, Vanilla Planifolia Fruit Extract (Vanilla Extract), Salvia Sclarea Oil (Clary Sage Oil), Lavandula Angustifolia Oil (Lavender Oil), Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract), *Anise Alcohol, *Benzyl Benzoate, Coumarin, *Geraniol, *Limonene, *Linalool",
+    "notes": [
       "Vanilla",
       "Lavender",
       "Benzoin"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "Alina",
     "english_name": "Alina",
-    "product_type": "Solid Perfume",
+    "normalized_name": "alina",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/alina-solidperfume",
-    "regular_price": "£12.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/alina_solid_perfume_pack_11g_2024_902a7ba4_thumbnail_256.png",
-    "ingredients": "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil), Ricinus Communis Seed Oil (Organic Castor Oil), Euphorbia Cerifera Cera (Organic Candelilla Wax), Parfum, Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil), Pogostemon Cablin Oil (Patchouli Oil), Eugenia Caryophyllus Oil (Clove Bud Oil), Olibanum (Olibanum Resinoid), Jasminum Grandiflorum Flower Extract (Jasmine Extract), Pink Pepper Oil, Vetiveria Zizanoides Root Oil (Vetivert Oil), Orris Oil, Vanilla Planifolia Fruit Extract (Vanilla Extract), Titanium Dioxide, Zea Mays Starch (Cornstarch), Synthetic Fluorphlogopite, Tin Oxide, Alpha-Isomethyl Ionone, *Anise Alcohol, *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Cinnamal, *Cinnamyl Alcohol, *Citral, *Citronellol, Coumarin, *Eugenol, Evernia Prunastri Extract (Oakmoss Extract), *Farnesol, *Geraniol, *Isoeugenol, *Limonene, *Linalool, Colour 47005:1, Colour 73360",
-    "key_ingredients": [
+    "price": {
+      "raw": "£12.00",
+      "amount": 12,
+      "currency": "GBP"
+    },
+    "description": "Alina은 Citrus, Vanilla, Bergamot, Clove, Patchouli 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil), Ricinus Communis Seed Oil (Organic Castor Oil), Euphorbia Cerifera Cera (Organic Candelilla Wax), Parfum, Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil), Pogostemon Cablin Oil (Patchouli Oil), Eugenia Caryophyllus Oil (Clove Bud Oil), Olibanum (Olibanum Resinoid), Jasminum Grandiflorum Flower Extract (Jasmine Extract), Pink Pepper Oil, Vetiveria Zizanoides Root Oil (Vetivert Oil), Orris Oil, Vanilla Planifolia Fruit Extract (Vanilla Extract), Titanium Dioxide, Zea Mays Starch (Cornstarch), Synthetic Fluorphlogopite, Tin Oxide, Alpha-Isomethyl Ionone, *Anise Alcohol, *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Cinnamal, *Cinnamyl Alcohol, *Citral, *Citronellol, Coumarin, *Eugenol, Evernia Prunastri Extract (Oakmoss Extract), *Farnesol, *Geraniol, *Isoeugenol, *Limonene, *Linalool, Colour 47005:1, Colour 73360",
+    "notes": [
       "Citrus",
       "Vanilla",
       "Bergamot",
       "Clove",
       "Patchouli"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Solid Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "Alina",
     "english_name": "Alina",
-    "product_type": "Perfume",
+    "normalized_name": "alina",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/alina-perfume",
-    "regular_price": "£35.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/alina_perfume_24_af51638b_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Parfum, Aqua (Water), Glycerin, *Limonene, Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil), Alpha-Isomethyl Ionone, Pogostemon Cablin Oil (Patchouli Oil), Eugenia Caryophyllus Oil (Clove Bud Oil), Olibanum (Olibanum Resinoid), Jasminum Grandiflorum Flower Extract (Jasmine Extract), Pink Pepper Oil, Vetiveria Zizanoides Root Oil (Vetivert Oil), Orris Oil, Vanilla Planifolia Fruit Extract (Vanilla Extract), *Anise Alcohol, *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Cinnamal, *Cinnamyl Alcohol, *Citral, *Citronellol, Coumarin, *Eugenol, Evernia Prunastri Extract (Oakmoss Extract), *Farnesol, *Geraniol, *Isoeugenol, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£35.00",
+      "amount": 35,
+      "currency": "GBP"
+    },
+    "description": "Alina은 Citrus, Vanilla, Bergamot, Clove, Patchouli 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Parfum, Aqua (Water), Glycerin, *Limonene, Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil), Alpha-Isomethyl Ionone, Pogostemon Cablin Oil (Patchouli Oil), Eugenia Caryophyllus Oil (Clove Bud Oil), Olibanum (Olibanum Resinoid), Jasminum Grandiflorum Flower Extract (Jasmine Extract), Pink Pepper Oil, Vetiveria Zizanoides Root Oil (Vetivert Oil), Orris Oil, Vanilla Planifolia Fruit Extract (Vanilla Extract), *Anise Alcohol, *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Cinnamal, *Cinnamyl Alcohol, *Citral, *Citronellol, Coumarin, *Eugenol, Evernia Prunastri Extract (Oakmoss Extract), *Farnesol, *Geraniol, *Isoeugenol, *Linalool",
+    "notes": [
       "Citrus",
       "Vanilla",
       "Bergamot",
       "Clove",
       "Patchouli"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "오후 4시 20분",
     "english_name": "4:20pm",
-    "product_type": "Perfume",
+    "normalized_name": "4 20pm",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/420pm-perfume",
-    "regular_price": "£35.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/4_20_cbd_perfume_2021_d24633a5_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Cannabidiol in Propylene Glycol, Parfum, Pogostemon Cablin Oil (Patchouli Oil), *Limonene, Pimento Berry Oil, Citrus Aurantium Amara Twig/Leaf Oil (Petitgrain Oil), Zingiber Officinale Root Oil (Ginger Oil), Sandalwood Oil, Apium Graveolens Seed Oil (Celery Seed Oil), Juniperus Oxycedrus Wood Oil (Cade Oil), Alpha-Isomethyl Ionone, *Citral, Coumarin, Eugenol, Evernia Prunastri Extract (Oakmoss Extract), *Farnesol, *Geraniol, Isoeugenol, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£35.00",
+      "amount": 35,
+      "currency": "GBP"
+    },
+    "description": "오후 4시 20분은 CBD, Patchouli, Sandalwood 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Cannabidiol in Propylene Glycol, Parfum, Pogostemon Cablin Oil (Patchouli Oil), *Limonene, Pimento Berry Oil, Citrus Aurantium Amara Twig/Leaf Oil (Petitgrain Oil), Zingiber Officinale Root Oil (Ginger Oil), Sandalwood Oil, Apium Graveolens Seed Oil (Celery Seed Oil), Juniperus Oxycedrus Wood Oil (Cade Oil), Alpha-Isomethyl Ionone, *Citral, Coumarin, Eugenol, Evernia Prunastri Extract (Oakmoss Extract), *Farnesol, *Geraniol, Isoeugenol, *Linalool",
+    "notes": [
       "CBD",
       "Patchouli",
       "Sandalwood"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "29 하이 스트리트",
     "english_name": "29 High Street",
-    "product_type": "Perfume",
+    "normalized_name": "29 high street",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/29-high-street",
-    "regular_price": "£30.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/29_high_street_perfume_30ml_ecom_2026_e7900855_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Parfum, Aqua (Water), Glycerin, *Limonene, *Linalool, Alpha-Isomethyl Ionone, Cananga Odorata Flower Oil (Ylang Ylang Oil), Sandalwood Oil, Jasminum Grandiflorum Flower Extract (Jasmine Extract), Citrus Aurantifolia Peel Oil (Lime Oil), Citrus Limon Peel Oil (Lemon Oil), Dipteryx Odorata Seed Extract (Tonka Seed Extract), *Anise Alcohol, Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Salicylate, *Citral, *Citronellol, Coumarin, *Eugenol, *Farnesol, *Geraniol, Hexyl Cinnamal, Hydroxycitronellal, Isoeugenol",
-    "key_ingredients": [
+    "price": {
+      "raw": "£30.00",
+      "amount": 30,
+      "currency": "GBP"
+    },
+    "description": "29 하이 스트리트은 Citrus, Ylang Ylang, Sandalwood, Jasmine, Lime 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Parfum, Aqua (Water), Glycerin, *Limonene, *Linalool, Alpha-Isomethyl Ionone, Cananga Odorata Flower Oil (Ylang Ylang Oil), Sandalwood Oil, Jasminum Grandiflorum Flower Extract (Jasmine Extract), Citrus Aurantifolia Peel Oil (Lime Oil), Citrus Limon Peel Oil (Lemon Oil), Dipteryx Odorata Seed Extract (Tonka Seed Extract), *Anise Alcohol, Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Salicylate, *Citral, *Citronellol, Coumarin, *Eugenol, *Farnesol, *Geraniol, Hexyl Cinnamal, Hydroxycitronellal, Isoeugenol",
+    "notes": [
       "Citrus",
       "Ylang Ylang",
       "Sandalwood",
       "Jasmine",
       "Lime"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "1000 키스 딥",
     "english_name": "1000 Kisses Deep",
-    "product_type": "Perfume",
+    "normalized_name": "1000 kisses deep",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/1000-kisses-deep-perfume",
-    "regular_price": "£85.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/1000_kisses_deep_the_perfume_library_100ml_perfume_2021_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Parfum, *Limonene, Coumarin, Aqua (Water), Glycerin, Commiphora Myrrha Resin (Myrrh Resinoid), Cistus Ladaniferus Resin (Labdanum Resinoid), Osmanthus Fragrans Flower Extract (Osmanthus Extract), *Anise Alcohol, *Citral, *Eugenol, *Geraniol, *Isoeugenol, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£85.00",
+      "amount": 85,
+      "currency": "GBP"
+    },
+    "description": "1000 키스 딥은 Citrus 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Parfum, *Limonene, Coumarin, Aqua (Water), Glycerin, Commiphora Myrrha Resin (Myrrh Resinoid), Cistus Ladaniferus Resin (Labdanum Resinoid), Osmanthus Fragrans Flower Extract (Osmanthus Extract), *Anise Alcohol, *Citral, *Eugenol, *Geraniol, *Isoeugenol, *Linalool",
+    "notes": [
       "Citrus"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "꿀벌의 무릎",
     "english_name": "The Bee's Knees",
-    "product_type": "Solid Perfume",
+    "normalized_name": "the bee s knees",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/the-bees-knees-solid-perfume",
-    "regular_price": "£12.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/the_bees_knees_solid_perfume_pack_11g_2024_5f041d8c_thumbnail_256.png",
-    "ingredients": "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil), Ricinus Communis Seed Oil (Organic Castor Oil), Euphorbia Cerifera Cera (Organic Candelilla Wax), Parfum, Everlasting Flower Absolute, Nicotiana Tabacum Leaf Extract (Tobacco Extract), Osmanthus Fragrans Flower Extract (Osmanthus Extract), Citrus Aurantium Amara Flower Extract (Orange Flower Extract), Citrus Aurantium Amara Flower Oil (Neroli Oil), Citrus Nobilis Peel Oil (Mandarin Oil), Zea Mays Starch (Cornstarch), Titanium Dioxide, Synthetic Fluorphlogopite, Tin Oxide, *Anise Alcohol, *Benzyl Benzoate, *Benzyl Salicylate, *Cinnamal, *Cinnamyl Alcohol, *Citral, *Coumarin, *Eugenol, *Farnesol, *Geraniol, *Isoeugenol, *Limonene, *Linalool, Colour 15850:1, Colour 47005:1, Colour 77491",
-    "key_ingredients": [
+    "price": {
+      "raw": "£12.00",
+      "amount": 12,
+      "currency": "GBP"
+    },
+    "description": "꿀벌의 무릎은 Citrus, Jojoba, Orange Flower 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil), Ricinus Communis Seed Oil (Organic Castor Oil), Euphorbia Cerifera Cera (Organic Candelilla Wax), Parfum, Everlasting Flower Absolute, Nicotiana Tabacum Leaf Extract (Tobacco Extract), Osmanthus Fragrans Flower Extract (Osmanthus Extract), Citrus Aurantium Amara Flower Extract (Orange Flower Extract), Citrus Aurantium Amara Flower Oil (Neroli Oil), Citrus Nobilis Peel Oil (Mandarin Oil), Zea Mays Starch (Cornstarch), Titanium Dioxide, Synthetic Fluorphlogopite, Tin Oxide, *Anise Alcohol, *Benzyl Benzoate, *Benzyl Salicylate, *Cinnamal, *Cinnamyl Alcohol, *Citral, *Coumarin, *Eugenol, *Farnesol, *Geraniol, *Isoeugenol, *Limonene, *Linalool, Colour 15850:1, Colour 47005:1, Colour 77491",
+    "notes": [
       "Citrus",
       "Jojoba",
       "Orange Flower"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Solid Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "꿀벌의 무릎",
     "english_name": "The Bee's Knees",
-    "product_type": "Perfume",
+    "normalized_name": "the bee s knees",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/the-bees-knees-perfume",
-    "regular_price": "£35.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/the_bees_knees_100ml_perfume_ecom_2024_4e9eeea0_thumbnail_256.png",
-    "ingredients": "Parfum, Aqua (Water), Glycerin, *Limonene, *Linalool, Everlasting Flower Absolute, Nicotiana Tabacum Leaf Extract (Tobacco Extract), Osmanthus Fragrans Flower Extract (Osmanthus Extract), Citrus Aurantium Amara Flower Extract (Orange Flower Extract), Citrus Aurantium Amara Flower Oil (Neroli Oil), Citrus Nobilis Peel Oil (Mandarin Oil), *Anise Alcohol, *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Salicylate, *Cinnamal, *Cinnamyl Alcohol, *Citral, *Citronellol, *Coumarin, *Eugenol, *Farnesol, *Geraniol, *Isoeugenol",
-    "key_ingredients": [
+    "price": {
+      "raw": "£35.00",
+      "amount": 35,
+      "currency": "GBP"
+    },
+    "description": "꿀벌의 무릎은 Citrus, Orange Flower 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Parfum, Aqua (Water), Glycerin, *Limonene, *Linalool, Everlasting Flower Absolute, Nicotiana Tabacum Leaf Extract (Tobacco Extract), Osmanthus Fragrans Flower Extract (Osmanthus Extract), Citrus Aurantium Amara Flower Extract (Orange Flower Extract), Citrus Aurantium Amara Flower Oil (Neroli Oil), Citrus Nobilis Peel Oil (Mandarin Oil), *Anise Alcohol, *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Salicylate, *Cinnamal, *Cinnamyl Alcohol, *Citral, *Citronellol, *Coumarin, *Eugenol, *Farnesol, *Geraniol, *Isoeugenol",
+    "notes": [
       "Citrus",
       "Orange Flower"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "눈의 요정",
     "english_name": "Snow Fairy",
-    "product_type": "Glitter Mist Spray",
+    "normalized_name": "snow fairy",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/snow-fairy-glitter-mist-spray",
-    "regular_price": "£18.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/snow_fairy_glitter_mist_250g_pack_ecom_2025_b65968b0_thumbnail_256.png",
-    "ingredients": "Aqua (Water), Parfum, Maris Sal (Fine Sea Salt), Persian Lime Oil, Chondrus Crispus Extract (Carrageenan Extract), Titanium Dioxide, Synthetic Musk, Synthetic Fluorphlogopite, Sodium Bicarbonate, Tin Oxide, Alpha-Isomethyl Ionone, *Citral, *Limonene, Colour 17200, Methylparaben",
-    "key_ingredients": [
+    "price": {
+      "raw": "£18.00",
+      "amount": 18,
+      "currency": "GBP"
+    },
+    "description": "눈의 요정은 Lime, Seaweed, Salt 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Aqua (Water), Parfum, Maris Sal (Fine Sea Salt), Persian Lime Oil, Chondrus Crispus Extract (Carrageenan Extract), Titanium Dioxide, Synthetic Musk, Synthetic Fluorphlogopite, Sodium Bicarbonate, Tin Oxide, Alpha-Isomethyl Ionone, *Citral, *Limonene, Colour 17200, Methylparaben",
+    "notes": [
       "Lime",
       "Seaweed",
       "Salt"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Glitter Mist Spray",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "Sleepy",
     "english_name": "Sleepy",
-    "product_type": "Lush Melt",
+    "normalized_name": "sleepy",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/sleepy-lush-melt",
-    "regular_price": "£8.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/sleepy_lush_melt_2023_dfc67245_thumbnail_256.png",
-    "ingredients": "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter), Cetearyl Olivate & Sorbitan Olivate, PEG-7 Glyceryl Cocoate, Polysorbate 20, Silica, Glyceryl Stearate, Parfum, Prunus Amygdalus Dulcis Oil (Almond Oil), Lavandula Angustifolia Oil (Lavender Oil), Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract), Dipteryx Odorata Seed Extract (Tonka Seed Extract), Cananga Odorata Flower Oil (Ylang Ylang Oil), Oat Kernel Oil, Simmondsia Chinensis Seed Oil (Organic Jojoba Oil), Titanium Dioxide, Aqua (Water), Propylene Glycol, *Benzyl Benzoate, *Benzyl Cinnamate, *Cinnamal, Coumarin, *Geraniol, *Limonene, *Linalool, Colour 77007, Colour 17200, Colour 45410, Colour 42090, Colour 60725, Colour 42090:2, Colour 45410:1, Colour 73360, Colour 19140",
-    "key_ingredients": [
+    "price": {
+      "raw": "£8.00",
+      "amount": 8,
+      "currency": "GBP"
+    },
+    "description": "Sleepy은 Almond, Lavender, Cocoa, Benzoin, Oat 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter), Cetearyl Olivate & Sorbitan Olivate, PEG-7 Glyceryl Cocoate, Polysorbate 20, Silica, Glyceryl Stearate, Parfum, Prunus Amygdalus Dulcis Oil (Almond Oil), Lavandula Angustifolia Oil (Lavender Oil), Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract), Dipteryx Odorata Seed Extract (Tonka Seed Extract), Cananga Odorata Flower Oil (Ylang Ylang Oil), Oat Kernel Oil, Simmondsia Chinensis Seed Oil (Organic Jojoba Oil), Titanium Dioxide, Aqua (Water), Propylene Glycol, *Benzyl Benzoate, *Benzyl Cinnamate, *Cinnamal, Coumarin, *Geraniol, *Limonene, *Linalool, Colour 77007, Colour 17200, Colour 45410, Colour 42090, Colour 60725, Colour 42090:2, Colour 45410:1, Colour 73360, Colour 19140",
+    "notes": [
       "Almond",
       "Lavender",
       "Cocoa",
@@ -1129,378 +2699,968 @@
       "Tonka",
       "Ylang Ylang",
       "Jojoba"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Lush Melt",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "내 공간",
     "english_name": "My Space",
-    "product_type": "Lush Melt",
+    "normalized_name": "my space",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/my-space-lush-melt",
-    "regular_price": "£8.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/my_space_lush_melt_2023_a197b2c0_thumbnail_256.png",
-    "ingredients": "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter), Cetearyl Olivate & Sorbitan Olivate, PEG-7 Glyceryl Cocoate, Shorea Stenoptera Seed Butter (Illipe Butter), Polysorbate 20, Glyceryl Stearate, Silica, Parfum, Prunus Amygdalus Dulcis Oil (Almond Oil), Everlasting Flower Absolute, Cananga Odorata Flower Oil (Ylang Ylang Oil), Tagetes Minuta Flower Oil (Tagetes Oil), Matricaria Recutita Flower Oil (Chamomile Blue Oil), Borage Oil, Titanium Dioxide, Aqua (Water), Synthetic Fluorphlogopite, Propylene Glycol, Calcium Sodium Borosilicate, Tin Oxide, Alpha-Isomethyl Ionone, Amyl Cinnamal, Benzyl Alcohol, Benzyl Benzoate, Benzyl Salicylate, Cinnamyl Alcohol, *Citral, Citronellol, *Farnesol, Geraniol, Hydroxycitronellal, Isoeugenol, *Limonene, *Linalool, Colour 77007, Colour 77491, Colour 42090:2, Colour 42090, Colour 60725",
-    "key_ingredients": [
+    "price": {
+      "raw": "£8.00",
+      "amount": 8,
+      "currency": "GBP"
+    },
+    "description": "내 공간은 Almond, Cocoa, Ylang Ylang, Chamomile, Plant butters 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter), Cetearyl Olivate & Sorbitan Olivate, PEG-7 Glyceryl Cocoate, Shorea Stenoptera Seed Butter (Illipe Butter), Polysorbate 20, Glyceryl Stearate, Silica, Parfum, Prunus Amygdalus Dulcis Oil (Almond Oil), Everlasting Flower Absolute, Cananga Odorata Flower Oil (Ylang Ylang Oil), Tagetes Minuta Flower Oil (Tagetes Oil), Matricaria Recutita Flower Oil (Chamomile Blue Oil), Borage Oil, Titanium Dioxide, Aqua (Water), Synthetic Fluorphlogopite, Propylene Glycol, Calcium Sodium Borosilicate, Tin Oxide, Alpha-Isomethyl Ionone, Amyl Cinnamal, Benzyl Alcohol, Benzyl Benzoate, Benzyl Salicylate, Cinnamyl Alcohol, *Citral, Citronellol, *Farnesol, Geraniol, Hydroxycitronellal, Isoeugenol, *Limonene, *Linalool, Colour 77007, Colour 77491, Colour 42090:2, Colour 42090, Colour 60725",
+    "notes": [
       "Almond",
       "Cocoa",
       "Ylang Ylang",
       "Chamomile",
       "Plant butters"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Lush Melt",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "골든 에그",
     "english_name": "Golden Egg",
-    "product_type": "Glitter Mist Spray",
+    "normalized_name": "golden egg",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/golden-egg-glitter-mist-spray",
-    "regular_price": "£18.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/golden_egg_glitter_mist_250g_pack_ecom_2025_46ac4848_thumbnail_256.png",
-    "ingredients": "Aqua (Water), Parfum, Maris Sal (Fine Sea Salt), Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil), Brazilian Orange Oil, Gardenia Jasminoides Fruit Extract (Gardenia Extract), Chondrus Crispus Extract (Carrageenan Extract), Titanium Dioxide, Calcium Sodium Borosilicate, Tin Oxide, Amyl Cinnamal, *Citral, *Citronellol, *Geraniol, *Limonene, *Linalool, Colour 77491, Colour 19140, Methylparaben",
-    "key_ingredients": [
+    "price": {
+      "raw": "£18.00",
+      "amount": 18,
+      "currency": "GBP"
+    },
+    "description": "골든 에그은 Salt, Orange, Bergamot, Seaweed 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Aqua (Water), Parfum, Maris Sal (Fine Sea Salt), Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil), Brazilian Orange Oil, Gardenia Jasminoides Fruit Extract (Gardenia Extract), Chondrus Crispus Extract (Carrageenan Extract), Titanium Dioxide, Calcium Sodium Borosilicate, Tin Oxide, Amyl Cinnamal, *Citral, *Citronellol, *Geraniol, *Limonene, *Linalool, Colour 77491, Colour 19140, Methylparaben",
+    "notes": [
       "Salt",
       "Orange",
       "Bergamot",
       "Seaweed"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Glitter Mist Spray",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "악마의 나이트캡",
     "english_name": "Devil's Nightcap",
-    "product_type": "Perfume",
+    "normalized_name": "devil s nightcap",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/devils-nightcap-perfume",
-    "regular_price": "£150.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/devils_nightcap_the_perfume_library_100ml_perfume_2021_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Parfum, Aqua (Water), Glycerin, Oakmoss Absolute, Evernia Prunastri Extract (Oakmoss Extract), *Linalool, *Limonene, Citronellol, Alpha-Isomethyl Ionone, Hydroxycitronellal, Oakwood Absolute, Citrus Aurantium Amara Flower Extract (Orange Flower Extract), *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Benzyl Salicylate, *Cinnamyl Alcohol, *Citral, *Eugenol, *Farnesol, *Geraniol, *Isoeugenol",
-    "key_ingredients": []
+    "price": {
+      "raw": "£150.00",
+      "amount": 150,
+      "currency": "GBP"
+    },
+    "description": "악마의 나이트캡 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Parfum, Aqua (Water), Glycerin, Oakmoss Absolute, Evernia Prunastri Extract (Oakmoss Extract), *Linalool, *Limonene, Citronellol, Alpha-Isomethyl Ionone, Hydroxycitronellal, Oakwood Absolute, Citrus Aurantium Amara Flower Extract (Orange Flower Extract), *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Benzyl Salicylate, *Cinnamyl Alcohol, *Citral, *Eugenol, *Farnesol, *Geraniol, *Isoeugenol",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "아메리칸 크림",
     "english_name": "American Cream",
-    "product_type": "Solid Perfume",
+    "normalized_name": "american cream",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/american-cream-solidperfume",
-    "regular_price": "£12.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/american_cream_solid_perfume_pack_11g_2024_HIRES_3312ef65_thumbnail_256.png",
-    "ingredients": "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil), Ricinus Communis Seed Oil (Organic Castor Oil), Euphorbia Cerifera Cera (Organic Candelilla Wax), Parfum, Alpha-Isomethyl Ionone, Titanium Dioxide, Vanilla Planifolia Fruit Extract (Vanilla Extract), Salvia Sclarea Oil (Clary Sage Oil), Lavandula Angustifolia Oil (Lavender Oil), Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract), *Anise Alcohol, *Benzyl Benzoate, Coumarin, *Geraniol, *Limonene, *Linalool, Colour 15850:1",
-    "key_ingredients": [
+    "price": {
+      "raw": "£12.00",
+      "amount": 12,
+      "currency": "GBP"
+    },
+    "description": "아메리칸 크림은 Lavender, Vanilla, Jojoba, Benzoin 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil), Ricinus Communis Seed Oil (Organic Castor Oil), Euphorbia Cerifera Cera (Organic Candelilla Wax), Parfum, Alpha-Isomethyl Ionone, Titanium Dioxide, Vanilla Planifolia Fruit Extract (Vanilla Extract), Salvia Sclarea Oil (Clary Sage Oil), Lavandula Angustifolia Oil (Lavender Oil), Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract), *Anise Alcohol, *Benzyl Benzoate, Coumarin, *Geraniol, *Limonene, *Linalool, Colour 15850:1",
+    "notes": [
       "Lavender",
       "Vanilla",
       "Jojoba",
       "Benzoin"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Solid Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "Sun",
     "english_name": "Sun",
-    "product_type": "Perfume",
+    "normalized_name": "sun",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/sun-perfume",
-    "regular_price": "£60.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/sun_100ml_perfume_ecom_2024_0c50b461_thumbnail_256.png",
-    "ingredients": "Organic DRF Alcohol, *Limonene, Brazilian Orange Oil, Perfume, Sandalwood Oil, Mimosa Absolute, *Citral, *Farnesol, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£60.00",
+      "amount": 60,
+      "currency": "GBP"
+    },
+    "description": "Sun은 Citrus, Orange 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Organic DRF Alcohol, *Limonene, Brazilian Orange Oil, Perfume, Sandalwood Oil, Mimosa Absolute, *Citral, *Farnesol, *Linalool",
+    "notes": [
       "Citrus",
       "Orange"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "신선한 상태",
     "english_name": "Fresh As",
-    "product_type": "Solid Perfume",
+    "normalized_name": "fresh as",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/fresh-as-solid-perfume-",
-    "regular_price": "£12.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/fresh_as_solid_perfume_pack_11g_2024_772da82d_thumbnail_256.png",
-    "ingredients": "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil), Ricinus Communis Seed Oil (Organic Castor Oil), Euphorbia Cerifera Cera (Organic Candelilla Wax), Parfum, *Linalool, Pinus Sylvestris Oil (Pine Oil), Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract), Orris Oil, Abies Balsamea Extract (Fir Needle Extract), Tagetes Minuta Flower Oil (Tagetes Oil), *Benzyl Benzoate, *Benzyl Cinnamate, *Cinnamal, *Citral, *Citronellol, *Eugenol, *Geraniol, *Isoeugenol, *Limonene, Colour 42090:2, Colour 19140:1",
-    "key_ingredients": [
+    "price": {
+      "raw": "£12.00",
+      "amount": 12,
+      "currency": "GBP"
+    },
+    "description": "신선한 상태은 Pine/Fir, Benzoin 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil), Ricinus Communis Seed Oil (Organic Castor Oil), Euphorbia Cerifera Cera (Organic Candelilla Wax), Parfum, *Linalool, Pinus Sylvestris Oil (Pine Oil), Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract), Orris Oil, Abies Balsamea Extract (Fir Needle Extract), Tagetes Minuta Flower Oil (Tagetes Oil), *Benzyl Benzoate, *Benzyl Cinnamate, *Cinnamal, *Citral, *Citronellol, *Eugenol, *Geraniol, *Isoeugenol, *Limonene, Colour 42090:2, Colour 19140:1",
+    "notes": [
       "Pine/Fir",
       "Benzoin"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Solid Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "비건 가죽 재킷",
     "english_name": "Vegan Leather Jacket",
-    "product_type": "Solid Perfume",
+    "normalized_name": "vegan leather jacket",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/vegan-leather-jacket-solid-perfume",
-    "regular_price": "£12.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/vegan_leather_jacket_solid_perfume_pack_11g_2024_72564743_thumbnail_256.png",
-    "ingredients": "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil), Ricinus Communis Seed Oil (Organic Castor Oil), Euphorbia Cerifera Cera (Organic Candelilla Wax), Parfum, *Eugenol, Eugenia Caryophyllus Oil (Clove Bud Oil), Vetiveria Zizanoides Root Oil (Vetivert Oil), Dipteryx Odorata Seed Extract (Tonka Seed Extract), Nicotiana Tabacum Leaf Extract (Tobacco Extract), *Anise Alcohol, *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Benzyl Salicylate, *Cinnamal, *Cinnamyl Alcohol, *Citral, *Citronellol, *Coumarin, Evernia Prunastri Extract (Oakmoss Extract), *Farnesol, *Geraniol, *Isoeugenol, *Limonene, *Linalool, Colour 77492, Colour 77499, Colour 77491",
-    "key_ingredients": [
+    "price": {
+      "raw": "£12.00",
+      "amount": 12,
+      "currency": "GBP"
+    },
+    "description": "비건 가죽 재킷은 Jojoba, Clove, Tonka, Castor 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil), Ricinus Communis Seed Oil (Organic Castor Oil), Euphorbia Cerifera Cera (Organic Candelilla Wax), Parfum, *Eugenol, Eugenia Caryophyllus Oil (Clove Bud Oil), Vetiveria Zizanoides Root Oil (Vetivert Oil), Dipteryx Odorata Seed Extract (Tonka Seed Extract), Nicotiana Tabacum Leaf Extract (Tobacco Extract), *Anise Alcohol, *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Benzyl Salicylate, *Cinnamal, *Cinnamyl Alcohol, *Citral, *Citronellol, *Coumarin, Evernia Prunastri Extract (Oakmoss Extract), *Farnesol, *Geraniol, *Isoeugenol, *Limonene, *Linalool, Colour 77492, Colour 77499, Colour 77491",
+    "notes": [
       "Jojoba",
       "Clove",
       "Tonka",
       "Castor"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Solid Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "시즌 시간",
     "english_name": "Time of the Season",
-    "product_type": "Perfume",
+    "normalized_name": "time of the season",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/time-of-the-season-perfume",
-    "regular_price": "£110.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/time_of_the_season_100ml_perfume_ecom_2024_a7e1bbb5_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Dark Sumatran Patchouli Oil, Parfum, Aqua (Water), Glycerin, Citrus Paradisi Peel Oil (Grapefruit Oil), *Linalool, Organic Neroli Oil, Citrus Aurantium Amara Flower Extract (Orange Flower Extract), *Citral, *Farnesol, *Geraniol, *Limonene",
-    "key_ingredients": [
+    "price": {
+      "raw": "£110.00",
+      "amount": 110,
+      "currency": "GBP"
+    },
+    "description": "시즌 시간은 Citrus, Patchouli, Grapefruit, Neroli, Orange Flower 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Dark Sumatran Patchouli Oil, Parfum, Aqua (Water), Glycerin, Citrus Paradisi Peel Oil (Grapefruit Oil), *Linalool, Organic Neroli Oil, Citrus Aurantium Amara Flower Extract (Orange Flower Extract), *Citral, *Farnesol, *Geraniol, *Limonene",
+    "notes": [
       "Citrus",
       "Patchouli",
       "Grapefruit",
       "Neroli",
       "Orange Flower"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "옷자락에 맺힌 이슬",
     "english_name": "The Dew on Their Hems",
-    "product_type": "Perfume",
+    "normalized_name": "the dew on their hems",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/the-dew-on-their-hems-perfume",
-    "regular_price": "£110.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/the_dew_on_their_hems_100ml_perfume_ecom_2024_9a9f51c2_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Parfum, Aqua (Water), Fir Balsam Resin, Cedarwood Oil, Glycerin, Cedarleaf Oil, Citronellol, *Hydroxycitronellal, *Limonene, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£110.00",
+      "amount": 110,
+      "currency": "GBP"
+    },
+    "description": "옷자락에 맺힌 이슬은 Cedar, Pine/Fir 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Parfum, Aqua (Water), Fir Balsam Resin, Cedarwood Oil, Glycerin, Cedarleaf Oil, Citronellol, *Hydroxycitronellal, *Limonene, *Linalool",
+    "notes": [
       "Cedar",
       "Pine/Fir"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "스위트피",
     "english_name": "Sweet Pea",
-    "product_type": "Perfume",
+    "normalized_name": "sweet pea",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/sweet-pea-perfume",
-    "regular_price": "£125.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/sweet_pea_100ml_perfume_ecom_2024_403273fe_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Parfum, Aqua (Water), *Limonene, Glycerin, Cananga Odorata Flower Oil (Ylang Ylang Oil), Rosa Damascena Flower Oil (Rose Oil), Rosmarinus Officinalis Leaf Oil (Rosemary Oil), Mint Absolute, Jasminum Grandiflorum Flower Extract (Jasmine Extract), Salvia Officinalis Oil (Sage Oil), Amyl Cinnamal, Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, Benzyl Salicylate, *Cinnamal, Cinnamyl Alcohol, *Citral, Citronellol, Coumarin, Eugenol, *Farnesol, Geraniol, Hydroxycitronellal, *Isoeugenol, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£125.00",
+      "amount": 125,
+      "currency": "GBP"
+    },
+    "description": "스위트피은 Mint, Rose, Ylang Ylang, Rosemary, Jasmine 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Parfum, Aqua (Water), *Limonene, Glycerin, Cananga Odorata Flower Oil (Ylang Ylang Oil), Rosa Damascena Flower Oil (Rose Oil), Rosmarinus Officinalis Leaf Oil (Rosemary Oil), Mint Absolute, Jasminum Grandiflorum Flower Extract (Jasmine Extract), Salvia Officinalis Oil (Sage Oil), Amyl Cinnamal, Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, Benzyl Salicylate, *Cinnamal, Cinnamyl Alcohol, *Citral, Citronellol, Coumarin, Eugenol, *Farnesol, Geraniol, Hydroxycitronellal, *Isoeugenol, *Linalool",
+    "notes": [
       "Mint",
       "Rose",
       "Ylang Ylang",
       "Rosemary",
       "Jasmine"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "슈퍼 밀크 싱글 위크 캔들",
     "english_name": "Super Milk Single Wick Candle",
-    "product_type": "Scented Candle",
+    "normalized_name": "super milk single wick candle",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/super-milk-single-wick-candle",
-    "regular_price": "£16.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/super_milk_scented_1_wick_candle_ecom_2025_1_e772b7cf_thumbnail_256.png",
-    "ingredients": "",
-    "key_ingredients": []
+    "price": {
+      "raw": "£16.00",
+      "amount": 16,
+      "currency": "GBP"
+    },
+    "description": "슈퍼 밀크 싱글 위크 캔들 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Scented Candle",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "고정 날짜",
     "english_name": "Sticky Dates",
-    "product_type": "Glitter Mist Spray",
+    "normalized_name": "sticky dates",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/sticky-dates-glitter-mist-spray",
-    "regular_price": "£18.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/sticky_dates_glitter_mist_pack_2026_1__dfbf6b68_thumbnail_256.png",
-    "ingredients": "Aqua (Water), Perfume, Maris Sal (Fine Sea Salt), Ceratonia Siliqua Gum (Carob Resinoid), Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract), Santalum Album Oil (Sandalwood Oil), Chondrus Crispus Extract (Carrageenan Extract), Titanium Dioxide, Synthetic Fluorphlogopite, Calcium Sodium Borosilicate, Silica, Tin Oxide, *Benzyl Benzoate, *Cinnamal, *Farnesol, Colour 77491, Methylparaben",
-    "key_ingredients": [
+    "price": {
+      "raw": "£18.00",
+      "amount": 18,
+      "currency": "GBP"
+    },
+    "description": "고정 날짜은 Benzoin, Sandalwood, Seaweed, Carob 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Aqua (Water), Perfume, Maris Sal (Fine Sea Salt), Ceratonia Siliqua Gum (Carob Resinoid), Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract), Santalum Album Oil (Sandalwood Oil), Chondrus Crispus Extract (Carrageenan Extract), Titanium Dioxide, Synthetic Fluorphlogopite, Calcium Sodium Borosilicate, Silica, Tin Oxide, *Benzyl Benzoate, *Cinnamal, *Farnesol, Colour 77491, Methylparaben",
+    "notes": [
       "Benzoin",
       "Sandalwood",
       "Seaweed",
       "Carob"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Glitter Mist Spray",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "섹스 폭탄",
     "english_name": "Sex Bomb",
-    "product_type": "Glitter Mist Spray",
+    "normalized_name": "sex bomb",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/sex-bomb-glitter-mist-spray",
-    "regular_price": "£18.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/sex_bomb_glitter_mist_valentines_pack_2026_e255f5cb_thumbnail_256.png",
-    "ingredients": "Aqua (Water), Parfum, Maris Sal (Fine Sea Salt), Salvia Sclarea Oil (Clary Sage Oil), Cananga Odorata Flower Oil (Ylang Ylang Oil), Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil), Jasminum Grandiflorum Flower Extract (Jasmine Extract), Cananga Oil, Chondrus Crispus Extract (Carrageenan Extract), Zea Mays Starch (Cornstarch), Titanium Dioxide, Synthetic Fluorphlogopite, Tin Oxide, Alpha-Isomethyl Ionone, *Benzyl Benzoate, *Limonene, *Linalool, Colour 42090:2, Colour 45410, Colour 42090, Methylparaben",
-    "key_ingredients": [
+    "price": {
+      "raw": "£18.00",
+      "amount": 18,
+      "currency": "GBP"
+    },
+    "description": "섹스 폭탄은 Jasmine, Ylang Ylang, Sage, Bergamot 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Aqua (Water), Parfum, Maris Sal (Fine Sea Salt), Salvia Sclarea Oil (Clary Sage Oil), Cananga Odorata Flower Oil (Ylang Ylang Oil), Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil), Jasminum Grandiflorum Flower Extract (Jasmine Extract), Cananga Oil, Chondrus Crispus Extract (Carrageenan Extract), Zea Mays Starch (Cornstarch), Titanium Dioxide, Synthetic Fluorphlogopite, Tin Oxide, Alpha-Isomethyl Ionone, *Benzyl Benzoate, *Limonene, *Linalool, Colour 42090:2, Colour 45410, Colour 42090, Methylparaben",
+    "notes": [
       "Jasmine",
       "Ylang Ylang",
       "Sage",
       "Bergamot"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Glitter Mist Spray",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "로잘리나 공주",
     "english_name": "Princess Rosalina",
-    "product_type": "Body Spray",
+    "normalized_name": "princess rosalina",
+    "product_type": "perfume",
+    "product_subtype": "body_spray",
     "product_url": "https://www.lush.com/uk/en/p/princess-rosalina-body-spray",
-    "regular_price": "£35.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/princess_rosalina_body_spray_200ml_pack_ecom_2026_e2826cb6_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Aqua (Water), Parfum, Glycerin, Artemisia Pallens Herb Oil (Davana Oil), Matricaria Recutita Flower Oil (Chamomile Blue Oil), Tagetes Minuta Flower Oil (Tagetes Oil), Rosa Damascena Flower Oil (Rose Oil), Melaleuca Ericifolia Leaf Oil (Rosalina Oil), *Limonene, *Linalool, Geraniol, Coumarin, Citronellol, Alpha-Isomethyl Ionone",
-    "key_ingredients": [
+    "price": {
+      "raw": "£35.00",
+      "amount": 35,
+      "currency": "GBP"
+    },
+    "description": "로잘리나 공주은 Davana, Rose, Chamomile 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Aqua (Water), Parfum, Glycerin, Artemisia Pallens Herb Oil (Davana Oil), Matricaria Recutita Flower Oil (Chamomile Blue Oil), Tagetes Minuta Flower Oil (Tagetes Oil), Rosa Damascena Flower Oil (Rose Oil), Melaleuca Ericifolia Leaf Oil (Rosalina Oil), *Limonene, *Linalool, Geraniol, Coumarin, Citronellol, Alpha-Isomethyl Ionone",
+    "notes": [
       "Davana",
       "Rose",
       "Chamomile"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Body Spray",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "작별 인사할 방법 없음",
     "english_name": "No Way To Say Goodbye",
-    "product_type": "Solid Perfume",
+    "normalized_name": "no way to say goodbye",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/no-way-to-say-goodbye-solid-perfume",
-    "regular_price": "£12.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/no_way_to_say_goodbye_solid_perfume_pack_11g_2024_2523ae68_thumbnail_256.png",
-    "ingredients": "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil), Ricinus Communis Seed Oil (Organic Castor Oil), Euphorbia Cerifera Cera (Organic Candelilla Wax), Parfum, Ribes Nigrum Fruit Extract (Blackcurrant Extract), Litsea Cubeba Fruit Oil (Litsea Cubeba Oil), Rosa Damascena Extract (Rose Extract), Rosa Damascena Flower Oil (Rose Oil), Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract), Kaolin, Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Cinnamal, *Citral, *Citronellol, Eugenol, Geraniol, *Limonene, *Linalool, Colour 77007, Colour 15850:1",
-    "key_ingredients": [
+    "price": {
+      "raw": "£12.00",
+      "amount": 12,
+      "currency": "GBP"
+    },
+    "description": "작별 인사할 방법 없음은 Jojoba, Rose, Blackcurrant, Litsea Cubeba, Benzoin 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil), Ricinus Communis Seed Oil (Organic Castor Oil), Euphorbia Cerifera Cera (Organic Candelilla Wax), Parfum, Ribes Nigrum Fruit Extract (Blackcurrant Extract), Litsea Cubeba Fruit Oil (Litsea Cubeba Oil), Rosa Damascena Extract (Rose Extract), Rosa Damascena Flower Oil (Rose Oil), Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract), Kaolin, Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Cinnamal, *Citral, *Citronellol, Eugenol, Geraniol, *Limonene, *Linalool, Colour 77007, Colour 15850:1",
+    "notes": [
       "Jojoba",
       "Rose",
       "Blackcurrant",
       "Litsea Cubeba",
       "Benzoin"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Solid Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "러쉬 삼부작: 향수 디스커버리 박스",
     "english_name": "Lush Triptych: Perfume Discovery Box",
-    "product_type": "Gift",
+    "normalized_name": "lush triptych perfume discovery box",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/lush-triptych-gift",
-    "regular_price": "£33.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/lush_triptych_perfume_gift_ecom_2025_c0960044_thumbnail_256.png",
-    "ingredients": "",
-    "key_ingredients": []
+    "price": {
+      "raw": "£33.00",
+      "amount": 33,
+      "currency": "GBP"
+    },
+    "description": "러쉬 삼부작: 향수 디스커버리 박스 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Gift",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "러쉬 로맨스: 향수 디스커버리 박스",
     "english_name": "Lush Romance: Perfume Discovery Box",
-    "product_type": "Gift",
+    "normalized_name": "lush romance perfume discovery box",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/lush-romance-gift",
-    "regular_price": "£30.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/lush_romance_perfume_gift_ecom_2025_525b1d05_thumbnail_256.png",
-    "ingredients": "",
-    "key_ingredients": []
+    "price": {
+      "raw": "£30.00",
+      "amount": 30,
+      "currency": "GBP"
+    },
+    "description": "러쉬 로맨스: 향수 디스커버리 박스 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Gift",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "러쉬 나이트: 향수 디스커버리 박스",
     "english_name": "Lush Nights: Perfume Discovery Box",
-    "product_type": "Gift",
+    "normalized_name": "lush nights perfume discovery box",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/lush-nights-gift",
-    "regular_price": "£39.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/Gift-2025-Lush-Nights-Perfume-Gift_ecom_ac5bd709_thumbnail_256.png",
-    "ingredients": "",
-    "key_ingredients": []
+    "price": {
+      "raw": "£39.00",
+      "amount": 39,
+      "currency": "GBP"
+    },
+    "description": "러쉬 나이트: 향수 디스커버리 박스 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Gift",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "러쉬 데이즈: 향수 디스커버리 박스",
     "english_name": "Lush Days: Perfume Discovery Box",
-    "product_type": "Gift",
+    "normalized_name": "lush days perfume discovery box",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/lush-days-gift",
-    "regular_price": "£29.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/lush_days_perfume_gift_ecom_2025_3c0bf5b5_thumbnail_256.png",
-    "ingredients": "",
-    "key_ingredients": []
+    "price": {
+      "raw": "£29.00",
+      "amount": 29,
+      "currency": "GBP"
+    },
+    "description": "러쉬 데이즈: 향수 디스커버리 박스 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Gift",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "러쉬 클래식: 향수 디스커버리 박스",
     "english_name": "Lush Classics: Perfume Discovery Box",
-    "product_type": "Gift",
+    "normalized_name": "lush classics perfume discovery box",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/lush-classics-perfumegift",
-    "regular_price": "£60.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/lush_classics_perfume_gift_ecom_2025_e66c71f9_thumbnail_256.png",
-    "ingredients": "",
-    "key_ingredients": []
+    "price": {
+      "raw": "£60.00",
+      "amount": 60,
+      "currency": "GBP"
+    },
+    "description": "러쉬 클래식: 향수 디스커버리 박스 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Gift",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "은하계 단일 심지 캔들",
     "english_name": "Intergalactic Single Wick Candle",
-    "product_type": "Scented Candle",
+    "normalized_name": "intergalactic single wick candle",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/intergalactic-single-wick-candle",
-    "regular_price": "£14.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/intergalactic_scented_1_wick_candle_ecom_2025_934c8ce9_thumbnail_256.png",
-    "ingredients": "",
-    "key_ingredients": []
+    "price": {
+      "raw": "£14.00",
+      "amount": 14,
+      "currency": "GBP"
+    },
+    "description": "은하계 단일 심지 캔들 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Scented Candle",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "은하계 간",
     "english_name": "Intergalactic",
-    "product_type": "Glitter Mist Spray",
+    "normalized_name": "intergalactic",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/intergalactic-glitter-mist-spray",
-    "regular_price": "£18.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/intergalactic_glitter_mist_250g_pack_ecom_2025_a5fcd89b_thumbnail_256.png",
-    "ingredients": "Aqua (Water), Parfum, Maris Sal (Fine Sea Salt), Mentha Piperita Oil (Peppermint Oil), Citrus Paradisi Peel Oil (Grapefruit Oil), Vetiveria Zizanoides Root Oil (Vetivert Oil), Cedarwood Oil, Chondrus Crispus Extract (Carrageenan Extract), Titanium Dioxide, Synthetic Fluorphlogopite, Silica, Tin Oxide, *Benzyl Benzoate, *Citral, Coumarin, Geraniol, *Limonene, *Linalool, Colour 77491, Colour 42090, Methylparaben",
-    "key_ingredients": [
+    "price": {
+      "raw": "£18.00",
+      "amount": 18,
+      "currency": "GBP"
+    },
+    "description": "은하계 간은 Citrus, Mint, Grapefruit, Cedar, Salt 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Aqua (Water), Parfum, Maris Sal (Fine Sea Salt), Mentha Piperita Oil (Peppermint Oil), Citrus Paradisi Peel Oil (Grapefruit Oil), Vetiveria Zizanoides Root Oil (Vetivert Oil), Cedarwood Oil, Chondrus Crispus Extract (Carrageenan Extract), Titanium Dioxide, Synthetic Fluorphlogopite, Silica, Tin Oxide, *Benzyl Benzoate, *Citral, Coumarin, Geraniol, *Limonene, *Linalool, Colour 77491, Colour 42090, Methylparaben",
+    "notes": [
       "Citrus",
       "Mint",
       "Grapefruit",
       "Cedar",
       "Salt",
       "Seaweed"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Glitter Mist Spray",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "헝가리 프렌즈",
     "english_name": "Hungarian Fronds",
-    "product_type": "Perfume",
+    "normalized_name": "hungarian fronds",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/hungarian-fronds-perfume",
-    "regular_price": "£110.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/hungarian_fronds_100ml_perfume_ecom_2024_07ec1671_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Parfum, Aqua (Water), *Linalool, Glycerin, *Limonene, Fennel Oil, Anthopogon Oil, Matricaria Recutita Flower Oil (Chamomile Blue Oil), Oregano Oil, *Benzyl Cinnamate, *Cinnamyl Alcohol, *Citral, *Citronellol, *Coumarin, Evernia Prunastri Extract (Oakmoss Extract), *Geraniol, *Isoeugenol",
-    "key_ingredients": [
+    "price": {
+      "raw": "£110.00",
+      "amount": 110,
+      "currency": "GBP"
+    },
+    "description": "헝가리 프렌즈은 Chamomile 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Parfum, Aqua (Water), *Linalool, Glycerin, *Limonene, Fennel Oil, Anthopogon Oil, Matricaria Recutita Flower Oil (Chamomile Blue Oil), Oregano Oil, *Benzyl Cinnamate, *Cinnamyl Alcohol, *Citral, *Citronellol, *Coumarin, Evernia Prunastri Extract (Oakmoss Extract), *Geraniol, *Isoeugenol",
+    "notes": [
       "Chamomile"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "크렘 브륄레 싱글 위크 캔들",
     "english_name": "Crème Brûlée Single Wick Candle",
-    "product_type": "Scented Candle",
+    "normalized_name": "creme brulee single wick candle",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/creme-brulee-single-wick-candle",
-    "regular_price": "£14.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/creme_brulee_scented_1_wick_candle_ecom_2025_d446b405_thumbnail_256.png",
-    "ingredients": "",
-    "key_ingredients": []
+    "price": {
+      "raw": "£14.00",
+      "amount": 14,
+      "currency": "GBP"
+    },
+    "description": "크렘 브륄레 싱글 위크 캔들 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Scented Candle",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "Betel",
     "english_name": "Betel",
-    "product_type": "Perfume",
+    "normalized_name": "betel",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/betel-perfume",
-    "regular_price": "£110.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/betel_100ml_perfume_ecom_2024_1_d8ccdb8a_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Parfum, Aqua (Water), Glycerin, *Eugenol, Mango Leaf Absolute, Artemisia Pallens Herb Oil (Davana Oil), Illicium Verum Fruit/Seed Oil (Aniseed Oil), Jasminum Grandiflorum Flower Extract (Jasmine Extract), Coriandrum Sativum Seed Oil (Coriander Seed Oil), Amyl Cinnamal, *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Benzyl Salicylate, *Cinnamal, *Citral, *Citronellol, *Farnesol, *Geraniol, *Isoeugenol, *Limonene, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£110.00",
+      "amount": 110,
+      "currency": "GBP"
+    },
+    "description": "Betel은 Davana, Jasmine 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Parfum, Aqua (Water), Glycerin, *Eugenol, Mango Leaf Absolute, Artemisia Pallens Herb Oil (Davana Oil), Illicium Verum Fruit/Seed Oil (Aniseed Oil), Jasminum Grandiflorum Flower Extract (Jasmine Extract), Coriandrum Sativum Seed Oil (Coriander Seed Oil), Amyl Cinnamal, *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Benzyl Salicylate, *Cinnamal, *Citral, *Citronellol, *Farnesol, *Geraniol, *Isoeugenol, *Limonene, *Linalool",
+    "notes": [
       "Davana",
       "Jasmine"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "Abiba",
     "english_name": "Abiba",
-    "product_type": "Perfume",
+    "normalized_name": "abiba",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/abiba-perfume",
-    "regular_price": "£110.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/abiba_100ml_perfume_ecom_2024_83f39c14_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Parfum, Aqua (Water), Glycerin, Ghanaian Ylang Ylang Oil, Bay Oil, Carrot Seed Oil, Frangipani Absolute, Vetiveria Zizanoides Root Oil (Vetivert Oil), *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Benzyl Salicylate, *Cinnamyl Alcohol, *Citral, *Citronellol, *Eugenol, *Farnesol, *Geraniol, *Isoeugenol, *Limonene, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£110.00",
+      "amount": 110,
+      "currency": "GBP"
+    },
+    "description": "Abiba은 Ylang Ylang 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Parfum, Aqua (Water), Glycerin, Ghanaian Ylang Ylang Oil, Bay Oil, Carrot Seed Oil, Frangipani Absolute, Vetiveria Zizanoides Root Oil (Vetivert Oil), *Benzyl Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Benzyl Salicylate, *Cinnamyl Alcohol, *Citral, *Citronellol, *Eugenol, *Farnesol, *Geraniol, *Isoeugenol, *Limonene, *Linalool",
+    "notes": [
       "Ylang Ylang"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Perfume",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "백만 달러",
     "english_name": "Million Dollar",
-    "product_type": "Body Spray",
+    "normalized_name": "million dollar",
+    "product_type": "perfume",
+    "product_subtype": "body_spray",
     "product_url": "https://www.lush.com/uk/en/p/million-dollar-body-spray",
-    "regular_price": "£35.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/million_dollar_body_spray_200ml_pack_ecom_19adaf64_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Aqua (Water), Parfum, Glycerin, Dipteryx Odorata Seed Extract (Tonka Seed Extract), Lavandula Angustifolia Extract (Lavender Extract), Aniba Rosaeodora Wood Oil (Rosewood Oil), *Benzyl Benzoate, *Citral, Coumarin, *Farnesol, *Geraniol, *Limonene, *Linalool",
-    "key_ingredients": [
+    "price": {
+      "raw": "£35.00",
+      "amount": 35,
+      "currency": "GBP"
+    },
+    "description": "백만 달러은 Tonka, Lavender 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Aqua (Water), Parfum, Glycerin, Dipteryx Odorata Seed Extract (Tonka Seed Extract), Lavandula Angustifolia Extract (Lavender Extract), Aniba Rosaeodora Wood Oil (Rosewood Oil), *Benzyl Benzoate, *Citral, Coumarin, *Farnesol, *Geraniol, *Limonene, *Linalool",
+    "notes": [
       "Tonka",
       "Lavender"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Body Spray",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "바노피 파이",
     "english_name": "Banoffee Pie",
-    "product_type": "Body Spray",
+    "normalized_name": "banoffee pie",
+    "product_type": "perfume",
+    "product_subtype": "body_spray",
     "product_url": "https://www.lush.com/uk/en/p/banoffee-pie-body-spray",
-    "regular_price": "£29.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/banoffee_pie_body_spray_200ml_pack_ecom_0abfad60_thumbnail_256.png",
-    "ingredients": "Alcohol Denat. (Organic), Aqua (Water), Parfum, Glycerin, Vanilla Planifolia Fruit Extract (Vanilla Extract), Cistus Ladaniferus Resin (Labdanum Resinoid), Dipteryx Odorata Seed Extract (Tonka Seed Extract), *Amyl Cinnamal, *Anise Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Cinnamal, *Coumarin, *Eugenol, *Limonene",
-    "key_ingredients": [
+    "price": {
+      "raw": "£29.00",
+      "amount": 29,
+      "currency": "GBP"
+    },
+    "description": "바노피 파이은 Vanilla, Tonka 노트가 중심인 향수입니다.",
+    "ingredients_raw": "Alcohol Denat. (Organic), Aqua (Water), Parfum, Glycerin, Vanilla Planifolia Fruit Extract (Vanilla Extract), Cistus Ladaniferus Resin (Labdanum Resinoid), Dipteryx Odorata Seed Extract (Tonka Seed Extract), *Amyl Cinnamal, *Anise Alcohol, *Benzyl Benzoate, *Benzyl Cinnamate, *Cinnamal, *Coumarin, *Eugenol, *Limonene",
+    "notes": [
       "Vanilla",
       "Tonka"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Body Spray",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "LUSH",
+    "korean_name": "트와일라잇 싱글 위크 캔들",
     "english_name": "Twilight Single Wick Candle",
-    "product_type": "Scented Candle",
+    "normalized_name": "twilight single wick candle",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.com/uk/en/p/twilight-single-wick-candle",
-    "regular_price": "£14.00",
     "image_url": "https://unicorn.lush.com/media/thumbnails/products/twilight_scented_1_wick_candle_ecom_2025_a70496ec_thumbnail_256.png",
-    "ingredients": "",
-    "key_ingredients": []
+    "price": {
+      "raw": "£14.00",
+      "amount": 14,
+      "currency": "GBP"
+    },
+    "description": "트와일라잇 싱글 위크 캔들 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Scented Candle",
+      "original_country": "UK"
+    }
   }
 ]

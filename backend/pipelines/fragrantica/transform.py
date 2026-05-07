@@ -5,6 +5,8 @@ from __future__ import annotations
 import re
 from typing import Any
 
+from pipelines.common.normalized_schema import normalize_product_row
+
 
 COUNTRY_BY_BRAND = {
     "Giorgio Armani": "IT",
@@ -43,18 +45,25 @@ def format_fragrantica_rows(
         )
 
         rows.append(
-            {
-                "country": COUNTRY_BY_BRAND.get(brand, ""),
-                "korean_name": "",
-                "english_name": name,
-                "product_type": "향수",
-                "product_url": str(item.get("_url") or _build_source_url(brand, name, source_url_template)),
-                "regular_price": "",
-                "image_url": "",
-                "ingredients": f"Released in {release_year}" if release_year else "",
-                "key_ingredients": _unique(key_ingredients),
-                "keywords": parse_semicolon_values(item.get("accords")),
-            }
+            normalize_product_row(
+                {
+                    "country": COUNTRY_BY_BRAND.get(brand, ""),
+                    "brand": brand,
+                    "korean_name": "",
+                    "english_name": name,
+                    "product_type": "향수",
+                    "product_url": str(item.get("_url") or _build_source_url(brand, name, source_url_template)),
+                    "regular_price": "",
+                    "image_url": "",
+                    "description": f"Released in {release_year}" if release_year else "",
+                    "release_year": release_year,
+                    "key_ingredients": _unique(key_ingredients),
+                    "accords": parse_semicolon_values(item.get("accords")),
+                },
+                source="fragrantica",
+                source_country=COUNTRY_BY_BRAND.get(brand, ""),
+                brand=brand,
+            )
         )
     return rows
 

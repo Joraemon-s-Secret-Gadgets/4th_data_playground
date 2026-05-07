@@ -5,6 +5,7 @@ from __future__ import annotations
 from dataclasses import dataclass
 from typing import Any
 
+from pipelines.common.normalized_schema import normalize_product_row
 from pipelines.retail_exports import format_price
 
 
@@ -45,17 +46,25 @@ BRAND_CONFIGS: dict[str, BrandConfig] = {
 
 def product_to_local_row(product: dict[str, Any]) -> dict[str, Any]:
     """Convert a retail crawler product document to the local fragrance row schema."""
-    return {
-        "country": str(product.get("country") or ""),
-        "korean_name": str(product.get("product_name_ko") or ""),
-        "english_name": str(product.get("product_name_original") or ""),
-        "product_type": str(product.get("product_type") or ""),
-        "product_url": str(product.get("source_url") or ""),
-        "regular_price": format_price(_number_or_none(product.get("price_original")), str(product.get("currency") or "")),
-        "image_url": _primary_image_url(product.get("images")),
-        "ingredients": str(product.get("ingredients_ko") or ""),
-        "key_ingredients": _key_ingredients(product.get("notes")),
-    }
+    source_country = str(product.get("country") or "")
+    brand = str(product.get("brand_name") or "")
+    return normalize_product_row(
+        {
+            "country": source_country,
+            "brand": brand,
+            "korean_name": str(product.get("product_name_ko") or ""),
+            "english_name": str(product.get("product_name_original") or ""),
+            "product_type": str(product.get("product_type") or ""),
+            "product_url": str(product.get("source_url") or ""),
+            "regular_price": format_price(_number_or_none(product.get("price_original")), str(product.get("currency") or "")),
+            "image_url": _primary_image_url(product.get("images")),
+            "ingredients": str(product.get("ingredients_ko") or ""),
+            "key_ingredients": _key_ingredients(product.get("notes")),
+        },
+        source="official",
+        source_country=source_country,
+        brand=brand,
+    )
 
 
 def _primary_image_url(images: object) -> str:

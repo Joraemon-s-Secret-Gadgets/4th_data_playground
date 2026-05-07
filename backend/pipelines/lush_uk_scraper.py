@@ -11,6 +11,7 @@ from pipelines.common import (
     build_request_headers,
     fetch_rendered_html,
     get_with_retries,
+    normalize_product_rows,
     print_json_rows,
 )
 from pipelines.lush_uk.category import (
@@ -145,8 +146,9 @@ def main() -> None:
     rows = scrape_perfume_names(url)
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
-    output_path.write_text(json.dumps(rows, ensure_ascii=False, indent=2), encoding="utf-8")
-    print_json_rows(rows)
+    normalized_rows = normalize_product_rows(rows, source="official", source_country="UK", brand="LUSH")
+    output_path.write_text(json.dumps(normalized_rows, ensure_ascii=False, indent=2), encoding="utf-8")
+    print_json_rows(normalized_rows)
 
 
 def _env_flag(name: str) -> bool:

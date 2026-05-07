@@ -1,522 +1,1282 @@
 [
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "와일드 베티버",
     "english_name": "Wild Vetiver",
-    "product_type": "Fragrance",
+    "normalized_name": "wild vetiver",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/wild-vetiver/16684202/",
-    "regular_price": "€320.00",
     "image_url": "https://static.thcdn.com/productimg/original/16684202-1125319455659968.jpg",
-    "ingredients": "알코올 - 향료 - 아쿠아/워터/오 - 테트라메틸아세틸옥타하이드로나프탈렌 - 시트러스 아우란튬 베르가미아 껍질 오일 - 리모넨 - 주니퍼러스 버지니아나 오일 - 리날릴 아세테이트 - 리날룰 - 피넨 - 시트러스 리몬 껍질 오일 - 제라니올 - 시트로넬롤 - 제라닐 아세테이트 - 펠라고늄 그라베올렌 꽃 오일 - 베타-.카리오필렌 - 시트랄 - 테르피놀렌 - 장미꽃오일/추출물 - 바닐린 - 로즈케톤 - 테르피네올 - 헥사데카놀락톤 - 알파-파테르피넨 - 카본 - 장뇌",
-    "key_ingredients": [
+    "price": {
+      "raw": "€320.00",
+      "amount": 320,
+      "currency": "EUR"
+    },
+    "description": "와일드 베티버은 베르가못 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올 - 향료 - 아쿠아/워터/오 - 테트라메틸아세틸옥타하이드로나프탈렌 - 시트러스 아우란튬 베르가미아 껍질 오일 - 리모넨 - 주니퍼러스 버지니아나 오일 - 리날릴 아세테이트 - 리날룰 - 피넨 - 시트러스 리몬 껍질 오일 - 제라니올 - 시트로넬롤 - 제라닐 아세테이트 - 펠라고늄 그라베올렌 꽃 오일 - 베타-.카리오필렌 - 시트랄 - 테르피놀렌 - 장미꽃오일/추출물 - 바닐린 - 로즈케톤 - 테르피네올 - 헥사데카놀락톤 - 알파-파테르피넨 - 카본 - 장뇌",
+    "notes": [
       "베르가못"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "아벤투스",
     "english_name": "Aventus",
-    "product_type": "Fragrance",
+    "normalized_name": "aventus",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/aventus/12870029/",
-    "regular_price": "€330.00",
     "image_url": "https://static.thcdn.com/productimg/original/12870029-1455318355892959.jpg",
-    "ingredients": "알코올-향료-리모넨-물-리날룰-시트랄-시트로넬롤",
-    "key_ingredients": [
+    "price": {
+      "raw": "€330.00",
+      "amount": 330,
+      "currency": "EUR"
+    },
+    "description": "아벤투스은 베르가못 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올-향료-리모넨-물-리날룰-시트랄-시트로넬롤",
+    "notes": [
       "베르가못"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "앱솔루 아벤투스",
     "english_name": "Absolu Aventus",
-    "product_type": "Fragrance",
+    "normalized_name": "absolu aventus",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/absolu-aventus/16281794/",
-    "regular_price": "€270.00",
     "image_url": "https://static.thcdn.com/productimg/original/16281794-1795247591060156.jpg",
-    "ingredients": "알코올-향료-시트러스 아우란튬 베르가미아 껍질 오일-테트라메틸 아세틸옥타하이드로나프탈렌-물-리모넨-리날릴 아세테이트-포고스테몬 카블린 오일-리날룰-피넨-시트러스 리몬 껍질 오일-베타-카리오필렌-시트로넬올-테르피네올-테르피놀렌-제라닐 아세테이트-시트랄-라반둘라 오일/추출물-유제놀-시트러스오란튬 껍질 오일-바닐린-알파-터피넨-제라니올-쿠마린-로즈케톤-신나모움제라늄 껍질 오일-신남알",
-    "key_ingredients": [
+    "price": {
+      "raw": "€270.00",
+      "amount": 270,
+      "currency": "EUR"
+    },
+    "description": "앱솔루 아벤투스은 그레이프프루트 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올-향료-시트러스 아우란튬 베르가미아 껍질 오일-테트라메틸 아세틸옥타하이드로나프탈렌-물-리모넨-리날릴 아세테이트-포고스테몬 카블린 오일-리날룰-피넨-시트러스 리몬 껍질 오일-베타-카리오필렌-시트로넬올-테르피네올-테르피놀렌-제라닐 아세테이트-시트랄-라반둘라 오일/추출물-유제놀-시트러스오란튬 껍질 오일-바닐린-알파-터피넨-제라니올-쿠마린-로즈케톤-신나모움제라늄 껍질 오일-신남알",
+    "notes": [
       "그레이프프루트"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "그린 아이리쉬 트위드",
     "english_name": "Green Irish Tweed",
-    "product_type": "Fragrance",
+    "normalized_name": "green irish tweed",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/green-irish-tweed/12870035/",
-    "regular_price": "€320.00",
     "image_url": "https://static.thcdn.com/productimg/original/12870035-8495164180496709.jpg",
-    "ingredients": "알코올-향료-물-리모넨-리날룰-알파-이소메틸이오논-하이드록시시트로넬알-시트랄-시트로넬롤-제라니올-벤질벤조에이트-쿠마린",
-    "key_ingredients": [
+    "price": {
+      "raw": "€320.00",
+      "amount": 320,
+      "currency": "EUR"
+    },
+    "description": "그린 아이리쉬 트위드은 베르가못 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올-향료-물-리모넨-리날룰-알파-이소메틸이오논-하이드록시시트로넬알-시트랄-시트로넬롤-제라니올-벤질벤조에이트-쿠마린",
+    "notes": [
       "베르가못"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "오리지널 베티버",
     "english_name": "Original Vetiver",
-    "product_type": "Fragrance",
+    "normalized_name": "original vetiver",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/original-vetiver/12870044/",
-    "regular_price": "€320.00",
     "image_url": "https://static.thcdn.com/productimg/original/12870044-1435216837513418.jpg",
-    "ingredients": "알코올 - 향료 - 아쿠아/워터/에오 - 리모넨 - 리날룰 - 시트랄 - 제라니올 - 시트로넬올 - 쿠마린 - 유제놀 - 이소유제놀",
-    "key_ingredients": [
+    "price": {
+      "raw": "€320.00",
+      "amount": 320,
+      "currency": "EUR"
+    },
+    "description": "오리지널 베티버은 그린 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올 - 향료 - 아쿠아/워터/에오 - 리모넨 - 리날룰 - 시트랄 - 제라니올 - 시트로넬올 - 쿠마린 - 유제놀 - 이소유제놀",
+    "notes": [
       "그린"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "그녀를 위한 아벤투스",
     "english_name": "Aventus For Her",
-    "product_type": "Fragrance",
+    "normalized_name": "aventus for her",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/aventus-for-her/12870031/",
-    "regular_price": "€290.00",
     "image_url": "https://static.thcdn.com/productimg/original/12870031-2075164180954977.jpg",
-    "ingredients": "알코올-향료-물-리모넨-에칠헥실메톡시신나메이트-에칠헥실살리실레이트-부틸메톡시디벤조일메탄-리날룰-시트로넬롤-시트랄-헥실신남알-제라니올-하이드록시아트로넬알-에우제놀-벤질알코올-파네솔-BHT.",
-    "key_ingredients": [
+    "price": {
+      "raw": "€290.00",
+      "amount": 290,
+      "currency": "EUR"
+    },
+    "description": "그녀를 위한 아벤투스은 베르가못 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올-향료-물-리모넨-에칠헥실메톡시신나메이트-에칠헥실살리실레이트-부틸메톡시디벤조일메탄-리날룰-시트로넬롤-시트랄-헥실신남알-제라니올-하이드록시아트로넬알-에우제놀-벤질알코올-파네솔-BHT.",
+    "notes": [
       "베르가못"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "엘라다리아",
     "english_name": "Eladaria",
-    "product_type": "Fragrance",
+    "normalized_name": "eladaria",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/eladaria/15795436/",
-    "regular_price": "€290.00",
     "image_url": "https://static.thcdn.com/productimg/original/15795436-6085216008061904.jpg",
-    "ingredients": "알코올/ 향료/ 물/ 테트라메틸아세틸옥타하이드로나프탈렌/ 리모넨/ 시트러스오란튬베르가미아 껍질오일/ 시트로넬롤/ 제라니올/ 리날릴아세테이트/ 벤질살리실레이트/ 피넨/ 리날룰/ 장미꽃오일/ 추출물/ 펠라고늄그라비올렌꽃오일/ 터피놀렌/ 베타-.카리오필렌 / 제라닐 아세테이트 / 로즈 케톤 / 시트랄 / 알파-터피넨 / 테르피네올 / 에우제놀 / 벤질 알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "€290.00",
+      "amount": 290,
+      "currency": "EUR"
+    },
+    "description": "엘라다리아은 베르가못 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올/ 향료/ 물/ 테트라메틸아세틸옥타하이드로나프탈렌/ 리모넨/ 시트러스오란튬베르가미아 껍질오일/ 시트로넬롤/ 제라니올/ 리날릴아세테이트/ 벤질살리실레이트/ 피넨/ 리날룰/ 장미꽃오일/ 추출물/ 펠라고늄그라비올렌꽃오일/ 터피놀렌/ 베타-.카리오필렌 / 제라닐 아세테이트 / 로즈 케톤 / 시트랄 / 알파-터피넨 / 테르피네올 / 에우제놀 / 벤질 알코올",
+    "notes": [
       "베르가못"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "Carmina",
     "english_name": "Carmina",
-    "product_type": "Fragrance",
+    "normalized_name": "carmina",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/carmina/14882499/",
-    "regular_price": "€290.00",
     "image_url": "https://static.thcdn.com/productimg/original/14882499-2465132254479546.jpg",
-    "ingredients": "알코올- 향료- 물- 알파-이소메틸아이오논- 시트로넬올- 제라니올- 벤질벤조에이트- 리날룰- 리모넨- 유제놀- 파네솔- 시트랄- 벤질 알코올-아밀 신남알- 벤질 살리실레이트-이소우제놀",
-    "key_ingredients": [
+    "price": {
+      "raw": "€290.00",
+      "amount": 290,
+      "currency": "EUR"
+    },
+    "description": "Carmina은 사프란 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올- 향료- 물- 알파-이소메틸아이오논- 시트로넬올- 제라니올- 벤질벤조에이트- 리날룰- 리모넨- 유제놀- 파네솔- 시트랄- 벤질 알코올-아밀 신남알- 벤질 살리실레이트-이소우제놀",
+    "notes": [
       "사프란"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "로얄 메이페어",
     "english_name": "Royal Mayfair",
-    "product_type": "Fragrance",
+    "normalized_name": "royal mayfair",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/royal-mayfair-100ml-spray/13948661/",
-    "regular_price": "€320.00",
     "image_url": "https://static.thcdn.com/productimg/original/13948661-1705214742991928.jpg",
-    "ingredients": "알코올/ 향료/ 물/ 리모넨/ 리날룰/ 벤질알코올/ 벤질살리실레이트/ 파네솔/ 제라니올/ 신남알/ 시트랄/ 유제놀/ 이소우제놀/ 메칠 2-옥티노에이트/ 벤질벤조에이트",
-    "key_ingredients": [
+    "price": {
+      "raw": "€320.00",
+      "amount": 320,
+      "currency": "EUR"
+    },
+    "description": "로얄 메이페어은 베르가못 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올/ 향료/ 물/ 리모넨/ 리날룰/ 벤질알코올/ 벤질살리실레이트/ 파네솔/ 제라니올/ 신남알/ 시트랄/ 유제놀/ 이소우제놀/ 메칠 2-옥티노에이트/ 벤질벤조에이트",
+    "notes": [
       "베르가못"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "밀레니엄 임페리얼",
     "english_name": "Millesime Imperial",
-    "product_type": "Fragrance",
+    "normalized_name": "millesime imperial",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/millesime-imperial/12870041/",
-    "regular_price": "€320.00",
     "image_url": "https://static.thcdn.com/productimg/original/12870041-1825216837468022.jpg",
-    "ingredients": "알코올-향료-물-리모넨-리날룰-알파-이소메틸이오논-쿠마린-시트랄-제라니올-시트로넬롤",
-    "key_ingredients": [
+    "price": {
+      "raw": "€320.00",
+      "amount": 320,
+      "currency": "EUR"
+    },
+    "description": "밀레니엄 임페리얼은 베르가못 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올-향료-물-리모넨-리날룰-알파-이소메틸이오논-쿠마린-시트랄-제라니올-시트로넬롤",
+    "notes": [
       "베르가못"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "실버 마운틴 워터",
     "english_name": "Silver Mountain Water",
-    "product_type": "Fragrance",
+    "normalized_name": "silver mountain water",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/silver-mountain-water/12870049/",
-    "regular_price": "€320.00",
     "image_url": "https://static.thcdn.com/productimg/original/12870049-1875303061449466.jpg",
-    "ingredients": "알코올-향료-물-리모넨-리날룰-에칠헥실메톡시신나메이트-에칠헥실살리실레이트-부틸메톡시디벤조일메탄-시트랄-제라니올-쿠마린-알파-이소메틸아이오논-시트로넬롤-BHT",
-    "key_ingredients": [
+    "price": {
+      "raw": "€320.00",
+      "amount": 320,
+      "currency": "EUR"
+    },
+    "description": "실버 마운틴 워터은 오렌지 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올-향료-물-리모넨-리날룰-에칠헥실메톡시신나메이트-에칠헥실살리실레이트-부틸메톡시디벤조일메탄-시트랄-제라니올-쿠마린-알파-이소메틸아이오논-시트로넬롤-BHT",
+    "notes": [
       "오렌지"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "앱솔루 아벤투스",
     "english_name": "Absolu Aventus",
-    "product_type": "Fragrance",
+    "normalized_name": "absolu aventus",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/absolu-aventus/14926231/",
-    "regular_price": "€340.00",
     "image_url": "https://static.thcdn.com/productimg/original/14926231-2535132254807488.jpg",
-    "ingredients": "알코올 - 향료 - 물 - 리모넨 - 리날룰 - 시트로넬올 - 시트랄 - 유제놀 - 쿠마린 - 제라니올 - 신남알",
-    "key_ingredients": [
+    "price": {
+      "raw": "€340.00",
+      "amount": 340,
+      "currency": "EUR"
+    },
+    "description": "앱솔루 아벤투스은 베르가못 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올 - 향료 - 물 - 리모넨 - 리날룰 - 시트로넬올 - 시트랄 - 유제놀 - 쿠마린 - 제라니올 - 신남알",
+    "notes": [
       "베르가못"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "실크의 여왕",
     "english_name": "Queen Of Silk",
-    "product_type": "Fragrance",
+    "normalized_name": "queen of silk",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/queen-of-silk/15227714/",
-    "regular_price": "€290.00",
     "image_url": "https://static.thcdn.com/productimg/original/15227714-1735152791735504.jpg",
-    "ingredients": "알코올/ 향료/ 물/ 벤질살리실레이트/ 알파-이소메틸아이오논/ 시트로넬올/ 리모넨/ 쿠마린/ 하이드록시시트로넬알/ 벤질벤조에이트/ 리날룰/ 이소우제놀/ 에우제놀/ 제라니올",
-    "key_ingredients": [
+    "price": {
+      "raw": "€290.00",
+      "amount": 290,
+      "currency": "EUR"
+    },
+    "description": "실크의 여왕은 오스만투스 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올/ 향료/ 물/ 벤질살리실레이트/ 알파-이소메틸아이오논/ 시트로넬올/ 리모넨/ 쿠마린/ 하이드록시시트로넬알/ 벤질벤조에이트/ 리날룰/ 이소우제놀/ 에우제놀/ 제라니올",
+    "notes": [
       "오스만투스"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "켄타우루스",
     "english_name": "Centaurus",
-    "product_type": "Fragrance",
+    "normalized_name": "centaurus",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/centaurus/15396603/",
-    "regular_price": "€330.00",
     "image_url": "https://static.thcdn.com/productimg/original/15396603-6745176117708254.jpg",
-    "ingredients": "알코올/ 향료/ 물/ 쿠마린/ 리날룰/ 벤질벤조에이트/ 신남알/ 벤질신나메이트/ 시트로넬올/ 제라니올/ 유제놀/ 리모넨/ 벤질알코올/ 시트릭/ 이소우제놀/ 신나밀알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "€330.00",
+      "amount": 330,
+      "currency": "EUR"
+    },
+    "description": "켄타우루스은 시나몬 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올/ 향료/ 물/ 쿠마린/ 리날룰/ 벤질벤조에이트/ 신남알/ 벤질신나메이트/ 시트로넬올/ 제라니올/ 유제놀/ 리모넨/ 벤질알코올/ 시트릭/ 이소우제놀/ 신나밀알코올",
+    "notes": [
       "시나몬"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "델피누스",
     "english_name": "Delphinus",
-    "product_type": "Fragrance",
+    "normalized_name": "delphinus",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/delphinus/15396602/",
-    "regular_price": "€330.00",
     "image_url": "https://static.thcdn.com/productimg/original/15396602-2045176117574070.jpg",
-    "ingredients": "알코올/ 향료/ 물/ 벤질살리실레이트/ 쿠마린/ 리모넨/ 알파-이소메틸아이오논/ 에우제놀/ 벤질알코올/ 제라니올/ 벤질벤조에이트",
-    "key_ingredients": [
+    "price": {
+      "raw": "€330.00",
+      "amount": 330,
+      "currency": "EUR"
+    },
+    "description": "델피누스은 인센스 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올/ 향료/ 물/ 벤질살리실레이트/ 쿠마린/ 리모넨/ 알파-이소메틸아이오논/ 에우제놀/ 벤질알코올/ 제라니올/ 벤질벤조에이트",
+    "notes": [
       "인센스"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "바람 꽃",
     "english_name": "Wind Flowers",
-    "product_type": "Fragrance",
+    "normalized_name": "wind flowers",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/wind-flowers/14942229/",
-    "regular_price": "€290.00",
     "image_url": "https://static.thcdn.com/productimg/original/14942229-1165164978868709.jpg",
-    "ingredients": "알코올- 향료- 물- 에칠헥실살리실레이트- 부틸메톡시디벤조일메탄- 펜타에리스리틸테트라-디-t-부틸하이드록시하이드로신나메이트-CI 14700(적색4호)- CI 17200(적색33호)- CI 19140(노란색5호)- CI 60730(EXT, 바이올렛 2)- 리모넨- 리날룰- 쿠마린- 하이드록시시트로넬알- 벤질살리실레이트- 시트로넬롤- 제라니올- 시트랄- 이소우제놀- 유제놀- 파네솔- 알파-아이소메틸아이오논- 벤질알코올- 벤질벤조에이트-BHT- 토코페롤",
-    "key_ingredients": [
+    "price": {
+      "raw": "€290.00",
+      "amount": 290,
+      "currency": "EUR"
+    },
+    "description": "바람 꽃은 피치 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올- 향료- 물- 에칠헥실살리실레이트- 부틸메톡시디벤조일메탄- 펜타에리스리틸테트라-디-t-부틸하이드록시하이드로신나메이트-CI 14700(적색4호)- CI 17200(적색33호)- CI 19140(노란색5호)- CI 60730(EXT, 바이올렛 2)- 리모넨- 리날룰- 쿠마린- 하이드록시시트로넬알- 벤질살리실레이트- 시트로넬롤- 제라니올- 시트랄- 이소우제놀- 유제놀- 파네솔- 알파-아이소메틸아이오논- 벤질알코올- 벤질벤조에이트-BHT- 토코페롤",
+    "notes": [
       "피치"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "로얄 우드",
     "english_name": "Royal Oud",
-    "product_type": "Fragrance",
+    "normalized_name": "royal oud",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/royal-oud/12870045/",
-    "regular_price": "€320.00",
     "image_url": "https://static.thcdn.com/productimg/original/12870045-8805322012183012.jpg",
-    "ingredients": "알코올-향료-물-에칠헥실메톡시신나메이트-에칠헥실살리실레이트-부틸메톡시디벤조일메탄-리모넨-리날룰-시트로넬롤-하이드록시시트로넬알-쿠마린-시트랄-유제놀-제라니올-벤질벤조에이트-신남알-BHT",
-    "key_ingredients": [
+    "price": {
+      "raw": "€320.00",
+      "amount": 320,
+      "currency": "EUR"
+    },
+    "description": "로얄 우드은 갈바넘 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올-향료-물-에칠헥실메톡시신나메이트-에칠헥실살리실레이트-부틸메톡시디벤조일메탄-리모넨-리날룰-시트로넬롤-하이드록시시트로넬알-쿠마린-시트랄-유제놀-제라니올-벤질벤조에이트-신남알-BHT",
+    "notes": [
       "갈바넘"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "로얄 프린세스 우드",
     "english_name": "Royal Princess Oud",
-    "product_type": "Fragrance",
+    "normalized_name": "royal princess oud",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/royal-princess-oud/12870047/",
-    "regular_price": "€290.00",
     "image_url": "https://static.thcdn.com/productimg/original/12870047-1615216837557593.jpg",
-    "ingredients": "알코올-향료-물-리모넨-에틸헥실메톡시신나메이트-에틸헥실살리실레이트-부틸메톡시디벤조일메탄-리날룰-벤질살리실레이트- 시트로넬올-하이드록시시트로넬알-알파-이소메틸-이오논-시트랄-제라니올-유제놀-쿠마린-벤질알코올-신나밀알코올-벤질벤조에이트-파네솔-BHT",
-    "key_ingredients": [
+    "price": {
+      "raw": "€290.00",
+      "amount": 290,
+      "currency": "EUR"
+    },
+    "description": "로얄 프린세스 우드은 그레이프프루트 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올-향료-물-리모넨-에틸헥실메톡시신나메이트-에틸헥실살리실레이트-부틸메톡시디벤조일메탄-리날룰-벤질살리실레이트- 시트로넬올-하이드록시시트로넬알-알파-이소메틸-이오논-시트랄-제라니올-유제놀-쿠마린-벤질알코올-신나밀알코올-벤질벤조에이트-파네솔-BHT",
+    "notes": [
       "그레이프프루트"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "봄꽃",
     "english_name": "Spring Flower",
-    "product_type": "Fragrance",
+    "normalized_name": "spring flower",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/spring-flower/12870050/",
-    "regular_price": "€290.00",
     "image_url": "https://static.thcdn.com/productimg/original/12870050-2005132258974854.jpg",
-    "ingredients": "알코올-향료-물-리모넨-리날룰-헥실신남알-시트로넬올-시트랄-벤질벤조에이트-하이드록시시트로넬알-제라니올-벤질알코올-유제놀",
-    "key_ingredients": [
+    "price": {
+      "raw": "€290.00",
+      "amount": 290,
+      "currency": "EUR"
+    },
+    "description": "봄꽃은 그레이프프루트 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올-향료-물-리모넨-리날룰-헥실신남알-시트로넬올-시트랄-벤질벤조에이트-하이드록시시트로넬알-제라니올-벤질알코올-유제놀",
+    "notes": [
       "그레이프프루트"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "아벤투스 쾰른",
     "english_name": "Aventus Cologne",
-    "product_type": "Fragrance",
+    "normalized_name": "aventus cologne",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/aventus-cologne/12870030/",
-    "regular_price": "€295.00",
     "image_url": "https://static.thcdn.com/productimg/original/12870030-1045164180796580.jpg",
-    "ingredients": "알코올-향료-리모넨-물-리날룰-시트랄-시트로넬올-벤질살리실레이트-알파-이소메틸아이오논-쿠마린",
-    "key_ingredients": [
+    "price": {
+      "raw": "€295.00",
+      "amount": 295,
+      "currency": "EUR"
+    },
+    "description": "아벤투스 쾰른은 진저 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올-향료-리모넨-물-리날룰-시트랄-시트로넬올-벤질살리실레이트-알파-이소메틸아이오논-쿠마린",
+    "notes": [
       "진저"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "Viking",
     "english_name": "Viking",
-    "product_type": "Fragrance",
+    "normalized_name": "viking",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/viking/12870053/",
-    "regular_price": "€320.00",
     "image_url": "https://static.thcdn.com/productimg/original/12870053-1185132259235236.jpg",
-    "ingredients": "알코올 / 향료 / 물 / 리모넨 / 리날룰 / 에칠헥실메톡시신나메이트 / 에칠헥실살리실레이트 / 부틸메톡시디벤조일메탄 / 에우제놀 / 쿠마린 / 시트로넬롤 / 시트랄 / BTT",
-    "key_ingredients": [
+    "price": {
+      "raw": "€320.00",
+      "amount": 320,
+      "currency": "EUR"
+    },
+    "description": "Viking은 베르가못 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올 / 향료 / 물 / 리모넨 / 리날룰 / 에칠헥실메톡시신나메이트 / 에칠헥실살리실레이트 / 부틸메톡시디벤조일메탄 / 에우제놀 / 쿠마린 / 시트로넬롤 / 시트랄 / BTT",
+    "notes": [
       "베르가못"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "플루리시모",
     "english_name": "Fleurissimo",
-    "product_type": "Fragrance",
+    "normalized_name": "fleurissimo",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/fleurissimo/12870034/",
-    "regular_price": "€290.00",
     "image_url": "https://static.thcdn.com/productimg/original/12870034-1455183380630686.jpg",
-    "ingredients": "알코올-향료-물-벤질살리실레이트-하이드록시시트로넬알-에칠헥실메톡시신나메이트-에칠헥실살리실라타이-부틸메톡시디벤조일메탄- 리모넨- 제라니올- 리날룰- 알파-아이소메틸아이오논- 유제놀- 벤질벤조에이트- 파네솔- 벤질알코올- 이소우제놀- 시트랄-Bht.",
-    "key_ingredients": [
+    "price": {
+      "raw": "€290.00",
+      "amount": 290,
+      "currency": "EUR"
+    },
+    "description": "플루리시모은 만다린 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올-향료-물-벤질살리실레이트-하이드록시시트로넬알-에칠헥실메톡시신나메이트-에칠헥실살리실라타이-부틸메톡시디벤조일메탄- 리모넨- 제라니올- 리날룰- 알파-아이소메틸아이오논- 유제놀- 벤질벤조에이트- 파네솔- 벤질알코올- 이소우제놀- 시트랄-Bht.",
+    "notes": [
       "만다린"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "보이스 뒤 포르투갈",
     "english_name": "Bois Du Portugal",
-    "product_type": "Fragrance",
+    "normalized_name": "bois du portugal",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/bois-du-portugal/12870032/",
-    "regular_price": "€320.00",
     "image_url": "https://static.thcdn.com/productimg/original/12870032-1965164180191960.jpg",
-    "ingredients": "알코올-향료-리모넨-물-리날룰-유제놀-시트랄-신나밀알코올-헥실신남알-쿠마린-알파-이소메틸아이오논-제라니올-시트로넬올-벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "€320.00",
+      "amount": 320,
+      "currency": "EUR"
+    },
+    "description": "보이스 뒤 포르투갈은 베르가못 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올-향료-리모넨-물-리날룰-유제놀-시트랄-신나밀알코올-헥실신남알-쿠마린-알파-이소메틸아이오논-제라니올-시트로넬올-벤질알코올",
+    "notes": [
       "베르가못"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "Erolfa",
     "english_name": "Erolfa",
-    "product_type": "Fragrance",
+    "normalized_name": "erolfa",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/erolfa/12870033/",
-    "regular_price": "€320.00",
     "image_url": "https://static.thcdn.com/productimg/original/12870033-1265132260251345.jpg",
-    "ingredients": "알코올-향료-물-리모넨-리날룰-시트랄-알파-이소메틸이오논-제라니올-에우제놀-시트로넬올-벤질벤조에이트-이소우제놀",
-    "key_ingredients": [
+    "price": {
+      "raw": "€320.00",
+      "amount": 320,
+      "currency": "EUR"
+    },
+    "description": "Erolfa은 라임 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올-향료-물-리모넨-리날룰-시트랄-알파-이소메틸이오논-제라니올-에우제놀-시트로넬올-벤질벤조에이트-이소우제놀",
+    "notes": [
       "라임"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "네롤리 소바쥬",
     "english_name": "Neroli Sauvage",
-    "product_type": "Fragrance",
+    "normalized_name": "neroli sauvage",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/neroli-sauvage/12870042/",
-    "regular_price": "€320.00",
     "image_url": "https://static.thcdn.com/productimg/original/12870042-8925132258008671.jpg",
-    "ingredients": "알코올-향료-물-리모넨-에칠헥실메톡시신나메이트-에칠헥실살리실레이트-부틸메톡시디벤조일메탄-리날룰-시트랄-제라니올-시트로넬올-이소우제놀-비에이치티",
-    "key_ingredients": [
+    "price": {
+      "raw": "€320.00",
+      "amount": 320,
+      "currency": "EUR"
+    },
+    "description": "네롤리 소바쥬은 진저 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올-향료-물-리모넨-에칠헥실메톡시신나메이트-에칠헥실살리실레이트-부틸메톡시디벤조일메탄-리날룰-시트랄-제라니올-시트로넬올-이소우제놀-비에이치티",
+    "notes": [
       "진저"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "로얄 워터",
     "english_name": "Royal Water",
-    "product_type": "Fragrance",
+    "normalized_name": "royal water",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/royal-water/12870048/",
-    "regular_price": "€320.00",
     "image_url": "https://static.thcdn.com/productimg/original/12870048-1715132258729676.jpg",
-    "ingredients": "알코올-향료-리모넨- 물- 리날룰- 알파-이소메틸이오논- 시트랄-유제놀- 시트로넬롤- 헥실신남알- 제라니올- 파네솔",
-    "key_ingredients": [
+    "price": {
+      "raw": "€320.00",
+      "amount": 320,
+      "currency": "EUR"
+    },
+    "description": "로얄 워터은 베르가못 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올-향료-리모넨- 물- 리날룰- 알파-이소메틸이오논- 시트랄-유제놀- 시트로넬롤- 헥실신남알- 제라니올- 파네솔",
+    "notes": [
       "베르가못"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "타바로메 밀레시메",
     "english_name": "Tabarome Millesime",
-    "product_type": "Fragrance",
+    "normalized_name": "tabarome millesime",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/tabarome-millesime/12870051/",
-    "regular_price": "€320.00",
     "image_url": "https://static.thcdn.com/productimg/original/12870051-1745164180652082.jpg",
-    "ingredients": "알코올-향료-물-알파-이소메틸이오논-리날룰-리모넨-쿠마린-시트랄-제라니올-이소우제놀-유제놀-시트로넬올-하이드록시시트로넬알",
-    "key_ingredients": [
+    "price": {
+      "raw": "€320.00",
+      "amount": 320,
+      "currency": "EUR"
+    },
+    "description": "타바로메 밀레시메은 그레이프프루트 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올-향료-물-알파-이소메틸이오논-리날룰-리모넨-쿠마린-시트랄-제라니올-이소우제놀-유제놀-시트로넬올-하이드록시시트로넬알",
+    "notes": [
       "그레이프프루트"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "히말라야",
     "english_name": "Himalaya",
-    "product_type": "Fragrance",
+    "normalized_name": "himalaya",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/himalaya/12870036/",
-    "regular_price": "€320.00",
     "image_url": "https://static.thcdn.com/productimg/original/12870036-1615132257249503.jpg",
-    "ingredients": "알코올- 향료- 물- 리모넨- 에칠헥실메톡시신나메이트- 에칠헥실살리실레이트- 부틸메톡시디벤조일메탄- 리날룰- 벤질살리실레이트- 쿠마린- 알파-아이소메틸이오논- 하이드록시시트로넬알- 시트랄- 시트로넬롤-이소우제놀- 제라니올-유제놀- 비에이치티",
-    "key_ingredients": [
+    "price": {
+      "raw": "€320.00",
+      "amount": 320,
+      "currency": "EUR"
+    },
+    "description": "히말라야은 만다린 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올- 향료- 물- 리모넨- 에칠헥실메톡시신나메이트- 에칠헥실살리실레이트- 부틸메톡시디벤조일메탄- 리날룰- 벤질살리실레이트- 쿠마린- 알파-아이소메틸이오논- 하이드록시시트로넬알- 시트랄- 시트로넬롤-이소우제놀- 제라니올-유제놀- 비에이치티",
+    "notes": [
       "만다린"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "오리지널 산탈",
     "english_name": "Original Santal",
-    "product_type": "Fragrance",
+    "normalized_name": "original santal",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/original-santal/12870043/",
-    "regular_price": "€320.00",
     "image_url": "https://static.thcdn.com/productimg/original/12870043-4695216837490450.jpg",
-    "ingredients": "알코올-향료-물-리모넨-리날룰-쿠마린-알파-이소메틸이오논-제라니올-시트로넬롤-시트랄-파네솔-신남알-메틸 2-옥티노에이트-하이드록시시트로넬알-유제놀-이소우제놀",
-    "key_ingredients": [
+    "price": {
+      "raw": "€320.00",
+      "amount": 320,
+      "currency": "EUR"
+    },
+    "description": "오리지널 산탈은 진저 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올-향료-물-리모넨-리날룰-쿠마린-알파-이소메틸이오논-제라니올-시트로넬롤-시트랄-파네솔-신남알-메틸 2-옥티노에이트-하이드록시시트로넬알-유제놀-이소우제놀",
+    "notes": [
       "진저"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "러브 인 블랙",
     "english_name": "Love In Black",
-    "product_type": "Fragrance",
+    "normalized_name": "love in black",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/love-in-black/12870038/",
-    "regular_price": "€290.00",
     "image_url": "https://static.thcdn.com/productimg/original/12870038-1555164180641717.jpg",
-    "ingredients": "알코올- 향료- 물- 알파-이소메틸이오논- 에칠헥실메톡시신나메이트- 에칠헥실살리실레이트- 부틸메톡시디벤조일메탄- 시트로넬롤- 벤질살리실레이트- 리날룰- 제라니올- 쿠마린-유제놀- 시트랄- 메칠 2-옥티노에이트- 파네졸- 벤질 알코올- 벤질 벤조에이트- BTT.",
-    "key_ingredients": [
+    "price": {
+      "raw": "€290.00",
+      "amount": 290,
+      "currency": "EUR"
+    },
+    "description": "러브 인 블랙은 라즈베리 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올- 향료- 물- 알파-이소메틸이오논- 에칠헥실메톡시신나메이트- 에칠헥실살리실레이트- 부틸메톡시디벤조일메탄- 시트로넬롤- 벤질살리실레이트- 리날룰- 제라니올- 쿠마린-유제놀- 시트랄- 메칠 2-옥티노에이트- 파네졸- 벤질 알코올- 벤질 벤조에이트- BTT.",
+    "notes": [
       "라즈베리"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "버진 아일랜드 워터",
     "english_name": "Virgin Island Water",
-    "product_type": "Fragrance",
+    "normalized_name": "virgin island water",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/virgin-island-water/12870055/",
-    "regular_price": "€320.00",
     "image_url": "https://static.thcdn.com/productimg/original/12870055-2035281296935484.jpg",
-    "ingredients": "알코올 - 향료 - 물 - 리모넨 - 리날룰 - 시트랄 - 쿠마린 - 파네솔 - 제라니올 - 시트로넬올",
-    "key_ingredients": [
+    "price": {
+      "raw": "€320.00",
+      "amount": 320,
+      "currency": "EUR"
+    },
+    "description": "버진 아일랜드 워터은 라임 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올 - 향료 - 물 - 리모넨 - 리날룰 - 시트랄 - 쿠마린 - 파네솔 - 제라니올 - 시트로넬올",
+    "notes": [
       "라임"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "바이킹 코롱",
     "english_name": "Viking Cologne",
-    "product_type": "Fragrance",
+    "normalized_name": "viking cologne",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/viking-cologne/12870054/",
-    "regular_price": "€295.00",
     "image_url": "https://static.thcdn.com/productimg/original/12870054-1995132259376620.jpg",
-    "ingredients": "알코올-향료-아쿠아-리모넨-에칠헥실메톡시신나메이트-에칠헥실살리실레이트-부틸메톡시디벤조일메탄-리날룰-시트로넬롤-시트랄-유제놀-제라니올-벤질벤조에이트-쿠마린-헥실신나말-알파-아이소메칠이오논-벤질신나메이트-신나밀알코올-BHT.",
-    "key_ingredients": [
+    "price": {
+      "raw": "€295.00",
+      "amount": 295,
+      "currency": "EUR"
+    },
+    "description": "바이킹 코롱은 레몬 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올-향료-아쿠아-리모넨-에칠헥실메톡시신나메이트-에칠헥실살리실레이트-부틸메톡시디벤조일메탄-리날룰-시트로넬롤-시트랄-유제놀-제라니올-벤질벤조에이트-쿠마린-헥실신나말-알파-아이소메칠이오논-벤질신나메이트-신나밀알코올-BHT.",
+    "notes": [
       "레몬"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "제스트 만다린",
     "english_name": "Zeste Mandarine",
-    "product_type": "Fragrance",
+    "normalized_name": "zeste mandarine",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/zeste-mandarine/12852835/",
-    "regular_price": "€230.00",
     "image_url": "https://static.thcdn.com/productimg/original/12852835-1215132261250846.jpg",
-    "ingredients": "알코올-향료-물-리모넨-리날룰-시트랄-헥실신남알-하이드록시시트로넬알-시트로넬롤-제라니올-파네솔-유제놀",
-    "key_ingredients": [
+    "price": {
+      "raw": "€230.00",
+      "amount": 230,
+      "currency": "EUR"
+    },
+    "description": "제스트 만다린은 레몬 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올-향료-물-리모넨-리날룰-시트랄-헥실신남알-하이드록시시트로넬알-시트로넬롤-제라니올-파네솔-유제놀",
+    "notes": [
       "레몬"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "그린 네롤리",
     "english_name": "Green Neroli",
-    "product_type": "Fragrance",
+    "normalized_name": "green neroli",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/green-neroli/12852832/",
-    "regular_price": "€230.00",
     "image_url": "https://static.thcdn.com/productimg/original/12852832-1715132260952415.jpg",
-    "ingredients": "알코올-리모넨-물-향료-리날룰-시트랄-유제놀-파네솔-제라니올-알파-이소메틸아이오논-시트로넬롤-벤질살리실레이트",
-    "key_ingredients": [
+    "price": {
+      "raw": "€230.00",
+      "amount": 230,
+      "currency": "EUR"
+    },
+    "description": "그린 네롤리은 네롤리 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올-리모넨-물-향료-리날룰-시트랄-유제놀-파네솔-제라니올-알파-이소메틸아이오논-시트로넬롤-벤질살리실레이트",
+    "notes": [
       "네롤리"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "로얄즈 익스클루시브 - 퓨어 화이트 코롱",
     "english_name": "Royales Exclusives - Pure White Cologne",
-    "product_type": "Fragrance",
+    "normalized_name": "royales exclusives pure white cologne",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/royales-exclusives-pure-white-cologne/12900134/",
-    "regular_price": "€470.00",
     "image_url": "https://static.thcdn.com/productimg/original/12900134-1345131554118923.jpg",
-    "ingredients": "알코올-향료-물-리모넨-에칠헥실메톡시신나메이트-에칠헥실살리실레이트-부틸메톡시디벤조일메탄-리날룰-시트랄-하이드록시아트로넬알-제라니올-시트로넬롤-파네솔-비에이치티",
-    "key_ingredients": [
+    "price": {
+      "raw": "€470.00",
+      "amount": 470,
+      "currency": "EUR"
+    },
+    "description": "로얄즈 익스클루시브 - 퓨어 화이트 코롱은 베르가못 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올-향료-물-리모넨-에칠헥실메톡시신나메이트-에칠헥실살리실레이트-부틸메톡시디벤조일메탄-리날룰-시트랄-하이드록시아트로넬알-제라니올-시트로넬롤-파네솔-비에이치티",
+    "notes": [
       "베르가못"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "로얄스 익스클루시브 - 자르뎅 다말피",
     "english_name": "Royales Exclusives - Jardin D'Amalfi",
-    "product_type": "Fragrance",
+    "normalized_name": "royales exclusives jardin d amalfi",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/royales-exclusives-jardin-d-amalfi/12900133/",
-    "regular_price": "€470.00",
     "image_url": "https://static.thcdn.com/productimg/original/12900133-6705131554010131.jpg",
-    "ingredients": "알코올-향료-물-리모넨-에칠헥실메톡시신나메이트-에칠헥실살리실레이트-부틸메톡시디벤조일메탄-하이드록시시트로넬알-시트로넬올-리날룰-알파-이소메틸아이오논-헥실신남알-시트랄-제라니올-신남알-BHT",
-    "key_ingredients": [
+    "price": {
+      "raw": "€470.00",
+      "amount": 470,
+      "currency": "EUR"
+    },
+    "description": "로얄스 익스클루시브 - 자르뎅 다말피은 베티버 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올-향료-물-리모넨-에칠헥실메톡시신나메이트-에칠헥실살리실레이트-부틸메톡시디벤조일메탄-하이드록시시트로넬알-시트로넬올-리날룰-알파-이소메틸아이오논-헥실신남알-시트랄-제라니올-신남알-BHT",
+    "notes": [
       "베티버"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "로얄즈 익스클루시브 - 화이트 플라워",
     "english_name": "Royales Exclusives - White Flowers",
-    "product_type": "Fragrance",
+    "normalized_name": "royales exclusives white flowers",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/royales-exclusives-white-flowers/12900138/",
-    "regular_price": "€470.00",
     "image_url": "https://static.thcdn.com/productimg/original/12900138-2045131554534165.jpg",
-    "ingredients": "알코올- 향료- 물- 에칠헥실메톡시신나메이트- 부틸메톡시디벤조일메탄- 에칠헥실살리실레이트- 리모넨- 제라니올- 시트로넬올- 시트랄- 리날룰- 벤질 알코올- 파네솔- 메칠 2-옥티노에이트- 벤질벤조에이트- 유제놀- 벤질살리실레이트-BHT",
-    "key_ingredients": [
+    "price": {
+      "raw": "€470.00",
+      "amount": 470,
+      "currency": "EUR"
+    },
+    "description": "로얄즈 익스클루시브 - 화이트 플라워은 레몬 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올- 향료- 물- 에칠헥실메톡시신나메이트- 부틸메톡시디벤조일메탄- 에칠헥실살리실레이트- 리모넨- 제라니올- 시트로넬올- 시트랄- 리날룰- 벤질 알코올- 파네솔- 메칠 2-옥티노에이트- 벤질벤조에이트- 유제놀- 벤질살리실레이트-BHT",
+    "notes": [
       "레몬"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "로얄즈 익스클루시브 - 수블림 바닐라",
     "english_name": "Royales Exclusives - Sublime Vanille",
-    "product_type": "Fragrance",
+    "normalized_name": "royales exclusives sublime vanille",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/royales-exclusives-sublime-vanille/12900136/",
-    "regular_price": "€470.00",
     "image_url": "https://static.thcdn.com/productimg/original/12900136-1285131554294420.jpg",
-    "ingredients": "알코올-향료-물-리모넨-리날룰-쿠마린-시트랄-제라니올-시트로넬올",
-    "key_ingredients": [
+    "price": {
+      "raw": "€470.00",
+      "amount": 470,
+      "currency": "EUR"
+    },
+    "description": "로얄즈 익스클루시브 - 수블림 바닐라은 바닐라 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올-향료-물-리모넨-리날룰-쿠마린-시트랄-제라니올-시트로넬올",
+    "notes": [
       "바닐라"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "로얄즈 독점 - 화이트 앰버",
     "english_name": "Royales Exclusives - White Amber",
-    "product_type": "Fragrance",
+    "normalized_name": "royales exclusives white amber",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/royales-exclusives-white-amber/12900137/",
-    "regular_price": "€470.00",
     "image_url": "https://static.thcdn.com/productimg/original/12900137-5585131554403872.jpg",
-    "ingredients": "알코올-향료-벤질살리실레이트-물-리날룰-하이드록시시트로넬알-리모넨-시트로넬롤-신남알-벤질알코올-제라니올-쿠마린-시트랄-벤질벤조에이트-유제놀-파네솔",
-    "key_ingredients": [
+    "price": {
+      "raw": "€470.00",
+      "amount": 470,
+      "currency": "EUR"
+    },
+    "description": "로얄즈 독점 - 화이트 앰버은 앰버 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올-향료-벤질살리실레이트-물-리날룰-하이드록시시트로넬알-리모넨-시트로넬롤-신남알-벤질알코올-제라니올-쿠마린-시트랄-벤질벤조에이트-유제놀-파네솔",
+    "notes": [
       "앰버"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   },
   {
-    "country": "UK",
+    "source": "official",
+    "source_country": "UK",
+    "brand": "CREED",
     "korean_name": "Fragaria",
     "english_name": "Fragaria",
-    "product_type": "Fragrance",
+    "normalized_name": "fragaria",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.creedfragrance.com/p/fragaria/15794807/",
-    "regular_price": "€275.00",
     "image_url": "https://static.thcdn.com/productimg/original/15794807-1865214187470279.jpg",
-    "ingredients": "알코올/ 향료/ 물/ 테트라메틸아세틸옥타하이드로나프탈렌/ 리모넨/ 시트러스오란튬베르가미아 껍질오일/ 바닐린/ 리날릴아세테이트/ 리날룰 / 알파-.이소메틸이오논/ 피넨/ 포고스테몬캐블린오일/ 주니퍼러스버지니아나오일/ 베타-카리오필렌/ 로즈케톤/ 제라닐아세테이트/ 시트로넬롤/ 터피놀렌/ 시트랄/ 터피네올/ 알파-터피넨/ 제라니올",
-    "key_ingredients": [
+    "price": {
+      "raw": "€275.00",
+      "amount": 275,
+      "currency": "EUR"
+    },
+    "description": "Fragaria은 베르가못 노트가 중심인 향수입니다.",
+    "ingredients_raw": "알코올/ 향료/ 물/ 테트라메틸아세틸옥타하이드로나프탈렌/ 리모넨/ 시트러스오란튬베르가미아 껍질오일/ 바닐린/ 리날릴아세테이트/ 리날룰 / 알파-.이소메틸이오논/ 피넨/ 포고스테몬캐블린오일/ 주니퍼러스버지니아나오일/ 베타-카리오필렌/ 로즈케톤/ 제라닐아세테이트/ 시트로넬롤/ 터피놀렌/ 시트랄/ 터피네올/ 알파-터피넨/ 제라니올",
+    "notes": [
       "베르가못"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "Fragrance",
+      "original_country": "UK"
+    }
   }
 ]

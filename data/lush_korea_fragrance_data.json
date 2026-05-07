@@ -1,1325 +1,3092 @@
 [
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "허니 아이 워시드 더 키즈 캔들",
     "english_name": "Honey I Washed The Kids Candle",
-    "product_type": "캔들",
+    "normalized_name": "honey i washed the kids candle",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000006023",
-    "regular_price": "40,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000006023/20260111072215M.png",
-    "ingredients": "",
-    "key_ingredients": []
+    "price": {
+      "raw": "40,000원",
+      "amount": 40000,
+      "currency": "KRW"
+    },
+    "description": "허니 아이 워시드 더 키즈 캔들 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "캔들",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "크렘 브륄레 캔들",
     "english_name": "Creme Brulee Candle",
-    "product_type": "캔들",
+    "normalized_name": "creme brulee candle",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000006025",
-    "regular_price": "45,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000006025/20260111075932M.png",
-    "ingredients": "",
-    "key_ingredients": []
+    "price": {
+      "raw": "45,000원",
+      "amount": 45000,
+      "currency": "KRW"
+    },
+    "description": "크렘 브륄레 캔들 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "캔들",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "인터갈락틱 캔들",
     "english_name": "Intergalactic Candle",
-    "product_type": "캔들",
+    "normalized_name": "intergalactic candle",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000006020",
-    "regular_price": "40,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000006020/20260111051926M.png",
-    "ingredients": "",
-    "key_ingredients": []
+    "price": {
+      "raw": "40,000원",
+      "amount": 40000,
+      "currency": "KRW"
+    },
+    "description": "인터갈락틱 캔들 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "캔들",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "트와일라잇 캔들",
     "english_name": "Twilight Candle",
-    "product_type": "캔들",
+    "normalized_name": "twilight candle",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000006022",
-    "regular_price": "40,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000006022/20260111064946M.png",
-    "ingredients": "",
-    "key_ingredients": []
+    "price": {
+      "raw": "40,000원",
+      "amount": 40000,
+      "currency": "KRW"
+    },
+    "description": "트와일라잇 캔들 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "캔들",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "카마 캔들",
     "english_name": "Karma Candle",
-    "product_type": "캔들",
+    "normalized_name": "karma candle",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000006021",
-    "regular_price": "40,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000006021/20260111063915M.jpg",
-    "ingredients": "",
-    "key_ingredients": []
+    "price": {
+      "raw": "40,000원",
+      "amount": 40000,
+      "currency": "KRW"
+    },
+    "description": "카마 캔들 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "캔들",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "29 하이 스트릿 캔들",
     "english_name": "29 High Street Candle",
-    "product_type": "캔들",
+    "normalized_name": "29 high street candle",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000006024",
-    "regular_price": "45,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000006024/20260111072803M.png",
-    "ingredients": "",
-    "key_ingredients": []
+    "price": {
+      "raw": "45,000원",
+      "amount": 45000,
+      "currency": "KRW"
+    },
+    "description": "29 하이 스트릿 캔들 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "캔들",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "수퍼 밀크 캔들",
     "english_name": "Super Milk Candle",
-    "product_type": "캔들",
+    "normalized_name": "super milk candle",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000006026",
-    "regular_price": "40,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000006026/20260111080413M.png",
-    "ingredients": "",
-    "key_ingredients": []
+    "price": {
+      "raw": "40,000원",
+      "amount": 40000,
+      "currency": "KRW"
+    },
+    "description": "수퍼 밀크 캔들 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "캔들",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "더 듀 온 데어 헴스 100ml 퍼퓸",
     "english_name": "The Dew On Their Hems",
-    "product_type": "퍼퓸",
+    "normalized_name": "the dew on their hems",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000004885",
-    "regular_price": "250,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000004885/20241025150840M.png",
-    "ingredients": "변성알코올,향료,카나다발삼수지,연필향나무오일,서양측백나무잎오일,시트로넬올,하이드록시시트로넬알,리모넨,리날룰,정제수,글리세린",
-    "key_ingredients": [
+    "price": {
+      "raw": "250,000원",
+      "amount": 250000,
+      "currency": "KRW"
+    },
+    "description": "더 듀 온 데어 헴스 100ml 퍼퓸은 시더우드 오일 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,향료,카나다발삼수지,연필향나무오일,서양측백나무잎오일,시트로넬올,하이드록시시트로넬알,리모넨,리날룰,정제수,글리세린",
+    "notes": [
       "시더우드 오일"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "더 비즈 니즈 퍼퓸",
     "english_name": "The Bee&#39;S Knees",
-    "product_type": "퍼퓸",
+    "normalized_name": "the bee 39 s knees",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000004875",
-    "regular_price": "80,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000004875/20241024165625M.png",
-    "ingredients": "변성알코올,향료,에버라스팅추출물,담배잎추출물,목서꽃추출물,비터오렌지꽃추출물,비터오렌지꽃오일,필리핀오렌지전초오일,리모넨,리날룰,아니스알코올,벤질벤조에이트,벤질살리실레이트,신남알,신나밀알코올,시트랄,시트로넬올,쿠마린,유제놀,파네솔,제라니올,아이소유제놀,정제수,글리세린,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "80,000원",
+      "amount": 80000,
+      "currency": "KRW"
+    },
+    "description": "더 비즈 니즈 퍼퓸은 오스만투스, 벤조인, 오렌지 오일 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,향료,에버라스팅추출물,담배잎추출물,목서꽃추출물,비터오렌지꽃추출물,비터오렌지꽃오일,필리핀오렌지전초오일,리모넨,리날룰,아니스알코올,벤질벤조에이트,벤질살리실레이트,신남알,신나밀알코올,시트랄,시트로넬올,쿠마린,유제놀,파네솔,제라니올,아이소유제놀,정제수,글리세린,벤질알코올",
+    "notes": [
       "오스만투스",
       "벤조인",
       "오렌지 오일"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "아비바 100ml 퍼퓸",
     "english_name": "Abiba",
-    "product_type": "퍼퓸",
+    "normalized_name": "abiba",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000004884",
-    "regular_price": "250,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000004884/20241025145418M.png",
-    "ingredients": "변성알코올,향료,일랑일랑꽃오일,베이잎오일,당근씨오일,와일드프란지파니꽃추출물,베티버뿌리오일,벤질벤조에이트,벤질신나메이트,벤질살리실레이트,신나밀알코올,시트랄,시트로넬올,유제놀,파네솔,제라니올,아이소유제놀,리모넨,리날룰,정제수,글리세린,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "250,000원",
+      "amount": 250000,
+      "currency": "KRW"
+    },
+    "description": "아비바 100ml 퍼퓸은 일랑일랑 오일 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,향료,일랑일랑꽃오일,베이잎오일,당근씨오일,와일드프란지파니꽃추출물,베티버뿌리오일,벤질벤조에이트,벤질신나메이트,벤질살리실레이트,신나밀알코올,시트랄,시트로넬올,유제놀,파네솔,제라니올,아이소유제놀,리모넨,리날룰,정제수,글리세린,벤질알코올",
+    "notes": [
       "일랑일랑 오일"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "비건 레더 재킷 퍼퓸",
     "english_name": "Vegan Leather Jacket",
-    "product_type": "퍼퓸",
+    "normalized_name": "vegan leather jacket",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000004879",
-    "regular_price": "80,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000004879/20241024172127M.png",
-    "ingredients": "변성알코올,향료,클로브싹오일,통가콩씨추출물,베티버뿌리오일,담배잎추출물,유제놀,아니스알코올,벤질벤조에이트,벤질신나메이트,벤질살리실레이트,신남알,신나밀알코올,시트랄,시트로넬올,쿠마린,참나무이끼추출물,파네솔,제라니올,아이소유제놀,리모넨,리날룰,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "80,000원",
+      "amount": 80000,
+      "currency": "KRW"
+    },
+    "description": "비건 레더 재킷 퍼퓸은 클로브, 통카 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,향료,클로브싹오일,통가콩씨추출물,베티버뿌리오일,담배잎추출물,유제놀,아니스알코올,벤질벤조에이트,벤질신나메이트,벤질살리실레이트,신남알,신나밀알코올,시트랄,시트로넬올,쿠마린,참나무이끼추출물,파네솔,제라니올,아이소유제놀,리모넨,리날룰,벤질알코올",
+    "notes": [
       "클로브",
       "통카"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "헝가리언 프론즈 100ml 퍼퓸",
     "english_name": "Hungarian Fronds",
-    "product_type": "퍼퓸",
+    "normalized_name": "hungarian fronds",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000004882",
-    "regular_price": "250,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000004882/20241028142854M.png",
-    "ingredients": "변성알코올,향료,회향유,로도덴드론 안토포곤가지/꽃/잎오일,마트리카리아꽃오일,오레가노잎오일,리날룰,리모넨,벤질신나메이트,신나밀알코올,시트랄,시트로넬올,쿠마린,참나무이끼추출물,제라니올,아이소유제놀,정제수,글리세린",
-    "key_ingredients": [
+    "price": {
+      "raw": "250,000원",
+      "amount": 250000,
+      "currency": "KRW"
+    },
+    "description": "헝가리언 프론즈 100ml 퍼퓸은 카모마일 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,향료,회향유,로도덴드론 안토포곤가지/꽃/잎오일,마트리카리아꽃오일,오레가노잎오일,리날룰,리모넨,벤질신나메이트,신나밀알코올,시트랄,시트로넬올,쿠마린,참나무이끼추출물,제라니올,아이소유제놀,정제수,글리세린",
+    "notes": [
       "카모마일"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "스위트 피 100ml 퍼퓸",
     "english_name": "Sweet Pea",
-    "product_type": "퍼퓸",
+    "normalized_name": "sweet pea",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000004881",
-    "regular_price": "300,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000004881/20241025114456M.png",
-    "ingredients": "변성알코올,향료,일랑일랑꽃오일,다마스크장미꽃오일,로즈마리잎오일,페퍼민트추출물,스페인자스민꽃추출물,살비아오일,리모넨,아밀신남알,벤질벤조에이트,벤질신나메이트,벤질살리실레이트,신남알,신나밀알코올,시트랄,시트로넬올,쿠마린,유제놀,파네솔,제라니올,하이드록시시트로넬알,아이소유제놀,리날룰,정제수,글리세린,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "300,000원",
+      "amount": 300000,
+      "currency": "KRW"
+    },
+    "description": "스위트 피 100ml 퍼퓸은 로즈마리, 자스민, 일랑일랑 오일, 장미 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,향료,일랑일랑꽃오일,다마스크장미꽃오일,로즈마리잎오일,페퍼민트추출물,스페인자스민꽃추출물,살비아오일,리모넨,아밀신남알,벤질벤조에이트,벤질신나메이트,벤질살리실레이트,신남알,신나밀알코올,시트랄,시트로넬올,쿠마린,유제놀,파네솔,제라니올,하이드록시시트로넬알,아이소유제놀,리날룰,정제수,글리세린,벤질알코올",
+    "notes": [
       "로즈마리",
       "자스민",
       "일랑일랑 오일",
       "장미"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "타임 오브 더 시즌 100ml 퍼퓸",
     "english_name": "Time Of The Season",
-    "product_type": "퍼퓸",
+    "normalized_name": "time of the season",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000004886",
-    "regular_price": "250,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000004886/20241025153101M.png",
-    "ingredients": "변성알코올,향료,광곽향오일,자몽껍질오일,비터오렌지꽃오일,비터오렌지꽃추출물,리날룰,시트랄,파네솔,제라니올,리모넨,정제수,글리세린",
-    "key_ingredients": [
+    "price": {
+      "raw": "250,000원",
+      "amount": 250000,
+      "currency": "KRW"
+    },
+    "description": "타임 오브 더 시즌 100ml 퍼퓸은 파촐리, 네롤리, 자몽 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,향료,광곽향오일,자몽껍질오일,비터오렌지꽃오일,비터오렌지꽃추출물,리날룰,시트랄,파네솔,제라니올,리모넨,정제수,글리세린",
+    "notes": [
       "파촐리",
       "네롤리",
       "자몽"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "아이 러브 유 투 피치스 보디 스프레이",
     "english_name": "I Love You To Peaches",
-    "product_type": "보디 스프레이",
+    "normalized_name": "i love you to peaches",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000006388",
-    "regular_price": "70,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000006388/20260322192517M.png",
-    "ingredients": "변성알코올,정제수,향료,당귤껍질오일,유향나무검추출물,제라니올,리모넨,리날룰,글리세린",
-    "key_ingredients": [
+    "price": {
+      "raw": "70,000원",
+      "amount": 70000,
+      "currency": "KRW"
+    },
+    "description": "아이 러브 유 투 피치스 보디 스프레이은 오렌지 오일 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,향료,당귤껍질오일,유향나무검추출물,제라니올,리모넨,리날룰,글리세린",
+    "notes": [
       "오렌지 오일"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "보디 스프레이",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "비건 레더 재킷 솔리드 퍼퓸",
     "english_name": "Vegan Leather Jacket Solid Perfume",
-    "product_type": "솔리드 퍼퓸",
+    "normalized_name": "vegan leather jacket solid perfume",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000004930",
-    "regular_price": "30,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000004930/20241216105736M.png",
-    "ingredients": "호호바씨오일,피마자오일,칸데릴라왁스,향료,클로브싹오일,베티버뿌리오일,통가콩씨추출물,담배잎추출물,유제놀,아니스알코올,벤질벤조에이트,벤질신나메이트,벤질살리실레이트,신남알,신나밀알코올,시트랄,시트로넬올,쿠마린,참나무이끼추출물,파네솔,제라니올,아이소유제놀,리모넨,리날룰,황색산화철,흑색산화철,적색산화철,탤크,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "30,000원",
+      "amount": 30000,
+      "currency": "KRW"
+    },
+    "description": "비건 레더 재킷 솔리드 퍼퓸은 클로브, 통카 노트가 중심인 향수입니다.",
+    "ingredients_raw": "호호바씨오일,피마자오일,칸데릴라왁스,향료,클로브싹오일,베티버뿌리오일,통가콩씨추출물,담배잎추출물,유제놀,아니스알코올,벤질벤조에이트,벤질신나메이트,벤질살리실레이트,신남알,신나밀알코올,시트랄,시트로넬올,쿠마린,참나무이끼추출물,파네솔,제라니올,아이소유제놀,리모넨,리날룰,황색산화철,흑색산화철,적색산화철,탤크,벤질알코올",
+    "notes": [
       "클로브",
       "통카"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "솔리드 퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "더 비즈 니즈 솔리드 퍼퓸",
     "english_name": "The Bee&#39;S Knees Solid Perfume",
-    "product_type": "솔리드 퍼퓸",
+    "normalized_name": "the bee 39 s knees solid perfume",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000004931",
-    "regular_price": "30,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000004931/20241216114228M.png",
-    "ingredients": "호호바씨오일,피마자오일,칸데릴라왁스,향료,에버라스팅추출물,담배잎추출물,목서꽃추출물,비터오렌지꽃추출물,비터오렌지꽃오일,필리핀오렌지전초오일,아니스알코올,벤질벤조에이트,벤질살리실레이트,신남알,신나밀알코올,시트랄,쿠마린,유제놀,파네솔,제라니올,아이소유제놀,리모넨,리날룰,옥수수전분,티타늄디옥사이드,적색202호,황색203호레이크,합성플루오르플로고파이트,틴옥사이드,적색산화철",
-    "key_ingredients": [
+    "price": {
+      "raw": "30,000원",
+      "amount": 30000,
+      "currency": "KRW"
+    },
+    "description": "더 비즈 니즈 솔리드 퍼퓸은 호호바 오일, 네롤리 노트가 중심인 향수입니다.",
+    "ingredients_raw": "호호바씨오일,피마자오일,칸데릴라왁스,향료,에버라스팅추출물,담배잎추출물,목서꽃추출물,비터오렌지꽃추출물,비터오렌지꽃오일,필리핀오렌지전초오일,아니스알코올,벤질벤조에이트,벤질살리실레이트,신남알,신나밀알코올,시트랄,쿠마린,유제놀,파네솔,제라니올,아이소유제놀,리모넨,리날룰,옥수수전분,티타늄디옥사이드,적색202호,황색203호레이크,합성플루오르플로고파이트,틴옥사이드,적색산화철",
+    "notes": [
       "호호바 오일",
       "네롤리"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "솔리드 퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "첼시 모닝 솔리드 퍼퓸",
     "english_name": "Chelsea Morning Solid Perfume",
-    "product_type": "솔리드 퍼퓸",
+    "normalized_name": "chelsea morning solid perfume",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000005113",
-    "regular_price": "30,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000005113/20241223144722M.png",
-    "ingredients": "호호바씨오일,피마자오일,칸데릴라왁스,향료,통가콩씨추출물,레몬머틀잎오일,큰노랑꽃자리풀씨추출물,바닐라열매추출물,아니스알코올,벤질벤조에이트,벤질신나메이트,신남알,시트랄,쿠마린,유제놀,제라니올,아이소유제놀,리날룰,티타늄디옥사이드,합성플루오르플로고파이트,황색5호레이크,벤질알코올,적색산화철,실리카,틴옥사이드",
-    "key_ingredients": [
+    "price": {
+      "raw": "30,000원",
+      "amount": 30000,
+      "currency": "KRW"
+    },
+    "description": "첼시 모닝 솔리드 퍼퓸은 통카, 피마자 오일, 바닐라, 호호바 오일 노트가 중심인 향수입니다.",
+    "ingredients_raw": "호호바씨오일,피마자오일,칸데릴라왁스,향료,통가콩씨추출물,레몬머틀잎오일,큰노랑꽃자리풀씨추출물,바닐라열매추출물,아니스알코올,벤질벤조에이트,벤질신나메이트,신남알,시트랄,쿠마린,유제놀,제라니올,아이소유제놀,리날룰,티타늄디옥사이드,합성플루오르플로고파이트,황색5호레이크,벤질알코올,적색산화철,실리카,틴옥사이드",
+    "notes": [
       "통카",
       "피마자 오일",
       "바닐라",
       "호호바 오일"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "솔리드 퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "첼시 모닝 퍼퓸",
     "english_name": "Chelsea Morning",
-    "product_type": "퍼퓸",
+    "normalized_name": "chelsea morning",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000004872",
-    "regular_price": "70,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000004872/20241029150111M.png",
-    "ingredients": "변성알코올,향료,통가콩씨추출물,레몬머틀잎오일,큰노랑꽃자리풀씨추출물,바닐라열매추출물,아니스알코올,벤질벤조에이트,벤질신나메이트,신남알,시트랄,쿠마린,유제놀,제라니올,아이소유제놀,리날룰,정제수,글리세린,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "70,000원",
+      "amount": 70000,
+      "currency": "KRW"
+    },
+    "description": "첼시 모닝 퍼퓸은 통카, 바닐라 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,향료,통가콩씨추출물,레몬머틀잎오일,큰노랑꽃자리풀씨추출물,바닐라열매추출물,아니스알코올,벤질벤조에이트,벤질신나메이트,신남알,시트랄,쿠마린,유제놀,제라니올,아이소유제놀,리날룰,정제수,글리세린,벤질알코올",
+    "notes": [
       "통카",
       "바닐라"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "프린세스 로젤리나 보디 스프레이",
     "english_name": "Princess Rosalina",
-    "product_type": "보디 스프레이",
+    "normalized_name": "princess rosalina",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000006518",
-    "regular_price": "85,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000006518/20260415143211M.png",
-    "ingredients": "변성알코올,정제수,향료,다바나꽃/잎/줄기오일,마트리카리아꽃오일,다마스크장미꽃오일,리모넨,리날룰,제라니올,쿠마린,시트로넬올,알파-아이소메틸아이오논,글리세린,스왐프페이퍼바크잎오일,만수국아재비꽃오일 *에센셜 오일에 자연적으로 포함된 성분입니다.",
-    "key_ingredients": [
+    "price": {
+      "raw": "85,000원",
+      "amount": 85000,
+      "currency": "KRW"
+    },
+    "description": "프린세스 로젤리나 보디 스프레이은 다바나꽃, 카모마일, 장미 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,향료,다바나꽃/잎/줄기오일,마트리카리아꽃오일,다마스크장미꽃오일,리모넨,리날룰,제라니올,쿠마린,시트로넬올,알파-아이소메틸아이오논,글리세린,스왐프페이퍼바크잎오일,만수국아재비꽃오일 *에센셜 오일에 자연적으로 포함된 성분입니다.",
+    "notes": [
       "다바나꽃",
       "카모마일",
       "장미"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "보디 스프레이",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "스티키 데이츠 보디 스프레이",
     "english_name": "Sticky Dates",
-    "product_type": "보디 스프레이",
+    "normalized_name": "sticky dates",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000005415",
-    "regular_price": "70,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000005415/20250411134831M.png",
-    "ingredients": "변성알코올,정제수,향료,캐롭열매추출물,안식향나무수지추출물,샌들우드오일,벤질벤조에이트,벤질신나메이트,신남알,쿠마린,유제놀,파네솔,글리세린",
-    "key_ingredients": [
+    "price": {
+      "raw": "70,000원",
+      "amount": 70000,
+      "currency": "KRW"
+    },
+    "description": "스티키 데이츠 보디 스프레이은 샌들우드 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,향료,캐롭열매추출물,안식향나무수지추출물,샌들우드오일,벤질벤조에이트,벤질신나메이트,신남알,쿠마린,유제놀,파네솔,글리세린",
+    "notes": [
       "샌들우드"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "보디 스프레이",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "알리나 퍼퓸",
     "english_name": "Alina",
-    "product_type": "퍼퓸",
+    "normalized_name": "alina",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000004275",
-    "regular_price": "80,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000004275/20240329142709M.png",
-    "ingredients": "변성알코올,향료,베르가모트오일,광곽향오일,클로브싹오일,유향나무검추출물,스페인자스민꽃추출물,페퍼트리오일,베티버뿌리오일,오리스뿌리추출물,바닐라열매추출물,리모넨,알파-아이소메틸아이오논,아니스알코올,벤질벤조에이트,벤질신나메이트,신남알,신나밀알코올,시트랄,시트로넬올,쿠마린,유제놀,참나무이끼추출물,파네솔,제라니올,아이소유제놀,리날룰,정제수,글리세린,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "80,000원",
+      "amount": 80000,
+      "currency": "KRW"
+    },
+    "description": "알리나 퍼퓸은 다바나꽃, 오렌지 오일 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,향료,베르가모트오일,광곽향오일,클로브싹오일,유향나무검추출물,스페인자스민꽃추출물,페퍼트리오일,베티버뿌리오일,오리스뿌리추출물,바닐라열매추출물,리모넨,알파-아이소메틸아이오논,아니스알코올,벤질벤조에이트,벤질신나메이트,신남알,신나밀알코올,시트랄,시트로넬올,쿠마린,유제놀,참나무이끼추출물,파네솔,제라니올,아이소유제놀,리날룰,정제수,글리세린,벤질알코올",
+    "notes": [
       "다바나꽃",
       "오렌지 오일"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "사포 100ml 퍼퓸",
     "english_name": "Sappho",
-    "product_type": "퍼퓸",
+    "normalized_name": "sappho",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000001509",
-    "regular_price": "350,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000001509/20211008101227M.png",
-    "ingredients": "변성알코올,정제수,향료,스페인자스민꽃추출물,통가콩씨추출물,오리스뿌리추출물,샌들우드오일,바닐라열매추출물,담배잎추출물,벤질살리실레이트,아니스알코올,벤질벤조에이트,벤질신나메이트,신남알,시트로넬올,쿠마린,유제놀,파네솔,제라니올,아이소유제놀,리모넨,리날룰,글리세린,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "350,000원",
+      "amount": 350000,
+      "currency": "KRW"
+    },
+    "description": "사포 100ml 퍼퓸은 통카, 샌들우드, 자스민 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,향료,스페인자스민꽃추출물,통가콩씨추출물,오리스뿌리추출물,샌들우드오일,바닐라열매추출물,담배잎추출물,벤질살리실레이트,아니스알코올,벤질벤조에이트,벤질신나메이트,신남알,시트로넬올,쿠마린,유제놀,파네솔,제라니올,아이소유제놀,리모넨,리날룰,글리세린,벤질알코올",
+    "notes": [
       "통카",
       "샌들우드",
       "자스민"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "미스터 월렛 보디 스프레이",
     "english_name": "Mr Wallet",
-    "product_type": "보디 스프레이",
+    "normalized_name": "mr wallet",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000004888",
-    "regular_price": "80,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000004888/20241025154806M.png",
-    "ingredients": "변성알코올,정제수,향료,샌들우드오일,바닐라열매추출물,참깨오일,페퍼민트오일,아니스알코올,파네솔,리모넨,글리세린,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "80,000원",
+      "amount": 80000,
+      "currency": "KRW"
+    },
+    "description": "미스터 월렛 보디 스프레이은 샌들우드, 바닐라 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,향료,샌들우드오일,바닐라열매추출물,참깨오일,페퍼민트오일,아니스알코올,파네솔,리모넨,글리세린,벤질알코올",
+    "notes": [
       "샌들우드",
       "바닐라"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "보디 스프레이",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "알리나 솔리드 퍼퓸",
     "english_name": "Alina Solid Perfume",
-    "product_type": "솔리드 퍼퓸",
+    "normalized_name": "alina solid perfume",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000004277",
-    "regular_price": "30,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000004277/20250224095710M.png",
-    "ingredients": "호호바씨오일,피마자오일,칸데릴라왁스,향료,베르가모트오일,클로브싹오일,스페인자스민꽃추출물,유향나무검추출물,오리스뿌리추출물,광곽향오일,베티버뿌리오일,페퍼트리오일,바닐라열매추출물,알파-아이소메틸아이오논,아니스알코올,벤질벤조에이트,벤질신나메이트,신남알,신나밀알코올,시트랄,시트로넬올,쿠마린,유제놀,참나무이끼추출물,파네솔,제라니올,아이소유제놀,리모넨,리날룰,티타늄디옥사이드,옥수수전분,벤질알코올,합성플루오르플로고파이트,황색203호레이크,적색226호,틴옥사이드",
-    "key_ingredients": [
+    "price": {
+      "raw": "30,000원",
+      "amount": 30000,
+      "currency": "KRW"
+    },
+    "description": "알리나 솔리드 퍼퓸은 클로브, 파촐리, 바닐라, 베르가못 노트가 중심인 향수입니다.",
+    "ingredients_raw": "호호바씨오일,피마자오일,칸데릴라왁스,향료,베르가모트오일,클로브싹오일,스페인자스민꽃추출물,유향나무검추출물,오리스뿌리추출물,광곽향오일,베티버뿌리오일,페퍼트리오일,바닐라열매추출물,알파-아이소메틸아이오논,아니스알코올,벤질벤조에이트,벤질신나메이트,신남알,신나밀알코올,시트랄,시트로넬올,쿠마린,유제놀,참나무이끼추출물,파네솔,제라니올,아이소유제놀,리모넨,리날룰,티타늄디옥사이드,옥수수전분,벤질알코올,합성플루오르플로고파이트,황색203호레이크,적색226호,틴옥사이드",
+    "notes": [
       "클로브",
       "파촐리",
       "바닐라",
       "베르가못"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "솔리드 퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "프레쉬 애즈 솔리드 퍼퓸",
     "english_name": "Fresh As Solid Perfume",
-    "product_type": "솔리드 퍼퓸",
+    "normalized_name": "fresh as solid perfume",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000004929",
-    "regular_price": "30,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000004929/20241216104844M.png",
-    "ingredients": "호호바씨오일,피마자오일,칸데릴라왁스,향료,구주소나무오일,안식향나무수지추출물,오리스뿌리추출물,카나다발삼추출물,리날룰,벤질벤조에이트,벤질신나메이트,신남알,시트랄,시트로넬올,유제놀,제라니올,아이소유제놀,리모넨,청색1호레이크,황색4호레이크,만수국아재비꽃오일",
-    "key_ingredients": [
+    "price": {
+      "raw": "30,000원",
+      "amount": 30000,
+      "currency": "KRW"
+    },
+    "description": "프레쉬 애즈 솔리드 퍼퓸은 오리스, 벤조인 노트가 중심인 향수입니다.",
+    "ingredients_raw": "호호바씨오일,피마자오일,칸데릴라왁스,향료,구주소나무오일,안식향나무수지추출물,오리스뿌리추출물,카나다발삼추출물,리날룰,벤질벤조에이트,벤질신나메이트,신남알,시트랄,시트로넬올,유제놀,제라니올,아이소유제놀,리모넨,청색1호레이크,황색4호레이크,만수국아재비꽃오일",
+    "notes": [
       "오리스",
       "벤조인"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "솔리드 퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "[30주년 에디션] 카마 100ml 퍼퓸",
     "english_name": "[30th] Karma 100ml",
-    "product_type": "퍼퓸",
+    "normalized_name": "30th karma 100ml",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000005729",
-    "regular_price": "150,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000005729/20250819134927M.png",
-    "ingredients": "변성알코올,향료,광곽향오일,오렌지오일,라반딘오일,구주소나무오일,동인도레몬그라스잎오일,갈립검오일,스위트아카시아꽃오일,리모넨,신남알,시트랄,제라니올,시트로넬올,리날룰,벤질벤조에이트,벤질신나메이트,신나밀알코올,하이드록시시트로넬알,아이소유제놀,쿠마린,유제놀,파네솔,정제수,글리세린,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "150,000원",
+      "amount": 150000,
+      "currency": "KRW"
+    },
+    "description": "[30주년 에디션] 카마 100ml 퍼퓸은 레몬그라스, 광곽향 오일(파촐리), 오렌지 오일 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,향료,광곽향오일,오렌지오일,라반딘오일,구주소나무오일,동인도레몬그라스잎오일,갈립검오일,스위트아카시아꽃오일,리모넨,신남알,시트랄,제라니올,시트로넬올,리날룰,벤질벤조에이트,벤질신나메이트,신나밀알코올,하이드록시시트로넬알,아이소유제놀,쿠마린,유제놀,파네솔,정제수,글리세린,벤질알코올",
+    "notes": [
       "레몬그라스",
       "광곽향 오일(파촐리)",
       "오렌지 오일"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "가디스 100ml 퍼퓸",
     "english_name": "Goddess",
-    "product_type": "퍼퓸",
+    "normalized_name": "goddess",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000000439",
-    "regular_price": "300,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000000439/20230622175215M.png",
-    "ingredients": "변성알코올,향료,스페인자스민꽃추출물,목서꽃추출물,다마스크장미꽃오일,샌들우드오일,아퀼라리아크라스나줄기오일,리날룰,리모넨,벤질벤조에이트,벤질살리실레이트,시트랄,시트로넬올,유제놀,파네솔,제라니올,정제수,글리세린,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "300,000원",
+      "amount": 300000,
+      "currency": "KRW"
+    },
+    "description": "가디스 100ml 퍼퓸은 샌들우드, 자스민 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,향료,스페인자스민꽃추출물,목서꽃추출물,다마스크장미꽃오일,샌들우드오일,아퀼라리아크라스나줄기오일,리날룰,리모넨,벤질벤조에이트,벤질살리실레이트,시트랄,시트로넬올,유제놀,파네솔,제라니올,정제수,글리세린,벤질알코올",
+    "notes": [
       "샌들우드",
       "자스민"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "스트로베리 필즈 포에버 보디 스프레이",
     "english_name": "Strawberry Feels Forever",
-    "product_type": "보디 스프레이",
+    "normalized_name": "strawberry feels forever",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000005522",
-    "regular_price": "80,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000005522/20250722163213M.png",
-    "ingredients": "변성알코올,정제수,향료,유향나무오일,센티드제라늄꽃오일,베르가모트오일,바닐라열매추출물,안식향나무수지추출물,단향오일,아니스알코올,벤질벤조에이트,신남알,쿠마린,파네솔,헥실신나몰,리모넨,리날룰,글리세린,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "80,000원",
+      "amount": 80000,
+      "currency": "KRW"
+    },
+    "description": "스트로베리 필즈 포에버 보디 스프레이은 올리바넘, 바닐라, 베르가못 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,향료,유향나무오일,센티드제라늄꽃오일,베르가모트오일,바닐라열매추출물,안식향나무수지추출물,단향오일,아니스알코올,벤질벤조에이트,신남알,쿠마린,파네솔,헥실신나몰,리모넨,리날룰,글리세린,벤질알코올",
+    "notes": [
       "올리바넘",
       "바닐라",
       "베르가못"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "보디 스프레이",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "노 웨이 투 세이 굿바이 솔리드 퍼퓸",
     "english_name": "No Way To Say Goodbye Solid Perfume",
-    "product_type": "솔리드 퍼퓸",
+    "normalized_name": "no way to say goodbye solid perfume",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000004932",
-    "regular_price": "30,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000004932/20241216140221M.png",
-    "ingredients": "호호바씨오일,피마자오일,칸데릴라왁스,향료,양까막까치밥나무열매추출물,리씨열매오일,다마스크장미꽃추출물,다마스크장미꽃오일,안식향나무수지추출물,벤질벤조에이트,벤질신나메이트,신남알,시트랄,시트로넬올,유제놀,제라니올,리모넨,리날룰,울트라마린,적색202호,벤질알코올,카올린",
-    "key_ingredients": [
+    "price": {
+      "raw": "30,000원",
+      "amount": 30000,
+      "currency": "KRW"
+    },
+    "description": "노 웨이 투 세이 굿바이 솔리드 퍼퓸은 블랙커런트, 리씨 열매 오일, 벤조인, 장미 노트가 중심인 향수입니다.",
+    "ingredients_raw": "호호바씨오일,피마자오일,칸데릴라왁스,향료,양까막까치밥나무열매추출물,리씨열매오일,다마스크장미꽃추출물,다마스크장미꽃오일,안식향나무수지추출물,벤질벤조에이트,벤질신나메이트,신남알,시트랄,시트로넬올,유제놀,제라니올,리모넨,리날룰,울트라마린,적색202호,벤질알코올,카올린",
+    "notes": [
       "블랙커런트",
       "리씨 열매 오일",
       "벤조인",
       "장미"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "솔리드 퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "블루 스카이스 앤드 플러피 화이트 클라우즈 보디 스프레이",
     "english_name": "Blue Skies And Fluffy White Clouds",
-    "product_type": "보디 스프레이",
+    "normalized_name": "blue skies and fluffy white clouds",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000005519",
-    "regular_price": "80,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000005519/20250722165245M.png",
-    "ingredients": "변성알코올,정제수,향료,광곽향오일,유향나무검추출물,실론시나몬잎오일,에틸렌브라실레이트,아밀신남알,유제놀,리모넨,글리세린",
-    "key_ingredients": [
+    "price": {
+      "raw": "80,000원",
+      "amount": 80000,
+      "currency": "KRW"
+    },
+    "description": "블루 스카이스 앤드 플러피 화이트 클라우즈 보디 스프레이은 파촐리, 올리바넘 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,향료,광곽향오일,유향나무검추출물,실론시나몬잎오일,에틸렌브라실레이트,아밀신남알,유제놀,리모넨,글리세린",
+    "notes": [
       "파촐리",
       "올리바넘"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "보디 스프레이",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "킵 잇 플러피 100ml 퍼퓸",
     "english_name": "Keep It Fluffy",
-    "product_type": "퍼퓸",
+    "normalized_name": "keep it fluffy",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000001670",
-    "regular_price": "200,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000001670/20220803175033M.png",
-    "ingredients": "변성알코올,향료,다마스크장미꽃추출물,스페인자스민꽃추출물,동인도레몬그라스잎오일,일랑일랑꽃오일,바닐라열매추출물,하이드록시시트로넬알,시트로넬올,알파-아이소메틸아이오논,아니스알코올,벤질벤조에이트,벤질살리실레이트,시트랄,유제놀,파네솔,제라니올,아이소유제놀,리모넨,리날룰,정제수,글리세린,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "200,000원",
+      "amount": 200000,
+      "currency": "KRW"
+    },
+    "description": "킵 잇 플러피 100ml 퍼퓸은 레몬그라스, 자스민, 일랑일랑 오일, 장미 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,향료,다마스크장미꽃추출물,스페인자스민꽃추출물,동인도레몬그라스잎오일,일랑일랑꽃오일,바닐라열매추출물,하이드록시시트로넬알,시트로넬올,알파-아이소메틸아이오논,아니스알코올,벤질벤조에이트,벤질살리실레이트,시트랄,유제놀,파네솔,제라니올,아이소유제놀,리모넨,리날룰,정제수,글리세린,벤질알코올",
+    "notes": [
       "레몬그라스",
       "자스민",
       "일랑일랑 오일",
       "장미"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "브레스 오브 갓 100ml 퍼퓸",
     "english_name": "Breath Of God",
-    "product_type": "퍼퓸",
+    "normalized_name": "breath of god",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/286",
-    "regular_price": "200,000원",
     "image_url": "https://www.lush.co.kr/upload/item/286/20250207105615M.png",
-    "ingredients": "변성알코올,향료,레몬오일,솔잣나무오일,베티버뿌리오일,다마스크장미꽃오일,일랑일랑꽃오일,자몽껍질오일,비터오렌지꽃오일,후추열매오일,샌들우드오일,프릭클리주니퍼나무오일,리모넨,벤질신나메이트,벤질살리실레이트,신남알,시트랄,제라니올,벤질벤조에이트,시트로넬올,파네솔,아이소유제놀,리날룰,알파-아이소메틸아이오논,쿠마린,유제놀,정제수,글리세린,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "200,000원",
+      "amount": 200000,
+      "currency": "KRW"
+    },
+    "description": "브레스 오브 갓 100ml 퍼퓸은 자몽, 일랑일랑 오일, 장미, 레몬 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,향료,레몬오일,솔잣나무오일,베티버뿌리오일,다마스크장미꽃오일,일랑일랑꽃오일,자몽껍질오일,비터오렌지꽃오일,후추열매오일,샌들우드오일,프릭클리주니퍼나무오일,리모넨,벤질신나메이트,벤질살리실레이트,신남알,시트랄,제라니올,벤질벤조에이트,시트로넬올,파네솔,아이소유제놀,리날룰,알파-아이소메틸아이오논,쿠마린,유제놀,정제수,글리세린,벤질알코올",
+    "notes": [
       "자몽",
       "일랑일랑 오일",
       "장미",
       "레몬"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "헬로키티 앤드 프렌즈 퍼퓸",
     "english_name": "Hello Kitty And Friends",
-    "product_type": "퍼퓸",
+    "normalized_name": "hello kitty and friends",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000005480",
-    "regular_price": "85,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000005480/20250530153013M.png",
-    "ingredients": "변성알코올,향료,당귤껍질오일,광곽향오일,안식향나무수지추출물,바닐라열매추출물,알파-아이소메틸아이오논,리모넨,아밀신남알,아니스알코올,벤질벤조에이트,벤질신나메이트,벤질살리실레이트,신남알,시트랄,시트로넬올,유제놀,제라니올,헥실신나몰,하이드록시시트로넬알,아이소유제놀,리날룰,정제수,글리세린",
-    "key_ingredients": [
+    "price": {
+      "raw": "85,000원",
+      "amount": 85000,
+      "currency": "KRW"
+    },
+    "description": "헬로키티 앤드 프렌즈 퍼퓸은 벤조인, 파촐리, 바닐라, 오렌지 오일 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,향료,당귤껍질오일,광곽향오일,안식향나무수지추출물,바닐라열매추출물,알파-아이소메틸아이오논,리모넨,아밀신남알,아니스알코올,벤질벤조에이트,벤질신나메이트,벤질살리실레이트,신남알,시트랄,시트로넬올,유제놀,제라니올,헥실신나몰,하이드록시시트로넬알,아이소유제놀,리날룰,정제수,글리세린",
+    "notes": [
       "벤조인",
       "파촐리",
       "바닐라",
       "오렌지 오일"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "쉐이드 솔리드 퍼퓸",
     "english_name": "Shade Solid Perfume",
-    "product_type": "솔리드 퍼퓸",
+    "normalized_name": "shade solid perfume",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000001950",
-    "regular_price": "30,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000001950/20250324131539M.png",
-    "ingredients": "호호바씨오일,피마자오일,칸데릴라왁스,향료,단향오일, 유향나무오일,트루구아이악목부오일,리날룰,리모넨,벤질벤조에이트, 벤질신나메이트,신남알,신나밀알코올,시트랄, 쿠마린,파네솔,제라니올,하이드록시시트로넬알, 티타늄디옥사이드,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "30,000원",
+      "amount": 30000,
+      "currency": "KRW"
+    },
+    "description": "쉐이드 솔리드 퍼퓸은 피마자 오일, 호호바 오일 노트가 중심인 향수입니다.",
+    "ingredients_raw": "호호바씨오일,피마자오일,칸데릴라왁스,향료,단향오일, 유향나무오일,트루구아이악목부오일,리날룰,리모넨,벤질벤조에이트, 벤질신나메이트,신남알,신나밀알코올,시트랄, 쿠마린,파네솔,제라니올,하이드록시시트로넬알, 티타늄디옥사이드,벤질알코올",
+    "notes": [
       "피마자 오일",
       "호호바 오일"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "솔리드 퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "카마 보디 스프레이",
     "english_name": "Karma",
-    "product_type": "보디 스프레이",
+    "normalized_name": "karma",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000005521",
-    "regular_price": "85,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000005521/20250722162440M.png",
-    "ingredients": "변성알코올,정제수,향료,광곽향오일,당귤껍질오일,라반딘오일,구주소나무오일,동인도레몬그라스잎오일,갈립검오일,스위트아카시아꽃추출물,신남알,시트랄,시트로넬올,파네솔,제라니올,하이드록시시트로넬알,리모넨,리날룰,글리세린",
-    "key_ingredients": [
+    "price": {
+      "raw": "85,000원",
+      "amount": 85000,
+      "currency": "KRW"
+    },
+    "description": "카마 보디 스프레이은 파촐리, 오렌지 오일 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,향료,광곽향오일,당귤껍질오일,라반딘오일,구주소나무오일,동인도레몬그라스잎오일,갈립검오일,스위트아카시아꽃추출물,신남알,시트랄,시트로넬올,파네솔,제라니올,하이드록시시트로넬알,리모넨,리날룰,글리세린",
+    "notes": [
       "파촐리",
       "오렌지 오일"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "보디 스프레이",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "원스 어폰 어 타임 보디 스프레이",
     "english_name": "Once Upon a Time",
-    "product_type": "보디 스프레이",
+    "normalized_name": "once upon a time",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000005549",
-    "regular_price": "80,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000005549/20260320165048M.png",
-    "ingredients": "변성알코올,정제수,향료,베르가모트오일,당귤껍질오일,다마스크장미꽃추출물,비터오렌지꽃오일,비터오렌지꽃추출물,시트랄,시트로넬올,제라니올,하이드록시시트로넬알,리모넨,리날룰,글리세린",
-    "key_ingredients": [
+    "price": {
+      "raw": "80,000원",
+      "amount": 80000,
+      "currency": "KRW"
+    },
+    "description": "원스 어폰 어 타임 보디 스프레이은 네롤리, 베르가못, 장미 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,향료,베르가모트오일,당귤껍질오일,다마스크장미꽃추출물,비터오렌지꽃오일,비터오렌지꽃추출물,시트랄,시트로넬올,제라니올,하이드록시시트로넬알,리모넨,리날룰,글리세린",
+    "notes": [
       "네롤리",
       "베르가못",
       "장미"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "보디 스프레이",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "스토미 웨더 보디 스프레이",
     "english_name": "Stormy Weather",
-    "product_type": "보디 스프레이",
+    "normalized_name": "stormy weather",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000005523",
-    "regular_price": "85,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000005523/20250722174424M.png",
-    "ingredients": "변성알코올,정제수,향료,비터오렌지꽃오일,바질오일,로즈우드오일,베르가모트오일,에틸렌브라실레이트,알파-아이소메틸아이오논,쿠마린,제라니올,리모넨,리날룰,글리세린,미국풍나무오일",
-    "key_ingredients": [
+    "price": {
+      "raw": "85,000원",
+      "amount": 85000,
+      "currency": "KRW"
+    },
+    "description": "스토미 웨더 보디 스프레이은 로즈우드, 네롤리 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,향료,비터오렌지꽃오일,바질오일,로즈우드오일,베르가모트오일,에틸렌브라실레이트,알파-아이소메틸아이오논,쿠마린,제라니올,리모넨,리날룰,글리세린,미국풍나무오일",
+    "notes": [
       "로즈우드",
       "네롤리"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "보디 스프레이",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "수퍼 밀크 보디 스프레이",
     "english_name": "Super Milk",
-    "product_type": "보디 스프레이",
+    "normalized_name": "super milk",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000005520",
-    "regular_price": "80,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000005520/20250722161146M.png",
-    "ingredients": "변성알코올,정제수,향료,리씨열매오일,통가콩씨추출물,바닐라열매추출물,비터아몬드커넬오일,벤질벤조에이트,시트랄,쿠마린,리모넨,리날룰,글리세린",
-    "key_ingredients": [
+    "price": {
+      "raw": "80,000원",
+      "amount": 80000,
+      "currency": "KRW"
+    },
+    "description": "수퍼 밀크 보디 스프레이은 리씨 열매 오일, 통카, 바닐라 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,향료,리씨열매오일,통가콩씨추출물,바닐라열매추출물,비터아몬드커넬오일,벤질벤조에이트,시트랄,쿠마린,리모넨,리날룰,글리세린",
+    "notes": [
       "리씨 열매 오일",
       "통카",
       "바닐라"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "보디 스프레이",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "로드 오브 미스룰 솔리드 퍼퓸",
     "english_name": "Lord Of Misrule Solid Perfume",
-    "product_type": "솔리드 퍼퓸",
+    "normalized_name": "lord of misrule solid perfume",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000000890",
-    "regular_price": "30,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000000890/20250324131722M.png",
-    "ingredients": "호호바씨오일,피마자오일,칸데릴라왁스,향료,광곽향오일,후추열매오일,바닐라열매추출물,벤질벤조에이트,시트랄,쿠마린,리모넨,리날룰,황색4호레이크,청색1호레이크,청색1호,흑색산화철",
-    "key_ingredients": [
+    "price": {
+      "raw": "30,000원",
+      "amount": 30000,
+      "currency": "KRW"
+    },
+    "description": "로드 오브 미스룰 솔리드 퍼퓸은 후추 열매 오일, 파촐리, 바닐라 노트가 중심인 향수입니다.",
+    "ingredients_raw": "호호바씨오일,피마자오일,칸데릴라왁스,향료,광곽향오일,후추열매오일,바닐라열매추출물,벤질벤조에이트,시트랄,쿠마린,리모넨,리날룰,황색4호레이크,청색1호레이크,청색1호,흑색산화철",
+    "notes": [
       "후추 열매 오일",
       "파촐리",
       "바닐라"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "솔리드 퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "바닐라리 솔리드 퍼퓸",
     "english_name": "Vanillary Solid Perfume",
-    "product_type": "솔리드 퍼퓸",
+    "normalized_name": "vanillary solid perfume",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/325",
-    "regular_price": "30,000원",
     "image_url": "https://www.lush.co.kr/upload/item/325/20250324131904M.png",
-    "ingredients": "호호바씨오일,피마자오일,칸데릴라왁스,향료,바닐라열매오일,스페인자스민꽃추출물,통가콩씨추출물,아니스알코올,유제놀,아이소유제놀,하이드록시시트로넬알,신남알,쿠마린,리날룰,파네솔,제라니올,벤질신나메이트,벤질벤조에이트,티타늄디옥사이드,황색산화철,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "30,000원",
+      "amount": 30000,
+      "currency": "KRW"
+    },
+    "description": "바닐라리 솔리드 퍼퓸은 통카, 바닐라, 자스민 노트가 중심인 향수입니다.",
+    "ingredients_raw": "호호바씨오일,피마자오일,칸데릴라왁스,향료,바닐라열매오일,스페인자스민꽃추출물,통가콩씨추출물,아니스알코올,유제놀,아이소유제놀,하이드록시시트로넬알,신남알,쿠마린,리날룰,파네솔,제라니올,벤질신나메이트,벤질벤조에이트,티타늄디옥사이드,황색산화철,벤질알코올",
+    "notes": [
       "통카",
       "바닐라",
       "자스민"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "솔리드 퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "로즈 잼 퍼퓸",
     "english_name": "Rose Jam",
-    "product_type": "퍼퓸",
+    "normalized_name": "rose jam",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000000881",
-    "regular_price": "70,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000000881/20211008110523M.png",
-    "ingredients": "변성알코올,정제수,향료,다마스크장미꽃추출물,다마스크장미꽃오일,센티드제라늄오일,레몬오일,시트로넬올,제라니올,시트랄,쿠마린,유제놀,리모넨,리날룰,글리세린",
-    "key_ingredients": [
+    "price": {
+      "raw": "70,000원",
+      "amount": 70000,
+      "currency": "KRW"
+    },
+    "description": "로즈 잼 퍼퓸은 장미, 레몬 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,향료,다마스크장미꽃추출물,다마스크장미꽃오일,센티드제라늄오일,레몬오일,시트로넬올,제라니올,시트랄,쿠마린,유제놀,리모넨,리날룰,글리세린",
+    "notes": [
       "장미",
       "레몬"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "아메리칸 크림 솔리드 퍼퓸",
     "english_name": "American Cream Solid Perfume",
-    "product_type": "솔리드 퍼퓸",
+    "normalized_name": "american cream solid perfume",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000000888",
-    "regular_price": "30,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000000888/20250508114420M.png",
-    "ingredients": "호호바씨오일,피마자오일,칸데릴라왁스,향료,바닐라열매추출물,클레리오일,라벤더오일,안식향나무수지추출물,알파-아이소메틸아이오논,아니스알코올,벤질벤조에이트,쿠마린,제라니올,리모넨,리날룰,티타늄디옥사이드,적색202호",
-    "key_ingredients": [
+    "price": {
+      "raw": "30,000원",
+      "amount": 30000,
+      "currency": "KRW"
+    },
+    "description": "아메리칸 크림 솔리드 퍼퓸은 바닐라, 라벤더 노트가 중심인 향수입니다.",
+    "ingredients_raw": "호호바씨오일,피마자오일,칸데릴라왁스,향료,바닐라열매추출물,클레리오일,라벤더오일,안식향나무수지추출물,알파-아이소메틸아이오논,아니스알코올,벤질벤조에이트,쿠마린,제라니올,리모넨,리날룰,티타늄디옥사이드,적색202호",
+    "notes": [
       "바닐라",
       "라벤더"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "솔리드 퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "바닐라리 퍼퓸",
     "english_name": "Vanillary",
-    "product_type": "퍼퓸",
+    "normalized_name": "vanillary",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/324",
-    "regular_price": "70,000원",
     "image_url": "https://www.lush.co.kr/upload/item/324/20211008104728M.png",
-    "ingredients": "변성알코올,향료,바닐라열매오일,스페인자스민꽃추출물,통가콩씨추출물,쿠마린,벤질신나메이트,아니스알코올,벤질벤조에이트,신남알,유제놀,아이소유제놀,파네솔,리날룰,하이드록시시트로넬알,정제수,글리세린,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "70,000원",
+      "amount": 70000,
+      "currency": "KRW"
+    },
+    "description": "바닐라리 퍼퓸은 통카, 바닐라, 자스민 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,향료,바닐라열매오일,스페인자스민꽃추출물,통가콩씨추출물,쿠마린,벤질신나메이트,아니스알코올,벤질벤조에이트,신남알,유제놀,아이소유제놀,파네솔,리날룰,하이드록시시트로넬알,정제수,글리세린,벤질알코올",
+    "notes": [
       "통카",
       "바닐라",
       "자스민"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "로즈 잼 솔리드 퍼퓸",
     "english_name": "Rose Jam Solid Perfume",
-    "product_type": "솔리드 퍼퓸",
+    "normalized_name": "rose jam solid perfume",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000000894",
-    "regular_price": "30,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000000894/20260406134442M.png",
-    "ingredients": "호호바씨오일,피마자오일,칸데릴라왁스, 향료,다마스크장미꽃추출물,다마스크장미꽃오일,센티드제라늄꽃오일, 레몬오일,시트로넬올,제라니올,시트랄, 쿠마린,유제놀,파네솔,리모넨, 리날룰,적색226호,적색202호",
-    "key_ingredients": [
+    "price": {
+      "raw": "30,000원",
+      "amount": 30000,
+      "currency": "KRW"
+    },
+    "description": "로즈 잼 솔리드 퍼퓸은 장미, 레몬 노트가 중심인 향수입니다.",
+    "ingredients_raw": "호호바씨오일,피마자오일,칸데릴라왁스, 향료,다마스크장미꽃추출물,다마스크장미꽃오일,센티드제라늄꽃오일, 레몬오일,시트로넬올,제라니올,시트랄, 쿠마린,유제놀,파네솔,리모넨, 리날룰,적색226호,적색202호",
+    "notes": [
       "장미",
       "레몬"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "솔리드 퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "아메리칸 크림 퍼퓸",
     "english_name": "American Cream",
-    "product_type": "퍼퓸",
+    "normalized_name": "american cream",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000000885",
-    "regular_price": "70,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000000885/20211007150136M.png",
-    "ingredients": "변성알코올,정제수,향료,바닐라열매추출물,클레리오일,라벤더오일,안식향나무수지추출물,알파-아이소메틸아이오논,아니스알코올,벤질벤조에이트,쿠마린,제라니올,리모넨,리날룰,글리세린",
-    "key_ingredients": [
+    "price": {
+      "raw": "70,000원",
+      "amount": 70000,
+      "currency": "KRW"
+    },
+    "description": "아메리칸 크림 퍼퓸은 바닐라, 라벤더 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,향료,바닐라열매추출물,클레리오일,라벤더오일,안식향나무수지추출물,알파-아이소메틸아이오논,아니스알코올,벤질벤조에이트,쿠마린,제라니올,리모넨,리날룰,글리세린",
+    "notes": [
       "바닐라",
       "라벤더"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "팬지 솔리드 퍼퓸",
     "english_name": "Pansy Solid Perfume",
-    "product_type": "솔리드 퍼퓸",
+    "normalized_name": "pansy solid perfume",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000000893",
-    "regular_price": "30,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000000893/20260406134534M.png",
-    "ingredients": "호호바씨오일,피마자오일,칸데릴라왁스,향료,베르가모트오일,비터오렌지꽃추출물,로즈마리잎오일,갈바눔수지오일,라다넘수지,리모넨,알파-아이소메틸아이오논,벤질벤조에이트,시트랄,쿠마린,유제놀,참나무이끼추출물,파네솔,제라니올,헥실신나몰,하이드록시시트로넬알,리날룰,티타늄디옥사이드,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "30,000원",
+      "amount": 30000,
+      "currency": "KRW"
+    },
+    "description": "팬지 솔리드 퍼퓸은 로즈마리, 갈바넘 수지 오일, 베르가못 노트가 중심인 향수입니다.",
+    "ingredients_raw": "호호바씨오일,피마자오일,칸데릴라왁스,향료,베르가모트오일,비터오렌지꽃추출물,로즈마리잎오일,갈바눔수지오일,라다넘수지,리모넨,알파-아이소메틸아이오논,벤질벤조에이트,시트랄,쿠마린,유제놀,참나무이끼추출물,파네솔,제라니올,헥실신나몰,하이드록시시트로넬알,리날룰,티타늄디옥사이드,벤질알코올",
+    "notes": [
       "로즈마리",
       "갈바넘 수지 오일",
       "베르가못"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "솔리드 퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "29 하이 스트릿 퍼퓸",
     "english_name": "29 High Street Perfume",
-    "product_type": "퍼퓸",
+    "normalized_name": "29 high street perfume",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000005281",
-    "regular_price": "80,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000005281/20250226102502M.png",
-    "ingredients": "변성알코올,향료,일랑일랑꽃오일,샌들우드오일,스페인자스민꽃추출물,라임전초오일,레몬오일,통가콩씨추출물,리모넨,리날룰,알파-아이소메틸아이오논,아니스알코올,벤질벤조에이트,벤질살리실레이트,시트랄,시트로넬올,쿠마린,유제놀,파네솔,제라니올,헥실신나몰,아이소유제놀,하이드록시시트로넬알,정제수,글리세린,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "80,000원",
+      "amount": 80000,
+      "currency": "KRW"
+    },
+    "description": "29 하이 스트릿 퍼퓸은 샌들우드, 자스민, 일랑일랑 오일 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,향료,일랑일랑꽃오일,샌들우드오일,스페인자스민꽃추출물,라임전초오일,레몬오일,통가콩씨추출물,리모넨,리날룰,알파-아이소메틸아이오논,아니스알코올,벤질벤조에이트,벤질살리실레이트,시트랄,시트로넬올,쿠마린,유제놀,파네솔,제라니올,헥실신나몰,아이소유제놀,하이드록시시트로넬알,정제수,글리세린,벤질알코올",
+    "notes": [
       "샌들우드",
       "자스민",
       "일랑일랑 오일"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "카마 솔리드 퍼퓸",
     "english_name": "Karma Solid Perfume",
-    "product_type": "솔리드 퍼퓸",
+    "normalized_name": "karma solid perfume",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/273",
-    "regular_price": "30,000원",
     "image_url": "https://www.lush.co.kr/upload/item/273/20260406134509M.png",
-    "ingredients": "호호바씨오일,피마자오일,칸데릴라왁스,향료,광곽향오일,오렌지오일,라반딘오일,구주소나무오일,동인도레몬그라스잎오일,갈립검오일,리모넨,신남알,시트랄,제라니올,시트로넬올,파네솔,벤질벤조에이트,유제놀,하이드록시시트로넬알,쿠마린,벤질신나메이트,신나밀알코올,아이소유제놀,리날룰,적색226호,황색4호,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "30,000원",
+      "amount": 30000,
+      "currency": "KRW"
+    },
+    "description": "카마 솔리드 퍼퓸은 파촐리, 레몬그라스, 오렌지 노트가 중심인 향수입니다.",
+    "ingredients_raw": "호호바씨오일,피마자오일,칸데릴라왁스,향료,광곽향오일,오렌지오일,라반딘오일,구주소나무오일,동인도레몬그라스잎오일,갈립검오일,리모넨,신남알,시트랄,제라니올,시트로넬올,파네솔,벤질벤조에이트,유제놀,하이드록시시트로넬알,쿠마린,벤질신나메이트,신나밀알코올,아이소유제놀,리날룰,적색226호,황색4호,벤질알코올",
+    "notes": [
       "파촐리",
       "레몬그라스",
       "오렌지"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "솔리드 퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "카마 퍼퓸",
     "english_name": "Karma",
-    "product_type": "퍼퓸",
+    "normalized_name": "karma",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/272",
-    "regular_price": "80,000원",
     "image_url": "https://www.lush.co.kr/upload/item/272/20211006161636M.png",
-    "ingredients": "변성알코올,향료,광곽향오일,오렌지오일,라반딘오일,구주소나무오일,동인도레몬그라스잎오일,갈립검오일,스위트아카시아꽃오일,리모넨,신남알,시트랄,제라니올,시트로넬올,리날룰,벤질벤조에이트,벤질신나메이트,신나밀알코올,하이드록시시트로넬알,아이소유제놀,쿠마린,유제놀,파네솔,정제수,글리세린,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "80,000원",
+      "amount": 80000,
+      "currency": "KRW"
+    },
+    "description": "카마 퍼퓸은 파촐리, 레몬그라스, 오렌지 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,향료,광곽향오일,오렌지오일,라반딘오일,구주소나무오일,동인도레몬그라스잎오일,갈립검오일,스위트아카시아꽃오일,리모넨,신남알,시트랄,제라니올,시트로넬올,리날룰,벤질벤조에이트,벤질신나메이트,신나밀알코올,하이드록시시트로넬알,아이소유제놀,쿠마린,유제놀,파네솔,정제수,글리세린,벤질알코올",
+    "notes": [
       "파촐리",
       "레몬그라스",
       "오렌지"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "팬지 퍼퓸",
     "english_name": "Pansy",
-    "product_type": "퍼퓸",
+    "normalized_name": "pansy",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000000878",
-    "regular_price": "70,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000000878/20211007150252M.png",
-    "ingredients": "변성알코올,정제수,향료,베르가모트오일,비터오렌지꽃추출물,로즈마리잎오일,갈바눔수지오일,라다넘수지,리모넨,알파-아이소메틸아이오논,벤질벤조에이트,시트랄,쿠마린,참나무이끼추출물,파네솔,제라니올,헥실신나몰,하이드록시시트로넬알,리날룰,글리세린",
-    "key_ingredients": [
+    "price": {
+      "raw": "70,000원",
+      "amount": 70000,
+      "currency": "KRW"
+    },
+    "description": "팬지 퍼퓸은 로즈마리, 베르가못 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,향료,베르가모트오일,비터오렌지꽃추출물,로즈마리잎오일,갈바눔수지오일,라다넘수지,리모넨,알파-아이소메틸아이오논,벤질벤조에이트,시트랄,쿠마린,참나무이끼추출물,파네솔,제라니올,헥실신나몰,하이드록시시트로넬알,리날룰,글리세린",
+    "notes": [
       "로즈마리",
       "베르가못"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "더티 퍼퓸",
     "english_name": "Dirty",
-    "product_type": "퍼퓸",
+    "normalized_name": "dirty",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/300",
-    "regular_price": "70,000원",
     "image_url": "https://www.lush.co.kr/upload/item/300/20211006163459M.png",
-    "ingredients": "변성알코올,향료,스피어민트추출물,타라곤오일,샌들우드오일,라벤더추출물,비터오렌지꽃오일,타임꽃/잎추출물,벤질벤조에이트,알파-아이소메틸아이오논,리날룰,쿠마린,신나밀알코올,유제놀,참나무이끼추출물,제라니올,하이드록시시트로넬알,리모넨,벤질신나메이트,신남알,시트랄,시트로넬올,파네솔,정제수,글리세린",
-    "key_ingredients": [
+    "price": {
+      "raw": "70,000원",
+      "amount": 70000,
+      "currency": "KRW"
+    },
+    "description": "더티 퍼퓸은 스피어민트, 샌들우드, 네롤리 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,향료,스피어민트추출물,타라곤오일,샌들우드오일,라벤더추출물,비터오렌지꽃오일,타임꽃/잎추출물,벤질벤조에이트,알파-아이소메틸아이오논,리날룰,쿠마린,신나밀알코올,유제놀,참나무이끼추출물,제라니올,하이드록시시트로넬알,리모넨,벤질신나메이트,신남알,시트랄,시트로넬올,파네솔,정제수,글리세린",
+    "notes": [
       "스피어민트",
       "샌들우드",
       "네롤리"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "더티 솔리드 퍼퓸",
     "english_name": "Dirty Solid Perfume",
-    "product_type": "솔리드 퍼퓸",
+    "normalized_name": "dirty solid perfume",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/302",
-    "regular_price": "30,000원",
     "image_url": "https://www.lush.co.kr/upload/item/302/20250605154904M.png",
-    "ingredients": "호호바씨오일,피마자오일,칸데릴라왁스,향료,스피어민트잎오일,타라곤오일,샌들우드오일,라벤더오일,비터오렌지꽃오일,타임추출물,알파-아이소메틸아이오논,벤질신나메이트,신남알,신나밀알코올,쿠마린,유제놀,파네솔,제라니올,리모넨,리날룰,참나무이끼추출물,하이드록시시트로넬알,청색1호레이크",
-    "key_ingredients": [
+    "price": {
+      "raw": "30,000원",
+      "amount": 30000,
+      "currency": "KRW"
+    },
+    "description": "더티 솔리드 퍼퓸은 스피어민트, 샌달우드, 네롤리 노트가 중심인 향수입니다.",
+    "ingredients_raw": "호호바씨오일,피마자오일,칸데릴라왁스,향료,스피어민트잎오일,타라곤오일,샌들우드오일,라벤더오일,비터오렌지꽃오일,타임추출물,알파-아이소메틸아이오논,벤질신나메이트,신남알,신나밀알코올,쿠마린,유제놀,파네솔,제라니올,리모넨,리날룰,참나무이끼추출물,하이드록시시트로넬알,청색1호레이크",
+    "notes": [
       "스피어민트",
       "샌달우드",
       "네롤리"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "솔리드 퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "로즈 잼 보디 스프레이",
     "english_name": "Rose Jam",
-    "product_type": "보디 스프레이",
+    "normalized_name": "rose jam",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/247",
-    "regular_price": "80,000원",
     "image_url": "https://www.lush.co.kr/upload/item/247/20230413141408M.png",
-    "ingredients": "변성알코올,정제수,향료,다마스크장미꽃추출물,다마스크장미꽃오일,센티드제라늄꽃오일,레몬오일,시트랄,시트로넬올,쿠마린,파네솔,유제놀,제라니올,리모넨,리날룰,글리세린,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "80,000원",
+      "amount": 80000,
+      "currency": "KRW"
+    },
+    "description": "로즈 잼 보디 스프레이은 제라늄, 장미, 레몬 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,향료,다마스크장미꽃추출물,다마스크장미꽃오일,센티드제라늄꽃오일,레몬오일,시트랄,시트로넬올,쿠마린,파네솔,유제놀,제라니올,리모넨,리날룰,글리세린,벤질알코올",
+    "notes": [
       "제라늄",
       "장미",
       "레몬"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "보디 스프레이",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "섹스 밤 보디 스프레이",
     "english_name": "Sex Bomb",
-    "product_type": "보디 스프레이",
+    "normalized_name": "sex bomb",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000001190",
-    "regular_price": "70,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000001190/20250106155024M.png",
-    "ingredients": "변성알코올,정제수,향료,스페인자스민꽃추출물,클레리오일,일랑일랑꽃오일,알파-아이소메틸아이오논,벤질벤조에이트,시트랄,유제놀,파네솔,제라니올,리모넨,리날룰,글리세린,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "70,000원",
+      "amount": 70000,
+      "currency": "KRW"
+    },
+    "description": "섹스 밤 보디 스프레이은 자스민, 일랑일랑 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,향료,스페인자스민꽃추출물,클레리오일,일랑일랑꽃오일,알파-아이소메틸아이오논,벤질벤조에이트,시트랄,유제놀,파네솔,제라니올,리모넨,리날룰,글리세린,벤질알코올",
+    "notes": [
       "자스민",
       "일랑일랑"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "보디 스프레이",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "슬리피 보디 스프레이",
     "english_name": "Sleepy",
-    "product_type": "보디 스프레이",
+    "normalized_name": "sleepy",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/248",
-    "regular_price": "70,000원",
     "image_url": "https://www.lush.co.kr/upload/item/248/20250418135902M.png",
-    "ingredients": "변성알코올,정제수,향료,라벤더오일,안식향나무수지추출물,통가콩씨추출물,일랑일랑꽃오일,리날룰,벤질벤조에이트,벤질신나메이트,벤질살리실레이트,신남알,쿠마린,유제놀,파네솔,제라니올,아이소유제놀,리모넨,글리세린",
-    "key_ingredients": [
+    "price": {
+      "raw": "70,000원",
+      "amount": 70000,
+      "currency": "KRW"
+    },
+    "description": "슬리피 보디 스프레이은 통카, 라벤더, 일랑일랑 오일 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,향료,라벤더오일,안식향나무수지추출물,통가콩씨추출물,일랑일랑꽃오일,리날룰,벤질벤조에이트,벤질신나메이트,벤질살리실레이트,신남알,쿠마린,유제놀,파네솔,제라니올,아이소유제놀,리모넨,글리세린",
+    "notes": [
       "통카",
       "라벤더",
       "일랑일랑 오일"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "보디 스프레이",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "비틀 100ml 퍼퓸",
     "english_name": "",
-    "product_type": "퍼퓸",
+    "normalized_name": "100ml",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000004883",
-    "regular_price": "250,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000004883/20241025144602M.png",
-    "ingredients": "변성알코올,향료,망고잎추출물,다바나꽃오일,스타아니스열매/씨오일,스페인자스민꽃추출물,고수씨오일,유제놀,아밀신남알,벤질벤조에이트,벤질신나메이트,벤질살리실레이트,신남알,시트랄,시트로넬올,파네솔,제라니올,아이소유제놀,리모넨,리날룰,정제수,글리세린,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "250,000원",
+      "amount": 250000,
+      "currency": "KRW"
+    },
+    "description": "비틀 100ml 퍼퓸은 다바나꽃, 자스민 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,향료,망고잎추출물,다바나꽃오일,스타아니스열매/씨오일,스페인자스민꽃추출물,고수씨오일,유제놀,아밀신남알,벤질벤조에이트,벤질신나메이트,벤질살리실레이트,신남알,시트랄,시트로넬올,파네솔,제라니올,아이소유제놀,리모넨,리날룰,정제수,글리세린,벤질알코올",
+    "notes": [
       "다바나꽃",
       "자스민"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "본드 스트리트 1972 100ml 퍼퓸",
     "english_name": "",
-    "product_type": "퍼퓸",
+    "normalized_name": "1972 100ml",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000004887",
-    "regular_price": "200,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000004887/20241025153815M.png",
-    "ingredients": "변성알코올,향료,유향나무검추출물,갈바눔수지오일,아이소유제놀,리모넨,정제수,글리세린",
-    "key_ingredients": [
+    "price": {
+      "raw": "200,000원",
+      "amount": 200000,
+      "currency": "KRW"
+    },
+    "description": "본드 스트리트 1972 100ml 퍼퓸은 갈바넘 수지 오일, 올리바넘 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,향료,유향나무검추출물,갈바눔수지오일,아이소유제놀,리모넨,정제수,글리세린",
+    "notes": [
       "갈바넘 수지 오일",
       "올리바넘"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "칵테일 100ml 퍼퓸",
     "english_name": "",
-    "product_type": "퍼퓸",
+    "normalized_name": "100ml",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000000846",
-    "regular_price": "200,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000000846/20211006164852M.png",
-    "ingredients": "변성알코올,향료,녹나무오일,일랑일랑꽃오일,스페인자스민꽃추출물,다마스크장미꽃추출물,리날룰,쿠마린,벤질벤조에이트,벤질살리실레이트,신남알,신나밀알코올,시트랄,시트로넬올,유제놀,참나무이끼추출물,파네솔,제라니올,아이소유제놀,리모넨,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "200,000원",
+      "amount": 200000,
+      "currency": "KRW"
+    },
+    "description": "칵테일 100ml 퍼퓸은 녹나무 오일, 자스민, 일랑일랑 오일 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,향료,녹나무오일,일랑일랑꽃오일,스페인자스민꽃추출물,다마스크장미꽃추출물,리날룰,쿠마린,벤질벤조에이트,벤질살리실레이트,신남알,신나밀알코올,시트랄,시트로넬올,유제놀,참나무이끼추출물,파네솔,제라니올,아이소유제놀,리모넨,벤질알코올",
+    "notes": [
       "녹나무 오일",
       "자스민",
       "일랑일랑 오일"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "탱크 배틀 100ml 퍼퓸",
     "english_name": "",
-    "product_type": "퍼퓸",
+    "normalized_name": "100ml",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000000871",
-    "regular_price": "200,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000000871/20211007125810M.png",
-    "ingredients": "변성알코올,정제수,향료,광곽향오일,라다넘수지,클로브싹오일,신나밀알코올,시트랄,시트로넬올,유제놀,파네솔,제라니올,아이소유제놀,리모넨,리날룰,글리세린",
-    "key_ingredients": [
+    "price": {
+      "raw": "200,000원",
+      "amount": 200000,
+      "currency": "KRW"
+    },
+    "description": "탱크 배틀 100ml 퍼퓸은 클로브, 파촐리 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,향료,광곽향오일,라다넘수지,클로브싹오일,신나밀알코올,시트랄,시트로넬올,유제놀,파네솔,제라니올,아이소유제놀,리모넨,리날룰,글리세린",
+    "notes": [
       "클로브",
       "파촐리"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "카다멈 커피 100ml 퍼퓸",
     "english_name": "",
-    "product_type": "퍼퓸",
+    "normalized_name": "100ml",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/290",
-    "regular_price": "350,000원",
     "image_url": "https://www.lush.co.kr/upload/item/290/20211008101811M.png",
-    "ingredients": "변성알코올,향료,소두구씨오일,올리브나무잎추출물,다마스크장미꽃오일,카카오추출물,아니스알코올,벤질벤조에이트,벤질살리실레이트,신남알,시트랄,쿠마린,유제놀,시트로넬올,파네솔,제라니올,리모넨,리날룰,정제수,글리세린,아퀼라리아크라스나줄기오일,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "350,000원",
+      "amount": 350000,
+      "currency": "KRW"
+    },
+    "description": "카다멈 커피 100ml 퍼퓸은 카카오 파우더, 장미 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,향료,소두구씨오일,올리브나무잎추출물,다마스크장미꽃오일,카카오추출물,아니스알코올,벤질벤조에이트,벤질살리실레이트,신남알,시트랄,쿠마린,유제놀,시트로넬올,파네솔,제라니올,리모넨,리날룰,정제수,글리세린,아퀼라리아크라스나줄기오일,벤질알코올",
+    "notes": [
       "카카오 파우더",
       "장미"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "더 스멜 오브 웨더 터닝 100ml 퍼퓸",
     "english_name": "",
-    "product_type": "퍼퓸",
+    "normalized_name": "100ml",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000000873",
-    "regular_price": "300,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000000873/20211008111032M.png",
-    "ingredients": "변성알코올,정제수,향료,로부르참나무목부추출물,베이잎오일,비즈왁스,페퍼민트오일,페퍼민트추출물,캐모마일꽃오일,쿠마린,리날룰,리모넨,알파-아이소메틸아이오논,벤질벤조에이트,벤질신나메이트,벤질살리실레이트,신남알,시트랄,시트로넬올,유제놀,파네솔,제라니올,아이소유제놀,글리세린,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "300,000원",
+      "amount": 300000,
+      "currency": "KRW"
+    },
+    "description": "더 스멜 오브 웨더 터닝 100ml 퍼퓸은 카모마일, 페퍼민트 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,향료,로부르참나무목부추출물,베이잎오일,비즈왁스,페퍼민트오일,페퍼민트추출물,캐모마일꽃오일,쿠마린,리날룰,리모넨,알파-아이소메틸아이오논,벤질벤조에이트,벤질신나메이트,벤질살리실레이트,신남알,시트랄,시트로넬올,유제놀,파네솔,제라니올,아이소유제놀,글리세린,벤질알코올",
+    "notes": [
       "카모마일",
       "페퍼민트"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "대드스 가든 100ml 퍼퓸",
     "english_name": "",
-    "product_type": "퍼퓸",
+    "normalized_name": "100ml",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000000850",
-    "regular_price": "230,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000000850/20211006165310M.png",
-    "ingredients": "변성알코올,정제수,향료,라벤더오일,스페인자스민꽃추출물,비터오렌지꽃추출물,캐모마일꽃오일,리날룰,제라니올,벤질벤조에이트,벤질살리실레이트,시트랄,쿠마린,유제놀,파네솔,아이소유제놀,리모넨,글리세린,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "230,000원",
+      "amount": 230000,
+      "currency": "KRW"
+    },
+    "description": "대드스 가든 100ml 퍼퓸은 카모마일, 라벤더, 자스민 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,향료,라벤더오일,스페인자스민꽃추출물,비터오렌지꽃추출물,캐모마일꽃오일,리날룰,제라니올,벤질벤조에이트,벤질살리실레이트,시트랄,쿠마린,유제놀,파네솔,아이소유제놀,리모넨,글리세린,벤질알코올",
+    "notes": [
       "카모마일",
       "라벤더",
       "자스민"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "진저 100ml 퍼퓸",
     "english_name": "",
-    "product_type": "퍼퓸",
+    "normalized_name": "100ml",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000000877",
-    "regular_price": "200,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000000877/20220722080607M.png",
-    "ingredients": "변성알코올,정제수,향료,그린와틀꽃추출물,베르가모트오일,생강오일,필리핀오렌지전초오일,센티드제라늄꽃오일,샌들우드오일,알파-아이소메틸아이오논,벤질벤조에이트,벤질살리실레이트,시트랄,시트로넬올,유제놀,참나무이끼추출물,파네솔,제라니올,아이소유제놀,리모넨,리날룰,글리세린,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "200,000원",
+      "amount": 200000,
+      "currency": "KRW"
+    },
+    "description": "진저 100ml 퍼퓸은 생강, 샌들우드, 베르가못, 오렌지 오일 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,향료,그린와틀꽃추출물,베르가모트오일,생강오일,필리핀오렌지전초오일,센티드제라늄꽃오일,샌들우드오일,알파-아이소메틸아이오논,벤질벤조에이트,벤질살리실레이트,시트랄,시트로넬올,유제놀,참나무이끼추출물,파네솔,제라니올,아이소유제놀,리모넨,리날룰,글리세린,벤질알코올",
+    "notes": [
       "생강",
       "샌들우드",
       "베르가못",
       "오렌지 오일"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "퍼즈 100ml 퍼퓸",
     "english_name": "",
-    "product_type": "퍼퓸",
+    "normalized_name": "100ml",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000000856",
-    "regular_price": "200,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000000856/20211006171026M.png",
-    "ingredients": "변성알코올,정제수,향료,비터오렌지꽃오일,그린와틀꽃추출물,하이드록시시트로넬알,아밀신남알,시트랄,파네솔,제라니올,리모넨,리날룰,글리세린",
-    "key_ingredients": [
+    "price": {
+      "raw": "200,000원",
+      "amount": 200000,
+      "currency": "KRW"
+    },
+    "description": "퍼즈 100ml 퍼퓸은 글리세린 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,향료,비터오렌지꽃오일,그린와틀꽃추출물,하이드록시시트로넬알,아밀신남알,시트랄,파네솔,제라니올,리모넨,리날룰,글리세린",
+    "notes": [
       "글리세린"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "디어 존 100ml 퍼퓸",
     "english_name": "",
-    "product_type": "퍼퓸",
+    "normalized_name": "100ml",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000000851",
-    "regular_price": "200,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000000851/20211006171813M.png",
-    "ingredients": "변성알코올,향료,연필향나무오일,베티버뿌리오일,고수씨오일,클로브싹오일,리모넨,벤질벤조에이트,벤질살리실레이트,시트랄,쿠마린,유제놀,파네솔,제라니올,리날룰,정제수,글리세린",
-    "key_ingredients": [
+    "price": {
+      "raw": "200,000원",
+      "amount": 200000,
+      "currency": "KRW"
+    },
+    "description": "디어 존 100ml 퍼퓸은 클로브, 베티버 뿌리 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,향료,연필향나무오일,베티버뿌리오일,고수씨오일,클로브싹오일,리모넨,벤질벤조에이트,벤질살리실레이트,시트랄,쿠마린,유제놀,파네솔,제라니올,리날룰,정제수,글리세린",
+    "notes": [
       "클로브",
       "베티버 뿌리"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "러브 100ml 퍼퓸",
     "english_name": "",
-    "product_type": "퍼퓸",
+    "normalized_name": "100ml",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000000904",
-    "regular_price": "200,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000000904/20211008100551M.png",
-    "ingredients": "변성알코올,향료,동인도레몬그라스잎오일,베르가모트오일,스페인자스민꽃추출물,다마스크장미꽃추출물,일랑일랑꽃오일,일랑일랑꽃추출물,리날룰,쿠마린,리모넨,벤질벤조에이트,시트랄,벤질살리실레이트,신남알,신나밀알코올,시트로넬올,유제놀,참나무이끼추출물,파네솔,제라니올,아이소유제놀,정제수,글리세린,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "200,000원",
+      "amount": 200000,
+      "currency": "KRW"
+    },
+    "description": "러브 100ml 퍼퓸은 오크모스, 일랑일랑 오일, 장미 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,향료,동인도레몬그라스잎오일,베르가모트오일,스페인자스민꽃추출물,다마스크장미꽃추출물,일랑일랑꽃오일,일랑일랑꽃추출물,리날룰,쿠마린,리모넨,벤질벤조에이트,시트랄,벤질살리실레이트,신남알,신나밀알코올,시트로넬올,유제놀,참나무이끼추출물,파네솔,제라니올,아이소유제놀,정제수,글리세린,벤질알코올",
+    "notes": [
       "오크모스",
       "일랑일랑 오일",
       "장미"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "헤어드레서스 허즈밴드 100ml 퍼퓸",
     "english_name": "",
-    "product_type": "퍼퓸",
+    "normalized_name": "100ml",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000000858",
-    "regular_price": "300,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000000858/20211006172037M.png",
-    "ingredients": "에탄올,향료,오렌지껍질오일,레몬오일,자몽껍질오일, 레몬머틀잎오일,바닐라열매추출물,통가콩씨추출물,리모넨,시트랄, 아니스알코올,쿠마린,참나무이끼추출물,파네솔, 제라니올,리날룰",
-    "key_ingredients": [
+    "price": {
+      "raw": "300,000원",
+      "amount": 300000,
+      "currency": "KRW"
+    },
+    "description": "헤어드레서스 허즈밴드 100ml 퍼퓸은 통카, 자몽, 오렌지 오일 노트가 중심인 향수입니다.",
+    "ingredients_raw": "에탄올,향료,오렌지껍질오일,레몬오일,자몽껍질오일, 레몬머틀잎오일,바닐라열매추출물,통가콩씨추출물,리모넨,시트랄, 아니스알코올,쿠마린,참나무이끼추출물,파네솔, 제라니올,리날룰",
+    "notes": [
       "통카",
       "자몽",
       "오렌지 오일"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "썬 100ml 퍼퓸",
     "english_name": "",
-    "product_type": "퍼퓸",
+    "normalized_name": "100ml",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/313",
-    "regular_price": "130,000원",
     "image_url": "https://www.lush.co.kr/upload/item/313/20250207105107M.png",
-    "ingredients": "변성알코올,향료,오렌지오일,샌들우드오일,그린와틀잎추출물,시트랄,파네솔,리날룰,리모넨",
-    "key_ingredients": [
+    "price": {
+      "raw": "130,000원",
+      "amount": 130000,
+      "currency": "KRW"
+    },
+    "description": "썬 100ml 퍼퓸은 샌들우드, 오렌지 오일 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,향료,오렌지오일,샌들우드오일,그린와틀잎추출물,시트랄,파네솔,리날룰,리모넨",
+    "notes": [
       "샌들우드",
       "오렌지 오일"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "정크 100ml 퍼퓸",
     "english_name": "",
-    "product_type": "퍼퓸",
+    "normalized_name": "100ml",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000001133",
-    "regular_price": "130,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000001133/20250207105309M.png",
-    "ingredients": "변성알코올,향료,레몬오일,필리핀오렌지전초오일,로즈마리잎오일,살비아오일,리모넨,알파-아이소메틸아이오논,시트랄,제라니올,리날룰,정제수,글리세린",
-    "key_ingredients": [
+    "price": {
+      "raw": "130,000원",
+      "amount": 130000,
+      "currency": "KRW"
+    },
+    "description": "정크 100ml 퍼퓸은 로즈마리, 오렌지, 레몬 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,향료,레몬오일,필리핀오렌지전초오일,로즈마리잎오일,살비아오일,리모넨,알파-아이소메틸아이오논,시트랄,제라니올,리날룰,정제수,글리세린",
+    "notes": [
       "로즈마리",
       "오렌지",
       "레몬"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "1000 키시스 딥 100ml 퍼퓸",
     "english_name": "",
-    "product_type": "퍼퓸",
+    "normalized_name": "1000 100ml",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000000903",
-    "regular_price": "150,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000000903/20211008110759M.png",
-    "ingredients": "변성알코올,향료,몰약수지,라다넘수지,목서꽃추출물,리모넨,쿠마린,아니스알코올,시트랄,유제놀,제라니올,아이소유제놀,리날룰,정제수,글리세린",
-    "key_ingredients": [
+    "price": {
+      "raw": "150,000원",
+      "amount": 150000,
+      "currency": "KRW"
+    },
+    "description": "1000 키시스 딥 100ml 퍼퓸은 몰약 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,향료,몰약수지,라다넘수지,목서꽃추출물,리모넨,쿠마린,아니스알코올,시트랄,유제놀,제라니올,아이소유제놀,리날룰,정제수,글리세린",
+    "notes": [
       "몰약"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "그래스 100ml 퍼퓸",
     "english_name": "",
-    "product_type": "퍼퓸",
+    "normalized_name": "100ml",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000000857",
-    "regular_price": "200,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000000857/20211008110114M.png",
-    "ingredients": "변성알코올,정제수,향료,샌들우드오일,베르가모트오일,비터오렌지꽃오일,리날룰,알파-아이소메틸아이오논,벤질벤조에이트,벤질살리실레이트,시트랄,아이소유제놀,시트로넬올,쿠마린,유제놀,파네솔,제라니올,리모넨,글리세린,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "200,000원",
+      "amount": 200000,
+      "currency": "KRW"
+    },
+    "description": "그래스 100ml 퍼퓸은 샌들우드, 네롤리, 베르가못 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,향료,샌들우드오일,베르가모트오일,비터오렌지꽃오일,리날룰,알파-아이소메틸아이오논,벤질벤조에이트,벤질살리실레이트,시트랄,아이소유제놀,시트로넬올,쿠마린,유제놀,파네솔,제라니올,리모넨,글리세린,벤질알코올",
+    "notes": [
       "샌들우드",
       "네롤리",
       "베르가못"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "브이 100ml 퍼퓸",
     "english_name": "",
-    "product_type": "퍼퓸",
+    "normalized_name": "100ml",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000000875",
-    "regular_price": "200,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000000875/20211008101425M.png",
-    "ingredients": "변성알코올,정제수,향료,연필향나무오일,일랑일랑꽃오일,클로브싹오일,향기제비꽃잎추출물,알파-아이소메틸아이오논,리모넨,벤질벤조에이트,시트랄,유제놀,제라니올,리날룰,글리세린,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "200,000원",
+      "amount": 200000,
+      "currency": "KRW"
+    },
+    "description": "브이 100ml 퍼퓸은 제비꽃, 일랑일랑 오일 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,향료,연필향나무오일,일랑일랑꽃오일,클로브싹오일,향기제비꽃잎추출물,알파-아이소메틸아이오논,리모넨,벤질벤조에이트,시트랄,유제놀,제라니올,리날룰,글리세린,벤질알코올",
+    "notes": [
       "제비꽃",
       "일랑일랑 오일"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "데빌스 나이트캡 100ml 퍼퓸",
     "english_name": "",
-    "product_type": "퍼퓸",
+    "normalized_name": "100ml",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000000853",
-    "regular_price": "350,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000000853/20211006171329M.png",
-    "ingredients": "변성알코올,정제수,향료,참나무이끼추출물,로부르참나무목부추출물,비터오렌지꽃오일,알파-아이소메틸아이오논,벤질벤조에이트,벤질신나메이트,벤질살리실레이트,신나밀알코올,시트랄,시트로넬올,유제놀,파네솔,제라니올,하이드록시시트로넬알,아이소유제놀,리모넨,리날룰,글리세린,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "350,000원",
+      "amount": 350000,
+      "currency": "KRW"
+    },
+    "description": "데빌스 나이트캡 100ml 퍼퓸은 글리세린 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,향료,참나무이끼추출물,로부르참나무목부추출물,비터오렌지꽃오일,알파-아이소메틸아이오논,벤질벤조에이트,벤질신나메이트,벤질살리실레이트,신나밀알코올,시트랄,시트로넬올,유제놀,파네솔,제라니올,하이드록시시트로넬알,아이소유제놀,리모넨,리날룰,글리세린,벤질알코올",
+    "notes": [
       "글리세린"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "데쓰 앤 디케이 100ml 퍼퓸",
     "english_name": "",
-    "product_type": "퍼퓸",
+    "normalized_name": "100ml",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000000852",
-    "regular_price": "250,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000000852/20211006171555M.png",
-    "ingredients": "변성알코올,정제수,향료,일랑일랑꽃오일,통가콩씨추출물,다마스크장미꽃오일,스페인자스민꽃추출물,하이드록시시트로넬알,쿠마린,리날룰,알파-아이소메틸아이오논,아밀신남알,벤질벤조에이트,벤질신나메이트,벤질살리실레이트,신남알,신나밀알코올,시트랄,시트로넬올,유제놀,파네솔,제라니올,아이소유제놀,리모넨,글리세린,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "250,000원",
+      "amount": 250000,
+      "currency": "KRW"
+    },
+    "description": "데쓰 앤 디케이 100ml 퍼퓸은 통카, 일랑일랑 오일, 장미 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,향료,일랑일랑꽃오일,통가콩씨추출물,다마스크장미꽃오일,스페인자스민꽃추출물,하이드록시시트로넬알,쿠마린,리날룰,알파-아이소메틸아이오논,아밀신남알,벤질벤조에이트,벤질신나메이트,벤질살리실레이트,신남알,신나밀알코올,시트랄,시트로넬올,유제놀,파네솔,제라니올,아이소유제놀,리모넨,글리세린,벤질알코올",
+    "notes": [
       "통카",
       "일랑일랑 오일",
       "장미"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "러스트 솔리드 퍼퓸",
     "english_name": "",
-    "product_type": "솔리드 퍼퓸",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/283",
-    "regular_price": "30,000원",
     "image_url": "https://www.lush.co.kr/upload/item/283/20250226153005M.png",
-    "ingredients": "호호바씨오일,피마자오일,칸데릴라왁스,향료, 다마스크장미꽃오일,스페인자스민꽃추출물,일랑일랑꽃오일,바닐라열매오일, 샌들우드오일,벤질살리실레이트,시트랄,아니스알코올, 유제놀,제라니올,아이소유제놀,벤질벤조에이트, 시트로넬올,파네솔,리모넨,리날룰, 적색202호,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "30,000원",
+      "amount": 30000,
+      "currency": "KRW"
+    },
+    "description": "러스트 솔리드 퍼퓸은 자스민, 샌들우드, 일랑일랑, 장미 노트가 중심인 향수입니다.",
+    "ingredients_raw": "호호바씨오일,피마자오일,칸데릴라왁스,향료, 다마스크장미꽃오일,스페인자스민꽃추출물,일랑일랑꽃오일,바닐라열매오일, 샌들우드오일,벤질살리실레이트,시트랄,아니스알코올, 유제놀,제라니올,아이소유제놀,벤질벤조에이트, 시트로넬올,파네솔,리모넨,리날룰, 적색202호,벤질알코올",
+    "notes": [
       "자스민",
       "샌들우드",
       "일랑일랑",
       "장미"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "솔리드 퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "허니 아이 워시드 더 키즈 보디 스프레이",
     "english_name": "",
-    "product_type": "보디 스프레이",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000001183",
-    "regular_price": "70,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000001183/20220801132719M.png",
-    "ingredients": "변성알코올,정제수,향료,베르가모트오일,오렌지오일,아밀신남알,시트랄,시트로넬올,제라니올,하이드록시시트로넬알,리모넨,리날룰,글리세린",
-    "key_ingredients": [
+    "price": {
+      "raw": "70,000원",
+      "amount": 70000,
+      "currency": "KRW"
+    },
+    "description": "허니 아이 워시드 더 키즈 보디 스프레이은 베르가못, 오렌지 오일 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,향료,베르가모트오일,오렌지오일,아밀신남알,시트랄,시트로넬올,제라니올,하이드록시시트로넬알,리모넨,리날룰,글리세린",
+    "notes": [
       "베르가못",
       "오렌지 오일"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "보디 스프레이",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "아보카도 코-워시 보디 스프레이",
     "english_name": "",
-    "product_type": "보디 스프레이",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000001179",
-    "regular_price": "70,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000001179/20250106160114M.png",
-    "ingredients": "변성알코올,정제수,향료,리씨열매오일,베르가모트오일,유향나무오일,아밀신남알,벤질신나메이트,신남알,신나밀알코올,시트랄,시트로넬올,제라니올,리모넨,리날룰,글리세린",
-    "key_ingredients": [
+    "price": {
+      "raw": "70,000원",
+      "amount": 70000,
+      "currency": "KRW"
+    },
+    "description": "아보카도 코-워시 보디 스프레이은 올리바넘, 베르가못 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,향료,리씨열매오일,베르가모트오일,유향나무오일,아밀신남알,벤질신나메이트,신남알,신나밀알코올,시트랄,시트로넬올,제라니올,리모넨,리날룰,글리세린",
+    "notes": [
       "올리바넘",
       "베르가못"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "보디 스프레이",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "사쿠라 보디 스프레이",
     "english_name": "Sakura",
-    "product_type": "보디 스프레이",
+    "normalized_name": "sakura",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000001178",
-    "regular_price": "80,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000001178/20221212162556M.png",
-    "ingredients": "변성알코올,정제수,향료,레몬오일,그린와틀꽃추출물,비터오렌지꽃추출물,스페인자스민꽃추출물,리모넨,하이드록시시트로넬알,벤질벤조에이트,벤질살리실레이트,시트랄,유제놀,파네솔,제라니올,리날룰,글리세린,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "80,000원",
+      "amount": 80000,
+      "currency": "KRW"
+    },
+    "description": "사쿠라 보디 스프레이은 네롤리, 자스민, 레몬 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,향료,레몬오일,그린와틀꽃추출물,비터오렌지꽃추출물,스페인자스민꽃추출물,리모넨,하이드록시시트로넬알,벤질벤조에이트,벤질살리실레이트,시트랄,유제놀,파네솔,제라니올,리날룰,글리세린,벤질알코올",
+    "notes": [
       "네롤리",
       "자스민",
       "레몬"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "보디 스프레이",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "렛 더 굿 타임즈 롤 보디 스프레이",
     "english_name": "",
-    "product_type": "보디 스프레이",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000001188",
-    "regular_price": "70,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000001188/20230413141656M.png",
-    "ingredients": "변성알코올,정제수,향료,글리세린",
-    "key_ingredients": [
+    "price": {
+      "raw": "70,000원",
+      "amount": 70000,
+      "currency": "KRW"
+    },
+    "description": "렛 더 굿 타임즈 롤 보디 스프레이은 글리세린 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,향료,글리세린",
+    "notes": [
       "글리세린"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "보디 스프레이",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "솔티 보디 스프레이",
     "english_name": "Salty",
-    "product_type": "보디 스프레이",
+    "normalized_name": "salty",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000001990",
-    "regular_price": "80,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000001990/20220822162643M.png",
-    "ingredients": "변성알코올,정제수,향료,비터오렌지꽃오일,다마스크장미꽃오일,아퀼라리아크라스나줄기오일,참나무이끼추출물,단향오일,벤질벤조에이트,벤질신나메이트,아밀신남알,벤질살리실레이트,신남알,시트랄,시트로넬올,쿠마린,유제놀,파네솔,제라니올,리모넨,리날룰,글리세린,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "80,000원",
+      "amount": 80000,
+      "currency": "KRW"
+    },
+    "description": "솔티 보디 스프레이은 샌들우드, 장미 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,향료,비터오렌지꽃오일,다마스크장미꽃오일,아퀼라리아크라스나줄기오일,참나무이끼추출물,단향오일,벤질벤조에이트,벤질신나메이트,아밀신남알,벤질살리실레이트,신남알,시트랄,시트로넬올,쿠마린,유제놀,파네솔,제라니올,리모넨,리날룰,글리세린,벤질알코올",
+    "notes": [
       "샌들우드",
       "장미"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "보디 스프레이",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "더 컴포터 보디 스프레이",
     "english_name": "",
-    "product_type": "보디 스프레이",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000001185",
-    "regular_price": "70,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000001185/20250106155405M.png",
-    "ingredients": "변성알코올,정제수,향료,양까막까치밥나무열매추출물,솔잣나무오일,시트랄,리모넨,리날룰,글리세린",
-    "key_ingredients": [
+    "price": {
+      "raw": "70,000원",
+      "amount": 70000,
+      "currency": "KRW"
+    },
+    "description": "더 컴포터 보디 스프레이은 블랙커런트, 사이프러스 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,향료,양까막까치밥나무열매추출물,솔잣나무오일,시트랄,리모넨,리날룰,글리세린",
+    "notes": [
       "블랙커런트",
       "사이프러스"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "보디 스프레이",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "플럼 레인 보디 스프레이",
     "english_name": "Plum Rain",
-    "product_type": "보디 스프레이",
+    "normalized_name": "plum rain",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000001177",
-    "regular_price": "80,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000001177/20230413141458M.png",
-    "ingredients": "변성알코올,정제수,향료,목서꽃추출물,비터오렌지잎/잔가지오일,필리핀오렌지전초오일,리모넨,시트랄,제라니올,리날룰,글리세린",
-    "key_ingredients": [
+    "price": {
+      "raw": "80,000원",
+      "amount": 80000,
+      "currency": "KRW"
+    },
+    "description": "플럼 레인 보디 스프레이은 오스만투스, 네롤리, 오렌지 오일 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,향료,목서꽃추출물,비터오렌지잎/잔가지오일,필리핀오렌지전초오일,리모넨,시트랄,제라니올,리날룰,글리세린",
+    "notes": [
       "오스만투스",
       "네롤리",
       "오렌지 오일"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "보디 스프레이",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "가디언 오브 더 포레스트 보디 스프레이",
     "english_name": "",
-    "product_type": "보디 스프레이",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000001193",
-    "regular_price": "80,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000001193/20250106155331M.png",
-    "ingredients": "변성알코올,정제수,글리세린,향료,솔잣나무오일,라임전초오일,참나무이끼추출물,알파-아이소메틸아이오논,아밀신남알,벤질벤조에이트,벤질살리실레이트,신나밀알코올,시트랄,시트로넬올,쿠마린,유제놀,제라니올,하이드록시시트로넬알,리모넨,리날룰,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "80,000원",
+      "amount": 80000,
+      "currency": "KRW"
+    },
+    "description": "가디언 오브 더 포레스트 보디 스프레이은 사이프러스, 라임 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,글리세린,향료,솔잣나무오일,라임전초오일,참나무이끼추출물,알파-아이소메틸아이오논,아밀신남알,벤질벤조에이트,벤질살리실레이트,신나밀알코올,시트랄,시트로넬올,쿠마린,유제놀,제라니올,하이드록시시트로넬알,리모넨,리날룰,벤질알코올",
+    "notes": [
       "사이프러스",
       "라임"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "보디 스프레이",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "제스티 보디 스프레이",
     "english_name": "Zesty",
-    "product_type": "보디 스프레이",
+    "normalized_name": "zesty",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000001180",
-    "regular_price": "70,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000001180/20250106155258M.png",
-    "ingredients": "변성알코올,정제수,향료,라임전초오일,유향나무오일,비터오렌지꽃오일,리모넨,알파-아이소메틸아이오논,벤질살리실레이트,시트랄,파네솔,제라니올,하이드록시시트로넬알,아이소유제놀,리날룰,글리세린",
-    "key_ingredients": [
+    "price": {
+      "raw": "70,000원",
+      "amount": 70000,
+      "currency": "KRW"
+    },
+    "description": "제스티 보디 스프레이은 올리바넘, 네롤리 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,향료,라임전초오일,유향나무오일,비터오렌지꽃오일,리모넨,알파-아이소메틸아이오논,벤질살리실레이트,시트랄,파네솔,제라니올,하이드록시시트로넬알,아이소유제놀,리날룰,글리세린",
+    "notes": [
       "올리바넘",
       "네롤리"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "보디 스프레이",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "대드스 가든 레몬 트리 보디 스프레이",
     "english_name": "",
-    "product_type": "보디 스프레이",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/245",
-    "regular_price": "70,000원",
     "image_url": "https://www.lush.co.kr/upload/item/245/20230413142041M.png",
-    "ingredients": "변성알코올,정제수,향료,레몬오일,라임전초오일,베르가모트오일,라벤더오일,시트랄,리모넨,리날룰,글리세린",
-    "key_ingredients": [
+    "price": {
+      "raw": "70,000원",
+      "amount": 70000,
+      "currency": "KRW"
+    },
+    "description": "대드스 가든 레몬 트리 보디 스프레이은 라임, 베르가못, 레몬 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,향료,레몬오일,라임전초오일,베르가모트오일,라벤더오일,시트랄,리모넨,리날룰,글리세린",
+    "notes": [
       "라임",
       "베르가못",
       "레몬"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "보디 스프레이",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "빅 보디 스프레이",
     "english_name": "Big",
-    "product_type": "보디 스프레이",
+    "normalized_name": "big",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000001181",
-    "regular_price": "80,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000001181/20250106155202M.png",
-    "ingredients": "변성알코올,정제수,향료,비터오렌지꽃오일,필리핀오렌지전초오일,바닐라열매추출물,비터오렌지꽃추출물,알파-아이소메틸아이오논,아니스알코올,시트랄,쿠마린,파네솔,제라니올,하이드록시시트로넬알,리모넨,리날룰,글리세린",
-    "key_ingredients": [
+    "price": {
+      "raw": "80,000원",
+      "amount": 80000,
+      "currency": "KRW"
+    },
+    "description": "빅 보디 스프레이은 바닐라, 네롤리 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,향료,비터오렌지꽃오일,필리핀오렌지전초오일,바닐라열매추출물,비터오렌지꽃추출물,알파-아이소메틸아이오논,아니스알코올,시트랄,쿠마린,파네솔,제라니올,하이드록시시트로넬알,리모넨,리날룰,글리세린",
+    "notes": [
       "바닐라",
       "네롤리"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "보디 스프레이",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "더티 보디 스프레이",
     "english_name": "",
-    "product_type": "보디 스프레이",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/246",
-    "regular_price": "70,000원",
     "image_url": "https://www.lush.co.kr/upload/item/246/20230106173535M.png",
-    "ingredients": "변성알코올,정제수,향료,스피어민트잎오일,타라곤오일,샌들우드오일,라벤더추출물,비터오렌지꽃오일,타임추출물,벤질벤조에이트,벤질신나메이트,신나밀알코올,시트랄,시트로넬올,쿠마린,유제놀,파네솔,제라니올,리모넨,리날룰,알파-아이소메틸아이오논,하이드록시시트로넬알,참나무이끼추출물,글리세린",
-    "key_ingredients": [
+    "price": {
+      "raw": "70,000원",
+      "amount": 70000,
+      "currency": "KRW"
+    },
+    "description": "더티 보디 스프레이은 스피어민트, 샌달우드, 라벤더 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,향료,스피어민트잎오일,타라곤오일,샌들우드오일,라벤더추출물,비터오렌지꽃오일,타임추출물,벤질벤조에이트,벤질신나메이트,신나밀알코올,시트랄,시트로넬올,쿠마린,유제놀,파네솔,제라니올,리모넨,리날룰,알파-아이소메틸아이오논,하이드록시시트로넬알,참나무이끼추출물,글리세린",
+    "notes": [
       "스피어민트",
       "샌달우드",
       "라벤더"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "보디 스프레이",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "노 웨이 투 세이 굿바이 퍼퓸",
     "english_name": "No Way To Say Goodbye",
-    "product_type": "퍼퓸",
+    "normalized_name": "no way to say goodbye",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000004877",
-    "regular_price": "70,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000004877/20241024170715M.png",
-    "ingredients": "변성알코올,향료,양까막까치밥나무열매추출물,리씨열매오일,다마스크장미꽃추출물,다마스크장미꽃오일,안식향나무수지추출물,제라니올,아니스알코올,벤질벤조에이트,벤질신나메이트,신남알,시트랄,시트로넬올,유제놀,리모넨,리날룰,정제수,글리세린,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "70,000원",
+      "amount": 70000,
+      "currency": "KRW"
+    },
+    "description": "노 웨이 투 세이 굿바이 퍼퓸은 리씨 열매 오일, 벤조인, 장미 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,향료,양까막까치밥나무열매추출물,리씨열매오일,다마스크장미꽃추출물,다마스크장미꽃오일,안식향나무수지추출물,제라니올,아니스알코올,벤질벤조에이트,벤질신나메이트,신남알,시트랄,시트로넬올,유제놀,리모넨,리날룰,정제수,글리세린,벤질알코올",
+    "notes": [
       "리씨 열매 오일",
       "벤조인",
       "장미"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "프레쉬 애즈 퍼퓸",
     "english_name": "",
-    "product_type": "퍼퓸",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/G21000003710",
-    "regular_price": "70,000원",
     "image_url": "https://www.lush.co.kr/upload/item/G21000003710/20241120174810M.png",
-    "ingredients": "변성알코올,정제수,향료,구주소나무오일,안식향나무수지추출물,오리스뿌리추출물,카나다발삼추출물,리날룰,리모넨,벤질벤조에이트,벤질신나메이트,신남알,시트랄,시트로넬올,유제놀,제라니올,아이소유제놀,글리세린,만수국아재비꽃오일",
-    "key_ingredients": [
+    "price": {
+      "raw": "70,000원",
+      "amount": 70000,
+      "currency": "KRW"
+    },
+    "description": "프레쉬 애즈 퍼퓸은 오리스, 벤조인 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,정제수,향료,구주소나무오일,안식향나무수지추출물,오리스뿌리추출물,카나다발삼추출물,리날룰,리모넨,벤질벤조에이트,벤질신나메이트,신남알,시트랄,시트로넬올,유제놀,제라니올,아이소유제놀,글리세린,만수국아재비꽃오일",
+    "notes": [
       "오리스",
       "벤조인"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "쉐이드 퍼퓸",
     "english_name": "Shade",
-    "product_type": "퍼퓸",
+    "normalized_name": "shade",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000001941",
-    "regular_price": "70,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000001941/20220304190440M.png",
-    "ingredients": "변성알코올,향료,단향오일,유향나무오일,트루구아이악목부오일,리날룰,벤질벤조에이트,벤질신나메이트,신남알,신나밀알코올,시트랄,쿠마린,파네솔,제라니올,하이드록시시트로넬알,아이소유제놀,리모넨,정제수,글리세린,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "70,000원",
+      "amount": 70000,
+      "currency": "KRW"
+    },
+    "description": "쉐이드 퍼퓸은 샌들우드 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,향료,단향오일,유향나무오일,트루구아이악목부오일,리날룰,벤질벤조에이트,벤질신나메이트,신남알,신나밀알코올,시트랄,쿠마린,파네솔,제라니올,하이드록시시트로넬알,아이소유제놀,리모넨,정제수,글리세린,벤질알코올",
+    "notes": [
       "샌들우드"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "로드 오브 미스룰 퍼퓸",
     "english_name": "",
-    "product_type": "퍼퓸",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/1000000883",
-    "regular_price": "70,000원",
     "image_url": "https://www.lush.co.kr/upload/item/1000000883/20211008110638M.png",
-    "ingredients": "변성알코올,향료,광곽향오일,후추열매오일,바닐라열매추출물,벤질벤조에이트,리모넨,아니스알코올,시트랄,쿠마린,유제놀,파네솔,제라니올,리날룰,정제수,글리세린,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "70,000원",
+      "amount": 70000,
+      "currency": "KRW"
+    },
+    "description": "로드 오브 미스룰 퍼퓸은 후추 열매 오일, 바닐라, 광곽향 오일(파촐리) 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,향료,광곽향오일,후추열매오일,바닐라열매추출물,벤질벤조에이트,리모넨,아니스알코올,시트랄,쿠마린,유제놀,파네솔,제라니올,리날룰,정제수,글리세린,벤질알코올",
+    "notes": [
       "후추 열매 오일",
       "바닐라",
       "광곽향 오일(파촐리)"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
+    "brand": "LUSH",
     "korean_name": "러스트 퍼퓸",
     "english_name": "Lust",
-    "product_type": "퍼퓸",
+    "normalized_name": "lust",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.lush.co.kr/products/view/281",
-    "regular_price": "80,000원",
     "image_url": "https://www.lush.co.kr/upload/item/281/20211008101545M.png",
-    "ingredients": "변성알코올,향료,다마스크장미꽃추출물,스페인자스민꽃추출물,일랑일랑꽃오일,바닐라열매추출물,샌들우드오일,리날룰,리모넨,아니스알코올,벤질살리실레이트,시트랄,유제놀,제라니올,벤질벤조에이트,시트로넬올,아이소유제놀,파네솔,정제수,글리세린,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "80,000원",
+      "amount": 80000,
+      "currency": "KRW"
+    },
+    "description": "러스트 퍼퓸은 바닐라, 자스민, 일랑일랑 오일, 장미 노트가 중심인 향수입니다.",
+    "ingredients_raw": "변성알코올,향료,다마스크장미꽃추출물,스페인자스민꽃추출물,일랑일랑꽃오일,바닐라열매추출물,샌들우드오일,리날룰,리모넨,아니스알코올,벤질살리실레이트,시트랄,유제놀,제라니올,벤질벤조에이트,시트로넬올,아이소유제놀,파네솔,정제수,글리세린,벤질알코올",
+    "notes": [
       "바닐라",
       "자스민",
       "일랑일랑 오일",
       "장미"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "퍼퓸",
+      "original_country": "KR"
+    }
   }
 ]

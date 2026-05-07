@@ -1,14 +1,23 @@
 [
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "724",
     "english_name": "724",
-    "product_type": "향수",
+    "normalized_name": "724",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/724.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2022",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "724은 Aldehydes, Calabrian bergamot, Egyptian Jasmine, Mock Orange, Sweet Pea 노트가 중심이며 aldehydic, white floral, musky 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2022",
+    "notes": [
       "Aldehydes",
       "Calabrian bergamot",
       "Egyptian Jasmine",
@@ -17,7 +26,7 @@
       "White Musk",
       "Sandalwood"
     ],
-    "keywords": [
+    "accords": [
       "aldehydic",
       "white floral",
       "musky",
@@ -28,18 +37,37 @@
       "sweet",
       "fresh spicy",
       "woody"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2022,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "754",
     "english_name": "754",
-    "product_type": "향수",
+    "normalized_name": "754",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/754.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2012",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "754은 Lemon, Lily-of-the-Valley, Sweet Pea, Freesia, White Musk 노트가 중심이며 floral, white floral, citrus 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2012",
+    "notes": [
       "Lemon",
       "Lily-of-the-Valley",
       "Sweet Pea",
@@ -47,7 +75,7 @@
       "White Musk",
       "Sandalwood"
     ],
-    "keywords": [
+    "accords": [
       "floral",
       "white floral",
       "citrus",
@@ -58,18 +86,37 @@
       "green",
       "woody",
       "aromatic"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2012,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "아 라 로즈",
     "english_name": "A La Rose",
-    "product_type": "향수",
+    "normalized_name": "a la rose",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/a-la-rose.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2014",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "아 라 로즈은 Calabrian bergamot, Litchi, Pear, Bulgarian Rose, Grasse Rose 노트가 중심이며 rose, floral, powdery 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2014",
+    "notes": [
       "Calabrian bergamot",
       "Litchi",
       "Pear",
@@ -80,7 +127,7 @@
       "Musk",
       "Cedar"
     ],
-    "keywords": [
+    "accords": [
       "rose",
       "floral",
       "powdery",
@@ -89,18 +136,37 @@
       "musky",
       "woody",
       "fresh spicy"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2014,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "APOM",
     "english_name": "APOM",
-    "product_type": "향수",
+    "normalized_name": "apom",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/apom.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2024",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "APOM은 Orange Blossom, White Musk, Lavender, Ylang Ylang, Amber 노트가 중심이며 white floral, sweet, musky 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2024",
+    "notes": [
       "Orange Blossom",
       "White Musk",
       "Lavender",
@@ -108,7 +174,7 @@
       "Amber",
       "Vanilla"
     ],
-    "keywords": [
+    "accords": [
       "white floral",
       "sweet",
       "musky",
@@ -119,41 +185,79 @@
       "vanilla",
       "citrus",
       "animalic"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2024,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "APOM 푸르 팜므",
     "english_name": "APOM Pour Femme",
-    "product_type": "향수",
+    "normalized_name": "apom pour femme",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/apom-pour-femme.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2009",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "APOM 푸르 팜므은 Ylang-Ylang, African Orange Flower, Virginia Cedar 노트가 중심이며 yellow floral, white floral, woody 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2009",
+    "notes": [
       "Ylang-Ylang",
       "African Orange Flower",
       "Virginia Cedar"
     ],
-    "keywords": [
+    "accords": [
       "yellow floral",
       "white floral",
       "woody",
       "sweet",
       "citrus",
       "soapy"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2009,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "APOM 푸르 팜므 엘릭서",
     "english_name": "APOM Pour Femme Elixir",
-    "product_type": "향수",
+    "normalized_name": "apom pour femme elixir",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/apom-pour-femme-elixir.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2009",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "APOM 푸르 팜므 엘릭서은 Orange Blossom, Ylang-Ylang, Jasmine, Cedar, Vanilla 노트가 중심이며 white floral, yellow floral, woody 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2009",
+    "notes": [
       "Orange Blossom",
       "Ylang-Ylang",
       "Jasmine",
@@ -161,29 +265,48 @@
       "Vanilla",
       "Tonka Bean"
     ],
-    "keywords": [
+    "accords": [
       "white floral",
       "yellow floral",
       "woody",
       "sweet",
       "vanilla"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2009,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "APOM 푸르 옴므",
     "english_name": "APOM Pour Homme",
-    "product_type": "향수",
+    "normalized_name": "apom pour homme",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/apom-pour-homme.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2009",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "APOM 푸르 옴므은 African Orange Flower, Amber, Virginia Cedar 노트가 중심이며 white floral, amber, citrus 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2009",
+    "notes": [
       "African Orange Flower",
       "Amber",
       "Virginia Cedar"
     ],
-    "keywords": [
+    "accords": [
       "white floral",
       "amber",
       "citrus",
@@ -191,18 +314,37 @@
       "animalic",
       "sweet",
       "soapy"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2009,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "앱솔루트 푸르 르 마탱 2024",
     "english_name": "Absolue Pour Le Matin 2024",
-    "product_type": "향수",
+    "normalized_name": "absolue pour le matin 2024",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/absolue-pour-le-matin-2024.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2024",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "앱솔루트 푸르 르 마탱 2024은 Lemon, Orange Blossom, Violet, Thyme, Powdery Notes 노트가 중심이며 powdery, citrus, aromatic 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2024",
+    "notes": [
       "Lemon",
       "Orange Blossom",
       "Violet",
@@ -210,7 +352,7 @@
       "Powdery Notes",
       "Woody Notes"
     ],
-    "keywords": [
+    "accords": [
       "powdery",
       "citrus",
       "aromatic",
@@ -219,18 +361,37 @@
       "woody",
       "fresh spicy",
       "fresh"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2024,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "앱솔루트 푸르 르 쉬아 2024",
     "english_name": "Absolue Pour Le Soir 2024",
-    "product_type": "향수",
+    "normalized_name": "absolue pour le soir 2024",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/absolue-pour-le-soir-2024.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2024",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "앱솔루트 푸르 르 쉬아 2024은 Cumin, Honey, Labdanum, Rose, Amber 노트가 중심이며 amber, honey, sweet 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2024",
+    "notes": [
       "Cumin",
       "Honey",
       "Labdanum",
@@ -238,7 +399,7 @@
       "Amber",
       "Vanilla"
     ],
-    "keywords": [
+    "accords": [
       "amber",
       "honey",
       "sweet",
@@ -248,18 +409,37 @@
       "floral",
       "powdery",
       "rose"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2024,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "앱솔루트 푸르 르 마틴",
     "english_name": "Absolue Pour le Matin",
-    "product_type": "향수",
+    "normalized_name": "absolue pour le matin",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/absolue-pour-le-matin.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2010",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "앱솔루트 푸르 르 마틴은 Amalfi Lemon, Iris, Violet, Lavender, Thyme 노트가 중심이며 citrus, aromatic, violet 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2010",
+    "notes": [
       "Amalfi Lemon",
       "Iris",
       "Violet",
@@ -269,7 +449,7 @@
       "Neroli",
       "Amber"
     ],
-    "keywords": [
+    "accords": [
       "citrus",
       "aromatic",
       "violet",
@@ -279,18 +459,37 @@
       "lavender",
       "floral",
       "fresh"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2010,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "앱솔루트 푸르 르 소아르",
     "english_name": "Absolue Pour le Soir",
-    "product_type": "향수",
+    "normalized_name": "absolue pour le soir",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/absolue-pour-le-soir.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2010",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "앱솔루트 푸르 르 소아르은 White Honey, Incense, Benzoin, Sandalwood, Atlas Cedar 노트가 중심이며 amber, honey, warm spicy 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2010",
+    "notes": [
       "White Honey",
       "Incense",
       "Benzoin",
@@ -300,7 +499,7 @@
       "Rose",
       "Cumin"
     ],
-    "keywords": [
+    "accords": [
       "amber",
       "honey",
       "warm spicy",
@@ -309,18 +508,37 @@
       "balsamic",
       "sweet",
       "floral"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2010,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "알레그리아",
     "english_name": "Allegria",
-    "product_type": "향수",
+    "normalized_name": "allegria",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/allegria.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2013",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "알레그리아은 Lily-of-the-Valley, Pear, Lemon, Jasmine, Hyacinth 노트가 중심이며 white floral, fresh, citrus 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2013",
+    "notes": [
       "Lily-of-the-Valley",
       "Pear",
       "Lemon",
@@ -331,7 +549,7 @@
       "Violet",
       "Amber"
     ],
-    "keywords": [
+    "accords": [
       "white floral",
       "fresh",
       "citrus",
@@ -342,18 +560,37 @@
       "fresh spicy",
       "yellow floral",
       "violet"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2013,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "아미리스 팜므",
     "english_name": "Amyris Femme",
-    "product_type": "향수",
+    "normalized_name": "amyris femme",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/amyris-femme.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2012",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "아미리스 팜므은 Lemon Blossom, California Orange, Amyris, Iris, Vetiver 노트가 중심이며 woody, aromatic, citrus 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2012",
+    "notes": [
       "Lemon Blossom",
       "California Orange",
       "Amyris",
@@ -362,7 +599,7 @@
       "Musk",
       "Amber"
     ],
-    "keywords": [
+    "accords": [
       "woody",
       "aromatic",
       "citrus",
@@ -373,18 +610,37 @@
       "musky",
       "balsamic",
       "violet"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2012,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "아미리스 팜므 엑스트릿 드 퍼퓸",
     "english_name": "Amyris Femme Extrait de Parfum",
-    "product_type": "향수",
+    "normalized_name": "amyris femme extrait de parfum",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/amyris-femme-extrait-de-parfum.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2019",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "아미리스 팜므 엑스트릿 드 퍼퓸은 Mandarin Blossom, Egyptian Jasmine, Amyris, Tuscan Iris, Pear 노트가 중심이며 white floral, woody, iris 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2019",
+    "notes": [
       "Mandarin Blossom",
       "Egyptian Jasmine",
       "Amyris",
@@ -393,7 +649,7 @@
       "Woody Notes",
       "Amber"
     ],
-    "keywords": [
+    "accords": [
       "white floral",
       "woody",
       "iris",
@@ -401,18 +657,37 @@
       "fruity",
       "powdery",
       "aromatic"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2019,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "아미리스 옴므",
     "english_name": "Amyris Homme",
-    "product_type": "향수",
+    "normalized_name": "amyris homme",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/amyris-homme.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2012",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "아미리스 옴므은 Sicilian Mandarin, Rosemary, Amyris, Iris, Milk Chocolate 노트가 중심이며 aromatic, woody, citrus 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2012",
+    "notes": [
       "Sicilian Mandarin",
       "Rosemary",
       "Amyris",
@@ -423,7 +698,7 @@
       "Tonka Bean",
       "Agarwood (Oud)"
     ],
-    "keywords": [
+    "accords": [
       "aromatic",
       "woody",
       "citrus",
@@ -434,18 +709,37 @@
       "balsamic",
       "warm spicy",
       "amber"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2012,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "아미리스 옴므 엑스트릿 드 퍼퓸",
     "english_name": "Amyris Homme Extrait de Parfum",
-    "product_type": "향수",
+    "normalized_name": "amyris homme extrait de parfum",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/amyris-homme-extrait-de-parfum.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2019",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "아미리스 옴므 엑스트릿 드 퍼퓸은 Amyris, Tonka Bean, Vanilla, Sicilian Mandarin, Tuscan Iris 노트가 중심이며 vanilla, woody, aromatic 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2019",
+    "notes": [
       "Amyris",
       "Tonka Bean",
       "Vanilla",
@@ -454,7 +748,7 @@
       "Ceylon Cinnamon",
       "Saffron"
     ],
-    "keywords": [
+    "accords": [
       "vanilla",
       "woody",
       "aromatic",
@@ -465,18 +759,37 @@
       "balsamic",
       "sweet",
       "cinnamon"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2019,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "아쿠아 셀레스티아",
     "english_name": "Aqua Celestia",
-    "product_type": "향수",
+    "normalized_name": "aqua celestia",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/aqua-celestia.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2017",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "아쿠아 셀레스티아은 Lime, Mint, Black Currant, Neroli, Green Notes 노트가 중심이며 green, citrus, musky 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2017",
+    "notes": [
       "Lime",
       "Mint",
       "Black Currant",
@@ -486,7 +799,7 @@
       "Rose",
       "White Musk"
     ],
-    "keywords": [
+    "accords": [
       "green",
       "citrus",
       "musky",
@@ -497,25 +810,44 @@
       "floral",
       "yellow floral",
       "sweet"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2017,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "아쿠아 셀레스티아 코롱 포르테",
     "english_name": "Aqua Celestia Cologne Forte",
-    "product_type": "향수",
+    "normalized_name": "aqua celestia cologne forte",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/aqua-celestia-cologne-forte.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2021",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "아쿠아 셀레스티아 코롱 포르테은 Black Currant, Bergamot, Jasmine, Mimosa, Musk 노트가 중심이며 fruity, citrus, musky 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2021",
+    "notes": [
       "Black Currant",
       "Bergamot",
       "Jasmine",
       "Mimosa",
       "Musk"
     ],
-    "keywords": [
+    "accords": [
       "fruity",
       "citrus",
       "musky",
@@ -526,18 +858,37 @@
       "white floral",
       "yellow floral",
       "woody"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2021,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "아쿠아 셀레스티아 포르테",
     "english_name": "Aqua Celestia Forte",
-    "product_type": "향수",
+    "normalized_name": "aqua celestia forte",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/aqua-celestia-forte.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2018",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "아쿠아 셀레스티아 포르테은 Lime, Petitgrain, Lemon, Mint, Black Currant Blossom 노트가 중심이며 citrus, green, aromatic 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2018",
+    "notes": [
       "Lime",
       "Petitgrain",
       "Lemon",
@@ -549,7 +900,7 @@
       "Lily-of-the-Valley",
       "Musk"
     ],
-    "keywords": [
+    "accords": [
       "citrus",
       "green",
       "aromatic",
@@ -560,18 +911,37 @@
       "musky",
       "powdery",
       "sweet"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2018,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "아쿠아 미디어 코롱 포르테",
     "english_name": "Aqua Media Cologne Forte",
-    "product_type": "향수",
+    "normalized_name": "aqua media cologne forte",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/aqua-media-cologne-forte.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2023",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "아쿠아 미디어 코롱 포르테은 Bergamot, Vervain, Fennel, Hedione, Matcha Tea 노트가 중심이며 citrus, fresh, green 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2023",
+    "notes": [
       "Bergamot",
       "Vervain",
       "Fennel",
@@ -580,7 +950,7 @@
       "Musk",
       "Woodsy Notes"
     ],
-    "keywords": [
+    "accords": [
       "citrus",
       "fresh",
       "green",
@@ -591,18 +961,37 @@
       "fresh spicy",
       "woody",
       "anis"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2023,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "아쿠아 유니버설리스",
     "english_name": "Aqua Universalis",
-    "product_type": "향수",
+    "normalized_name": "aqua universalis",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/aqua-universalis.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2009",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "아쿠아 유니버설리스은 Lily-of-the-Valley, Amalfi Lemon, Bergamot, Musk, Orange Blossom 노트가 중심이며 citrus, white floral, fresh 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2009",
+    "notes": [
       "Lily-of-the-Valley",
       "Amalfi Lemon",
       "Bergamot",
@@ -611,30 +1000,49 @@
       "Orange",
       "Woodsy Notes"
     ],
-    "keywords": [
+    "accords": [
       "citrus",
       "white floral",
       "fresh",
       "musky",
       "aromatic"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2009,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "아쿠아 유니버설리스 쾰른 포르테",
     "english_name": "Aqua Universalis Cologne Forte",
-    "product_type": "향수",
+    "normalized_name": "aqua universalis cologne forte",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/aqua-universalis-cologne-forte.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2021",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "아쿠아 유니버설리스 쾰른 포르테은 Bergamot, Sweet Pea, Mock Orange, White Musk 노트가 중심이며 musky, citrus, floral 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2021",
+    "notes": [
       "Bergamot",
       "Sweet Pea",
       "Mock Orange",
       "White Musk"
     ],
-    "keywords": [
+    "accords": [
       "musky",
       "citrus",
       "floral",
@@ -644,18 +1052,37 @@
       "fresh spicy",
       "green",
       "aromatic"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2021,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "아쿠아 유니버설리스 포르테",
     "english_name": "Aqua Universalis Forte",
-    "product_type": "향수",
+    "normalized_name": "aqua universalis forte",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/aqua-universalis-forte.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2011",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "아쿠아 유니버설리스 포르테은 Amalfi Lemon, Bergamot, White Flowers, Jasmine, Rose 노트가 중심이며 white floral, citrus, musky 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2011",
+    "notes": [
       "Amalfi Lemon",
       "Bergamot",
       "White Flowers",
@@ -664,7 +1091,7 @@
       "Musk",
       "Woodsy Notes"
     ],
-    "keywords": [
+    "accords": [
       "white floral",
       "citrus",
       "musky",
@@ -672,18 +1099,37 @@
       "powdery",
       "woody",
       "animalic"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2011,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "아쿠아 비타",
     "english_name": "Aqua Vitae",
-    "product_type": "향수",
+    "normalized_name": "aqua vitae",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/aqua-vitae.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2013",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "아쿠아 비타은 Lemon, Sicilian Mandarin, Guaiac Wood, Tonka Bean, Vanilla 노트가 중심이며 citrus, vanilla, woody 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2013",
+    "notes": [
       "Lemon",
       "Sicilian Mandarin",
       "Guaiac Wood",
@@ -692,7 +1138,7 @@
       "Jasmine",
       "Hedione"
     ],
-    "keywords": [
+    "accords": [
       "citrus",
       "vanilla",
       "woody",
@@ -701,18 +1147,37 @@
       "white floral",
       "sweet",
       "floral"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2013,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "아쿠아 비테 코롱 포르테",
     "english_name": "Aqua Vitae Cologne Forte",
-    "product_type": "향수",
+    "normalized_name": "aqua vitae cologne forte",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/aqua-vitae-cologne-forte.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2021",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "아쿠아 비테 코롱 포르테은 Mandarin Orange, Bergamot, Floral Notes, Solar Notes, Musk 노트가 중심이며 citrus, floral, musky 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2021",
+    "notes": [
       "Mandarin Orange",
       "Bergamot",
       "Floral Notes",
@@ -720,7 +1185,7 @@
       "Musk",
       "Sandalwood"
     ],
-    "keywords": [
+    "accords": [
       "citrus",
       "floral",
       "musky",
@@ -728,18 +1193,37 @@
       "aldehydic",
       "woody",
       "fresh spicy"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2021,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "아쿠아 비테 포르테",
     "english_name": "Aqua Vitae Forte",
-    "product_type": "향수",
+    "normalized_name": "aqua vitae forte",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/aqua-vitae-forte.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2015",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "아쿠아 비테 포르테은 Lemon, Guatemalan Cardamom, Sicilian Mandarin, Ceylon Cinnamon, Bergamot 노트가 중심이며 citrus, warm spicy, woody 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2015",
+    "notes": [
       "Lemon",
       "Guatemalan Cardamom",
       "Sicilian Mandarin",
@@ -751,7 +1235,7 @@
       "Sandalwood",
       "Haitian Vetiver"
     ],
-    "keywords": [
+    "accords": [
       "citrus",
       "warm spicy",
       "woody",
@@ -759,18 +1243,37 @@
       "yellow floral",
       "sweet",
       "white floral"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2015,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "바카라 루즈 540",
     "english_name": "Baccarat Rouge 540",
-    "product_type": "향수",
+    "normalized_name": "baccarat rouge 540",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/baccarat-rouge-540.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2015",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "바카라 루즈 540은 Saffron, Jasmine, Amberwood, Ambergris, Hedione 노트가 중심이며 woody, amber, warm spicy 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2015",
+    "notes": [
       "Saffron",
       "Jasmine",
       "Amberwood",
@@ -782,7 +1285,7 @@
       "Ambroxan",
       "Oakmoss"
     ],
-    "keywords": [
+    "accords": [
       "woody",
       "amber",
       "warm spicy",
@@ -792,18 +1295,37 @@
       "white floral",
       "animalic",
       "fresh"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2015,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "바카라 루즈 540 에디션 밀레짐",
     "english_name": "Baccarat Rouge 540 Édition Millésime",
-    "product_type": "향수",
+    "normalized_name": "baccarat rouge 540 edition millesime",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/baccarat-rouge-540-dition-mill-sime.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2025",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "바카라 루즈 540 에디션 밀레짐은 Saffron, Jasmine, Amberwood, Ambergris, Hedione 노트가 중심이며 amber, woody, mossy 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2025",
+    "notes": [
       "Saffron",
       "Jasmine",
       "Amberwood",
@@ -815,7 +1337,7 @@
       "Cedar",
       "Fir Resin"
     ],
-    "keywords": [
+    "accords": [
       "amber",
       "woody",
       "mossy",
@@ -825,18 +1347,37 @@
       "floral",
       "fresh",
       "musky"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2025,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "바카라 루즈 540 엑스트라트 리미티드 에디션 2021",
     "english_name": "Baccarat Rouge 540 Extrait Limited Edition 2021",
-    "product_type": "향수",
+    "normalized_name": "baccarat rouge 540 extrait limited edition 2021",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/baccarat-rouge-540-extrait-limited-edition-2021.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2021",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "바카라 루즈 540 엑스트라트 리미티드 에디션 2021은 Saffron, Bitter Almond, Virginian Cedar, Egyptian Jasmine, Ambergris 노트가 중심이며 amber, musky, woody 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2021",
+    "notes": [
       "Saffron",
       "Bitter Almond",
       "Virginian Cedar",
@@ -847,7 +1388,7 @@
       "Musk",
       "Woody Notes"
     ],
-    "keywords": [
+    "accords": [
       "amber",
       "musky",
       "woody",
@@ -858,18 +1399,37 @@
       "white floral",
       "nutty",
       "metallic"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2021,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "바카라 루즈 540 엑스트릿 리미티드 에디션",
     "english_name": "Baccarat Rouge 540 Extrait Limited Edition",
-    "product_type": "향수",
+    "normalized_name": "baccarat rouge 540 extrait limited edition",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/baccarat-rouge-540-extrait-limited-edition.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2020",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "바카라 루즈 540 엑스트릿 리미티드 에디션은 Bitter Almond, Saffron, Cedar, Egyptian Jasmine, Ambergris 노트가 중심이며 woody, amber, almond 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2020",
+    "notes": [
       "Bitter Almond",
       "Saffron",
       "Cedar",
@@ -878,7 +1438,7 @@
       "Woody Notes",
       "Musk"
     ],
-    "keywords": [
+    "accords": [
       "woody",
       "amber",
       "almond",
@@ -889,18 +1449,37 @@
       "nutty",
       "warm spicy",
       "fruity"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2020,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "바카라 루즈 540 엑스트릿 드 퍼퓸",
     "english_name": "Baccarat Rouge 540 Extrait de Parfum",
-    "product_type": "향수",
+    "normalized_name": "baccarat rouge 540 extrait de parfum",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/baccarat-rouge-540-extrait-de-parfum.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2017",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "바카라 루즈 540 엑스트릿 드 퍼퓸은 Bitter Almond, Saffron, Egyptian Jasmine, Virginia Cedar, Ambergris 노트가 중심이며 amber, almond, warm spicy 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2017",
+    "notes": [
       "Bitter Almond",
       "Saffron",
       "Egyptian Jasmine",
@@ -911,7 +1490,7 @@
       "Ambroxan",
       "Cashmeran"
     ],
-    "keywords": [
+    "accords": [
       "amber",
       "almond",
       "warm spicy",
@@ -922,18 +1501,37 @@
       "fruity",
       "metallic",
       "white floral"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2017,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "바카라 루즈 540 센티드 헤어 미스트",
     "english_name": "Baccarat Rouge 540 Scented Hair Mist",
-    "product_type": "향수",
+    "normalized_name": "baccarat rouge 540 scented hair mist",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/baccarat-rouge-540-scented-hair-mist.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2022",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "바카라 루즈 540 센티드 헤어 미스트은 Saffron, Jasmine, Hedione, Ambergris, Amberwood 노트가 중심이며 woody, amber, warm spicy 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2022",
+    "notes": [
       "Saffron",
       "Jasmine",
       "Hedione",
@@ -942,7 +1540,7 @@
       "Fir Resin",
       "Cedar"
     ],
-    "keywords": [
+    "accords": [
       "woody",
       "amber",
       "warm spicy",
@@ -953,18 +1551,37 @@
       "animalic",
       "conifer",
       "metallic"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2022,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "시엘 드 껌",
     "english_name": "Ciel de Gum",
-    "product_type": "향수",
+    "normalized_name": "ciel de gum",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/ciel-de-gum.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2013",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "시엘 드 껌은 Amber, Cinnamon, Jasmine, Vanilla, Pink Pepper 노트가 중심이며 amber, cinnamon, vanilla 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2013",
+    "notes": [
       "Amber",
       "Cinnamon",
       "Jasmine",
@@ -972,7 +1589,7 @@
       "Pink Pepper",
       "Rose"
     ],
-    "keywords": [
+    "accords": [
       "amber",
       "cinnamon",
       "vanilla",
@@ -983,49 +1600,87 @@
       "powdery",
       "sweet",
       "floral"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2013,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "코롱 푸르 르 마탱",
     "english_name": "Cologne Pour Le Matin",
-    "product_type": "향수",
+    "normalized_name": "cologne pour le matin",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/cologne-pour-le-matin.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2009",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "코롱 푸르 르 마탱은 Bergamot, Lavender, Thyme, Amalfi Lemon, African Orange Flower 노트가 중심이며 citrus, aromatic, fresh spicy 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2009",
+    "notes": [
       "Bergamot",
       "Lavender",
       "Thyme",
       "Amalfi Lemon",
       "African Orange Flower"
     ],
-    "keywords": [
+    "accords": [
       "citrus",
       "aromatic",
       "fresh spicy",
       "lavender",
       "white floral",
       "herbal"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2009,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "쾰른 푸르 르 수아르",
     "english_name": "Cologne Pour Le Soir",
-    "product_type": "향수",
+    "normalized_name": "cologne pour le soir",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/cologne-pour-le-soir.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2009",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "쾰른 푸르 르 수아르은 White Honey, Benzoin, Incense, Rose 노트가 중심이며 amber, honey, warm spicy 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2009",
+    "notes": [
       "White Honey",
       "Benzoin",
       "Incense",
       "Rose"
     ],
-    "keywords": [
+    "accords": [
       "amber",
       "honey",
       "warm spicy",
@@ -1034,18 +1689,37 @@
       "balsamic",
       "sweet",
       "floral"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2009,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "색채",
     "english_name": "Coloratura",
-    "product_type": "향수",
+    "normalized_name": "coloratura",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/coloratura.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2012",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "색채은 Mandarin Orange, Sicilian Lemon, Lily-of-the-Valley, Peony, White Lily 노트가 중심이며 white floral, fresh, floral 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2012",
+    "notes": [
       "Mandarin Orange",
       "Sicilian Lemon",
       "Lily-of-the-Valley",
@@ -1055,48 +1729,86 @@
       "Vetiver",
       "Ambergris"
     ],
-    "keywords": [
+    "accords": [
       "white floral",
       "fresh",
       "floral",
       "citrus",
       "rose",
       "green"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2012,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "Elle 25",
     "english_name": "Elle 25",
-    "product_type": "향수",
+    "normalized_name": "elle 25",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/elle-25.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "Elle 25은 Floral Notes, Musk, Virginia Cedar, oak moss 노트가 중심이며 floral, musky, woody 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
       "Floral Notes",
       "Musk",
       "Virginia Cedar",
       "oak moss"
     ],
-    "keywords": [
+    "accords": [
       "floral",
       "musky",
       "woody",
       "powdery",
       "mossy"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "페미닌 플루리엘",
     "english_name": "Feminin Pluriel",
-    "product_type": "향수",
+    "normalized_name": "feminin pluriel",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/feminin-pluriel.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2014",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "페미닌 플루리엘은 Iris, Rose, Violet, Lily-of-the-Valley, Vetiver 노트가 중심이며 white floral, violet, powdery 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2014",
+    "notes": [
       "Iris",
       "Rose",
       "Violet",
@@ -1106,7 +1818,7 @@
       "Orange Blossom",
       "Jasmine"
     ],
-    "keywords": [
+    "accords": [
       "white floral",
       "violet",
       "powdery",
@@ -1117,24 +1829,43 @@
       "floral",
       "fresh",
       "patchouli"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2014,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "플로랄리아",
     "english_name": "Floralia",
-    "product_type": "향수",
+    "normalized_name": "floralia",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/floralia.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2011",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "플로랄리아은 Rose, Jasmine, Bergamot, Lily-of-the-Valley 노트가 중심이며 white floral, rose, citrus 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2011",
+    "notes": [
       "Rose",
       "Jasmine",
       "Bergamot",
       "Lily-of-the-Valley"
     ],
-    "keywords": [
+    "accords": [
       "white floral",
       "rose",
       "citrus",
@@ -1142,18 +1873,37 @@
       "fresh",
       "fresh spicy",
       "green"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2011,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "부드러운 유동성 골드",
     "english_name": "Gentle Fluidity Gold",
-    "product_type": "향수",
+    "normalized_name": "gentle fluidity gold",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/gentle-fluidity-gold.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2019",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "부드러운 유동성 골드은 Juniper Berries, Nutmeg, Coriander, Vanilla, Musk 노트가 중심이며 vanilla, powdery, musky 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2019",
+    "notes": [
       "Juniper Berries",
       "Nutmeg",
       "Coriander",
@@ -1162,7 +1912,7 @@
       "Caramel",
       "Amberwood"
     ],
-    "keywords": [
+    "accords": [
       "vanilla",
       "powdery",
       "musky",
@@ -1170,18 +1920,37 @@
       "aromatic",
       "fresh spicy",
       "woody"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2019,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "부드러운 유동성 실버",
     "english_name": "Gentle Fluidity Silver",
-    "product_type": "향수",
+    "normalized_name": "gentle fluidity silver",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/gentle-fluidity-silver.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2019",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "부드러운 유동성 실버은 Juniper Berries, Nutmeg, Bergamot, Pineapple, Coriander 노트가 중심이며 aromatic, fresh spicy, woody 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2019",
+    "notes": [
       "Juniper Berries",
       "Nutmeg",
       "Bergamot",
@@ -1193,24 +1962,43 @@
       "Amber",
       "Vanilla"
     ],
-    "keywords": [
+    "accords": [
       "aromatic",
       "fresh spicy",
       "woody",
       "musky",
       "powdery"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2019,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "그랜드 수아르",
     "english_name": "Grand Soir",
-    "product_type": "향수",
+    "normalized_name": "grand soir",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/grand-soir.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2016",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "그랜드 수아르은 Spanish Labdanum, Orange, Lavender, Siam Benzoin, Amber 노트가 중심이며 amber, vanilla, powdery 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2016",
+    "notes": [
       "Spanish Labdanum",
       "Orange",
       "Lavender",
@@ -1221,24 +2009,43 @@
       "Musk",
       "Cedar"
     ],
-    "keywords": [
+    "accords": [
       "amber",
       "vanilla",
       "powdery",
       "sweet",
       "aromatic"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2016,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "Kurky",
     "english_name": "Kurky",
-    "product_type": "향수",
+    "normalized_name": "kurky",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/kurky.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2025",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "Kurky은 Peach, Raspberry, Gummy Candies, Fruity Notes, Hedione 노트가 중심이며 fruity, sweet, musky 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2025",
+    "notes": [
       "Peach",
       "Raspberry",
       "Gummy Candies",
@@ -1252,48 +2059,86 @@
       "Rice",
       "Popcorn"
     ],
-    "keywords": [
+    "accords": [
       "fruity",
       "sweet",
       "musky",
       "powdery",
       "vanilla"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2025,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "쿠르키 오 퍼퓸",
     "english_name": "Kurky Eau Parfumée",
-    "product_type": "향수",
+    "normalized_name": "kurky eau parfumee",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/kurky-eau-parfum-e.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2026",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "쿠르키 오 퍼퓸은 Raspberry, Peach, Gummy Candies, Vanilla, White Musk 노트가 중심이며 fruity, vanilla, sweet 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2026",
+    "notes": [
       "Raspberry",
       "Peach",
       "Gummy Candies",
       "Vanilla",
       "White Musk"
     ],
-    "keywords": [
+    "accords": [
       "fruity",
       "vanilla",
       "sweet",
       "powdery",
       "musky"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2026,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "롬므 아 라 로즈",
     "english_name": "L'Homme À la Rose",
-    "product_type": "향수",
+    "normalized_name": "l homme a la rose",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/l-homme-la-rose.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2020",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "롬므 아 라 로즈은 May Rose, Damask Rose, Grapefruit, Amberwood, Sage 노트가 중심이며 rose, amber, citrus 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2020",
+    "notes": [
       "May Rose",
       "Damask Rose",
       "Grapefruit",
@@ -1301,7 +2146,7 @@
       "Sage",
       "Spanish Labdanum"
     ],
-    "keywords": [
+    "accords": [
       "rose",
       "amber",
       "citrus",
@@ -1312,18 +2157,37 @@
       "soft spicy",
       "musky",
       "fresh spicy"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2020,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "로아 라 로즈",
     "english_name": "L'eau À la Rose",
-    "product_type": "향수",
+    "normalized_name": "l eau a la rose",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/l-eau-la-rose.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2019",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "로아 라 로즈은 Litchi, Pear, Green Accord, Damask Rose, Grasse Rose 노트가 중심이며 rose, floral, fresh 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2019",
+    "notes": [
       "Litchi",
       "Pear",
       "Green Accord",
@@ -1333,7 +2197,7 @@
       "Violet",
       "Musk"
     ],
-    "keywords": [
+    "accords": [
       "rose",
       "floral",
       "fresh",
@@ -1343,94 +2207,170 @@
       "tropical",
       "violet",
       "aquatic"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2019,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "르 보 퍼퓸 2025",
     "english_name": "Le Beau Parfum 2025",
-    "product_type": "향수",
+    "normalized_name": "le beau parfum 2025",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/le-beau-parfum-2025.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2025",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "르 보 퍼퓸 2025은 Tuberose, Jasmine, Ylang Ylang, Orange Blossom 노트가 중심이며 white floral, tuberose, yellow floral 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2025",
+    "notes": [
       "Tuberose",
       "Jasmine",
       "Ylang Ylang",
       "Orange Blossom"
     ],
-    "keywords": [
+    "accords": [
       "white floral",
       "tuberose",
       "yellow floral",
       "animalic",
       "sweet"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2025,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "르 보 퍼퓸",
     "english_name": "Le Beau Parfum",
-    "product_type": "향수",
+    "normalized_name": "le beau parfum",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/le-beau-parfum.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2015",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "르 보 퍼퓸은 Tuberose, Madagascar Ylang-Ylang, Tunisian Orange Blossom, Indian Jasmine 노트가 중심이며 white floral, tuberose, yellow floral 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2015",
+    "notes": [
       "Tuberose",
       "Madagascar Ylang-Ylang",
       "Tunisian Orange Blossom",
       "Indian Jasmine"
     ],
-    "keywords": [
+    "accords": [
       "white floral",
       "tuberose",
       "yellow floral",
       "sweet",
       "animalic"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2015,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "르 보 퍼퓸 리미티드 에디션",
     "english_name": "Le Beau Parfum Limited Edition",
-    "product_type": "향수",
+    "normalized_name": "le beau parfum limited edition",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/le-beau-parfum-limited-edition.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2015",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "르 보 퍼퓸 리미티드 에디션은 Tuberose, Madagascar Ylang-Ylang, Tunisian Orange Blossom, Indian Jasmine 노트가 중심이며 white floral, tuberose, yellow floral 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2015",
+    "notes": [
       "Tuberose",
       "Madagascar Ylang-Ylang",
       "Tunisian Orange Blossom",
       "Indian Jasmine"
     ],
-    "keywords": [
+    "accords": [
       "white floral",
       "tuberose",
       "yellow floral",
       "sweet",
       "animalic"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2015,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "뤼미에르 누아르 포 팜므",
     "english_name": "Lumière Noire Pour Femme",
-    "product_type": "향수",
+    "normalized_name": "lumiere noire pour femme",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/lumi-re-noire-pour-femme.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2009",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "뤼미에르 누아르 포 팜므은 Rose, Narcissus, Patchouli, Caraway, Red Chilli Pepper 노트가 중심이며 rose, patchouli, yellow floral 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2009",
+    "notes": [
       "Rose",
       "Narcissus",
       "Patchouli",
       "Caraway",
       "Red Chilli Pepper"
     ],
-    "keywords": [
+    "accords": [
       "rose",
       "patchouli",
       "yellow floral",
@@ -1441,25 +2381,44 @@
       "fresh spicy",
       "balsamic",
       "floral"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2009,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "뤼미에르 누아르 포 옴므",
     "english_name": "Lumière Noire Pour Homme",
-    "product_type": "향수",
+    "normalized_name": "lumiere noire pour homme",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/lumi-re-noire-pour-homme.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2009",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "뤼미에르 누아르 포 옴므은 Rose, Patchouli, Artemisia, Cinnamon, Cumin 노트가 중심이며 rose, patchouli, herbal 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2009",
+    "notes": [
       "Rose",
       "Patchouli",
       "Artemisia",
       "Cinnamon",
       "Cumin"
     ],
-    "keywords": [
+    "accords": [
       "rose",
       "patchouli",
       "herbal",
@@ -1470,25 +2429,44 @@
       "cinnamon",
       "earthy",
       "floral"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2009,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "메종 프란시스 커크지안 리미티드 크리스탈 에디션 향수",
     "english_name": "Maison Francis Kurkdjian Limited Crystal Edition Fragrances",
-    "product_type": "향수",
+    "normalized_name": "maison francis kurkdjian limited crystal edition fragrances",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/maison-francis-kurkdjian-limited-crystal-edition-fragrances.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2011",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "메종 프란시스 커크지안 리미티드 크리스탈 에디션 향수은 Resin, Marigold, Jasmine, Incense, Rose 노트가 중심이며 amber, balsamic, white floral 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2011",
+    "notes": [
       "Resin",
       "Marigold",
       "Jasmine",
       "Incense",
       "Rose"
     ],
-    "keywords": [
+    "accords": [
       "amber",
       "balsamic",
       "white floral",
@@ -1499,18 +2477,37 @@
       "herbal",
       "sweet",
       "rose"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2011,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "마스큘린 플루리엘",
     "english_name": "Masculin Pluriel",
-    "product_type": "향수",
+    "normalized_name": "masculin pluriel",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/masculin-pluriel.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2014",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "마스큘린 플루리엘은 Lavender, Vetiver, Patchouli, Cedar, Leather 노트가 중심이며 woody, lavender, aromatic 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2014",
+    "notes": [
       "Lavender",
       "Vetiver",
       "Patchouli",
@@ -1518,32 +2515,51 @@
       "Leather",
       "Woody Notes"
     ],
-    "keywords": [
+    "accords": [
       "woody",
       "lavender",
       "aromatic",
       "earthy",
       "patchouli",
       "leather"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2014,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "Oud",
     "english_name": "Oud",
-    "product_type": "향수",
+    "normalized_name": "oud",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/oud.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2012",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "Oud은 Saffron, elemi, Agarwood (Oud), Patchouli, Cedar 노트가 중심이며 warm spicy, oud, aromatic 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2012",
+    "notes": [
       "Saffron",
       "elemi",
       "Agarwood (Oud)",
       "Patchouli",
       "Cedar"
     ],
-    "keywords": [
+    "accords": [
       "warm spicy",
       "oud",
       "aromatic",
@@ -1554,42 +2570,80 @@
       "leather",
       "conifer",
       "fresh spicy"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2012,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "우드 캐시미어 무드",
     "english_name": "Oud Cashmere Mood",
-    "product_type": "향수",
+    "normalized_name": "oud cashmere mood",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/oud-cashmere-mood.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2013",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "우드 캐시미어 무드은 Agarwood (Oud), Labdanum, Benzoin, Vanila 노트가 중심이며 amber, oud, vanilla 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2013",
+    "notes": [
       "Agarwood (Oud)",
       "Labdanum",
       "Benzoin",
       "Vanila"
     ],
-    "keywords": [
+    "accords": [
       "amber",
       "oud",
       "vanilla",
       "warm spicy",
       "balsamic",
       "musky"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2013,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "오드 엑스트릿 드 퍼퓸",
     "english_name": "Oud Extrait de Parfum",
-    "product_type": "향수",
+    "normalized_name": "oud extrait de parfum",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/oud-extrait-de-parfum.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2018",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "오드 엑스트릿 드 퍼퓸은 Saffron, Elemi resin, Vanilla, Ambrette (Musk Mallow), Atlas Cedar 노트가 중심이며 oud, warm spicy, woody 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2018",
+    "notes": [
       "Saffron",
       "Elemi resin",
       "Vanilla",
@@ -1598,7 +2652,7 @@
       "Laotian Oud",
       "Indonesian Patchouli Leaf"
     ],
-    "keywords": [
+    "accords": [
       "oud",
       "warm spicy",
       "woody",
@@ -1609,18 +2663,37 @@
       "metallic",
       "leather",
       "floral"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2018,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "우드 새틴 무드",
     "english_name": "Oud Satin Mood",
-    "product_type": "향수",
+    "normalized_name": "oud satin mood",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/oud-satin-mood.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2015",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "우드 새틴 무드은 Bulgarian Rose, Violet, Strawberry, Turkish Rose, Agarwood (Oud) 노트가 중심이며 rose, floral, oud 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2015",
+    "notes": [
       "Bulgarian Rose",
       "Violet",
       "Strawberry",
@@ -1632,25 +2705,44 @@
       "Caramel",
       "Cedar"
     ],
-    "keywords": [
+    "accords": [
       "rose",
       "floral",
       "oud",
       "amber",
       "vanilla",
       "powdery"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2015,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "우드 새틴 무드 엑스트릿 드 퍼퓸",
     "english_name": "Oud Satin Mood Extrait de Parfum",
-    "product_type": "향수",
+    "normalized_name": "oud satin mood extrait de parfum",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/oud-satin-mood-extrait-de-parfum.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2017",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "우드 새틴 무드 엑스트릿 드 퍼퓸은 Violet, Geranium, Ceylon Cinnamon, Cardamom, Damask Rose 노트가 중심이며 oud, vanilla, powdery 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2017",
+    "notes": [
       "Violet",
       "Geranium",
       "Ceylon Cinnamon",
@@ -1665,7 +2757,7 @@
       "Musk",
       "Cedar"
     ],
-    "keywords": [
+    "accords": [
       "oud",
       "vanilla",
       "powdery",
@@ -1676,18 +2768,37 @@
       "warm spicy",
       "floral",
       "aromatic"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2017,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "우드 실크 무드",
     "english_name": "Oud Silk Mood",
-    "product_type": "향수",
+    "normalized_name": "oud silk mood",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/oud-silk-mood.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2018",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "우드 실크 무드은 Bulgarian Rose, Chamomile, Bergamot, Guaiac Wood, Hedione 노트가 중심이며 rose, oud, floral 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2018",
+    "notes": [
       "Bulgarian Rose",
       "Chamomile",
       "Bergamot",
@@ -1696,7 +2807,7 @@
       "Agarwood (Oud)",
       "Papyrus"
     ],
-    "keywords": [
+    "accords": [
       "rose",
       "oud",
       "floral",
@@ -1706,24 +2817,43 @@
       "green",
       "citrus",
       "aromatic"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2018,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "우드 실크 무드 엑스트릿 드 퍼퓸",
     "english_name": "Oud Silk Mood Extrait de Parfum",
-    "product_type": "향수",
+    "normalized_name": "oud silk mood extrait de parfum",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/oud-silk-mood-extrait-de-parfum.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2013",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "우드 실크 무드 엑스트릿 드 퍼퓸은 Bulgarian Rose, Agarwood (Oud), Chamomile, Papyrus 노트가 중심이며 rose, oud, floral 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2013",
+    "notes": [
       "Bulgarian Rose",
       "Agarwood (Oud)",
       "Chamomile",
       "Papyrus"
     ],
-    "keywords": [
+    "accords": [
       "rose",
       "oud",
       "floral",
@@ -1732,24 +2862,43 @@
       "fresh spicy",
       "green",
       "leather"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2013,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "우드 벨벳 무드",
     "english_name": "Oud Velvet Mood",
-    "product_type": "향수",
+    "normalized_name": "oud velvet mood",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/oud-velvet-mood.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2013",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "우드 벨벳 무드은 Agarwood (Oud), Copahu Balm, Saffron, Ceylon Cinnamon 노트가 중심이며 oud, warm spicy, amber 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2013",
+    "notes": [
       "Agarwood (Oud)",
       "Copahu Balm",
       "Saffron",
       "Ceylon Cinnamon"
     ],
-    "keywords": [
+    "accords": [
       "oud",
       "warm spicy",
       "amber",
@@ -1758,41 +2907,79 @@
       "metallic",
       "leather",
       "fresh spicy"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2013,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "우드 벨벳 무드 엑스트릿 드 퍼퓸",
     "english_name": "Oud Velvet Mood Extrait de Parfum",
-    "product_type": "향수",
+    "normalized_name": "oud velvet mood extrait de parfum",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/oud-velvet-mood-extrait-de-parfum.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2026",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "우드 벨벳 무드 엑스트릿 드 퍼퓸은 Suede, Peach, Oud 노트가 중심이며 leather, oud, fruity 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2026",
+    "notes": [
       "Suede",
       "Peach",
       "Oud"
     ],
-    "keywords": [
+    "accords": [
       "leather",
       "oud",
       "fruity",
       "musky",
       "powdery",
       "sweet"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2026,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "쁘띠 마탱",
     "english_name": "Petit Matin",
-    "product_type": "향수",
+    "normalized_name": "petit matin",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/petit-matin.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2016",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "쁘띠 마탱은 Italian Lemon, Orange Blossom, Musk, Lavender, Ambroxan 노트가 중심이며 citrus, musky, white floral 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2016",
+    "notes": [
       "Italian Lemon",
       "Orange Blossom",
       "Musk",
@@ -1800,7 +2987,7 @@
       "Ambroxan",
       "Hawthorn"
     ],
-    "keywords": [
+    "accords": [
       "citrus",
       "musky",
       "white floral",
@@ -1811,18 +2998,37 @@
       "floral",
       "powdery",
       "animalic"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2016,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "리플렛 담브르",
     "english_name": "Reflets d'Ambre",
-    "product_type": "향수",
+    "normalized_name": "reflets d ambre",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/reflets-d-ambre.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "Released in 2024",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "리플렛 담브르은 Pink Pepper, Hedione, Jasmine, Rose, Cinnamon 노트가 중심이며 amber, floral, soft spicy 분위기를 가진 향수입니다.",
+    "ingredients_raw": "Released in 2024",
+    "notes": [
       "Pink Pepper",
       "Hedione",
       "Jasmine",
@@ -1833,7 +3039,7 @@
       "Vanilla",
       "Patchouli"
     ],
-    "keywords": [
+    "accords": [
       "amber",
       "floral",
       "soft spicy",
@@ -1844,24 +3050,53 @@
       "fresh",
       "musky",
       "balsamic"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": 2024,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   },
   {
-    "country": "FR",
-    "korean_name": "",
+    "source": "fragrantica",
+    "source_country": "FR",
+    "brand": "MAISON FRANCIS KURKDJIAN",
+    "korean_name": "트리아농 궁전 베르사유",
     "english_name": "Trianon Palace Versailles",
-    "product_type": "향수",
+    "normalized_name": "trianon palace versailles",
+    "product_type": "perfume",
+    "product_subtype": "perfume",
     "product_url": "https://www.fragrantica.com/perfume/maison-francis-kurkdjian/trianon-palace-versailles.html",
-    "regular_price": "",
     "image_url": "",
-    "ingredients": "",
-    "key_ingredients": [
+    "price": {
+      "raw": "",
+      "amount": null,
+      "currency": ""
+    },
+    "description": "트리아농 궁전 베르사유은 Floral Notes, Woodsy Notes 노트가 중심이며 floral, woody 분위기를 가진 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [
       "Floral Notes",
       "Woodsy Notes"
     ],
-    "keywords": [
+    "accords": [
       "floral",
       "woody"
-    ]
+    ],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "향수",
+      "original_country": "FR",
+      "price_missing_reason": "source_unavailable"
+    }
   }
 ]
