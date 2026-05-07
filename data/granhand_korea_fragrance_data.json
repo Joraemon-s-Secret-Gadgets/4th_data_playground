@@ -1,0 +1,432 @@
+[
+  {
+    "country": "KR",
+    "korean_name": "아이노아 퍼퓸",
+    "english_name": "Ainoa",
+    "product_type": "향수",
+    "product_url": "https://granhand.com/product/detail.html?product_no=703&cate_no=181&display_group=1",
+    "regular_price": "55,000원",
+    "image_url": "https://granhand.com/web/product/big/202510/fa4278b9579a0b0f45e8f58e5d205f58.png",
+    "ingredients": "에탄올, 프로필렌글라이콜, 향료, 정제수, 비에이치티, 제라니올, 리날룰, 리모넨",
+    "key_ingredients": [
+      "제라니올",
+      "리날룰",
+      "리모넨"
+    ]
+  },
+  {
+    "country": "KR",
+    "korean_name": "누베 퍼퓸",
+    "english_name": "Nube",
+    "product_type": "향수",
+    "product_url": "https://granhand.com/product/detail.html?product_no=704&cate_no=181&display_group=1",
+    "regular_price": "55,000원",
+    "image_url": "https://granhand.com/web/product/big/202510/545fd12c4f0240639880dddecb45b42a.png",
+    "ingredients": "에탄올, 프로필렌글라이콜, 향료, 정제수, 비에이치티, 벤질살리실레이트, 리날룰, 시트로넬올, 리모넨, 알파-아이소메틸아이오논",
+    "key_ingredients": [
+      "벤질살리실레이트",
+      "리날룰",
+      "시트로넬올",
+      "리모넨",
+      "아이소메틸아이오논"
+    ]
+  },
+  {
+    "country": "KR",
+    "korean_name": "모들 시그니처 퍼퓸",
+    "english_name": "Modle",
+    "product_type": "시그니처 퍼퓸",
+    "product_url": "https://granhand.com/product/detail.html?product_no=698&cate_no=181&display_group=1",
+    "regular_price": "110,000원",
+    "image_url": "https://granhand.com/web/product/big/202510/9850763f295ef7591da9126472d24383.png",
+    "ingredients": "에탄올, 향료, 정제수, 벤질벤조에이트, 벤질살리실레이트, 신남알, 시트랄, 시트로넬올, 쿠마린, 유제놀, 제라니올, 리모넨, 리날룰",
+    "key_ingredients": [
+      "벤질벤조에이트",
+      "벤질살리실레이트",
+      "헥실신남알",
+      "시트랄",
+      "시트로넬올",
+      "쿠마린",
+      "유제놀",
+      "제라니올",
+      "리모넨",
+      "리날룰"
+    ]
+  },
+  {
+    "country": "KR",
+    "korean_name": "무나키 퍼퓸",
+    "english_name": "Munaki",
+    "product_type": "향수",
+    "product_url": "https://granhand.com/product/detail.html?product_no=702&cate_no=181&display_group=1",
+    "regular_price": "55,000원",
+    "image_url": "https://granhand.com/web/product/big/202510/5fc9b9580058699121dbfa5b8fbac388.png",
+    "ingredients": "에탄올, 프로필렌글라이콜, 향료, 정제수, 비에이치티, 벤질벤조에이트, 리모넨",
+    "key_ingredients": [
+      "벤질벤조에이트",
+      "리모넨"
+    ]
+  },
+  {
+    "country": "KR",
+    "korean_name": "솝니 시그니처 퍼퓸",
+    "english_name": "Sopni",
+    "product_type": "시그니처 퍼퓸",
+    "product_url": "https://granhand.com/product/detail.html?product_no=695&cate_no=181&display_group=1",
+    "regular_price": "110,000원",
+    "image_url": "https://granhand.com/web/product/big/202510/c71b8fac7bed0c3ccba87b81fef73b30.png",
+    "ingredients": "에탄올, 향료, 정제수, 벤질벤조에이트, 벤질살리실레이트, 신남알, 시트랄, 시트로넬올, 쿠마린, 유제놀, 제라니올, 리모넨, 리날룰",
+    "key_ingredients": [
+      "벤질벤조에이트",
+      "벤질살리실레이트",
+      "헥실신남알",
+      "시트랄",
+      "시트로넬올",
+      "쿠마린",
+      "유제놀",
+      "제라니올",
+      "리모넨",
+      "리날룰"
+    ]
+  },
+  {
+    "country": "KR",
+    "korean_name": "놀 퍼퓸",
+    "english_name": "Noll",
+    "product_type": "향수",
+    "product_url": "https://granhand.com/product/detail.html?product_no=705&cate_no=181&display_group=1",
+    "regular_price": "55,000원",
+    "image_url": "https://granhand.com/web/product/big/202510/85a67523530d1cf06be06e75414354ae.png",
+    "ingredients": "에탄올, 프로필렌글라이콜, 향료, 정제수, 비에이치티, 제라니올, 리날룰, 리모넨",
+    "key_ingredients": [
+      "제라니올",
+      "리날룰",
+      "리모넨"
+    ]
+  },
+  {
+    "country": "KR",
+    "korean_name": "코코케이 퍼퓸",
+    "english_name": "Cococay",
+    "product_type": "향수",
+    "product_url": "https://granhand.com/product/detail.html?product_no=701&cate_no=181&display_group=1",
+    "regular_price": "55,000원",
+    "image_url": "https://granhand.com/web/product/big/202510/b43271e914d30084e281380119b192b9.png",
+    "ingredients": "에탄올, 프로필렌글라이콜, 향료, 정제수, 비에이치티",
+    "key_ingredients": []
+  },
+  {
+    "country": "KR",
+    "korean_name": "이른 퍼퓸",
+    "english_name": "Ireun",
+    "product_type": "향수",
+    "product_url": "https://granhand.com/product/detail.html?product_no=700&cate_no=181&display_group=1",
+    "regular_price": "55,000원",
+    "image_url": "https://granhand.com/web/product/big/202603/2544d0dfcbccd6a43af3c17c072e954d.jpg",
+    "ingredients": "에탄올, 향료, 플로필렌글라이콜, 정제수, 비에이치티, 시트랄, 리모넨, 리날룰",
+    "key_ingredients": [
+      "시트랄",
+      "리모넨",
+      "리날룰"
+    ]
+  },
+  {
+    "country": "KR",
+    "korean_name": "이플 퍼퓸",
+    "english_name": "Epeul",
+    "product_type": "향수",
+    "product_url": "https://granhand.com/product/detail.html?product_no=699&cate_no=181&display_group=1",
+    "regular_price": "55,000원",
+    "image_url": "https://granhand.com/web/product/big/202510/9727309f86927a8d50d81cd8e7da0528.png",
+    "ingredients": "에탄올, 프로필렌글라이콜, 향료, 정제수, 비에이치티",
+    "key_ingredients": []
+  },
+  {
+    "country": "KR",
+    "korean_name": "바이마르 시그니처 퍼퓸",
+    "english_name": "Weimar",
+    "product_type": "시그니처 퍼퓸",
+    "product_url": "https://granhand.com/product/detail.html?product_no=697&cate_no=181&display_group=1",
+    "regular_price": "110,000원",
+    "image_url": "https://granhand.com/web/product/big/202510/51cf5e7102df2be64734534c8eae3ee3.png",
+    "ingredients": "에탄올, 향료, 정제수, 벤질벤조에이트, 벤질살리실레이트, 신남알, 시트랄, 쿠마린, 유제놀, 리모넨, 리날룰",
+    "key_ingredients": [
+      "벤질벤조에이트",
+      "벤질살리실레이트",
+      "헥실신남알",
+      "시트랄",
+      "쿠마린",
+      "유제놀",
+      "리모넨",
+      "리날룰"
+    ]
+  },
+  {
+    "country": "KR",
+    "korean_name": "캐스크 시그니처 퍼퓸",
+    "english_name": "Cask",
+    "product_type": "시그니처 퍼퓸",
+    "product_url": "https://granhand.com/product/detail.html?product_no=696&cate_no=181&display_group=1",
+    "regular_price": "110,000원",
+    "image_url": "https://granhand.com/web/product/big/202510/b5832fd6beb6a1db3f284931fa692992.png",
+    "ingredients": "에탄올, 향료, 정제수, 벤질알코올, 벤질벤조에이트, 벤질살리실레이트, 신남알, 시트랄, 시트로넬올, 쿠마린, 유제놀, 제라니올, 리모넨, 리날룰",
+    "key_ingredients": [
+      "벤질알코올",
+      "벤질벤조에이트",
+      "벤질살리실레이트",
+      "헥실신남알",
+      "시트랄",
+      "시트로넬올",
+      "쿠마린",
+      "유제놀",
+      "제라니올",
+      "리모넨",
+      "리날룰"
+    ]
+  },
+  {
+    "country": "KR",
+    "korean_name": "마르네 시그니처 퍼퓸",
+    "english_name": "Marne",
+    "product_type": "시그니처 퍼퓸",
+    "product_url": "https://granhand.com/product/detail.html?product_no=694&cate_no=181&display_group=1",
+    "regular_price": "110,000원",
+    "image_url": "https://granhand.com/web/product/big/202510/721bfe3f714388cda3ca6c21071d2ef3.png",
+    "ingredients": "에탄올, 향료, 정제수, 벤질벤조에이트, 벤질살리실레이트, 신남알, 시트랄, 시트로넬올, 쿠마린, 유제놀, 제라니올, 리모넨, 리날룰",
+    "key_ingredients": [
+      "벤질벤조에이트",
+      "벤질살리실레이트",
+      "헥실신남알",
+      "시트랄",
+      "시트로넬올",
+      "쿠마린",
+      "유제놀",
+      "제라니올",
+      "리모넨",
+      "리날룰"
+    ]
+  },
+  {
+    "country": "KR",
+    "korean_name": "루시엔 카 멀티 퍼퓸",
+    "english_name": "Lucien Carr",
+    "product_type": "멀티 퍼퓸",
+    "product_url": "https://granhand.com/product/detail.html?product_no=712&cate_no=181&display_group=1",
+    "regular_price": "35,000원",
+    "image_url": "https://granhand.com/web/product/big/202510/c2c2b2d126cb0ab322d99f9892da99b6.jpg",
+    "ingredients": "에탄올, 향료, 프로필렌 글라이콜, 정제수, 리날룰, 리모넨",
+    "key_ingredients": [
+      "리날룰",
+      "리모넨"
+    ]
+  },
+  {
+    "country": "KR",
+    "korean_name": "규장 멀티 퍼퓸",
+    "english_name": "Kyujang",
+    "product_type": "멀티 퍼퓸",
+    "product_url": "https://granhand.com/product/detail.html?product_no=709&cate_no=181&display_group=1",
+    "regular_price": "35,000원",
+    "image_url": "https://granhand.com/web/product/big/202510/1a099903f217012c26088a4bef149ce4.jpg",
+    "ingredients": "에탄올, 향료, 프로필렌 글라이콜, 정제수, 리날룰, 시트랄, 시트로넬올, 유제놀, 제라니올, 쿠마린, 헥실신남알",
+    "key_ingredients": [
+      "리날룰",
+      "시트랄",
+      "시트로넬올",
+      "유제놀",
+      "제라니올",
+      "쿠마린",
+      "헥실신남알"
+    ]
+  },
+  {
+    "country": "KR",
+    "korean_name": "베게너 멀티 퍼퓸",
+    "english_name": "Wegener",
+    "product_type": "멀티 퍼퓸",
+    "product_url": "https://granhand.com/product/detail.html?product_no=708&cate_no=181&display_group=1",
+    "regular_price": "35,000원",
+    "image_url": "https://granhand.com/web/product/big/202510/acfa4eac3297f0aa2964b49290518d6c.jpg",
+    "ingredients": "에탄올, 향료, 프로필렌 글라이콜, 정제수, 리날룰, 리모넨, 부틸페닐메틸프로피오날, 제라니올",
+    "key_ingredients": [
+      "리날룰",
+      "리모넨",
+      "부틸페닐메틸프로피오날",
+      "제라니올"
+    ]
+  },
+  {
+    "country": "KR",
+    "korean_name": "마린 오키드 멀티 퍼퓸",
+    "english_name": "Marine Orchid",
+    "product_type": "멀티 퍼퓸",
+    "product_url": "https://granhand.com/product/detail.html?product_no=713&cate_no=181&display_group=1",
+    "regular_price": "35,000원",
+    "image_url": "https://granhand.com/web/product/big/202510/64984e6f840eb8a462ced0d4342cdc9d.jpg",
+    "ingredients": "에탄올, 향료, 프로필렌글라이콜, 정제수, 리날룰, 리모넨, 벤질벤조에이트, 벤질살리실레이트, 알파-아이소메틸아이오논, 아이소유제놀",
+    "key_ingredients": [
+      "리날룰",
+      "리모넨",
+      "벤질벤조에이트",
+      "벤질살리실레이트",
+      "아이소메틸아이오논",
+      "유제놀"
+    ]
+  },
+  {
+    "country": "KR",
+    "korean_name": "수지 살몬 멀티 퍼퓸",
+    "english_name": "Susie Salmon",
+    "product_type": "멀티 퍼퓸",
+    "product_url": "https://granhand.com/product/detail.html?product_no=714&cate_no=181&display_group=1",
+    "regular_price": "35,000원",
+    "image_url": "https://granhand.com/web/product/big/202510/d1500f411f5be071be1d323e0f05457a.jpg",
+    "ingredients": "에탄올, 향료, 프로필렌글라이콜, 정제수, 리모넨, 부틸페닐메틸프로피오날, 시트랄, 알파-아이소메틸이오논, 하이드록시시트로넬알, 헥실신남알",
+    "key_ingredients": [
+      "리모넨",
+      "부틸페닐메틸프로피오날",
+      "시트랄",
+      "아이소메틸아이오논",
+      "하이드록시시트로넬알",
+      "헥실신남알"
+    ]
+  },
+  {
+    "country": "KR",
+    "korean_name": "비올레뜨 멀티 퍼퓸",
+    "english_name": "Violette",
+    "product_type": "멀티 퍼퓸",
+    "product_url": "https://granhand.com/product/detail.html?product_no=706&cate_no=181&display_group=1",
+    "regular_price": "35,000원",
+    "image_url": "https://granhand.com/web/product/big/202510/85bd94a1b05bb5a48a2ac193c469eaa9.jpg",
+    "ingredients": "에탄올, 향료, 프로필렌 글라이콜, 정제수, 리날룰, 부틸페닐메틸프로피오날, 시트로넬올, 하이드록시시트로넬알, 헥실신남알",
+    "key_ingredients": [
+      "리날룰",
+      "부틸페닐메틸프로피오날",
+      "시트로넬올",
+      "하이드록시시트로넬알",
+      "헥실신남알"
+    ]
+  },
+  {
+    "country": "KR",
+    "korean_name": "루시 다이아몬드 멀티 퍼퓸",
+    "english_name": "Lucy Diamond",
+    "product_type": "멀티 퍼퓸",
+    "product_url": "https://granhand.com/product/detail.html?product_no=802&cate_no=181&display_group=1",
+    "regular_price": "45,000원",
+    "image_url": "https://granhand.com/web/product/big/202510/ce794300c1dc727b20fe62d1c4504113.jpg",
+    "ingredients": "에탄올, 향료, 프로필렌 글라이콜, 정제수, 리날룰, 메틸2-옥티노에이트, 벤질벤조에이트, 부틸메틸프로피오날, 시트로넬올, 신나밀알코올, 아밀신남알, 유제놀, 아이소유제놀, 제라니올, 쿠마린, 하이드록시시트로넬알, 헥실신남알",
+    "key_ingredients": [
+      "리날룰",
+      "벤질벤조에이트",
+      "시트로넬올",
+      "신남알",
+      "유제놀",
+      "제라니올",
+      "쿠마린",
+      "하이드록시시트로넬알",
+      "헥실신남알"
+    ]
+  },
+  {
+    "country": "KR",
+    "korean_name": "트와 베르 멀티 퍼퓸",
+    "english_name": "Toit Vert",
+    "product_type": "멀티 퍼퓸",
+    "product_url": "https://granhand.com/product/detail.html?product_no=711&cate_no=181&display_group=1",
+    "regular_price": "35,000원",
+    "image_url": "https://granhand.com/web/product/big/202510/fa3e8fe638fdc37c0a01dc17aaa3b2bd.jpg",
+    "ingredients": "에탄올, 향료, 프로필렌 글라이콜, 정제수, 리날룰, 벤질벤조에이트, 부틸페닐메틸프로피오날, 알파-아이소메틸아이오논, 제라니올, 하이드록시시트로넬알",
+    "key_ingredients": [
+      "리날룰",
+      "벤질벤조에이트",
+      "부틸페닐메틸프로피오날",
+      "아이소메틸아이오논",
+      "제라니올",
+      "하이드록시시트로넬알"
+    ]
+  },
+  {
+    "country": "KR",
+    "korean_name": "수아 시그니처 퍼퓸",
+    "english_name": "Soie",
+    "product_type": "시그니처 퍼퓸",
+    "product_url": "https://granhand.com/product/detail.html?product_no=669&cate_no=181&display_group=1",
+    "regular_price": "110,000원",
+    "image_url": "https://granhand.com/web/product/big/202510/b24d67b7e36f0e708d4255f912fcc79c.png",
+    "ingredients": "에탄올, 향료, 정제수, 알파-아이소메틸아이오논, 시트랄, 시트로넬올, 쿠마린, 파네솔, 제라니올, 헥실신남알, 하이드록시시트로넬알, 리모넨, 리날룰",
+    "key_ingredients": [
+      "아이소메틸아이오논",
+      "시트랄",
+      "시트로넬올",
+      "쿠마린",
+      "파네솔",
+      "제라니올",
+      "헥실신남알",
+      "하이드록시시트로넬알",
+      "리모넨",
+      "리날룰"
+    ]
+  },
+  {
+    "country": "KR",
+    "korean_name": "릴리 오웬 멀티 퍼퓸",
+    "english_name": "Lily Owen",
+    "product_type": "멀티 퍼퓸",
+    "product_url": "https://granhand.com/product/detail.html?product_no=710&cate_no=181&display_group=1",
+    "regular_price": "35,000원",
+    "image_url": "https://granhand.com/web/product/big/202510/3591e77f44c1e9f56cc1a9b2a20e1685.jpg",
+    "ingredients": "에탄올, 향료, 프로필렌 글라이콜, 정제수, 리날룰, 하이드록시시트로넬알",
+    "key_ingredients": [
+      "리날룰",
+      "하이드록시시트로넬알"
+    ]
+  },
+  {
+    "country": "KR",
+    "korean_name": "럼버잭 멀티 퍼퓸",
+    "english_name": "Lumberjack",
+    "product_type": "멀티 퍼퓸",
+    "product_url": "https://granhand.com/product/detail.html?product_no=804&cate_no=181&display_group=1",
+    "regular_price": "45,000원",
+    "image_url": "https://granhand.com/web/product/big/202510/f72905089e2df4488b9623ef51f39d14.jpg",
+    "ingredients": "에탄올, 향료, 프로필렌 글라이콜, 정제수, 리날룰, 벤질살리실레이트, 시트로넬올, 쿠마린, 하이드록시시트로넬알",
+    "key_ingredients": [
+      "리날룰",
+      "벤질살리실레이트",
+      "시트로넬올",
+      "쿠마린",
+      "하이드록시시트로넬알"
+    ]
+  },
+  {
+    "country": "KR",
+    "korean_name": "롤랑 멀티 퍼퓸",
+    "english_name": "Roland",
+    "product_type": "멀티 퍼퓸",
+    "product_url": "https://granhand.com/product/detail.html?product_no=707&cate_no=181&display_group=1",
+    "regular_price": "35,000원",
+    "image_url": "https://granhand.com/web/product/big/202510/e2eb4f6f88ade6998076366b725be680.jpg",
+    "ingredients": "에탄올, 향료, 프로필렌 글라이콜, 정제수, 리날룰",
+    "key_ingredients": [
+      "리날룰"
+    ]
+  },
+  {
+    "country": "KR",
+    "korean_name": "비비안 워드 멀티 퍼퓸",
+    "english_name": "Vivian Ward",
+    "product_type": "멀티 퍼퓸",
+    "product_url": "https://granhand.com/product/detail.html?product_no=803&cate_no=181&display_group=1",
+    "regular_price": "45,000원",
+    "image_url": "https://granhand.com/web/product/big/202510/e9184fe3b6f2c0355eeba4ebeee018fa.jpg",
+    "ingredients": "에탄올, 향료, 프로필렌 글라이콜, 정제수, 리날룰, 벤질벤조에이트, 부틸페닐메틸프로피오날, 시트랄",
+    "key_ingredients": [
+      "리날룰",
+      "벤질벤조에이트",
+      "부틸페닐메틸프로피오날",
+      "시트랄"
+    ]
+  }
+]
