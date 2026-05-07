@@ -223,3 +223,6 @@ __marimo__/
 
 # local Codex/session log
 log.md
+
+# external source checkouts used during refactoring
+.external/
