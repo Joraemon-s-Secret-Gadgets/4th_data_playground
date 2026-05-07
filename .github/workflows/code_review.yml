@@ -31,5 +31,5 @@ jobs:
           config.model: "gpt-4o"
           config.language: "ko-KR"
           pr_reviewer.extra_instructions: |
-          모든 리뷰는 한국어로 작성해주세요.
-          코드 리뷰는 실제 장애 가능성, 보안 문제, 유지보수성을 우선 검토해주세요
+            모든 리뷰는 한국어로 작성해주세요.
+            코드 리뷰는 실제 장애 가능성, 보안 문제, 유지보수성을 우선 검토해주세요
