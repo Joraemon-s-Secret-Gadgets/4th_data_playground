@@ -1,4 +1,8 @@
-"""Normalize Persona-L crawler exports into the project schema."""
+"""Persona-L crawler export를 프로젝트 공통 스키마로 변환합니다.
+
+Persona-L 원본 데이터는 브랜드별로 가격, family, notes 표현이 조금씩 다릅니다.
+이 모듈은 해당 차이를 정리한 뒤 `normalize_product_row`로 넘기는 어댑터입니다.
+"""
 
 from __future__ import annotations
 
@@ -16,12 +20,16 @@ SOURCE_COUNTRY_BY_BRAND = {
 
 
 def format_persona_rows(rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
-    """Convert Persona-L crawler rows to the normalized fragrance contract."""
+    """Persona-L row 목록을 정규화된 향수 row 목록으로 변환합니다."""
     return [format_persona_row(row) for row in rows]
 
 
 def format_persona_row(row: dict[str, Any]) -> dict[str, Any]:
-    """Convert one Persona-L crawler row to the normalized fragrance contract."""
+    """Persona-L row 하나를 공통 향수 데이터 계약으로 변환합니다.
+
+    Nag Champa의 `keywords`는 원본 크롤러 코드에서 상품명 기반으로 생성된 값이라
+    사이트 원천 키워드로 보지 않습니다. 데이터 신뢰도 정책에 맞춰 저장하지 않습니다.
+    """
     brand = str(row.get("brand") or "")
     source_country = SOURCE_COUNTRY_BY_BRAND.get(brand, "KR")
     product_type = str(row.get("category") or "향수")
@@ -52,7 +60,7 @@ def format_persona_row(row: dict[str, Any]) -> dict[str, Any]:
 
 
 def parse_byredo_note_lines(note_lines: object) -> list[str]:
-    """Flatten Persona-L note lines such as '탑 노트: 베르가못, 로즈'."""
+    """`탑 노트: 베르가못, 로즈` 같은 Persona-L 노트 문자열을 평탄화합니다."""
     if not isinstance(note_lines, list):
         return []
 
@@ -71,11 +79,13 @@ def parse_byredo_note_lines(note_lines: object) -> list[str]:
 
 
 def _accords_from_family(value: object) -> list[str]:
+    """Persona-L의 `family` 값을 원천 향조로 보존합니다."""
     text = str(value or "").strip()
     return [text] if text else []
 
 
 def _format_price(value: object) -> str:
+    """숫자 또는 표시 문자열 가격을 KRW 중심 표시 가격으로 정리합니다."""
     if value in (None, "", 0, "0"):
         return ""
     if isinstance(value, str):

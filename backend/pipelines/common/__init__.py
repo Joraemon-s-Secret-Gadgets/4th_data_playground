@@ -1,4 +1,8 @@
-"""Shared scraping utilities used by country-specific Lush pipelines."""
+"""크롤러 전반에서 재사용하는 공통 유틸리티 공개 진입점입니다.
+
+각 크롤러는 가능한 이 모듈의 공통 함수들을 import해서 HTTP 요청, 텍스트 정리,
+JSON 출력, 데이터 정규화 방식을 맞춥니다.
+"""
 
 from pipelines.common.browser import fetch_rendered_html
 from pipelines.common.http import build_request_headers, get_with_retries

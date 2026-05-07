@@ -1,4 +1,4 @@
-"""Transform Fragrantica crawler exports into the local fragrance row schema."""
+"""Fragrantica crawler export를 공통 향수 데이터 계약으로 변환합니다."""
 
 from __future__ import annotations
 
@@ -15,7 +15,7 @@ COUNTRY_BY_BRAND = {
 
 
 def parse_semicolon_values(value: object) -> list[str]:
-    """Split Fragrantica semicolon-delimited fields while preserving unique order."""
+    """세미콜론으로 구분된 Fragrantica 필드를 순서 보존 배열로 나눕니다."""
     if not isinstance(value, str):
         return []
 
@@ -32,7 +32,11 @@ def format_fragrantica_rows(
     *,
     source_url_template: str = "",
 ) -> list[dict[str, Any]]:
-    """Convert Fragrantica source rows to the project JSON schema."""
+    """Fragrantica source row 목록을 프로젝트 최종 JSON 스키마로 변환합니다.
+
+    Fragrantica는 향조와 노트는 제공하지만 판매 가격은 제공하지 않습니다.
+    따라서 가격은 빈 값으로 두고 정규화 계층에서 누락 사유를 기록합니다.
+    """
     rows: list[dict[str, Any]] = []
     for item in records:
         brand = str(item.get("brand") or "")
@@ -69,16 +73,19 @@ def format_fragrantica_rows(
 
 
 def _build_source_url(brand: str, name: str, template: str) -> str:
+    """브랜드/상품 slug 템플릿으로 Fragrantica URL을 만듭니다."""
     if not template:
         return ""
     return template.format(brand_slug=_slugify(brand), name_slug=_slugify(name))
 
 
 def _slugify(value: str) -> str:
+    """Fragrantica URL 조합에 사용할 간단한 slug를 만듭니다."""
     return re.sub(r"[^a-z0-9]+", "-", value.strip().lower()).strip("-")
 
 
 def _unique(values: list[str]) -> list[str]:
+    """문자열 배열의 순서를 유지하며 중복을 제거합니다."""
     result: list[str] = []
     for value in values:
         if value and value not in result:
