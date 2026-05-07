@@ -140,18 +140,27 @@ def test_format_final_rows_matches_local_json_schema() -> None:
 
     assert rows == [
         {
-            "country": "이탈리아",
+            "source": "fraganty",
+            "source_country": "이탈리아",
+            "brand": "BVLGARI",
             "korean_name": "옴니아 크리스탈린",
             "english_name": "omnia crystalline",
-            "product_type": "향수",
+            "normalized_name": "omnia crystalline",
+            "product_type": "perfume",
+            "product_subtype": "perfume",
             "product_url": "https://fraganty.ai/perfume/omnia-crystalline",
-            "regular_price": "$150",
             "image_url": "https://img.fraganty.ai/perfume/152.jpg",
-            "ingredients": "",
-            "key_ingredients": ["대나무", "연꽃", "머스크"],
-            "keywords": ["우디", "플로럴"],
-            "ko_keywords": ["상쾌한", "봄날 외출"],
-            "en_keywords": ["Refreshing", "Spring Day Out"],
+            "price": {"raw": "$150", "amount": 150, "currency": "USD"},
+            "description": "옴니아 크리스탈린은 대나무, 연꽃, 머스크 노트가 중심이며 우디, 플로럴 분위기를 가진 향수입니다.",
+            "ingredients_raw": "",
+            "notes": ["대나무", "연꽃", "머스크"],
+            "accords": ["우디", "플로럴"],
+            "keywords": {"ko": ["상쾌한", "봄날 외출"], "en": ["Refreshing", "Spring Day Out"]},
+            "meta": {
+                "release_year": None,
+                "original_product_type": "향수",
+                "original_country": "이탈리아",
+            },
         }
     ]
 

@@ -9,7 +9,7 @@ import time
 from pathlib import Path
 from typing import Any
 
-from pipelines.common import build_request_headers, get_with_retries, print_json_rows
+from pipelines.common import build_request_headers, get_with_retries, normalize_product_rows, print_json_rows
 from pipelines.jomalone_korea.category import extract_fragrance_products
 from pipelines.jomalone_korea.detail import extract_product_detail
 
@@ -86,8 +86,9 @@ def main() -> None:
         raise RuntimeError("Jo Malone Korea scraper returned no fragrance rows; output was not written.")
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
-    output_path.write_text(json.dumps(rows, ensure_ascii=False, indent=2), encoding="utf-8")
-    print_json_rows(rows)
+    normalized_rows = normalize_product_rows(rows, source="official", source_country="KR", brand="JOMALONE")
+    output_path.write_text(json.dumps(normalized_rows, ensure_ascii=False, indent=2), encoding="utf-8")
+    print_json_rows(normalized_rows)
 
 
 def _add_product_details(rows: list[dict[str, str]]) -> list[dict[str, Any]]:

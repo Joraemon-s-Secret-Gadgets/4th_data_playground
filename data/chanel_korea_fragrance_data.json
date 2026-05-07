@@ -1,222 +1,510 @@
 [
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
     "brand": "CHANEL",
     "korean_name": "코코 마드모아젤 오 드 빠르펭 펄스 스프레이",
     "english_name": "Coco Mademoiselle Eau De Parfum Purse Spray Refills",
-    "product_type": "오 드 빠르펭",
+    "normalized_name": "coco mademoiselle eau de parfum purse spray refills",
+    "product_type": "perfume",
+    "product_subtype": "eau_de_parfum",
     "product_url": "https://www.chanel.com/kr/fragrance/p/116438/coco-mademoiselle-eau-de-parfum-purse-spray-refills",
-    "regular_price": "152,000 원",
     "image_url": "",
-    "ingredients": "에탄올,향료,정제수,부틸메톡시디벤조일메탄,적색504호,황색4호,청색1호,벤질알코올,시트랄,시트로넬올,쿠마린,제라니올,헥실신남알,리모넨,리날룰,벤질살리실레이트 BS000042B",
-    "key_ingredients": [
+    "price": {
+      "raw": "152,000 원",
+      "amount": 152000,
+      "currency": "KRW"
+    },
+    "description": "",
+    "ingredients_raw": "에탄올,향료,정제수,부틸메톡시디벤조일메탄,적색504호,황색4호,청색1호,벤질알코올,시트랄,시트로넬올,쿠마린,제라니올,헥실신남알,리모넨,리날룰,벤질살리실레이트 BS000042B",
+    "notes": [
       "코코 마드모아젤 오 드 빠르펭은 거부할 수 없으며, 감각을 일깨우는 관능적인 향의 산뜻한 앰버 향을 남겨줍니다. 생동감 넘치는 산뜻한 오렌지 노트가 향기의 문을 열며 감각을 깨우고 관능적이고 산뜻한 쟈스민과 장미 어코드가 설렘을 안겨줍니다. 패츌리와 베티베는 코코 마드모아젤의 향기를 완성해주며 오래도록 잔향을 남깁니다. 영감 코코 마드모아젤. 양면성의 매력. 자유분방하고 사랑스러운, 장난기 가득하면서 도발적인, 친근하면서도 넘치는 매력의. 코코 마드모아젤 오 드 빠르펭. 매일 새로움을 원하는 대담한 여성을 위한 향수 아트 오브 퍼퓨밍 우아한 향기를 경험하기 위해 오 드 빠르펭을 피부나 옷 안쪽에 스프레이해 줍니다. 코코 마드모아젤 오 드 빠르펭 7ml 리필 3개로 이루어진 세트는 코코 마드모아젤 오 드 빠르펭 펄스 스프레이에만 호환 가능합니다."
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "오 드 빠르펭",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
     "brand": "CHANEL",
     "korean_name": "코코 마드모아젤 오 드 빠르펭 펄스 스프레이",
     "english_name": "Coco Mademoiselle Eau De Parfum Purse Spray",
-    "product_type": "오 드 빠르펭",
+    "normalized_name": "coco mademoiselle eau de parfum purse spray",
+    "product_type": "perfume",
+    "product_subtype": "eau_de_parfum",
     "product_url": "https://www.chanel.com/kr/fragrance/p/116437/coco-mademoiselle-eau-de-parfum-purse-spray",
-    "regular_price": "325,000 원",
     "image_url": "",
-    "ingredients": "에탄올,향료,정제수,부틸메톡시디벤조일메탄,적색504호,황색4호,청색1호,벤질알코올,시트랄,시트로넬올,쿠마린,제라니올,헥실신남알,리모넨,리날룰,벤질살리실레이트 BS000042B",
-    "key_ingredients": [
+    "price": {
+      "raw": "325,000 원",
+      "amount": 325000,
+      "currency": "KRW"
+    },
+    "description": "",
+    "ingredients_raw": "에탄올,향료,정제수,부틸메톡시디벤조일메탄,적색504호,황색4호,청색1호,벤질알코올,시트랄,시트로넬올,쿠마린,제라니올,헥실신남알,리모넨,리날룰,벤질살리실레이트 BS000042B",
+    "notes": [
       "코코 마드모아젤 오 드 빠르펭은 거부할 수 없으며, 감각을 일깨우는 관능적인 향의 산뜻한 앰버 향을 남겨줍니다. 생동감 넘치는 산뜻한 오렌지 노트가 향기의 문을 열며 감각을 깨우고 관능적이고 산뜻한 쟈스민과 장미 어코드가 설렘을 안겨줍니다. 패츌리와 베티베는 코코 마드모아젤의 향기를 완성해주며 오래도록 잔향을 남깁니다. 영감 코코 마드모아젤. 매일 새로움을 원하는 대담한 여성을 위한 향수 이 리미티드 에디션은 까멜리아 참과 글래스 펄을 장식한 골드 체인 스트랩이 특징입니다. 아트 오브 퍼퓨밍 코코 마드모아젤의 자유로운 정신을 반영한 코코 마드모아젤 오 드 빠르펭 펄스 스프레이와 액세서리는 향기를 즐기는 우아한 방법을 선사합니다. 체인 스트랩 장식의 리필 가능한 7ml 사이즈 컬렉터 에디션으로 손목에 착용하거나 핸드백에 넣어 휴대할 수 있습니다. 3개의 리필 세트로도 만나볼 수 있습니다."
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "오 드 빠르펭",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
     "brand": "CHANEL",
     "korean_name": "N°5 오 드 뚜왈렛",
     "english_name": "N°5 Eau De Toilette Spray",
-    "product_type": "오 드 뚜왈렛",
+    "normalized_name": "n5 eau de toilette spray",
+    "product_type": "perfume",
+    "product_subtype": "eau_de_toilette",
     "product_url": "https://www.chanel.com/kr/fragrance/p/105680/n5-eau-de-toilette-spray",
-    "regular_price": "248,000 원 부터",
     "image_url": "",
-    "ingredients": "에탄올,정제수,향료,부틸메톡시디벤조일메탄,황색4호,황색5호,적색504호,적색227호 ,벤질살리실레이트,리날룰,리모넨,아이소유제놀,하이드록시시트로넬알,헥실신남알,제라니올,파네솔,유제놀,쿠마린,시트로넬올,시트랄,신나밀알코올,벤질신나메이트,벤질벤조에이트,벤질알코올,아밀신남알,알파-아이소메틸아이오논 PS000024C",
-    "key_ingredients": [
+    "price": {
+      "raw": "248,000 원 부터",
+      "amount": 248000,
+      "currency": "KRW"
+    },
+    "description": "",
+    "ingredients_raw": "에탄올,정제수,향료,부틸메톡시디벤조일메탄,황색4호,황색5호,적색504호,적색227호 ,벤질살리실레이트,리날룰,리모넨,아이소유제놀,하이드록시시트로넬알,헥실신남알,제라니올,파네솔,유제놀,쿠마린,시트로넬올,시트랄,신나밀알코올,벤질신나메이트,벤질벤조에이트,벤질알코올,아밀신남알,알파-아이소메틸아이오논 PS000024C",
+    "notes": [
       "우디한 향이 감도는 추상적인 플로랄 향수. 오 드 뚜왈렛은 장미와 쟈스민, 일랑일랑 사이로 알데하이드가 특별한 존재감을 드러낸 뒤 샌달우드와 베티베가 향에 그윽한 깊이와 질감을 더해줍니다. 영감 1921년, 가브리엘 샤넬은 에르네스트 보(Ernest Beaux)에게 진귀하고 강렬한 진귀하고 강렬한 \"여성의 향기를 지닌 여성용 향수\"를 만들어 달라고 부탁하였습니다. 그리고 그 결과, 알데하이드를 사용한 전례 없는 조향의 향수가 제작되었고, 이렇게 N°5 빠르펭이 탄생했습니다. 1924년에 이르러 우드 노트를 강조한 N°5 오 드 뚜왈렛을 선보였습니다. 아트 오브 퍼퓨밍 오 드 뚜왈렛을 피부나 옷 안쪽에 넉넉히 스프레이해 줍니다. 실용적인 휴대용 사이즈의 펄스 스프레이를 백에 가볍게 수납하고 필요할 때마다 사용해 주세요. 하루종일 향수의 노트를 선명하게 유지할 수 있습니다. 향을 오래도록 즐기기 위해 배스 앤 바디 리추얼도 함께 사용해 주세요."
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "오 드 뚜왈렛",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
     "brand": "CHANEL",
     "korean_name": "1957 레 젝스클루시프 드 샤넬 오 드 빠르펭",
     "english_name": "1957 Les Exclusifs De Chanel Eau De Parfum",
-    "product_type": "오 드 빠르펭",
+    "normalized_name": "1957 les exclusifs de chanel eau de parfum",
+    "product_type": "perfume",
+    "product_subtype": "eau_de_parfum",
     "product_url": "https://www.chanel.com/kr/fragrance/p/122360/1957-les-exclusifs-de-chanel-eau-de-parfum",
-    "regular_price": "420,000 원 부터",
     "image_url": "",
-    "ingredients": "에탄올,향료,정제수,알파-아이소메틸아이오논,벤질알코올,벤질살리실레이트,시트랄,시트로넬올,쿠마린,유제놀,파네솔,제라니올,하이드록시시트로넬알,아이소유제놀,리모넨,리날룰",
-    "key_ingredients": [
+    "price": {
+      "raw": "420,000 원 부터",
+      "amount": 420000,
+      "currency": "KRW"
+    },
+    "description": "",
+    "ingredients_raw": "에탄올,향료,정제수,알파-아이소메틸아이오논,벤질알코올,벤질살리실레이트,시트랄,시트로넬올,쿠마린,유제놀,파네솔,제라니올,하이드록시시트로넬알,아이소유제놀,리모넨,리날룰",
+    "notes": [
       "1957은 베르가못, 아이리스와 네롤리의 섬세한 조합과 세분화된 시더, 허니, 그리고 파우더리 향이 어우러진 관능적인 화이트 머스크 어코드를 발산합니다. 영감 1957년, 가브리엘 샤넬은 미국 달라스에서 니만 마커스 패션 어워드(Neiman Marcus Fashion Award)에서 수상하였습니다. 오늘날까지도 창의적인 재능으로 전 세계에서 사랑 받고 있는 그녀는 특별히 기존에 사용하지 않은 재료들을 사용하여 새로운 작품으로 재해석하는 놀라운 재능을 지니고 있었습니다. 1957 향수는 이러한 샤넬의 이미지를 반영합니다. 관능적이고 세분화된 화이트 머스크 어코드와 함께 플로랄 노트와 우디하고 달콤한 허니 향, 그리고 파우더리 향이 1957 향수를 빛내 줍니다. 한눈에 느낄 수 있는 샤넬 스타일의 시그니처 향입니다. 아트 오브 퍼퓨밍 손목 안쪽 맥박이 뛰는 곳, 따뜻한 온기가 느껴지는 가슴 안쪽 은은한 향을 원할 때는 체온이 낮은 귓볼 또는 무릎 안쪽에 사용하세요. 의류에 직접 스프레이는 피해주시기 바라며, 특히 밝은색 의류와의 접촉은 주의해주시기 바랍니다."
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "오 드 빠르펭",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
     "brand": "CHANEL",
     "korean_name": "코코 마드모아젤 오 드 빠르펭",
     "english_name": "Coco Mademoiselle Eau De Parfum Spray",
-    "product_type": "오 드 빠르펭",
+    "normalized_name": "coco mademoiselle eau de parfum spray",
+    "product_type": "perfume",
+    "product_subtype": "eau_de_parfum",
     "product_url": "https://www.chanel.com/kr/fragrance/p/116520/coco-mademoiselle-eau-de-parfum-spray",
-    "regular_price": "144,000 원 부터",
     "image_url": "",
-    "ingredients": "에탄올,향료,정제수,부틸메톡시디벤조일메탄,에칠헥실메톡시신나메이트,에칠헥실살리실레이트,적색504호,청색1호,벤질알코올,벤질살릭실레이트,시트랄,시트로넬올,쿠마린,제라니올,헥실신남알,리모넨,리날룰",
-    "key_ingredients": [
+    "price": {
+      "raw": "144,000 원 부터",
+      "amount": 144000,
+      "currency": "KRW"
+    },
+    "description": "",
+    "ingredients_raw": "에탄올,향료,정제수,부틸메톡시디벤조일메탄,에칠헥실메톡시신나메이트,에칠헥실살리실레이트,적색504호,청색1호,벤질알코올,벤질살릭실레이트,시트랄,시트로넬올,쿠마린,제라니올,헥실신남알,리모넨,리날룰",
+    "notes": [
       "코코 마드모아젤은 감각을 일깨우는 관능적인 향의 엠버리 계열 향수입니다. 생동감 넘치는 산뜻한 오렌지 노트가 향기의 문을 열며 감각을 깨우고 관능적이고 산뜻한 쟈스민과 로즈 어코드가 설렘을 안겨주며, 그 뒤로 팟츌리와 베티베가 오랫동안 향기의 흔적을 남깁니다. 영감 코코 마드모아젤. 양면성의 매력. 자유분방하고 사랑스러운. 장난기 가득하면서 도발적인. 친근하면서도 넘치는 매력의. 코코 마드모아젤 오 드 빠르펭. 매일 새로움을 원하는 엉뚱하고 대담한 여성을 위한 향수. 아트 오브 퍼퓨밍 오 드 빠르펭을 피부에 또는 옷 위에 적당한 거리를 두어 스프레이 해주세요. 바스 앤 바디 제품을 함께 사용하면 코코 마드모아젤의 여성스럽고 관능적인 향이 더 오래 지속됩니다."
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "오 드 빠르펭",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
     "brand": "CHANEL",
     "korean_name": "N°5 오 드 빠르펭",
     "english_name": "N°5 Eau De Parfum Spray",
-    "product_type": "오 드 빠르펭",
+    "normalized_name": "n5 eau de parfum spray",
+    "product_type": "perfume",
+    "product_subtype": "eau_de_parfum",
     "product_url": "https://www.chanel.com/kr/fragrance/p/125530/n5-eau-de-parfum-spray",
-    "regular_price": "293,000 원",
     "image_url": "",
-    "ingredients": "에탄올,정제수,향료,부틸메톡시디벤조일메탄,황색4호,황색5호,적색227호 ,적색504호,알파-아이소메틸아이오논,벤질알코올,벤질벤조에이트,벤질신나메이트,벤질살리실레이트,신나밀알코올,시트랄,시트로넬올,쿠마린,유제놀,파네솔,제라니올,하이드록시시트로넬알,아이소유제놀,리모넨,리날룰",
-    "key_ingredients": [
+    "price": {
+      "raw": "293,000 원",
+      "amount": 293000,
+      "currency": "KRW"
+    },
+    "description": "",
+    "ingredients_raw": "에탄올,정제수,향료,부틸메톡시디벤조일메탄,황색4호,황색5호,적색227호 ,적색504호,알파-아이소메틸아이오논,벤질알코올,벤질벤조에이트,벤질신나메이트,벤질살리실레이트,신나밀알코올,시트랄,시트로넬올,쿠마린,유제놀,파네솔,제라니올,하이드록시시트로넬알,아이소유제놀,리모넨,리날룰",
+    "notes": [
       "오 드 빠르펭은 플로랄 향기와 알데하이드를 혼합한 향기에서 영감을 받아 탄생하였습니다. 메이 로즈와 쟈스민이 선사하는 플로랄 향이 시트러스 향의 탑 노트에 밝은 빛을 채워 줍니다. 알데하이드가 특별한 존재감을 드러내는 동안 바닐라 어코드가 부드럽게 퍼져 관능적인 잔향을 선사합니다. 영감 1921년 가브리엘 샤넬은 에르네스트 보(Ernest Beaux)에게 진귀하고 강렬한 \"여성의 향기를 지닌 여성용 향수\"를 만들어 달라고 부탁하였습니다. 그리고 그 결과, 알데하이드를 사용한 전례 없는 조향의 향수가 제작되었습니다. 가브리엘 샤넬은 5번째 샘플을 선택하기로 결정하면서 N°5라는 이름을 선택하였고, 화이트 라벨을 장식하고 상단에 각면 처리된 카보숑을 장식한 혁신적인 디자인의 보틀을 새로운 향수를 위한 보틀로 선정하였습니다. 1978년부터 샤넬의 조향사로 활약해온 자크 뽈쥬는 1986년, N°5의 향기를 새롭게 재해석한 오 드 빠르펭을 제작하였습니다. 아트 오브 퍼퓨밍 오 드 빠르펭은 피부나 옷 안쪽에 가볍고 쉽게 사용할 수 있는 스프레이 타입으로 출시됩니다."
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "오 드 빠르펭",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
     "brand": "CHANEL",
     "korean_name": "N°5 로 오 드 뚜왈렛",
     "english_name": "N°5 Leau Eau De Toilette Spray",
-    "product_type": "오 드 뚜왈렛",
+    "normalized_name": "n5 leau eau de toilette spray",
+    "product_type": "perfume",
+    "product_subtype": "eau_de_toilette",
     "product_url": "https://www.chanel.com/kr/fragrance/p/105530/n5-leau-eau-de-toilette-spray",
-    "regular_price": "286,000 원",
     "image_url": "",
-    "ingredients": "에탄올,정제수,향료,알파-아이소메틸아이오논,벤질알코올,벤질벤조에이트,벤질살리실레이트,시트랄,시트로넬올,쿠마린,유제놀,파네솔,제라니올,헥실신남알,아이소유제놀,리모넨,리날룰",
-    "key_ingredients": [
+    "price": {
+      "raw": "286,000 원",
+      "amount": 286000,
+      "currency": "KRW"
+    },
+    "description": "",
+    "ingredients_raw": "에탄올,정제수,향료,알파-아이소메틸아이오논,벤질알코올,벤질벤조에이트,벤질살리실레이트,시트랄,시트로넬올,쿠마린,유제놀,파네솔,제라니올,헥실신남알,아이소유제놀,리모넨,리날룰",
+    "notes": [
       "N°5 로(L'EAU)는 마치 햇살을 흠뻑 받은 황금색 꿀처럼 눈부신 시트러스의 기운을 발산합니다. 레몬, 만다린, 오렌지 노트가 알데하이드와 어우러져 하늘에 닿을 듯 공중으로 발산합니다. 그다음으로는 꽃들의 살랑거리는 소리가 마치 바람처럼 들려옵니다. 장미는 쟈스민, 일랑일랑과 만나 한층 더 모던함을 더합니다. 꽃향기가 한차례 지나가면, 베티베와 시더 향이 새로운 활력을 부여하고, 그 뒤로 부드러운 화이트 머스크 향이 따라옵니다. N°5가 이토록 자연스러운 적은 없습니다. 그리고 이렇게 상쾌했던 적도 없습니다. 영감 샤넬 조향사인 올리비에 뽈쥬(Olivier Polge)는 샤넬 N°5를 흠 없이 완벽하고 영감을 불러일으키는 구조로 재탄생시켰습니다. 금세공인의 섬세한 감각을 가진 올리비에 뽈쥬는 기존의 포뮬러를 하나하나 분석하였고, 각 성분의 진정한 역할을 이해하였습니다. 올리비에 뽈쥬는 새로운 균형과 상쾌함을 위한 이상적인 조합을 창조하고, 시대의 정수를 담아내고자 노력하였습니다. 아트 오브 퍼퓨밍 N°5 로(L'EAU)는 그 어떠한 선입관에도 구애받지 않고 자유롭게 사용하실 수 있습니다. 본능적으로. 단순하게. 아낌없이. 낮에. 밤에. 당신을 위해. 그리고 다른 사람들을 위해. 사용방법은 정해져 있지 않습니다. 언제든지 원할 때마다 N°5 로(L'EAU)를 뿌려줍니다. 피부에 직접 또는 옷 안쪽에 즉흥적이고 자유롭게 뿌려줍니다. 그리고 필요할 때마다 다시 뿌려줍니다."
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "오 드 뚜왈렛",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
     "brand": "CHANEL",
     "korean_name": "N°5 오 드 뚜왈렛",
     "english_name": "N°5 Eau De Toilette Spray",
-    "product_type": "오 드 뚜왈렛",
+    "normalized_name": "n5 eau de toilette spray",
+    "product_type": "perfume",
+    "product_subtype": "eau_de_toilette",
     "product_url": "https://www.chanel.com/kr/fragrance/p/105670/n5-eau-de-toilette-spray",
-    "regular_price": "248,000 원",
     "image_url": "",
-    "ingredients": "에탄올,정제수,향료,부틸메톡시디벤조일메탄,황색4호,황색5호,적색504호,적색227호 ,벤질살리실레이트,리날룰,리모넨,아이소유제놀,하이드록시시트로넬알,헥실신남알,제라니올,파네솔,유제놀,쿠마린,시트로넬올,시트랄,신나밀알코올,벤질신나메이트,벤질벤조에이트,벤질알코올,아밀신남알,알파-아이소메틸아이오논 PS000024C",
-    "key_ingredients": [
+    "price": {
+      "raw": "248,000 원",
+      "amount": 248000,
+      "currency": "KRW"
+    },
+    "description": "",
+    "ingredients_raw": "에탄올,정제수,향료,부틸메톡시디벤조일메탄,황색4호,황색5호,적색504호,적색227호 ,벤질살리실레이트,리날룰,리모넨,아이소유제놀,하이드록시시트로넬알,헥실신남알,제라니올,파네솔,유제놀,쿠마린,시트로넬올,시트랄,신나밀알코올,벤질신나메이트,벤질벤조에이트,벤질알코올,아밀신남알,알파-아이소메틸아이오논 PS000024C",
+    "notes": [
       "우디한 향이 감도는 추상적인 플로랄 향수. 오 드 뚜왈렛은 장미와 쟈스민, 일랑일랑 사이로 알데하이드가 특별한 존재감을 드러낸 뒤 샌달우드와 베티베가 향에 그윽한 깊이와 질감을 더해줍니다. 영감 1921년, 가브리엘 샤넬은 에르네스트 보(Ernest Beaux)에게 진귀하고 강렬한 진귀하고 강렬한 \"여성의 향기를 지닌 여성용 향수\"를 만들어 달라고 부탁하였습니다. 그리고 그 결과, 알데하이드를 사용한 전례 없는 조향의 향수가 제작되었고, 이렇게 N°5 빠르펭이 탄생했습니다. 1924년에 이르러 우드 노트를 강조한 N°5 오 드 뚜왈렛을 선보였습니다. 아트 오브 퍼퓨밍 오 드 뚜왈렛을 피부나 옷 안쪽에 넉넉히 스프레이해 줍니다. 실용적인 휴대용 사이즈의 펄스 스프레이를 백에 가볍게 수납하고 필요할 때마다 사용해 주세요. 하루종일 향수의 노트를 선명하게 유지할 수 있습니다. 향을 오래도록 즐기기 위해 배스 앤 바디 리추얼도 함께 사용해 주세요."
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "오 드 뚜왈렛",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
     "brand": "CHANEL",
     "korean_name": "코코 마드모아젤 오 드 빠르펭 엥땅스",
     "english_name": "Coco Mademoiselle Eau De Parfum Intense Spray",
-    "product_type": "오 드 빠르펭",
+    "normalized_name": "coco mademoiselle eau de parfum intense spray",
+    "product_type": "perfume",
+    "product_subtype": "eau_de_parfum",
     "product_url": "https://www.chanel.com/kr/fragrance/p/116660/coco-mademoiselle-eau-de-parfum-intense-spray",
-    "regular_price": "151,000 원 부터",
     "image_url": "",
-    "ingredients": "에탄올,향료,정제수,부틸메톡시디벤조일메탄,적색504호,적색227호 ,자색401호,청색1호,황색4호,벤질알코올,벤질벤조에이트,벤질살리실레이트,시트랄,시트로넬올,쿠마린,제라니올,헥실신남알,리모넨,리날룰",
-    "key_ingredients": [
+    "price": {
+      "raw": "151,000 원 부터",
+      "amount": 151000,
+      "currency": "KRW"
+    },
+    "description": "",
+    "ingredients_raw": "에탄올,향료,정제수,부틸메톡시디벤조일메탄,적색504호,적색227호 ,자색401호,청색1호,황색4호,벤질알코올,벤질벤조에이트,벤질살리실레이트,시트랄,시트로넬올,쿠마린,제라니올,헥실신남알,리모넨,리날룰",
+    "notes": [
       "코코 마드모아젤 오 드 빠르펭 엥땅스는 깊고 관능적인 향기의 흔적을 남기는 오리엔탈 우디 앰버 계열의 향수입니다. 풍부한 인도네시아산 팟츌리 향을 중심으로 바닐라 앱솔루트와 베네수엘라 통카빈의 앰버 어코드가 따뜻함으로 감싸 안아주고, 장미와 쟈스민의 여성스러운 향이 시트러스의 신선함과 대조를 이루면서 거부할수 없는 중독적인 향기의 매력을 더합니다. 영감 코코 마드모아젤. 양면성의 매력. 자유분방하고 사랑스러운. 장난기 가득하면서 도발적인. 친근하면서도 넘치는 매력의. 두 가지 매력을 동시에 선사합니다. 코코 마드모아젤 오 드 빠르펭 엥땅스. 자신의 인생을 사랑하고 과감한 시도도 두려워하지 않는 매일 새로움과 특별함을 원하는 여성을 위한 향수입니다. 깊고 관능적인 향기의 흔적이 강렬한 인상을 선사합니다. 아트 오브 퍼퓨밍 코코 마드모아젤 엥땅스를 사용해야 할 이유는 셀 수 없이 많습니다. 매일 아침과 저녁, 또는 좀 더 특별함과 대담함이 필요할 때 손목 또는 귀 뒤쪽이나 무릎 뒷부분에 은밀하게 살짝 스프레이해줍니다. 코코 마드모아젤의 관능적인 향을 더 오래 풍부하게 즐기기 위해, 바스 앤 바디 제품을 함께 사용하여 아트 오브 퍼퓨밍을 완성해주세요."
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "오 드 빠르펭",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
     "brand": "CHANEL",
     "korean_name": "COMÈTE 레 젝스클루시프 드 샤넬 – 오 드 빠르펭",
     "english_name": "Comete Les Exclusifs De Chanel Eau De Parfum Spray",
-    "product_type": "오 드 빠르펭",
+    "normalized_name": "comete les exclusifs de chanel eau de parfum spray",
+    "product_type": "perfume",
+    "product_subtype": "eau_de_parfum",
     "product_url": "https://www.chanel.com/kr/fragrance/p/122560/comete-les-exclusifs-de-chanel-eau-de-parfum-spray",
-    "regular_price": "420,000 원 부터",
     "image_url": "",
-    "ingredients": "에탄올,향료,정제수,리날룰,리모넨,쿠마린,벤질살리실레이트,제라니올,알파-아이소메틸아이오논,시트로넬올,헥실신남알,벤질벤조에이트,시트랄,신남알,파네솔,벤질알코올,유제놀",
-    "key_ingredients": [
+    "price": {
+      "raw": "420,000 원 부터",
+      "amount": 420000,
+      "currency": "KRW"
+    },
+    "description": "",
+    "ingredients_raw": "에탄올,향료,정제수,리날룰,리모넨,쿠마린,벤질살리실레이트,제라니올,알파-아이소메틸아이오논,시트로넬올,헥실신남알,벤질벤조에이트,시트랄,신남알,파네솔,벤질알코올,유제놀",
+    "notes": [
       "눈부시게 반짝이는 산뜻한 체리 블라썸 어코드는 관능적인 아이리스와 헬리오트로프와 만나 한층 더 부드럽고 풍성해집니다. 파우더리한 머스크 향이 감도는 선명한 플로랄 \"스타더스트\" 향을 확인해 보세요. 영감 1932년, 기호와 상징에 깃든 경건한 힘을 믿었던 가브리엘 샤넬은 신비로운 별에서 영감을 받은 최초의 주얼리 컬렉션을 공개했습니다. 지금은 전설이 된 \"Bijoux de Diamants\" 컬렉션은 주얼리 업계를 뒤흔들어 놓았습니다. Comète 네크리스는 화려한 컬렉션의 중심에서 눈부신 광채를 선사합니다. 하늘을 가로지르는 혜성처럼 네크라인을 유연하게 감싸주는 네크리스는 친밀하고 감각적인 감성을 통해 사람과 주얼리를 자연스럽게 이어주며, 이제는 향수까지 그 영역을 확장합니다. 아트 오브 퍼퓨밍 손목 안쪽 맥박이 뛰는 곳, 따뜻한 온기가 느껴지는 가슴 안쪽 은은한 향을 원할 때는 체온이 낮은 귓볼 또는 무릎 안쪽에 사용하세요. 의류에 직접 스프레이는 피해주시기 바라며, 특히 밝은색 의류와의 접촉은 주의해주시기 바랍니다."
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "오 드 빠르펭",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
     "brand": "CHANEL",
     "korean_name": "샹스 오 후레쉬 오 드 빠르펭",
     "english_name": "Chance Eau Fraiche Eau De Parfum Spray",
-    "product_type": "오 드 빠르펭",
+    "normalized_name": "chance eau fraiche eau de parfum spray",
+    "product_type": "perfume",
+    "product_subtype": "eau_de_parfum",
     "product_url": "https://www.chanel.com/kr/fragrance/p/136150/chance-eau-fraiche-eau-de-parfum-spray",
-    "regular_price": "144,000 원 부터",
     "image_url": "",
-    "ingredients": "에탄올,향료,정제수,부틸메톡시디벤조일메탄,황색4호,적색504호,청색1호,벤질알코올,벤질벤조에이트,시트랄,시트로넬올,쿠마린,유제놀,제라니올,헥실신남알,하이드록시시트로넬알,리모넨,리날룰",
-    "key_ingredients": [
+    "price": {
+      "raw": "144,000 원 부터",
+      "amount": 144000,
+      "currency": "KRW"
+    },
+    "description": "",
+    "ingredients_raw": "에탄올,향료,정제수,부틸메톡시디벤조일메탄,황색4호,적색504호,청색1호,벤질알코올,벤질벤조에이트,시트랄,시트로넬올,쿠마린,유제놀,제라니올,헥실신남알,하이드록시시트로넬알,리모넨,리날룰",
+    "notes": [
       "짙고 풍부한 우디 베이스에 상쾌한 향기가 강렬하게 휘몰아치는 우아한 향을 선사합니다. 과즙을 가득 머금은 시트론 어코드가 톡 쏘는듯 상큼하고 생동감 넘치는 향기를 채우고 난 뒤, 쟈스민 향을 풍성하게 머금은 하트 노트가 눈부신 플로랄 향기를 더해 줍니다. 강렬한 티크 우드 노트는 점차 깊고 그윽한 엠버 향으로 바뀌며 섬세한 향기의 흔적을 남깁니다. 영감 예상치 못한 놀라움을 안겨 주는 신선하고 상쾌한 향기... 가슴을 뛰게 만드는 매혹적인 향은 당신을 매료시킵니다. 마치 운명에 이끌리듯 샹스(기회)로 데려다 줍니다. 행복의 향기를 채운 부적처럼 다가온 샹스(기회)를 잡아보세요. \"샹스(기회)가 내게 다가왔고 난 그것을 잡았죠.” 마드모아젤 샤넬은 진정한 샹스(기회)는 자신의 마음가짐과 삶의 방식을 통하여 자신이 스스로 만들어 가는 것이라는 사실을 이미 알고 있었습니다. 아트 오브 퍼퓨밍 피부나 옷 안쪽을 쓸어 주듯 샹스 오 후레쉬 오 드 빠르펭을 충분히 스프레이해 주세요."
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "오 드 빠르펭",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
     "brand": "CHANEL",
     "korean_name": "샹스 오 땅드르 오 드 빠르펭",
     "english_name": "Chance Eau Tendre Eau De Parfum Spray",
-    "product_type": "오 드 빠르펭",
+    "normalized_name": "chance eau tendre eau de parfum spray",
+    "product_type": "perfume",
+    "product_subtype": "eau_de_parfum",
     "product_url": "https://www.chanel.com/kr/fragrance/p/126260/chance-eau-tendre-eau-de-parfum-spray",
-    "regular_price": "144,000 원 부터",
     "image_url": "",
-    "ingredients": "에탄올,향료,정제수,부틸메톡시디벤조일메탄,적색227호 ,적색504호,자색401호,황색5호,청색1호,알파-아이소메틸아이오논,벤질벤조에이트,시트로넬올,유제놀,제라니올,헥실신남알,하이드록시시트로넬알,리모넨,리날룰",
-    "key_ingredients": [
+    "price": {
+      "raw": "144,000 원 부터",
+      "amount": 144000,
+      "currency": "KRW"
+    },
+    "description": "",
+    "ingredients_raw": "에탄올,향료,정제수,부틸메톡시디벤조일메탄,적색227호 ,적색504호,자색401호,황색5호,청색1호,알파-아이소메틸아이오논,벤질벤조에이트,시트로넬올,유제놀,제라니올,헥실신남알,하이드록시시트로넬알,리모넨,리날룰",
+    "notes": [
       "쟈스민 앱솔루트와 로즈 에센스의 생기로 빛나는 감각적인 향을 선보입니다. 여성성이 한층 더 강조된 더욱 풍부하고 부드러운 플로랄 프루티 향을 만나 보세요. 영감 샹스(기회)는 늘 가까이 왔다가 어느새 사라져 버리곤 합니다. 절대 한곳에 오래 머무르지 않죠. 당신의 샹스(기회)를 잡을 기회는 지금뿐입니다. 전혀 예측할 수 없는 샹스(기회)는 당신이 전혀 기대하지 못할 때 나타납니다. 그렇지만 당신이 샹스(기회)를 잡으려 한다면, 모든 것은 가능합니다. “샹스(기회)가 내게 다가왔고 난 그것을 잡았죠.” 마드모아젤 샤넬은 진정한 샹스(기회)는 자신의 마음가짐과 삶의 방식을 통하여 자신이 스스로 만들어 가는 것이라는 사실을 이미 알고 있었습니다. 아트 오브 퍼퓨밍 오 드 빠르펭은 피부나 옷 안쪽 등에 쉽고 풍부하게 향을 입을 수 있는 스프레이입니다."
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "오 드 빠르펭",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
     "brand": "CHANEL",
     "korean_name": "샹스 오 후레쉬 오 드 뚜왈렛",
     "english_name": "Chance Eau Fraiche Eau De Toilette Spray",
-    "product_type": "오 드 뚜왈렛",
+    "normalized_name": "chance eau fraiche eau de toilette spray",
+    "product_type": "perfume",
+    "product_subtype": "eau_de_toilette",
     "product_url": "https://www.chanel.com/kr/fragrance/p/136420/chance-eau-fraiche-eau-de-toilette-spray",
-    "regular_price": "125,000 원 부터",
     "image_url": "",
-    "ingredients": "에탄올,향료,정제수,부틸메톡시디벤조일메탄,황색4호,청색1호,시트랄,시트로넬올,쿠마린,제라니올,헥실신남알,하이드록시시트로넬알,리모넨,리날룰",
-    "key_ingredients": []
+    "price": {
+      "raw": "125,000 원 부터",
+      "amount": 125000,
+      "currency": "KRW"
+    },
+    "description": "",
+    "ingredients_raw": "에탄올,향료,정제수,부틸메톡시디벤조일메탄,황색4호,청색1호,시트랄,시트로넬올,쿠마린,제라니올,헥실신남알,하이드록시시트로넬알,리모넨,리날룰",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "오 드 뚜왈렛",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
     "brand": "CHANEL",
     "korean_name": "샹스 오 스플렌디드 오 드 빠르펭",
     "english_name": "Chance Eau Splendide Eau De Parfum Spray",
-    "product_type": "오 드 빠르펭",
+    "normalized_name": "chance eau splendide eau de parfum spray",
+    "product_type": "perfume",
+    "product_subtype": "eau_de_parfum",
     "product_url": "https://www.chanel.com/kr/fragrance/p/136220/chance-eau-splendide-eau-de-parfum-spray",
-    "regular_price": "144,000 원 부터",
     "image_url": "",
-    "ingredients": "에탄올,향료,정제수,부틸메톡시디벤조일메탄,자색401호,적색227호 ,청색1호,적색504호,리모넨,리날룰,시트로넬올,헥실신남알,제라니올,시트랄,벤질벤조에이트,벤질알코올",
-    "key_ingredients": [
+    "price": {
+      "raw": "144,000 원 부터",
+      "amount": 144000,
+      "currency": "KRW"
+    },
+    "description": "",
+    "ingredients_raw": "에탄올,향료,정제수,부틸메톡시디벤조일메탄,자색401호,적색227호 ,청색1호,적색504호,리모넨,리날룰,시트로넬올,헥실신남알,제라니올,시트랄,벤질벤조에이트,벤질알코올",
+    "notes": [
       "샤넬 조향사 올리비에 뽈쥬는 샹스 오 스플렌디드를 위해 환하게 빛나는 매혹적인 조합을 탄생시켰습니다. 상큼한 과일, 장미, 바이올렛이 어우러진 밝게 빛나는 라즈베리 어코드를 시작으로, 풍성하게 감싸 안는 듯한 로즈 제라늄의 플로랄 하트 노트가 점차 선명하게 퍼져 나갑니다. 은은한 장미 향과 민트 노트가 감도는 제라늄은 그라스 지역의 샤넬 정원에서 재배합니다. 여기에 파우더리한 아이리스와 신비로운 시더 화이트 머스크 어코드가 어우러져 한층 섬세한 분위기를 더해줍니다. 우아하고 매혹적인 프루티 플로랄 향을 풍성하게 채워주는 향기로운 바람과도 같은 향수. 영감 \"행운은 제 영혼과도 같아요.” 가브리엘 샤넬은 평생에 걸쳐 행운을 만들어 왔습니다. 무엇이든 가능하다는 믿음을 가슴에 품고 자신의 꿈을 실현시켰습니다. 샤넬에서 행운은 태도이자 삶의 방식이 되었습니다. 자신의 운명을 스스로 결정할 수 있도록 이끌어 주는 신념과도 같습니다. 놀랍도록 반짝이는 신비로운 샹스(기회)는 결코 우연일 수 없습니다. 행운은 시기적절한 만남, 계획적인 만남에서 시작합니다. 예상치 못한 놀라움을 안겨 주는 매혹적인 향은 당신을 매료시킵니다. 마치 운명에 이끌리듯 샹스(기회)로 데려다 줍니다. 행복의 향기를 채운 부적처럼 다가온 샹스(기회)를 잡아보세요. 끝없이 이어지는 무한대를 떠올리게 하는 라운드 보틀은 무한한 움직임과 부활을 상징합니다. 자신을 믿고 직접 원하는 결정을 내려 다시 도전할 수 있는 샹스(기회)를 안겨주는 방법. 아트 오브 퍼퓨밍 풍성한 향기를 채우기 위해 샹스 오 스플렌디드 오 드 빠르펭을 목 아래부터 오른쪽에서 왼쪽으로 충분히 스프레이해 주세요. 목 뒤쪽과 헤어 아래 부분에 스프레이해 은은한 향기를 채울 수도 있습니다. 향기를 오래도록 즐기기 위해 옷 안쪽에도 사용해 주세요. \"재킷을 벗어두고 가도 모든 사람이 제 것이라는 걸 알아요.\" - 가브리엘 샤넬"
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "오 드 빠르펭",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
     "brand": "CHANEL",
     "korean_name": "샹스 오 비브 오 드 뚜왈렛",
     "english_name": "Chance Eau Vive Eau De Toilette Spray",
-    "product_type": "오 드 뚜왈렛",
+    "normalized_name": "chance eau vive eau de toilette spray",
+    "product_type": "perfume",
+    "product_subtype": "eau_de_toilette",
     "product_url": "https://www.chanel.com/kr/fragrance/p/126560/chance-eau-vive-eau-de-toilette-spray",
-    "regular_price": "169,000 원 부터",
     "image_url": "",
-    "ingredients": "에탄올,향료,정제수,부틸메톡시디벤조일메탄,적색504호,황색4호,알파-아이소메틸아이오논,벤질알코올,벤질살리실레이트,시트랄,시트로넬올,쿠마린,유제놀,파네솔,제라니올,헥실신남알,리모넨,리날룰",
-    "key_ingredients": [
+    "price": {
+      "raw": "169,000 원 부터",
+      "amount": 169000,
+      "currency": "KRW"
+    },
+    "description": "",
+    "ingredients_raw": "에탄올,향료,정제수,부틸메톡시디벤조일메탄,적색504호,황색4호,알파-아이소메틸아이오논,벤질알코올,벤질살리실레이트,시트랄,시트로넬올,쿠마린,유제놀,파네솔,제라니올,헥실신남알,리모넨,리날룰",
+    "notes": [
       "자몽과 블러드 오렌지의 상큼한 향이 더해진 생기 넘치는 플로랄 계열의 향수. 탑 노트의 즐거운 향을 경험해 보세요. 뒤이은 쟈스민 향은 섬세하게 여성성을 드러내고 맑고 투명한 시더-아이리스 향으로 은은하고 우아한 마무리를 선사합니다. 영감 예측할 수 없는 샤넬의 상큼한 플로랄 향수. 기회(chance)를 믿는 사람들에게 행운이 온다는 것을 아는 여성들을 위한 향수. \"기회가 다가오면, 잡으세요\" 마드모아젤 샤넬은 그녀의 크리에이션에서, 그녀의 마음속에서부터, 그녀의 삶 속에서 진정한 찬스를 발견했습니다. 아트 오브 퍼퓨밍 오 드 뚜왈렛을 손목 안쪽 맥박이 뛰는 곳, 따뜻한 온기가 느껴지는 가슴 안쪽, 은은한 향을 원할 때는 체온이 낮은 귓볼 또는 무릎 안쪽에 사용하세요. 옷 안쪽에도 사용할 수 있습니다. 스프레이 타입으로 간편하게 사용이 가능합니다."
-    ]
+    ],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "오 드 뚜왈렛",
+      "original_country": "KR"
+    }
   },
   {
-    "country": "KR",
+    "source": "official",
+    "source_country": "KR",
     "brand": "CHANEL",
     "korean_name": "샹스 오 드 뚜왈렛",
     "english_name": "Chance Eau De Toilette Spray",
-    "product_type": "오 드 뚜왈렛",
+    "normalized_name": "chance eau de toilette spray",
+    "product_type": "perfume",
+    "product_subtype": "eau_de_toilette",
     "product_url": "https://www.chanel.com/kr/fragrance/p/126460/chance-eau-de-toilette-spray",
-    "regular_price": "169,000 원 부터",
     "image_url": "",
-    "ingredients": "에탄올,향료,정제수,부틸메톡시디벤조일메탄,황색5호,적색504호,황색4호,벤질알코올,벤질벤조에이트,시트랄,시트로넬올,쿠마린,유제놀,제라니올,헥실신남알,하이드록시시트로넬알,리모넨,리날룰,벤질살리실레이트",
-    "key_ingredients": []
+    "price": {
+      "raw": "169,000 원 부터",
+      "amount": 169000,
+      "currency": "KRW"
+    },
+    "description": "",
+    "ingredients_raw": "에탄올,향료,정제수,부틸메톡시디벤조일메탄,황색5호,적색504호,황색4호,벤질알코올,벤질벤조에이트,시트랄,시트로넬올,쿠마린,유제놀,제라니올,헥실신남알,하이드록시시트로넬알,리모넨,리날룰,벤질살리실레이트",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "오 드 뚜왈렛",
+      "original_country": "KR"
+    }
   }
 ]

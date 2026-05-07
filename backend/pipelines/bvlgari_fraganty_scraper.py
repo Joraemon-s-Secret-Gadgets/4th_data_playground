@@ -7,7 +7,7 @@ import os
 from pathlib import Path
 from typing import Any
 
-from pipelines.common import print_json_rows
+from pipelines.common import normalize_product_rows, print_json_rows
 from pipelines.fraganty_scraper import scrape_perfume_detail, scrape_perfume_links
 
 
@@ -27,8 +27,9 @@ def main() -> None:
     output_path = Path(os.getenv("BVLGARI_FRAGANTY_OUTPUT_PATH", DEFAULT_OUTPUT_PATH))
     rows = scrape_perfume_names()
     output_path.parent.mkdir(parents=True, exist_ok=True)
-    output_path.write_text(json.dumps(rows, ensure_ascii=False, indent=2), encoding="utf-8")
-    print_json_rows(rows)
+    normalized_rows = normalize_product_rows(rows, source="fraganty", source_country="IT", brand=BRAND)
+    output_path.write_text(json.dumps(normalized_rows, ensure_ascii=False, indent=2), encoding="utf-8")
+    print_json_rows(normalized_rows)
 
 
 if __name__ == "__main__":

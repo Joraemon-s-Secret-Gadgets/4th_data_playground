@@ -25,16 +25,27 @@ def test_format_fragrantica_rows_maps_notes_to_local_schema() -> None:
 
     assert rows == [
         {
-            "country": "IT",
+            "source": "fragrantica",
+            "source_country": "IT",
+            "brand": "GIORGIO ARMANI",
             "korean_name": "",
             "english_name": "A Milano",
-            "product_type": "향수",
+            "normalized_name": "a milano",
+            "product_type": "perfume",
+            "product_subtype": "perfume",
             "product_url": "https://www.fragrantica.com/perfume/giorgio-armani/a-milano.html",
-            "regular_price": "",
             "image_url": "",
-            "ingredients": "Released in 2021",
-            "key_ingredients": ["Citruses", "Citron", "Wild Lavender", "Orris Root", "White Musk"],
-            "keywords": ["citrus", "aromatic"],
+            "price": {"raw": "", "amount": None, "currency": ""},
+            "description": "Released in 2021",
+            "ingredients_raw": "",
+            "notes": ["Citruses", "Citron", "Wild Lavender", "Orris Root", "White Musk"],
+            "accords": ["citrus", "aromatic"],
+            "keywords": {"ko": [], "en": []},
+            "meta": {
+                "release_year": 2021,
+                "original_product_type": "향수",
+                "original_country": "IT",
+                "price_missing_reason": "source_unavailable",
+            },
         }
     ]
-

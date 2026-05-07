@@ -4,6 +4,8 @@ from __future__ import annotations
 
 from typing import Any
 
+from pipelines.common.normalized_schema import normalize_product_row
+
 from pipelines.fraganty.category import perfume_name_from_url
 
 
@@ -50,20 +52,26 @@ def format_final_rows(
         url = str(item.get("url") or "")
         english_item = english_by_url.get(url, {})
         rows.append(
-            {
-                "country": COUNTRY_BY_BRAND.get(brand, ""),
-                "korean_name": str(item.get("korean_name") or item.get("name") or ""),
-                "english_name": str(english_item.get("name") or item.get("english_name") or item.get("name") or ""),
-                "product_type": str(item.get("product_type") or "향수"),
-                "product_url": url,
-                "regular_price": extract_regular_price(item.get("price_info", item.get("regular_price", ""))),
-                "image_url": str(item.get("image_url") or ""),
-                "ingredients": str(item.get("ingredients") or ""),
-                "key_ingredients": flatten_notes(item.get("notes", item.get("key_ingredients", []))),
-                "keywords": normalize_accords(item.get("main_accords", item.get("keywords", []))),
-                "ko_keywords": extract_keywords(item.get("ai_analysis"), language="ko"),
-                "en_keywords": extract_keywords(english_item.get("ai_analysis") or item.get("ai_analysis"), language="en"),
-            }
+            normalize_product_row(
+                {
+                    "country": COUNTRY_BY_BRAND.get(brand, ""),
+                    "brand": brand,
+                    "korean_name": str(item.get("korean_name") or item.get("name") or ""),
+                    "english_name": str(english_item.get("name") or item.get("english_name") or item.get("name") or ""),
+                    "product_type": str(item.get("product_type") or "향수"),
+                    "product_url": url,
+                    "regular_price": extract_regular_price(item.get("price_info", item.get("regular_price", ""))),
+                    "image_url": str(item.get("image_url") or ""),
+                    "ingredients": str(item.get("ingredients") or ""),
+                    "key_ingredients": flatten_notes(item.get("notes", item.get("key_ingredients", []))),
+                    "accords": normalize_accords(item.get("main_accords", item.get("keywords", []))),
+                    "ko_keywords": extract_keywords(item.get("ai_analysis"), language="ko"),
+                    "en_keywords": extract_keywords(english_item.get("ai_analysis") or item.get("ai_analysis"), language="en"),
+                },
+                source="fraganty",
+                source_country=COUNTRY_BY_BRAND.get(brand, ""),
+                brand=brand,
+            )
         )
 
     return rows

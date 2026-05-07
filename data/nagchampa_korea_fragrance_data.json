@@ -1,0 +1,902 @@
+[
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "NAG CHAMPA",
+    "korean_name": "오리엔탈 레인 포레스트",
+    "english_name": "",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "incense_stick",
+    "product_url": "",
+    "image_url": "https://nagchampa.co.kr/web/product/big/202509/5d84fa6b0ac6351fbbb31197009a2d8b.jpg",
+    "price": {
+      "raw": "4,000원",
+      "amount": 4000,
+      "currency": "KRW"
+    },
+    "description": "오리엔탈 레인 포레스트 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "인센스 스틱",
+      "original_country": "KR"
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "NAG CHAMPA",
+    "korean_name": "뉴트로 캘리포니아 화이트세이지",
+    "english_name": "",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "incense_stick",
+    "product_url": "",
+    "image_url": "https://nagchampa.co.kr/web/product/big/202509/508220245ed438ccc6130a9b645d928b.jpg",
+    "price": {
+      "raw": "4,000원",
+      "amount": 4000,
+      "currency": "KRW"
+    },
+    "description": "뉴트로 캘리포니아 화이트세이지 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "인센스 스틱",
+      "original_country": "KR"
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "NAG CHAMPA",
+    "korean_name": "시그니처 나그참파",
+    "english_name": "",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "incense_stick",
+    "product_url": "",
+    "image_url": "https://nagchampa.co.kr/web/product/big/202509/9b300362129dd010bb67b26f22c02751.jpg",
+    "price": {
+      "raw": "4,000원",
+      "amount": 4000,
+      "currency": "KRW"
+    },
+    "description": "시그니처 나그참파 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "인센스 스틱",
+      "original_country": "KR"
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "NAG CHAMPA",
+    "korean_name": "오리엔탈 드래곤 블러드",
+    "english_name": "",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "incense_stick",
+    "product_url": "",
+    "image_url": "https://nagchampa.co.kr/web/product/big/202509/ecee1e3ca319a5653ce34fb56398715d.jpg",
+    "price": {
+      "raw": "4,000원",
+      "amount": 4000,
+      "currency": "KRW"
+    },
+    "description": "오리엔탈 드래곤 블러드 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "인센스 스틱",
+      "original_country": "KR"
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "NAG CHAMPA",
+    "korean_name": "테라피 트로피컬 레몬그라스",
+    "english_name": "",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "incense_stick",
+    "product_url": "",
+    "image_url": "https://nagchampa.co.kr/web/product/big/202509/e4af660c31fda6b0a5d97a398766b1a0.jpg",
+    "price": {
+      "raw": "4,000원",
+      "amount": 4000,
+      "currency": "KRW"
+    },
+    "description": "테라피 트로피컬 레몬그라스 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "인센스 스틱",
+      "original_country": "KR"
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "NAG CHAMPA",
+    "korean_name": "뉴트로 포유",
+    "english_name": "",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "incense_stick",
+    "product_url": "",
+    "image_url": "https://nagchampa.co.kr/web/product/big/202604/b369bcbc666d3968b652e9c2c2725308.jpg",
+    "price": {
+      "raw": "4,000원",
+      "amount": 4000,
+      "currency": "KRW"
+    },
+    "description": "뉴트로 포유 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "인센스 스틱",
+      "original_country": "KR"
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "NAG CHAMPA",
+    "korean_name": "뉴트로 머니 매트릭스",
+    "english_name": "",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "incense_stick",
+    "product_url": "",
+    "image_url": "https://nagchampa.co.kr/web/product/big/202509/93ba50e02e4bfba478249dbe7a8f473b.jpg",
+    "price": {
+      "raw": "4,000원",
+      "amount": 4000,
+      "currency": "KRW"
+    },
+    "description": "뉴트로 머니 매트릭스 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "인센스 스틱",
+      "original_country": "KR"
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "NAG CHAMPA",
+    "korean_name": "테라피 팔로산토",
+    "english_name": "",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "incense_stick",
+    "product_url": "",
+    "image_url": "https://nagchampa.co.kr/web/product/big/202509/a2b7f3294d47d5ff99759eff84afb037.jpg",
+    "price": {
+      "raw": "2,000원",
+      "amount": 2000,
+      "currency": "KRW"
+    },
+    "description": "테라피 팔로산토 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "인센스 스틱",
+      "original_country": "KR"
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "NAG CHAMPA",
+    "korean_name": "오리엔탈 트리 오브 라이프",
+    "english_name": "",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "incense_stick",
+    "product_url": "",
+    "image_url": "https://nagchampa.co.kr/web/product/big/202509/205a98ed25b3c911993ad035cb3d38a9.jpg",
+    "price": {
+      "raw": "4,000원",
+      "amount": 4000,
+      "currency": "KRW"
+    },
+    "description": "오리엔탈 트리 오브 라이프 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "인센스 스틱",
+      "original_country": "KR"
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "NAG CHAMPA",
+    "korean_name": "테라피 로맨스",
+    "english_name": "",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "incense_stick",
+    "product_url": "",
+    "image_url": "https://nagchampa.co.kr/web/product/big/202509/8821a159e979b13dca7453e1cfd06b1f.jpg",
+    "price": {
+      "raw": "4,000원",
+      "amount": 4000,
+      "currency": "KRW"
+    },
+    "description": "테라피 로맨스 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "인센스 스틱",
+      "original_country": "KR"
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "NAG CHAMPA",
+    "korean_name": "뉴트로 산달우드",
+    "english_name": "",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "incense_stick",
+    "product_url": "",
+    "image_url": "https://nagchampa.co.kr/web/product/big/202509/5703917c71c4662d1295476fb62f2e63.jpg",
+    "price": {
+      "raw": "4,000원",
+      "amount": 4000,
+      "currency": "KRW"
+    },
+    "description": "뉴트로 산달우드 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "인센스 스틱",
+      "original_country": "KR"
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "NAG CHAMPA",
+    "korean_name": "뉴트로 스위트 바닐라",
+    "english_name": "",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "incense_stick",
+    "product_url": "",
+    "image_url": "https://nagchampa.co.kr/web/product/big/202509/d211e1b2d0250d439f3eb050959b65c2.jpg",
+    "price": {
+      "raw": "4,000원",
+      "amount": 4000,
+      "currency": "KRW"
+    },
+    "description": "뉴트로 스위트 바닐라 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "인센스 스틱",
+      "original_country": "KR"
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "NAG CHAMPA",
+    "korean_name": "드리미선셋",
+    "english_name": "",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "incense_stick",
+    "product_url": "",
+    "image_url": "https://nagchampa.co.kr/web/product/big/202509/f9bb63935a1852a4401b77de551fae33.jpg",
+    "price": {
+      "raw": "6,000원",
+      "amount": 6000,
+      "currency": "KRW"
+    },
+    "description": "드리미선셋 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "인센스 스틱",
+      "original_country": "KR"
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "NAG CHAMPA",
+    "korean_name": "내추럴 산달",
+    "english_name": "",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "incense_stick",
+    "product_url": "",
+    "image_url": "https://nagchampa.co.kr/web/product/big/202509/8ad49c2ae9d42273d68dc6866c4d55fa.jpg",
+    "price": {
+      "raw": "4,000원",
+      "amount": 4000,
+      "currency": "KRW"
+    },
+    "description": "내추럴 산달 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "인센스 스틱",
+      "original_country": "KR"
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "NAG CHAMPA",
+    "korean_name": "시그니처 골든에라",
+    "english_name": "",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "incense_stick",
+    "product_url": "",
+    "image_url": "https://nagchampa.co.kr/web/product/big/202509/1fad21fe5da8da0dcd09bdc861ac48a1.jpg",
+    "price": {
+      "raw": "4,000원",
+      "amount": 4000,
+      "currency": "KRW"
+    },
+    "description": "시그니처 골든에라 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "인센스 스틱",
+      "original_country": "KR"
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "NAG CHAMPA",
+    "korean_name": "테라피 다크 시나몬",
+    "english_name": "",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "incense_stick",
+    "product_url": "",
+    "image_url": "https://nagchampa.co.kr/web/product/big/202509/22a62411cb7d97395b3cbdcf68d22222.jpg",
+    "price": {
+      "raw": "4,000원",
+      "amount": 4000,
+      "currency": "KRW"
+    },
+    "description": "테라피 다크 시나몬 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "인센스 스틱",
+      "original_country": "KR"
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "NAG CHAMPA",
+    "korean_name": "오리엔탈 페르시안 머스크",
+    "english_name": "",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "incense_stick",
+    "product_url": "",
+    "image_url": "https://nagchampa.co.kr/web/product/big/202509/0ee7f8b16da485da5b2e1dd18e9a916e.jpg",
+    "price": {
+      "raw": "4,000원",
+      "amount": 4000,
+      "currency": "KRW"
+    },
+    "description": "오리엔탈 페르시안 머스크 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "인센스 스틱",
+      "original_country": "KR"
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "NAG CHAMPA",
+    "korean_name": "테라피 아유르베다",
+    "english_name": "",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "incense_stick",
+    "product_url": "",
+    "image_url": "https://nagchampa.co.kr/web/product/big/202509/1b44228bad6230bbb53d4d087ebfa411.jpg",
+    "price": {
+      "raw": "4,000원",
+      "amount": 4000,
+      "currency": "KRW"
+    },
+    "description": "테라피 아유르베다 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "인센스 스틱",
+      "original_country": "KR"
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "NAG CHAMPA",
+    "korean_name": "테라피 바이올렛 로즈마리",
+    "english_name": "",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "incense_stick",
+    "product_url": "",
+    "image_url": "https://nagchampa.co.kr/web/product/big/202509/3888c700303c422adddd69c21b942269.jpg",
+    "price": {
+      "raw": "4,000원",
+      "amount": 4000,
+      "currency": "KRW"
+    },
+    "description": "테라피 바이올렛 로즈마리 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "인센스 스틱",
+      "original_country": "KR"
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "NAG CHAMPA",
+    "korean_name": "내추럴 자스민",
+    "english_name": "",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "incense_stick",
+    "product_url": "",
+    "image_url": "https://nagchampa.co.kr/web/product/big/202509/93ffbd46da41accf7ada3a30eb2f6d56.jpg",
+    "price": {
+      "raw": "4,000원",
+      "amount": 4000,
+      "currency": "KRW"
+    },
+    "description": "내추럴 자스민 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "인센스 스틱",
+      "original_country": "KR"
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "NAG CHAMPA",
+    "korean_name": "내추럴 로즈",
+    "english_name": "",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "incense_stick",
+    "product_url": "",
+    "image_url": "https://nagchampa.co.kr/web/product/big/202509/389a1e10b3b71de6002f734400d3af9e.jpg",
+    "price": {
+      "raw": "4,000원",
+      "amount": 4000,
+      "currency": "KRW"
+    },
+    "description": "내추럴 로즈 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "인센스 스틱",
+      "original_country": "KR"
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "NAG CHAMPA",
+    "korean_name": "오리엔탈 이집션 피라미드",
+    "english_name": "",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "incense_stick",
+    "product_url": "",
+    "image_url": "https://nagchampa.co.kr/web/product/big/202509/1442e0d6105012652202df3faaf34f5a.jpg",
+    "price": {
+      "raw": "4,000원",
+      "amount": 4000,
+      "currency": "KRW"
+    },
+    "description": "오리엔탈 이집션 피라미드 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "인센스 스틱",
+      "original_country": "KR"
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "NAG CHAMPA",
+    "korean_name": "테라피 미스틱 요가",
+    "english_name": "",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "incense_stick",
+    "product_url": "",
+    "image_url": "https://nagchampa.co.kr/web/product/big/202509/2c651e17bd39d60fa6e4542261a7b7af.jpg",
+    "price": {
+      "raw": "4,000원",
+      "amount": 4000,
+      "currency": "KRW"
+    },
+    "description": "테라피 미스틱 요가 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "인센스 스틱",
+      "original_country": "KR"
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "NAG CHAMPA",
+    "korean_name": "뉴트로 너바나",
+    "english_name": "",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "incense_stick",
+    "product_url": "",
+    "image_url": "https://nagchampa.co.kr/web/product/big/202509/6c86826590bba1c86bf5996edd0df05e.jpg",
+    "price": {
+      "raw": "4,000원",
+      "amount": 4000,
+      "currency": "KRW"
+    },
+    "description": "뉴트로 너바나 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "인센스 스틱",
+      "original_country": "KR"
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "NAG CHAMPA",
+    "korean_name": "테라피 세이크리드 리추얼",
+    "english_name": "",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "incense_stick",
+    "product_url": "",
+    "image_url": "https://nagchampa.co.kr/web/product/big/202509/b5622b4172aedccbbc571bc59714ef31.jpg",
+    "price": {
+      "raw": "4,000원",
+      "amount": 4000,
+      "currency": "KRW"
+    },
+    "description": "테라피 세이크리드 리추얼 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "인센스 스틱",
+      "original_country": "KR"
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "NAG CHAMPA",
+    "korean_name": "내추럴 파출리",
+    "english_name": "",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "incense_stick",
+    "product_url": "",
+    "image_url": "https://nagchampa.co.kr/web/product/big/202509/492839a58e5d9d528a5e7b9940d9f62c.jpg",
+    "price": {
+      "raw": "4,000원",
+      "amount": 4000,
+      "currency": "KRW"
+    },
+    "description": "내추럴 파출리 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "인센스 스틱",
+      "original_country": "KR"
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "NAG CHAMPA",
+    "korean_name": "내추럴 라벤더",
+    "english_name": "",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "incense_stick",
+    "product_url": "",
+    "image_url": "https://nagchampa.co.kr/web/product/big/202509/885aac5c5f1cd9af3f244c60bf1e0e75.jpg",
+    "price": {
+      "raw": "4,000원",
+      "amount": 4000,
+      "currency": "KRW"
+    },
+    "description": "내추럴 라벤더 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "인센스 스틱",
+      "original_country": "KR"
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "NAG CHAMPA",
+    "korean_name": "오리엔탈 이스턴 탄트라",
+    "english_name": "",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "incense_stick",
+    "product_url": "",
+    "image_url": "https://nagchampa.co.kr/web/product/big/202509/a795b3524a11f6cfdecfa97f20b26f48.jpg",
+    "price": {
+      "raw": "4,000원",
+      "amount": 4000,
+      "currency": "KRW"
+    },
+    "description": "오리엔탈 이스턴 탄트라 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "인센스 스틱",
+      "original_country": "KR"
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "NAG CHAMPA",
+    "korean_name": "테라피 세븐 차크라",
+    "english_name": "",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "incense_stick",
+    "product_url": "",
+    "image_url": "https://nagchampa.co.kr/web/product/big/202509/4d7981346a9a4c141deb23d956f99b5f.jpg",
+    "price": {
+      "raw": "4,000원",
+      "amount": 4000,
+      "currency": "KRW"
+    },
+    "description": "테라피 세븐 차크라 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "인센스 스틱",
+      "original_country": "KR"
+    }
+  },
+  {
+    "source": "official",
+    "source_country": "KR",
+    "brand": "NAG CHAMPA",
+    "korean_name": "시그니처 슈퍼히트",
+    "english_name": "",
+    "normalized_name": "",
+    "product_type": "perfume",
+    "product_subtype": "incense_stick",
+    "product_url": "",
+    "image_url": "https://nagchampa.co.kr/web/product/big/202509/e12c60bb6070ab501e791f3511444934.jpg",
+    "price": {
+      "raw": "4,000원",
+      "amount": 4000,
+      "currency": "KRW"
+    },
+    "description": "시그니처 슈퍼히트 향수입니다.",
+    "ingredients_raw": "",
+    "notes": [],
+    "accords": [],
+    "keywords": {
+      "ko": [],
+      "en": []
+    },
+    "meta": {
+      "release_year": null,
+      "original_product_type": "인센스 스틱",
+      "original_country": "KR"
+    }
+  }
+]
