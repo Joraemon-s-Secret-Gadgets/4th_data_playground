@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# selenium cache
+.selenium-cache/
+
+# local Codex/session log
+log.md
