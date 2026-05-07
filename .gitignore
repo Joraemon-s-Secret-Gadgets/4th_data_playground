@@ -205,7 +205,6 @@ tempCodeRunnerFile.py
 
 # Ruff stuff:
 .ruff_cache/
-.selenium-cache/
 
 # PyPI configuration file
 .pypirc
